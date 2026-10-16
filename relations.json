@@ -1,0 +1,2918 @@
+{
+ "version": 1,
+ "relations": [
+  {
+   "source": "perplexity",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "perplexity",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "perplexity",
+   "target": "together",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "perplexity",
+   "target": "openrouter",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "baseten",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "fireworks",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "moonshot",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "cognition",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "lovable",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "replit",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "sierra",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "harvey",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "harvey",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "legora",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "abridge",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openevidence",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "glean",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "notion",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "grammarly",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "venice",
+   "target": "together",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "venice",
+   "target": "nearai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "venice",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "helsing",
+   "target": "mistral",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "together",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "fireworks",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "groq",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "deepseek",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "alibaba",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "vercel",
+   "target": "fireworks",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "vercel",
+   "target": "together",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "elevenlabs",
+   "target": "groq",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "decagon",
+   "target": "openai",
+   "type": "routes",
+   "from": "industry-map"
+  },
+  {
+   "source": "openai",
+   "target": "scaleai",
+   "type": "trains_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "anthropic",
+   "target": "surge",
+   "type": "trains_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "metaai",
+   "target": "scaleai",
+   "type": "trains_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "openai",
+   "target": "mercor",
+   "type": "trains_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "anthropic",
+   "target": "turing",
+   "type": "trains_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "openai",
+   "target": "microsoft",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "openai",
+   "target": "oracle",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "anthropic",
+   "target": "amazon",
+   "type": "rents",
+   "from": "industry-map",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+   "source": "anthropic",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "industry-map",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+   "source": "xai",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "mistral",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "deepmind",
+   "target": "tpu",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "together",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "together",
+   "target": "lambda",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "fireworks",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "baseten",
+   "target": "nebius",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "baseten",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "deepinfra",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "modal",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "replicate",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "nearai",
+   "target": "nebius",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "poolside",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "meta",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "meta",
+   "target": "nebius",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "nebius",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "deepseek",
+   "target": "huawei",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "alibaba",
+   "target": "alibabacloud",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "bytedance",
+   "target": "huawei",
+   "type": "rents",
+   "from": "industry-map"
+  },
+  {
+   "source": "coreweave",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "nebius",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "crusoe",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "lambda",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "runpod",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "nscale",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "amazon",
+   "target": "trainium",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "amazon",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "tpu",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "meta",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "oracle",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "huawei",
+   "target": "ascend",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "alibabacloud",
+   "target": "cambricon",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "ibm",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "cerebras",
+   "target": "wse",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "groq",
+   "target": "lpu",
+   "type": "builds_on",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "amd",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "broadcom",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "tpu",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "trainium",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "qualcomm",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "etched",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "ascend",
+   "target": "smic",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "cambricon",
+   "target": "smic",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "biren",
+   "target": "smic",
+   "type": "fabricated_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "skhynix",
+   "type": "memory_from",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "micron",
+   "type": "memory_from",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "amkor",
+   "type": "packaged_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "synopsys",
+   "type": "designed_with",
+   "from": "industry-map"
+  },
+  {
+   "source": "amd",
+   "target": "cadence",
+   "type": "designed_with",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "asml",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "amat",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "lam",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "kla",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "tel",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "samsung",
+   "target": "asml",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "smic",
+   "target": "naura",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "skhynix",
+   "target": "asml",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "micron",
+   "target": "lam",
+   "type": "equipped_by",
+   "from": "industry-map"
+  },
+  {
+   "source": "asml",
+   "target": "mistral",
+   "type": "invests_in",
+   "from": "arbitrated"
+  },
+  {
+   "source": "nvidia",
+   "target": "coreweave",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "nebius",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "together",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "deepinfra",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "cursor",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "lambda",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "mistral",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "groq",
+   "type": "invests_in",
+   "from": "industry-map",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+  },
+  {
+   "source": "microsoft",
+   "target": "openai",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "coreweave",
+   "type": "commits_to",
+   "from": "industry-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "mistral",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "amazon",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "meta",
+   "target": "scaleai",
+   "type": "invests_in",
+   "from": "industry-map",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html"
+  },
+  {
+   "source": "oracle",
+   "target": "openai",
+   "type": "commits_to",
+   "from": "industry-map"
+  },
+  {
+   "source": "samsung",
+   "target": "deepinfra",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "tencent",
+   "target": "moonshot",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "alibaba",
+   "target": "moonshot",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "tencent",
+   "target": "deepseek",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "alibaba",
+   "target": "deepseek",
+   "type": "invests_in",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "deepmind",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "tpu",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "waymo",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "meta",
+   "target": "metaai",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "amazon",
+   "target": "trainium",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "groq",
+   "target": "lpu",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "cerebras",
+   "target": "wse",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "huawei",
+   "target": "ascend",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "alibaba",
+   "target": "alibabacloud",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "coreweave",
+   "target": "wandb",
+   "type": "owns",
+   "from": "industry-map"
+  },
+  {
+   "source": "anthropic",
+   "target": "openai",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "openai",
+   "target": "deepmind",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "anthropic",
+   "target": "deepseek",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "cursor",
+   "target": "cognition",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "harvey",
+   "target": "legora",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "perplexity",
+   "target": "deepmind",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "amd",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "nvidia",
+   "target": "tpu",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "tsmc",
+   "target": "samsung",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "skhynix",
+   "target": "micron",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "together",
+   "target": "fireworks",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "cerebras",
+   "target": "groq",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "scaleai",
+   "target": "surge",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "moonshot",
+   "target": "deepseek",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "zhipu",
+   "target": "minimax",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "figure",
+   "target": "unitree",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "amazon",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "together",
+   "target": "amazon",
+   "type": "rivals",
+   "from": "industry-map"
+  },
+  {
+   "source": "alphabet",
+   "target": "vertex",
+   "type": "owns",
+   "from": "derived"
+  },
+  {
+   "source": "amazon",
+   "target": "bedrock",
+   "type": "owns",
+   "from": "derived"
+  },
+  {
+   "source": "microsoft",
+   "target": "azureai",
+   "type": "owns",
+   "from": "derived"
+  },
+  {
+   "source": "vercel",
+   "target": "vercelgw",
+   "type": "owns",
+   "from": "derived"
+  },
+  {
+   "source": "cursor",
+   "target": "together",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "cursor",
+   "target": "bedrock",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "perplexity",
+   "target": "vertex",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "bedrock",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "openrouter",
+   "target": "vertex",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "vercelgw",
+   "target": "together",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "vercelgw",
+   "target": "fireworks",
+   "type": "routes",
+   "from": "inference-map"
+  },
+  {
+   "source": "bedrock",
+   "target": "trainium",
+   "type": "builds_on",
+   "from": "inference-map"
+  },
+  {
+   "source": "bedrock",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "inference-map"
+  },
+  {
+   "source": "vertex",
+   "target": "tpu",
+   "type": "builds_on",
+   "from": "inference-map"
+  },
+  {
+   "source": "vertex",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "inference-map"
+  },
+  {
+   "source": "microsoft",
+   "target": "nebius",
+   "type": "commits_to",
+   "from": "inference-map"
+  },
+  {
+   "source": "meta",
+   "target": "coreweave",
+   "type": "commits_to",
+   "from": "inference-map"
+  },
+  {
+   "source": "meta",
+   "target": "nebius",
+   "type": "commits_to",
+   "from": "inference-map"
+  },
+  {
+   "source": "marvell",
+   "target": "celestial",
+   "type": "owns",
+   "from": "baseline-2026-08"
+  },
+  {
+   "source": "cloudflare",
+   "target": "replicate",
+   "type": "owns",
+   "from": "baseline-2026-08"
+  },
+  {
+   "source": "nvidia",
+   "target": "bfl",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+  },
+  {
+   "source": "canva",
+   "target": "bfl",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+  },
+  {
+   "source": "alphabet",
+   "target": "ai21",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.ai21.com/blog/series-c-funding/"
+  },
+  {
+   "source": "nvidia",
+   "target": "ai21",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.ai21.com/blog/series-c-funding/"
+  },
+  {
+   "source": "intel",
+   "target": "ai21",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.ai21.com/blog/series-c-funding/"
+  },
+  {
+   "source": "databricks",
+   "target": "langchain",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.langchain.com/blog/series-b"
+  },
+  {
+   "source": "alphabet",
+   "target": "hippocratic",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma"
+  },
+  {
+   "source": "openai",
+   "target": "onex",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://sacra.com/c/1x-technologies/"
+  },
+  {
+   "source": "alphabet",
+   "target": "clay",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://news.crunchbase.com/venture/ai-powered-gtm-startup-clay-valuation-doubles-capitalg/"
+  },
+  {
+   "source": "tencent",
+   "target": "stepfun",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://www.caproasia.com/2026/05/09/china-ai-startup-stepfun-raised-2-5-billion-in-new-funding-round-plans-hong-kong-ipo-in-2026-june-at-10-billion-valuation-founded-in-2023-by-ex-microsoft-vice-president-jiang-daxin-investors-inc/"
+  },
+  {
+   "source": "ibm",
+   "target": "writer",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation"
+  },
+  {
+   "source": "skhynix",
+   "target": "etched",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+  },
+  {
+   "source": "anduril",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html"
+  },
+  {
+   "source": "palantir",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/"
+  },
+  {
+   "source": "palantir",
+   "target": "amazon",
+   "type": "rents",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/"
+  },
+  {
+   "source": "alphabet",
+   "target": "ssi",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "ssi",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html"
+  },
+  {
+   "source": "ssi",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/ai-startup-safe-superintelligence-to-use-googles-tpu-chips-for-research/"
+  },
+  {
+   "source": "lightmatter",
+   "target": "gf",
+   "type": "fabricated_by",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/lightmatter-turns-to-globalfoundries-to-bring-photonics-interconnect-to-market-in-2025/"
+  },
+  {
+   "source": "coreweave",
+   "target": "vastdata",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave"
+  },
+  {
+   "source": "tenstorrent",
+   "target": "samsung",
+   "type": "fabricated_by",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet"
+  },
+  {
+   "source": "samsung",
+   "target": "tenstorrent",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/"
+  },
+  {
+   "source": "nvidia",
+   "target": "tml",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://www.analyticsinsight.net/news/nvidia-invests-in-thinking-machines-lab-plans-1gw-ai-chip-deployment-worth-billions"
+  },
+  {
+   "source": "amd",
+   "target": "tml",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "reported",
+   "url": "https://www.itiger.com/hans/news/1174874464"
+  },
+  {
+   "source": "nvidia",
+   "target": "reflection",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://aibusiness.com/foundation-models/reflection-ai-raises-2b-nvidia-leads-open-source-push"
+  },
+  {
+   "source": "nvidia",
+   "target": "worldlabs",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/"
+  },
+  {
+   "source": "amd",
+   "target": "worldlabs",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/"
+  },
+  {
+   "source": "snowflake",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/"
+  },
+  {
+   "source": "openai",
+   "target": "pi",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "skild",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B"
+  },
+  {
+   "source": "samsung",
+   "target": "skild",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B"
+  },
+  {
+   "source": "nvidia",
+   "target": "nuro",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships"
+  },
+  {
+   "source": "nuro",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round"
+  },
+  {
+   "source": "appliedint",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "arm",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.nvidia.com/en-us/data-center/grace-cpu/"
+  },
+  {
+   "source": "oracle",
+   "target": "cohere",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/"
+  },
+  {
+   "source": "nvidia",
+   "target": "cohere",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/"
+  },
+  {
+   "source": "cohere",
+   "target": "oracle",
+   "type": "rents",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call"
+  },
+  {
+   "source": "alphabet",
+   "target": "huggingface",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+  },
+  {
+   "source": "amazon",
+   "target": "huggingface",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "huggingface",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "runway",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/"
+  },
+  {
+   "source": "alphabet",
+   "target": "runway",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://aibusiness.com/ml/google-nvidia-back-ai-video-lab-runway-in-141m-funding-round"
+  },
+  {
+   "source": "nvidia",
+   "target": "synthesia",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html"
+  },
+  {
+   "source": "alphabet",
+   "target": "synthesia",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html"
+  },
+  {
+   "source": "microsoft",
+   "target": "suno",
+   "type": "routes",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/"
+  },
+  {
+   "source": "astera",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion"
+  },
+  {
+   "source": "intel",
+   "target": "sambanova",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html"
+  },
+  {
+   "source": "amd",
+   "target": "luma",
+   "type": "invests_in",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html"
+  },
+  {
+   "source": "ramp",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html"
+  },
+  {
+   "source": "shieldai",
+   "target": "palantir",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html"
+  },
+  {
+   "source": "abnormal",
+   "target": "microsoft",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://abnormal.ai/partners/microsoft"
+  },
+  {
+   "source": "baidu",
+   "target": "alibaba",
+   "type": "rivals",
+   "from": "baseline-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "clio",
+   "target": "microsoft",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.clio.com/features/legal-ai-software/"
+  },
+  {
+   "source": "cyera",
+   "target": "microsoft",
+   "type": "builds_on",
+   "from": "baseline-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cyera.com/press-releases/cyera-secures-the-agentic-ai-era-in-collaboration-with-microsoft-purview-sentinel-entra-and-copilot-studio"
+  },
+  {
+   "source": "figma",
+   "target": "canva",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "figma",
+   "target": "bfl",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+  },
+  {
+   "source": "sensetime",
+   "target": "zhipu",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "iflytek",
+   "target": "ascend",
+   "type": "builds_on",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.huaweicentral.com/huawei-ai-chips-powered-new-iflytek-llms-can-rival-openai-deepseek/"
+  },
+  {
+   "source": "tempus",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/"
+  },
+  {
+   "source": "alphabet",
+   "target": "tempus",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/"
+  },
+  {
+   "source": "horizon",
+   "target": "nvidia",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/?p=2090070"
+  },
+  {
+   "source": "fal",
+   "target": "bfl",
+   "type": "builds_on",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://sacra.com/c/fal-ai/"
+  },
+  {
+   "source": "manus",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://theairankings.com/butterfly-effect/"
+  },
+  {
+   "source": "manus",
+   "target": "alibaba",
+   "type": "builds_on",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://theairankings.com/butterfly-effect/"
+  },
+  {
+   "source": "saronic",
+   "target": "anduril",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "amd",
+   "target": "vultr",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html"
+  },
+  {
+   "source": "gamma",
+   "target": "canva",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "microsoft",
+   "target": "dmatrix",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://finance.yahoo.com/news/microsoft-backed-d-matrix-raises-213111081.html"
+  },
+  {
+   "source": "dmatrix",
+   "target": "nvidia",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2025/11/12/ai-chip-startup-d-matrix-raises-275m-at-2b-valuation-to-challenge-nvidias-grip-on-ai-inference/"
+  },
+  {
+   "source": "pony",
+   "target": "waymo",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "unsourced",
+   "url": ""
+  },
+  {
+   "source": "anthropic",
+   "target": "fluidstack",
+   "type": "commits_to",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+  },
+  {
+   "source": "alphabet",
+   "target": "fluidstack",
+   "type": "commits_to",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/"
+  },
+  {
+   "source": "nvidia",
+   "target": "ayar",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+  },
+  {
+   "source": "amd",
+   "target": "ayar",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+  },
+  {
+   "source": "intel",
+   "target": "ayar",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+  },
+  {
+   "source": "gf",
+   "target": "ayar",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+  },
+  {
+   "source": "alphabet",
+   "target": "apptronik",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html"
+  },
+  {
+   "source": "apptronik",
+   "target": "deepmind",
+   "type": "builds_on",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html"
+  },
+  {
+   "source": "furiosa",
+   "target": "nvidia",
+   "type": "rivals",
+   "from": "expansion-2026-08",
+   "confidence": "reported",
+   "url": "https://www.seoulz.com/furiosaai-korea-ai-chip/"
+  },
+  {
+   "source": "arm",
+   "target": "rebellions",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+  },
+  {
+   "source": "samsung",
+   "target": "rebellions",
+   "type": "invests_in",
+   "from": "expansion-2026-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+  },
+  {
+   "source": "radai",
+   "target": "alphabet",
+   "type": "builds_on",
+   "from": "datapass-2026-08-10",
+   "confidence": "reported",
+   "url": "https://research.contrary.com/company/rad-ai"
+  },
+  {
+   "source": "radai",
+   "target": "amazon",
+   "type": "rents",
+   "from": "datapass-2026-08-10",
+   "confidence": "reported",
+   "url": "https://research.contrary.com/company/rad-ai"
+  },
+  {
+   "source": "deepl",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "tier2-2026-08-16",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html"
+  },
+  {
+   "source": "heygen",
+   "target": "synthesia",
+   "type": "rivals",
+   "from": "tier2-2026-08-16",
+   "confidence": "reported",
+   "url": "https://sacra.com/c/heygen/"
+  },
+  {
+   "source": "moorethreads",
+   "target": "nvidia",
+   "type": "rivals",
+   "from": "tier2-2026-08-16",
+   "confidence": "reported",
+   "url": "https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut"
+  },
+  {
+   "source": "ambience",
+   "target": "abridge",
+   "type": "rivals",
+   "from": "tier2-2026-08-16",
+   "confidence": "reported",
+   "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/ambience-healthcare-reaches-1-25b-valuation/"
+  },
+  {
+   "source": "openai",
+   "target": "ambience",
+   "type": "invests_in",
+   "from": "tier2-2026-08-16",
+   "confidence": "verified",
+   "url": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems"
+  },
+  {
+   "source": "openai",
+   "target": "speak",
+   "type": "invests_in",
+   "from": "tier2-2026-08-16",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud"
+  },
+  {
+   "source": "speak",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "tier2-2026-08-16",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud"
+  },
+  {
+   "source": "alphabet",
+   "target": "alphasense",
+   "type": "invests_in",
+   "from": "tier2-2026-08-16",
+   "confidence": "reported",
+   "url": "https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html"
+  },
+  {
+   "source": "alphabet",
+   "target": "wiz",
+   "type": "owns",
+   "from": "tier2-2026-08-16",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/"
+  },
+  {
+   "source": "nvidia",
+   "target": "sakana",
+   "type": "invests_in",
+   "from": "tier2b-2026-08-20",
+   "confidence": "reported",
+   "url": "https://finance.yahoo.com/news/sakana-ai-raises-135m-series-115207368.html"
+  },
+  {
+   "source": "deepgram",
+   "target": "elevenlabs",
+   "type": "rivals",
+   "from": "tier2b-2026-08-20",
+   "confidence": "reported",
+   "url": "https://uk.marketscreener.com/news/deepgram-inc-announced-that-it-has-received-130-million-in-funding-from-a-group-of-investors-ce7e58dbd088f423"
+  },
+  {
+   "source": "tencent",
+   "target": "manus",
+   "type": "invests_in",
+   "from": "datapass-2026-08-28",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+  },
+  {
+   "source": "tencent",
+   "target": "lovable",
+   "type": "invests_in",
+   "from": "datapass-2026-09-08",
+   "confidence": "verified",
+   "url": "https://lovable.dev/blog/series-c"
+  },
+  {
+   "source": "samsung",
+   "target": "mistral",
+   "type": "invests_in",
+   "from": "datapass-2026-09-08",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+  },
+  {
+   "source": "nvidia",
+   "target": "huggingface",
+   "type": "owns",
+   "from": "datapass-2026-09-08",
+   "confidence": "reported",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm"
+  },
+  {
+   "source": "nvidia",
+   "target": "poolside",
+   "type": "invests_in",
+   "from": "datapass-2026-09-08",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says"
+  },
+  {
+   "source": "bedrock",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-09-08",
+   "confidence": "verified",
+   "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models"
+  },
+  {
+   "source": "bedrock",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "datapass-2026-09-08",
+   "confidence": "verified",
+   "url": "https://aws.amazon.com/bedrock/anthropic/"
+  },
+  {
+   "source": "amazon",
+   "target": "qualcomm",
+   "type": "designed_with",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html"
+  },
+  {
+   "source": "figure",
+   "target": "nscale",
+   "type": "rents",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+  },
+  {
+   "source": "nscale",
+   "target": "figure",
+   "type": "invests_in",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+  },
+  {
+   "source": "palantir",
+   "target": "nebius",
+   "type": "rents",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers"
+  },
+  {
+   "source": "groq",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+  },
+  {
+   "source": "arm",
+   "target": "gimlet",
+   "type": "invests_in",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai"
+  },
+  {
+   "source": "microsoft",
+   "target": "gimlet",
+   "type": "invests_in",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai"
+  },
+  {
+   "source": "intel",
+   "target": "higgsfield",
+   "type": "invests_in",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html"
+  },
+  {
+   "source": "stripe",
+   "target": "openrouter",
+   "type": "owns",
+   "from": "datapass-2026-09-09",
+   "confidence": "reported",
+   "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter"
+  },
+  {
+   "source": "nvidia",
+   "target": "nscale",
+   "type": "invests_in",
+   "from": "datapass-2026-09-09",
+   "confidence": "verified",
+   "url": "https://www.nscale.com/press-releases/nscale-series-c"
+  },
+  {
+   "source": "anthropic",
+   "target": "nscale",
+   "type": "rents",
+   "from": "datapass-2026-09-09",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html"
+  },
+  {
+   "source": "tencent",
+   "target": "enflame",
+   "type": "invests_in",
+   "from": "datapass-2026-09-11",
+   "confidence": "verified",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai"
+  },
+  {
+   "source": "tencent",
+   "target": "enflame",
+   "type": "builds_on",
+   "from": "datapass-2026-09-11",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html"
+  },
+  {
+   "source": "qualcomm",
+   "target": "modular",
+   "type": "owns",
+   "from": "datapass-2026-09-12",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html"
+  },
+  {
+   "source": "cohere",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "datapass-2026-09-13",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd"
+  },
+  {
+   "source": "nvidia",
+   "target": "vastdata",
+   "type": "invests_in",
+   "from": "datapass-2026-09-14",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "fireworks",
+   "type": "invests_in",
+   "from": "datapass-2026-09-15",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html"
+  },
+  {
+   "source": "alphabet",
+   "target": "sierra",
+   "type": "invests_in",
+   "from": "datapass-2026-09-15",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+  },
+  {
+   "source": "nvidia",
+   "target": "legora",
+   "type": "invests_in",
+   "from": "datapass-2026-09-16",
+   "confidence": "verified",
+   "url": "https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors"
+  },
+  {
+   "source": "databricks",
+   "target": "replit",
+   "type": "invests_in",
+   "from": "datapass-2026-09-16",
+   "confidence": "verified",
+   "url": "https://replit.com/news/funding-announcement"
+  },
+  {
+   "source": "spacex",
+   "target": "xai",
+   "type": "owns",
+   "from": "datapass-2026-09-17",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/02/spacex-xai-merger.html"
+  },
+  {
+   "source": "spacex",
+   "target": "cursor",
+   "type": "owns",
+   "from": "datapass-2026-09-17",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html"
+  },
+  {
+   "source": "bytedance",
+   "target": "anewlabs",
+   "type": "owns",
+   "from": "datapass-2026-09-17",
+   "confidence": "reported",
+   "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery"
+  },
+  {
+   "source": "nvidia",
+   "target": "upscale",
+   "type": "invests_in",
+   "from": "datapass-2026-09-17",
+   "confidence": "reported",
+   "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/"
+  },
+  {
+   "source": "qualcomm",
+   "target": "upscale",
+   "type": "invests_in",
+   "from": "datapass-2026-09-17",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards-302558353.html"
+  },
+  {
+   "source": "upscale",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-09-17",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon-302710175.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "crusoe",
+   "type": "invests_in",
+   "from": "datapass-2026-09-18",
+   "confidence": "verified",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding"
+  },
+  {
+   "source": "amazon",
+   "target": "luma",
+   "type": "invests_in",
+   "from": "datapass-2026-09-18",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html"
+  },
+  {
+   "source": "tencent",
+   "target": "naive",
+   "type": "invests_in",
+   "from": "datapass-2026-09-19",
+   "confidence": "reported",
+   "url": "https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation"
+  },
+  {
+   "source": "nvidia",
+   "target": "neura",
+   "type": "invests_in",
+   "from": "datapass-2026-09-20",
+   "confidence": "verified",
+   "url": "https://neura-robotics.com/record-series-c/"
+  },
+  {
+   "source": "amazon",
+   "target": "neura",
+   "type": "invests_in",
+   "from": "datapass-2026-09-20",
+   "confidence": "verified",
+   "url": "https://neura-robotics.com/record-series-c/"
+  },
+  {
+   "source": "qualcomm",
+   "target": "neura",
+   "type": "invests_in",
+   "from": "datapass-2026-09-20",
+   "confidence": "verified",
+   "url": "https://neura-robotics.com/record-series-c/"
+  },
+  {
+   "source": "openai",
+   "target": "chai",
+   "type": "invests_in",
+   "from": "datapass-2026-09-21",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design"
+  },
+  {
+   "source": "microsoft",
+   "target": "lambda",
+   "type": "rents",
+   "from": "datapass-2026-09-21",
+   "confidence": "verified",
+   "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus"
+  },
+  {
+   "source": "nvidia",
+   "target": "elevenlabs",
+   "type": "invests_in",
+   "from": "datapass-2026-09-21",
+   "confidence": "verified",
+   "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+  },
+  {
+   "source": "verda",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-09-22",
+   "confidence": "verified",
+   "url": "https://verda.com/blog/nvidia-vr200-r200-early-deployments"
+  },
+  {
+   "source": "microsoft",
+   "target": "nscale",
+   "type": "rents",
+   "from": "datapass-2026-09-22",
+   "confidence": "verified",
+   "url": "https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html"
+  },
+  {
+   "source": "alphabet",
+   "target": "snorkel",
+   "type": "invests_in",
+   "from": "datapass-2026-09-23",
+   "confidence": "reported",
+   "url": "https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "primeintellect",
+   "type": "invests_in",
+   "from": "datapass-2026-09-23",
+   "confidence": "verified",
+   "url": "https://www.primeintellect.ai/blog/series-a"
+  },
+  {
+   "source": "intel",
+   "target": "primeintellect",
+   "type": "invests_in",
+   "from": "datapass-2026-09-23",
+   "confidence": "verified",
+   "url": "https://www.primeintellect.ai/blog/series-a"
+  },
+  {
+   "source": "ramp",
+   "target": "primeintellect",
+   "type": "trains_on",
+   "from": "datapass-2026-09-23",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+  },
+  {
+   "source": "tml",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "datapass-2026-09-24",
+   "confidence": "verified",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership"
+  },
+  {
+   "source": "openevidence",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-09-24",
+   "confidence": "verified",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/"
+  },
+  {
+   "source": "nvidia",
+   "target": "basecamp",
+   "type": "invests_in",
+   "from": "datapass-2026-09-24",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html"
+  },
+  {
+   "source": "anthropic",
+   "target": "basecamp",
+   "type": "invests_in",
+   "from": "datapass-2026-09-24",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html"
+  },
+  {
+   "source": "brahma",
+   "target": "alphabet",
+   "type": "builds_on",
+   "from": "datapass-2026-09-25",
+   "confidence": "verified",
+   "url": "https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises"
+  },
+  {
+   "source": "alibaba",
+   "target": "pixverse",
+   "type": "invests_in",
+   "from": "datapass-2026-09-25",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+  },
+  {
+   "source": "anthropic",
+   "target": "akamai",
+   "type": "rents",
+   "from": "datapass-2026-09-26",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm"
+  },
+  {
+   "source": "nvidia",
+   "target": "mirendil",
+   "type": "invests_in",
+   "from": "datapass-2026-09-26",
+   "confidence": "reported",
+   "url": "https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html"
+  },
+  {
+   "source": "mirendil",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-09-26",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+  },
+  {
+   "source": "arm",
+   "target": "positron",
+   "type": "invests_in",
+   "from": "datapass-2026-09-27",
+   "confidence": "verified",
+   "url": "https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia"
+  },
+  {
+   "source": "positron",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-09-27",
+   "confidence": "reported",
+   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+  },
+  {
+   "source": "positron",
+   "target": "oracle",
+   "type": "rents",
+   "from": "datapass-2026-09-27",
+   "confidence": "reported",
+   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "baseten",
+   "type": "invests_in",
+   "from": "datapass-2026-09-27",
+   "confidence": "reported",
+   "url": "https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/"
+  },
+  {
+   "source": "microsoft",
+   "target": "vapi",
+   "type": "invests_in",
+   "from": "datapass-2026-09-28",
+   "confidence": "reported",
+   "url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html"
+  },
+  {
+   "source": "instinct",
+   "target": "manus",
+   "type": "rivals",
+   "from": "datapass-2026-09-28",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+  },
+  {
+   "source": "instinct",
+   "target": "openai",
+   "type": "rivals",
+   "from": "datapass-2026-09-28",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+  },
+  {
+   "source": "amd",
+   "target": "worldlabs",
+   "type": "owns",
+   "from": "datapass-2026-09-29",
+   "confidence": "reported",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+  },
+  {
+   "source": "micron",
+   "target": "sima",
+   "type": "invests_in",
+   "from": "datapass-2026-09-29",
+   "confidence": "verified",
+   "url": "https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/"
+  },
+  {
+   "source": "sima",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-09-29",
+   "confidence": "reported",
+   "url": "https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/"
+  },
+  {
+   "source": "sima",
+   "target": "arm",
+   "type": "builds_on",
+   "from": "datapass-2026-09-29",
+   "confidence": "reported",
+   "url": "https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/"
+  },
+  {
+   "source": "gimlet",
+   "target": "cerebras",
+   "type": "builds_on",
+   "from": "datapass-2026-09-29",
+   "confidence": "verified",
+   "url": "https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment"
+  },
+  {
+   "source": "anthropic",
+   "target": "microsoft",
+   "type": "rents",
+   "from": "datapass-2026-09-30",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+   "source": "anthropic",
+   "target": "spacex",
+   "type": "rents",
+   "from": "datapass-2026-09-30",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+  },
+  {
+   "source": "alphabet",
+   "target": "bedrockrobotics",
+   "type": "invests_in",
+   "from": "datapass-2026-09-30",
+   "confidence": "reported",
+   "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/"
+  },
+  {
+   "source": "nvidia",
+   "target": "bedrockrobotics",
+   "type": "invests_in",
+   "from": "datapass-2026-09-30",
+   "confidence": "reported",
+   "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/"
+  },
+  {
+   "source": "amazon",
+   "target": "synopsys",
+   "type": "designed_with",
+   "from": "datapass-2026-10-01",
+   "confidence": "verified",
+   "url": "https://www.morningstar.com/news/pr-newswire/20260930sf60430/synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-for-custom-silicon-collaboration-also-extends-to-cloud-and-ai-powered-engineering"
+  },
+  {
+   "source": "qualcomm",
+   "target": "lumilens",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center"
+  },
+  {
+   "source": "alphabet",
+   "target": "celero",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon"
+  },
+  {
+   "source": "intel",
+   "target": "eliyan",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://eliyan.com/press-releases/"
+  },
+  {
+   "source": "samsung",
+   "target": "eliyan",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://eliyan.com/press-releases/"
+  },
+  {
+   "source": "amd",
+   "target": "eliyan",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://eliyan.com/press-releases/"
+  },
+  {
+   "source": "arm",
+   "target": "eliyan",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://eliyan.com/press-releases/"
+  },
+  {
+   "source": "meta",
+   "target": "eliyan",
+   "type": "invests_in",
+   "from": "datapass-2026-10-01",
+   "confidence": "reported",
+   "url": "https://eliyan.com/press-releases/"
+  },
+  {
+   "source": "tencent",
+   "target": "infinigence",
+   "type": "invests_in",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+  },
+  {
+   "source": "baidu",
+   "target": "infinigence",
+   "type": "invests_in",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+  },
+  {
+   "source": "zhipu",
+   "target": "infinigence",
+   "type": "invests_in",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+  },
+  {
+   "source": "anthropic",
+   "target": "broadcom",
+   "type": "rents",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126"
+  },
+  {
+   "source": "broadcom",
+   "target": "anthropic",
+   "type": "commits_to",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126"
+  },
+  {
+   "source": "tencent",
+   "target": "oracle",
+   "type": "rents",
+   "from": "datapass-2026-10-02",
+   "confidence": "reported",
+   "url": "https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/"
+  },
+  {
+   "source": "synopsys",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-10-02",
+   "confidence": "verified",
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+  },
+  {
+   "source": "modal",
+   "target": "baseten",
+   "type": "rivals",
+   "from": "datapass-2026-10-03",
+   "confidence": "reported",
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+  },
+  {
+   "source": "modal",
+   "target": "fireworks",
+   "type": "rivals",
+   "from": "datapass-2026-10-03",
+   "confidence": "reported",
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+  },
+  {
+   "source": "modal",
+   "target": "fal",
+   "type": "rivals",
+   "from": "datapass-2026-10-03",
+   "confidence": "reported",
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+  },
+  {
+   "source": "factory",
+   "target": "cognition",
+   "type": "rivals",
+   "from": "datapass-2026-10-04",
+   "confidence": "reported",
+   "url": "https://www.benzinga.com/markets/private-markets/26/09/62093214/factory-fires-advisor-accuses-cognition-of-seeking-product-information"
+  },
+  {
+   "source": "stripe",
+   "target": "supabase",
+   "type": "invests_in",
+   "from": "datapass-2026-10-05",
+   "confidence": "reported",
+   "url": "https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure"
+  },
+  {
+   "source": "alphabet",
+   "target": "supabase",
+   "type": "invests_in",
+   "from": "datapass-2026-10-05",
+   "confidence": "reported",
+   "url": "https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/"
+  },
+  {
+   "source": "cognition",
+   "target": "modal",
+   "type": "rents",
+   "from": "datapass-2026-10-05",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  },
+  {
+   "source": "suno",
+   "target": "modal",
+   "type": "rents",
+   "from": "datapass-2026-10-05",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  },
+  {
+   "source": "ramp",
+   "target": "modal",
+   "type": "rents",
+   "from": "datapass-2026-10-05",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+  },
+  {
+   "source": "palebluedot",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-06",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html"
+  },
+  {
+   "source": "nebius",
+   "target": "ai21",
+   "type": "builds_on",
+   "from": "datapass-2026-10-06",
+   "confidence": "reported",
+   "url": "https://www.calcalistech.com/ctechnews/article/by34n00tjfl"
+  },
+  {
+   "source": "anthropic",
+   "target": "lambda",
+   "type": "rents",
+   "from": "datapass-2026-10-07",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda"
+  },
+  {
+   "source": "nvidia",
+   "target": "wayve",
+   "type": "invests_in",
+   "from": "datapass-2026-10-07",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html"
+  },
+  {
+   "source": "microsoft",
+   "target": "wayve",
+   "type": "invests_in",
+   "from": "datapass-2026-10-07",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html"
+  },
+  {
+   "source": "nvidia",
+   "target": "fieldai",
+   "type": "invests_in",
+   "from": "datapass-2026-10-07",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html"
+  },
+  {
+   "source": "intel",
+   "target": "fieldai",
+   "type": "invests_in",
+   "from": "datapass-2026-10-07",
+   "confidence": "reported",
+   "url": "https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/"
+  },
+  {
+   "source": "amd",
+   "target": "vinci",
+   "type": "invests_in",
+   "from": "datapass-2026-10-07",
+   "confidence": "reported",
+   "url": "https://wsau.com/2026/10/06/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/"
+  },
+  {
+   "source": "nvidia",
+   "target": "nous",
+   "type": "invests_in",
+   "from": "datapass-2026-10-08",
+   "confidence": "reported",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nous-research-90m-raise-nvidia-084121035.html"
+  },
+  {
+   "source": "microsoft",
+   "target": "nous",
+   "type": "invests_in",
+   "from": "datapass-2026-10-08",
+   "confidence": "reported",
+   "url": "https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai"
+  },
+  {
+   "source": "samsung",
+   "target": "nous",
+   "type": "invests_in",
+   "from": "datapass-2026-10-08",
+   "confidence": "reported",
+   "url": "https://cryptobriefing.com/nous-research-series-b-hermes-agent/"
+  },
+  {
+   "source": "tsmc",
+   "target": "gf",
+   "type": "fabricated_by",
+   "from": "datapass-2026-10-09",
+   "confidence": "verified",
+   "url": "https://www.investing.com/news/stock-market-news/globalfoundries-to-make-key-ai-chip-component-for-tsmc-4939071"
+  },
+  {
+   "source": "fluidstack",
+   "target": "hut8",
+   "type": "rents",
+   "from": "datapass-2026-10-09",
+   "confidence": "verified",
+   "url": "https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion"
+  },
+  {
+   "source": "alphabet",
+   "target": "hut8",
+   "type": "commits_to",
+   "from": "datapass-2026-10-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm"
+  },
+  {
+   "source": "nvidia",
+   "target": "hut8",
+   "type": "rents",
+   "from": "datapass-2026-10-09",
+   "confidence": "reported",
+   "url": "https://thenextweb.com/news/nvidia-50bn-texas-data-centre"
+  },
+  {
+   "source": "cohere",
+   "target": "boostrun",
+   "type": "rents",
+   "from": "datapass-2026-10-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm"
+  },
+  {
+   "source": "boostrun",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-09",
+   "confidence": "verified",
+   "url": "https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining"
+  },
+  {
+   "source": "nvidia",
+   "target": "firmus",
+   "type": "invests_in",
+   "from": "datapass-2026-10-10",
+   "confidence": "verified",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia"
+  },
+  {
+   "source": "firmus",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-10",
+   "confidence": "verified",
+   "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific"
+  },
+  {
+   "source": "vercel",
+   "target": "typesafe",
+   "type": "routes",
+   "from": "datapass-2026-10-10",
+   "confidence": "verified",
+   "url": "https://vercel.com/blog/ai-gateway-jev-model-launch"
+  },
+  {
+   "source": "anthropic",
+   "target": "terawulf",
+   "type": "rents",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm"
+  },
+  {
+   "source": "fluidstack",
+   "target": "terawulf",
+   "type": "rents",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner"
+  },
+  {
+   "source": "alphabet",
+   "target": "terawulf",
+   "type": "commits_to",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm"
+  },
+  {
+   "source": "microsoft",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft"
+  },
+  {
+   "source": "nvidia",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia"
+  },
+  {
+   "source": "iren",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-11",
+   "confidence": "verified",
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft"
+  },
+  {
+   "source": "coreweave",
+   "target": "applieddigital",
+   "type": "rents",
+   "from": "datapass-2026-10-12",
+   "confidence": "verified",
+   "url": "https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with"
+  },
+  {
+   "source": "amazon",
+   "target": "cipher",
+   "type": "rents",
+   "from": "datapass-2026-10-12",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm"
+  },
+  {
+   "source": "fluidstack",
+   "target": "cipher",
+   "type": "rents",
+   "from": "datapass-2026-10-12",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm"
+  },
+  {
+   "source": "alphabet",
+   "target": "cipher",
+   "type": "commits_to",
+   "from": "datapass-2026-10-12",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm"
+  },
+  {
+   "source": "coreweave",
+   "target": "corescientific",
+   "type": "rents",
+   "from": "datapass-2026-10-13",
+   "confidence": "verified",
+   "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm"
+  },
+  {
+   "source": "microsoft",
+   "target": "maia",
+   "type": "owns",
+   "from": "datapass-2026-10-13",
+   "confidence": "verified",
+   "url": "https://www.techmeme.com/261012/p29"
+  },
+  {
+   "source": "microsoft",
+   "target": "maia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-13",
+   "confidence": "verified",
+   "url": "https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/"
+  },
+  {
+   "source": "maia",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-10-13",
+   "confidence": "reported",
+   "url": "https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack"
+  },
+  {
+   "source": "microsoft",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-10-13",
+   "confidence": "verified",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/"
+  },
+  {
+   "source": "alphabet",
+   "target": "pi",
+   "type": "invests_in",
+   "from": "datapass-2026-10-13",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding"
+  },
+  {
+   "source": "nvidia",
+   "target": "decart",
+   "type": "invests_in",
+   "from": "datapass-2026-10-14",
+   "confidence": "reported",
+   "url": "https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation"
+  },
+  {
+   "source": "anthropic",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-10-14",
+   "confidence": "reported",
+   "url": "https://www.investing.com/news/stock-market-news/iren-stock-jumps-on-multiyear-cloud-deal-with-anthropic-93CH-4943757"
+  },
+  {
+   "source": "cxmt",
+   "target": "micron",
+   "type": "rivals",
+   "from": "datapass-2026-10-16",
+   "confidence": "reported",
+   "url": "https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron"
+  },
+  {
+   "source": "cxmt",
+   "target": "skhynix",
+   "type": "rivals",
+   "from": "datapass-2026-10-16",
+   "confidence": "reported",
+   "url": "https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron"
+  },
+  {
+   "source": "cxmt",
+   "target": "samsung",
+   "type": "rivals",
+   "from": "datapass-2026-10-16",
+   "confidence": "reported",
+   "url": "https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron"
+  },
+  {
+   "source": "scaleai",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-16",
+   "confidence": "verified",
+   "url": "https://scale.com/blog/scale-partners-with-nvidia"
+  }
+ ],
+ "as_of": "2026-10-13"
+}

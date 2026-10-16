@@ -1,0 +1,20 @@
+{
+ "removed": [
+  {
+   "id": "characterai",
+   "name": "Character.AI",
+   "sector": "app",
+   "domain": "character.ai",
+   "region": "us",
+   "removed": "2026-10-14",
+   "reason": "Filed for Chapter 11 bankruptcy protection in Delaware. Disney's opening $20M bid covers a non-exclusive licence to some of its IP, not the app, and the company said it will wind down if no buyer keeps the service running. Every honest figure is below the map's $100M floor.",
+   "last_valuation_musd": 1000,
+   "last_confidence": "reported",
+   "last_as_of": "2026-01-15",
+   "sources": [
+    {"title": "CNN, Character.AI files for bankruptcy", "url": "https://www.cnn.com/2026/10/13/tech/character-ai-bankruptcy-filing", "as_of": "2026-10-13"},
+    {"title": "Deadline, Disney bids for Character.AI assets in Chapter 11", "url": "https://deadline.com/2026/10/disney-character-ai-chapter-11-bankruptcy-1237155582/", "as_of": "2026-10-13"}
+   ]
+  }
+ ]
+}
