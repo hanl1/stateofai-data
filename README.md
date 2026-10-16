@@ -6,7 +6,8 @@ source, a confidence grade and an as-of date. Updated daily.
 
 This repository is a read-only mirror of the data behind
 [stateofai.world](https://stateofai.world). The map, a page per company and
-the change history live there; this repository holds the files.
+the change history live there; this repository holds the files, copied here
+automatically after each data update.
 
 ## Files
 
