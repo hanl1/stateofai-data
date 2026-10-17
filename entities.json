@@ -354,17 +354,17 @@
    "signal": "public",
    "role": "Government and enterprise data/AI platform; the incumbent AI-adjacent giant.",
    "confidence": "verified",
-   "valuation_musd": 481813,
+   "valuation_musd": 447041,
    "ticker": "PLTR",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PLTR/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "palantir.com",
    "region": "us"
   },
@@ -840,15 +840,15 @@
    "signal": "robots · 688836",
    "role": "Chinese humanoid and quadruped maker; aggressive price leadership. First listed humanoid robot maker - STAR debut Aug 19, 2026, +460% day one.",
    "confidence": "verified",
-   "valuation_musd": 24523,
+   "valuation_musd": 25865,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688836.SS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "unitree.com",
    "region": "cn",
    "ticker": "688836.SS",
@@ -1611,17 +1611,17 @@
    "signal": "Hunyuan · CN",
    "role": "Hunyuan models plus cloud distribution across WeChat ecosystem. Signed a reported $7B five-year agreement with ORACLE (2026-10-01) for access to roughly 100,000 advanced AI chips in Oracle's Southeast Asian data centres, about 30% payable upfront - its largest overseas compute deal, and a way around US export controls that bar direct sales of NVIDIA's leading parts into China while leaving overseas cloud leases open.",
    "confidence": "verified",
-   "valuation_musd": 479447,
+   "valuation_musd": 479404,
    "ticker": "0700.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0700.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "tencent.com",
    "region": "cn"
   },
@@ -1634,17 +1634,17 @@
    "signal": "Qwen · CN",
    "role": "E-commerce and cloud giant; its Qwen models are the most-used open-weight family globally, under Apache-style licensing.",
    "confidence": "verified",
-   "valuation_musd": 276463,
+   "valuation_musd": 271438,
    "ticker": "BABA",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BABA/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "alibaba.com",
    "region": "cn"
   },
@@ -1657,17 +1657,17 @@
    "signal": "HK listed · CN",
    "role": "GLM models under MIT license. Listed in Hong Kong Jan 2026. Raised ~$5B in September 2026 - ~$2B placing 21.97M new shares at HK$714 plus RMB20.14B of zero-coupon convertibles due 2027 - two months after a $4B placement.",
    "confidence": "verified",
-   "valuation_musd": 31906,
+   "valuation_musd": 32183,
    "ticker": "2513.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/2513.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "z.ai",
    "region": "cn"
   },
@@ -1711,17 +1711,17 @@
    "signal": "ERNIE · CN",
    "role": "ERNIE models plus Kunlun in-house AI chips.",
    "confidence": "verified",
-   "valuation_musd": 27192,
+   "valuation_musd": 27571,
    "ticker": "9888.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9888.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "baidu.com",
    "region": "cn"
   },
@@ -1734,17 +1734,17 @@
    "signal": "HK listed · CN",
    "role": "Consumer-facing multimodal models; HK listed alongside Zhipu.",
    "confidence": "verified",
-   "valuation_musd": 7989,
+   "valuation_musd": 8104,
    "ticker": "0100.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0100.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "minimax.io",
    "region": "cn"
   },
@@ -1845,17 +1845,17 @@
    "signal": "public",
    "role": "Cloud data warehouse pushing into model serving and agents.",
    "confidence": "verified",
-   "valuation_musd": 118213,
+   "valuation_musd": 108253,
    "ticker": "SNOW",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNOW/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "snowflake.com",
    "region": "us"
   },
@@ -2030,17 +2030,17 @@
    "signal": "IPO 2026",
    "role": "Wafer-scale silicon and inference cloud. Biggest tech IPO of 2026. In September 2026 it agreed to supply Gimlet Labs with 100MW of CS-4 systems over one to two years for Gimlet's multi-silicon inference cloud - terms undisclosed.",
    "confidence": "verified",
-   "valuation_musd": 33774,
+   "valuation_musd": 30221,
    "ticker": "CBRS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CBRS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "cerebras.ai",
    "region": "us"
   },
@@ -2287,17 +2287,17 @@
    "signal": "Azure AI",
    "role": "Azure AI Foundry plus the largest capital commitments to neoclouds ($60B+). Runs its own accelerator line, Maia, and announced Maia 300 on 2026-10-12 for multi-gigawatt deployment from 2027. It is on both sides of the Anthropic relationship at once: it rents Anthropic compute under a $31.4B commitment while paying Anthropic for the Claude models that power Microsoft 365 Copilot - a bill The Information reports is on track to exceed $2B a year, pushed internally by Office chief Charles Lamanna over objections about cost. Over the past six months it is reported to have steered Copilot's agent mode back toward OpenAI models and built a router that picks the cheapest adequate model.",
    "confidence": "verified",
-   "valuation_musd": 4005636,
+   "valuation_musd": 3928485,
    "ticker": "MSFT",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MSFT/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "microsoft.com",
    "region": "us"
   },
@@ -2310,17 +2310,17 @@
    "signal": "Vertex AI",
    "role": "Vertex AI on in-house TPUs; owns DeepMind and Waymo.",
    "confidence": "verified",
-   "valuation_musd": 4270938,
+   "valuation_musd": 4165393,
    "ticker": "GOOGL",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GOOGL/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "google.com",
    "region": "us"
   },
@@ -2333,17 +2333,17 @@
    "signal": "Bedrock",
    "role": "Bedrock managed inference on Trainium and NVIDIA; Anthropic's largest backer Signed a multi-year silicon IP agreement with Synopsys on 2026-09-30 worth more than $1B, becoming the lead customer of its application-optimized IP business on a license-plus-royalty basis covering Nitro, Graviton and Trainium. Held talks in late September 2026 with investors about selling about $8B of NVIDIA Grace Blackwell chips into an off-balance-sheet SPV and leasing them back, keeping the GPUs in AWS data centres - thousands of units across more than a dozen US sites - with Amazon offering up to a 10% equity stake in the vehicle and retaining no ownership, and investors expecting an investment-grade rating off its double-A credit (FT, 2026-10-02). Talks, no terms; capex is guided to about $220B this year. In talks to acquire Decart for around $7B (WSJ, 2026-10-11) - now a node on the map - whose DOS layer lets developers run AI workloads across NVIDIA GPUs, Google TPUs or Amazon's own Trainium without rebuilding for each, plus the Lucy real-time video model and the Oasis world-model simulator. Nothing is signed and another bidder could emerge; Anthropic walked away from its own Decart deal, explored at about $6B in August, after due diligence.",
    "confidence": "verified",
-   "valuation_musd": 2747921,
+   "valuation_musd": 2696578,
    "ticker": "AMZN",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMZN/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "amazon.com",
    "region": "us"
   },
@@ -2356,17 +2356,17 @@
    "signal": "capex giant",
    "role": "Open-weight lab and enormous neocloud customer; $20B+ committed to CoreWeave and Nebius.",
    "confidence": "verified",
-   "valuation_musd": 1876799,
+   "valuation_musd": 1807010,
    "ticker": "META",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/META/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "meta.com",
    "region": "us"
   },
@@ -2379,17 +2379,17 @@
    "signal": "OCI",
    "role": "OCI became a major AI compute host on the back of huge OpenAI commitments. Signed a reported $7B five-year deal with TENCENT (2026-10-01) to lease it roughly 100,000 advanced AI chips across Oracle data centres in Southeast Asia, about 30% payable upfront - Tencent's largest-ever overseas compute agreement, and a route for a Chinese company to reach NVIDIA silicon it cannot buy at home.",
    "confidence": "verified",
-   "valuation_musd": 407646,
+   "valuation_musd": 388729,
    "ticker": "ORCL",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ORCL/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "oracle.com",
    "region": "us"
   },
@@ -2402,17 +2402,17 @@
    "signal": "$99B backlog",
    "role": "Largest neocloud. Rents clusters to inference platforms and hyperscalers; heavy debt load.",
    "confidence": "verified",
-   "valuation_musd": 38437,
+   "valuation_musd": 33859,
    "ticker": "CRWV",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CRWV/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "coreweave.com",
    "region": "us"
   },
@@ -2425,17 +2425,17 @@
    "signal": "+684% YoY",
    "role": "Public neocloud moving up into managed inference with Token Factory, whose optimisation stack came from the $643M cash-and-stock acquisition of Eigen AI (agreed May 2026, closed June 2026). Bought the Israeli inference-optimisation startup Inferize in October 2026 for a reported up to $150M, after Tavily for up to $400M earlier in the year. Did NOT buy AI21: after talks about an investment or an outright sale, the two signed a commercial partnership on 2026-10-05 under which Nebius licenses AI21's technology and will productise its Maestro agent platform inside its own cloud, with Nebius publicly denying any acqui-hire.",
    "confidence": "verified",
-   "valuation_musd": 51220,
+   "valuation_musd": 44984,
    "ticker": "NBIS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NBIS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "nebius.com",
    "region": "eu"
   },
@@ -2643,17 +2643,17 @@
    "signal": "watsonx",
    "role": "Enterprise hybrid AI platform; Mistral partner.",
    "confidence": "verified",
-   "valuation_musd": 220572,
+   "valuation_musd": 218707,
    "ticker": "IBM",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IBM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "ibm.com",
    "region": "us"
   },
@@ -2666,17 +2666,17 @@
    "signal": "the substrate",
    "role": "Designs the GPUs nearly all AI training and inference runs on. Also invests in the neoclouds and platforms that buy its chips - the circular-financing engine. The Hugging Face acquisition now faces a US antitrust review alongside the still-unchosen EU notification path (Tech Policy Law, Global Competition Review; re-checked 2026-10-05, still ~$12.9B and still H1 2027). The FT reports it as the unnamed tenant on Hut 8's 352 MW Beacon Point lease in Nueces County, Texas - $9.8B over the base term, up to $25.1B with renewals - which is the campus where Lambda's reported $35B Anthropic contract physically lands; NVIDIA has not confirmed the tenancy and Hut 8's filings do not name it.",
    "confidence": "verified",
-   "valuation_musd": 5245453,
+   "valuation_musd": 5170597,
    "ticker": "NVDA",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NVDA/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "nvidia.com",
    "region": "us"
   },
@@ -2689,17 +2689,17 @@
    "signal": "custom ASIC",
    "role": "Designs custom AI accelerators for hyperscalers; the quiet second-biggest winner. Anthropic's reported IPO prospectus (2026-10-01) discloses that Broadcom has agreed to lend Anthropic up to $42B via convertible notes - sized at roughly a third of a five-year, $125.2B commitment for TPU computing capacity on which Broadcom is the lessor, convertible into Anthropic equity, with Broadcom retaining the option to bring in a financing partner. That makes Broadcom simultaneously Anthropic's chip supplier, its compute lessor and its lender, and the filing itself flags the potential conflicts of interest; Anthropic is expected to become Broadcom's largest compute customer in 2027 as next-generation TPU capacity comes online. Bloomberg reported on 2026-10-02 that Broadcom's Wall Street syndicate has begun amassing $60B of fresh financing to fund chips for Anthropic and others: a $42B Class A senior-secured tranche that Bank of America, Citigroup and Morgan Stanley are poised to syndicate, plus an $18B Class B subordinated tranche led by Blackstone, which plans to commit $9B of it across its funds and syndicate the rest. That is the financing partner the prospectus said Broadcom could bring in, so the $42B is the same commitment being placed rather than a second one. THE TERMS ARE NOW IN BROADCOM'S OWN FILED 10-Q, which is a stronger footing than the unfiled Anthropic prospectus they were first reported from: the quarterly report for the period ended 2026-08-02 says that in connection with lease agreements that enable access to compute capacity, \"our customer may, under certain circumstances and if needed, issue to us convertible promissory notes up to an aggregate principal amount of $42 billion\", restricted to the customer's lease obligations, and that no notes had been issued as of 2026-08-02. The filing does NOT name Anthropic - the identification rests on Reuters' read of Anthropic's prospectus (2026-10-01) - so the amount and the structure are now filing-grade while the counterparty is still reporting-grade.",
    "confidence": "verified",
-   "valuation_musd": 1643704,
+   "valuation_musd": 1569331,
    "ticker": "AVGO",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AVGO/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "broadcom.com",
    "region": "us"
   },
@@ -2712,17 +2712,17 @@
    "signal": "Instinct MI",
    "role": "Main GPU alternative; SEV-SNP confidential compute gaining ground.",
    "confidence": "verified",
-   "valuation_musd": 917826,
+   "valuation_musd": 863171,
    "ticker": "AMD",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMD/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "amd.com",
    "region": "us"
   },
@@ -2735,17 +2735,17 @@
    "signal": "edge AI",
    "role": "On-device AI inference across phones and PCs; from 2026 also custom data-centre inference silicon and 1.6T optics for AWS. Signed a multi-year, broad patent cross-licence with HUAWEI on 2026-10-05 spanning 5G, compute, AI and networking, and agreed to buy certain of Huawei's US patents - the first time Qualcomm has paid to license and acquire patents from Huawei. Neither company disclosed the financial terms, the number of patents transferred or the duration; the purchase is subject to Hart-Scott-Rodino antitrust review and the agreement closes after the necessary regulatory approvals.",
    "confidence": "verified",
-   "valuation_musd": 190503,
+   "valuation_musd": 183786,
    "ticker": "QCOM",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/QCOM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "qualcomm.com",
    "region": "us"
   },
@@ -2758,17 +2758,17 @@
    "signal": "IP licensing",
    "role": "CPU architecture licensed into nearly every AI system's host processors.",
    "confidence": "verified",
-   "valuation_musd": 261435,
+   "valuation_musd": 243290,
    "ticker": "ARM",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ARM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "arm.com",
    "region": "eu"
   },
@@ -2781,17 +2781,17 @@
    "signal": "TDX · foundry",
    "role": "TDX confidential compute underpins most TEE inference; struggling in AI accelerators.",
    "confidence": "verified",
-   "valuation_musd": 501124,
+   "valuation_musd": 472119,
    "ticker": "INTC",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/INTC/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "intel.com",
    "region": "us"
   },
@@ -2804,17 +2804,17 @@
    "signal": "interconnect",
    "role": "Custom silicon and optical interconnect for AI data centers.",
    "confidence": "verified",
-   "valuation_musd": 216804,
+   "valuation_musd": 204752,
    "ticker": "MRVL",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MRVL/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "marvell.com",
    "region": "us"
   },
@@ -2827,17 +2827,17 @@
    "signal": "CN accelerator",
    "role": "Chinese AI accelerator maker; a domestic NVIDIA substitute.",
    "confidence": "verified",
-   "valuation_musd": 84443,
+   "valuation_musd": 86179,
    "ticker": "688256.SS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688256.SS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "cambricon.com",
    "region": "cn"
   },
@@ -2850,17 +2850,17 @@
    "signal": "connectivity",
    "role": "Connectivity silicon for AI racks; PCIe/CXL bottleneck solver.",
    "confidence": "verified",
-   "valuation_musd": 52389,
+   "valuation_musd": 49586,
    "ticker": "ALAB",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ALAB/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "asteralabs.com",
    "region": "us"
   },
@@ -2873,15 +2873,15 @@
    "signal": "CN GPU · 6082",
    "role": "Chinese GPU designer building around export controls. Listed in Hong Kong 2026-01-02 as the city's first GPU stock and the first new listing of the year - HK$5.58B ($717M) raised at HK$19.60, closed day one +76%. It has tapped the market twice since: HK$7B at HK$46.20 in July, then a second placement announced 2026-10-08 of 130 million new H shares at HK$31.08 raising about HK$4.04B (~$515M) - a 9.8% discount to the previous close, with the proceeds going mostly to supply-chain procurement and commercialising next-generation products. The shares fell about 12% on the news and have retreated steadily from a HK$70.75 peak. The map carried it as a private company for eight months; its value now follows the market price.",
    "confidence": "verified",
-   "valuation_musd": 8691,
+   "valuation_musd": 8739,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/6082.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "www.birentech.com",
    "region": "cn",
    "ticker": "6082.HK",
@@ -3060,17 +3060,17 @@
    "signal": "leading-edge foundry",
    "role": "Manufactures nearly every leading AI chip. 2026 capex raised to $52-56B. Signed a $2B, five-year agreement with GLOBALFOUNDRIES announced 2026-10-08 to have silicon interposers made at GF's Malta, New York fab for its CoWoS packaging ecosystem, ramping in H1 2028 - an outsourcing of the packaging substrate that has been the bottleneck on accelerator supply, and its first US source for it.",
    "confidence": "verified",
-   "valuation_musd": 2189989,
+   "valuation_musd": 2139991,
    "ticker": "TSM",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TSM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "tsmc.com",
    "region": "apac"
   },
@@ -3083,17 +3083,17 @@
    "signal": "EUV monopoly",
    "role": "Sole maker of EUV lithography. Europe's most valuable company; the hardest chokepoint in the stack.",
    "confidence": "verified",
-   "valuation_musd": 636623,
+   "valuation_musd": 630508,
    "ticker": "ASML",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ASML/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "asml.com",
    "region": "eu"
   },
@@ -3106,17 +3106,17 @@
    "signal": "memory + foundry",
    "role": "HBM memory and foundry; TSMC's only credible leading-edge rival.",
    "confidence": "verified",
-   "valuation_musd": 1020183,
+   "valuation_musd": 1051806,
    "ticker": "005930.KS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/005930.KS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "samsung.com",
    "region": "apac"
   },
@@ -3129,17 +3129,17 @@
    "signal": "HBM",
    "role": "Memory maker; its high-bandwidth memory (HBM) is the second bottleneck after the GPUs themselves.",
    "confidence": "verified",
-   "valuation_musd": 1053627,
+   "valuation_musd": 994340,
    "ticker": "MU",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MU/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "micron.com",
    "region": "us"
   },
@@ -3152,17 +3152,17 @@
    "signal": "deposition",
    "role": "Largest semiconductor equipment maker by breadth.",
    "confidence": "verified",
-   "valuation_musd": 341255,
+   "valuation_musd": 324812,
    "ticker": "AMAT",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMAT/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "appliedmaterials.com",
    "region": "us"
   },
@@ -3175,17 +3175,17 @@
    "signal": "HBM leader",
    "role": "Leading HBM supplier to NVIDIA; the memory bottleneck's main beneficiary. SK Hynix said in early October 2026 that Solidigm, its US NAND and enterprise SSD subsidiary, is reviewing options to strengthen its competitiveness but that no listing plan is confirmed, after Reuters reported the unit had held underwriting pitch meetings for a 2027 US IPO at up to $150B. Minority shareholders are now organising against the idea: the activist platform Act asked SK Hynix to reconsider and is preparing to ask the Korea Exchange whether its duplicate-listing guidelines can reach a subsidiary listed overseas, arguing that a separate Solidigm listing would disperse to outside investors the growth value existing holders should enjoy and would deepen the parent-company discount. The listing moved a step closer on 2026-10-07: Bloomberg reports Solidigm has picked Goldman Sachs and Morgan Stanley to lead an offering that could raise about $10B as soon as 2027, with JPMorgan, Citigroup and UBS in the syndicate and a valuation of as much as $100B - and that it is working with the two leads on a pre-IPO round first. Nothing is filed and SK Hynix is still on record that no specific plan is confirmed.",
    "confidence": "verified",
-   "valuation_musd": 669460,
+   "valuation_musd": 694887,
    "ticker": "000660.KS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/000660.KS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "skhynix.com",
    "region": "apac"
   },
@@ -3198,17 +3198,17 @@
    "signal": "etch",
    "role": "Etch and deposition equipment critical to 3D memory.",
    "confidence": "verified",
-   "valuation_musd": 347220,
+   "valuation_musd": 330301,
    "ticker": "LRCX",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/LRCX/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "lamresearch.com",
    "region": "us"
   },
@@ -3221,17 +3221,17 @@
    "signal": "inspection",
    "role": "Process control and inspection; yield gatekeeper.",
    "confidence": "verified",
-   "valuation_musd": 227671,
+   "valuation_musd": 216292,
    "ticker": "KLAC",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/KLAC/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "kla.com",
    "region": "us"
   },
@@ -3244,17 +3244,17 @@
    "signal": "EDA",
    "role": "EDA software — every AI chip is designed inside it. Signed a strategic multi-year IP agreement with Amazon on 2026-09-30, valued at more than $1B, making Amazon the lead customer of its application-optimized silicon IP business: a license-plus-royalty structure whose payments rise with Amazon's production volumes, covering the Nitro, Graviton and Trainium lines alongside EDA, simulation and agentic AI tools. Synopsys in turn moves its own product development onto AWS. Signed a separate multi-year agreement with OPENAI on 2026-09-30 to jointly develop GPT-Synopsys, a model built to drive Synopsys' EDA tools across chip-design workflows: the two become preferred partners, OpenAI licenses Synopsys' EDA tools to develop the model, and they share the revenue and go to market together. No dollar figure, compute commitment or contract term was disclosed.",
    "confidence": "verified",
-   "valuation_musd": 89707,
+   "valuation_musd": 87124,
    "ticker": "SNPS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNPS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "synopsys.com",
    "region": "us"
   },
@@ -3267,17 +3267,17 @@
    "signal": "EDA",
    "role": "The other half of the EDA duopoly.",
    "confidence": "verified",
-   "valuation_musd": 89332,
+   "valuation_musd": 87991,
    "ticker": "CDNS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CDNS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "cadence.com",
    "region": "us"
   },
@@ -3313,17 +3313,17 @@
    "signal": "CN foundry",
    "role": "China's leading foundry, working around EUV restrictions.",
    "confidence": "verified",
-   "valuation_musd": 56903,
+   "valuation_musd": 57171,
    "ticker": "0981.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0981.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "smics.com.cn",
    "region": "cn"
   },
@@ -3336,17 +3336,17 @@
    "signal": "TSMC interposers",
    "role": "Mature-node foundry; not leading-edge AI but essential supporting silicon - and from 2026 a US source of advanced-packaging substrate. Announced on 2026-10-08 a $2B agreement with TSMC, initial term five years, to make silicon interposers with embedded deep trench capacitors for TSMC's CoWoS packaging at its Malta, New York fab, with volume ramping in H1 2028 and a framework for later capacity expansion. It would be the first US-based source of interposers for CoWoS, the packaging step that has been the binding constraint on AI accelerator supply; GF shares rose as much as 7%.",
    "confidence": "verified",
-   "valuation_musd": 27180,
+   "valuation_musd": 26020,
    "ticker": "GFS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GFS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "gf.com",
    "region": "us"
   },
@@ -3359,17 +3359,17 @@
    "signal": "CN equipment",
    "role": "China's largest domestic semiconductor equipment maker.",
    "confidence": "verified",
-   "valuation_musd": 66255,
+   "valuation_musd": 64521,
    "ticker": "002371.SZ",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002371.SZ/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "naura.com",
    "region": "cn"
   },
@@ -3382,17 +3382,17 @@
    "signal": "packaging",
    "role": "Advanced packaging and test — the CoWoS bottleneck's back end.",
    "confidence": "verified",
-   "valuation_musd": 10944,
+   "valuation_musd": 10390,
    "ticker": "AMKR",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMKR/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "amkor.com",
    "region": "us"
   },
@@ -3465,17 +3465,17 @@
    "signal": "Workers AI",
    "role": "Edge network turned AI inference host; Workers AI serves models at the CDN edge, fed by the Replicate acquisition.",
    "confidence": "verified",
-   "valuation_musd": 112635,
+   "valuation_musd": 105506,
    "ticker": "NET",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NET/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "cloudflare.com",
    "region": "us"
   },
@@ -3488,15 +3488,15 @@
    "signal": "design AI",
    "role": "Collaborative design platform layering AI generation across its editor; IPO July 2025.",
    "confidence": "verified",
-   "valuation_musd": 12254,
+   "valuation_musd": 11454,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/FIG/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "FIG",
    "valuation_live": true,
    "domain": "figma.com",
@@ -3511,15 +3511,15 @@
    "signal": "SenseNova · CN",
    "role": "CN computer-vision incumbent pivoted to SenseNova LLMs and SenseCore AI cloud.",
    "confidence": "verified",
-   "valuation_musd": 6133,
+   "valuation_musd": 6213,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0020.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "0020.HK",
    "valuation_live": true,
    "domain": "sensetime.com",
@@ -3534,15 +3534,15 @@
    "signal": "Spark · CN",
    "role": "China's speech-AI incumbent; Spark LLMs trained exclusively on Huawei Ascend after US entity-listing.",
    "confidence": "verified",
-   "valuation_musd": 13051,
+   "valuation_musd": 12952,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002230.SZ/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "002230.SZ",
    "valuation_live": true,
    "domain": "iflytek.com",
@@ -3557,15 +3557,15 @@
    "signal": "health data",
    "role": "Precision-medicine data and diagnostics platform; the largest public health-AI pure play.",
    "confidence": "verified",
-   "valuation_musd": 12834,
+   "valuation_musd": 11678,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TEM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "TEM",
    "valuation_live": true,
    "domain": "tempus.com",
@@ -3580,15 +3580,15 @@
    "signal": "auto AI · CN",
    "role": "China's leading automotive AI chipmaker (Journey series); 20+ OEM partners.",
    "confidence": "verified",
-   "valuation_musd": 7747,
+   "valuation_musd": 7929,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9660.HK/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "9660.HK",
    "valuation_live": true,
    "domain": "horizon.auto",
@@ -3765,15 +3765,15 @@
    "signal": "robotaxi · CN",
    "role": "Robotaxi operator dual-listed on Nasdaq and HKEX; large-scale commercial autonomous driving.",
    "confidence": "verified",
-   "valuation_musd": 2250,
+   "valuation_musd": 2145,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PONY/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "ticker": "PONY",
    "valuation_live": true,
    "domain": "pony.ai",
@@ -3991,7 +3991,7 @@
    "signal": "GPU · 688795",
    "role": "Chinese GPU designer - 'China's NVIDIA'; first domestic GPU stock, STAR-listed Dec 2025; H1 2026 revenue +147%.",
    "confidence": "verified",
-   "valuation_musd": 22601,
+   "valuation_musd": 23028,
    "region": "cn",
    "domain": "mthreads.com",
    "ticker": "688795.SS",
@@ -4000,10 +4000,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688795.SS/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15"
+   "as_of": "2026-10-16"
   },
   {
    "id": "enflame",
@@ -4014,15 +4014,15 @@
    "signal": "GPGPU · 688801",
    "role": "Shanghai GPGPU designer for AI training and inference, pitched as a domestic NVIDIA alternative; last of China's 'four little dragons' of AI silicon to list. STAR debut Sep 11, 2026 at CNY142.18 after a CNY6.12B ($912M) IPO, opened +188%. Tencent is both its largest shareholder (17.95% post-IPO) and was 83.79% of 2025 revenue.",
    "confidence": "verified",
-   "valuation_musd": 27243,
+   "valuation_musd": 26723,
    "sources": [
     {
      "title": "Market capitalisation, Tencent quote service (refreshed every weekday; Yahoo does not list it yet)",
      "url": "https://gu.qq.com/sh688801",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "enflame-tech.com",
    "region": "cn",
    "ticker": "688801.SS",
@@ -4252,17 +4252,17 @@
    "signal": "SPCX",
    "role": "Aerospace and AI conglomerate. Absorbed xAI (Grok, Colossus, X) in an all-stock merger on Feb 2 2026, bought Cursor for $60B in Aug 2026, and listed on Nasdaq as SPCX on Jun 12 2026 at a ~$2.1T debut cap. The FT reported on 2026-10-06 that it is seeking about $40B of financing to buy NVIDIA chips for xAI's Colossus 2 - roughly $10B of bank loans plus $30B of investment-grade debt, led and syndicated by Apollo with Pimco among the lenders in talks, secured on the chips themselves and expected to close in 2027. Talks, not terms: Apollo declined to comment and NVIDIA did not respond. It is the fourth compute-financing structure of this shape the map has recorded in a fortnight, after Broadcom's $60B syndicate behind Anthropic's TPU lease, Lambda's $1B investment-grade term loan and Amazon's reported $8B GPU sale-and-leaseback - AI compute funded against offtaker credit and moved off the buyer's balance sheet. Its own IPO registration statement is what prices the Anthropic compute relationship the map carries from the other side: SpaceX disclosed a cloud services agreement signed 2026-05-03 under which Anthropic pays $1.25B a month for access to Colossus and Colossus II capacity through May 2029 - more than $40B over the full term, terminable by either side on 90 days' notice - and Anthropic confirmed the monthly figure publicly.",
    "confidence": "verified",
-   "valuation_musd": 1959076,
+   "valuation_musd": 1924935,
    "valuation_live": true,
    "ticker": "SPCX",
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SPCX/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "spacex.com",
    "region": "us"
   },
@@ -4574,17 +4574,17 @@
    "signal": "Anthropic CPU cloud",
    "role": "Edge delivery network turned distributed cloud operator, and from 2026 an AI compute supplier. On 2026-09-24 it disclosed a Master Services Agreement with Anthropic carrying $11.6B of contractual commitment over seven years for dedicated cloud capacity and managed support - aimed at Anthropic's accelerating CPU workloads rather than GPU training, which is the part of the frontier-lab compute bill the neoclouds do not serve. The contract can expand by a further $9B to roughly $20B, and Akamai issued Anthropic a warrant for non-voting convertible Series B preferred representing 7.7 million common shares - up to 5% of the company - at an exercise price of $111.33, with about 2% expected to vest under the initial commitment. Akamai expects about $5.5B of capital expenditure against the $11.6B, and its shares rose as much as 20% after hours on the news.",
    "confidence": "verified",
-   "valuation_musd": 13268,
+   "valuation_musd": 12620,
    "ticker": "AKAM",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AKAM/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "akamai.com",
    "region": "us"
   },
@@ -5087,17 +5087,17 @@
    "signal": "Google-backstopped landlord",
    "role": "The landlord under several of the map's biggest compute commitments rather than a GPU operator: it develops and leases AI data-centre capacity, and the tenant installs the silicon. Signed a 15-year, 245 MW triple-net lease at its River Bend campus in West Feliciana Parish, Louisiana with Fluidstack on 2025-12-17, worth $7.0B over the base term and up to $17.7B with all three renewal options, under which Fluidstack runs compute for Anthropic - and Google provides a financial backstop of the lease payments and pass-through obligations for the whole 15-year base term, plus a second backstop behind the operations services agreement. That credit is what let Hut 8 price a $3.25B investment-grade bond (preliminary BBB- from S&P) against the build. A separate 15-year, 352 MW lease at the Beacon Point campus in Nueces County, Texas is worth $9.8B base and up to $25.1B with renewals; Hut 8's filings do not name that tenant and the FT reports it as NVIDIA, which has not confirmed it. Beacon Point is where Lambda's reported $35B Anthropic deal physically lands. Total contracted AI capacity 597 MW and roughly $16.8B of base-term contract value; its 10-K describes an Anthropic partnership that could reach 2,295 MW. A bitcoin miner before 2025.",
    "confidence": "verified",
-   "valuation_musd": 9379,
+   "valuation_musd": 8351,
    "ticker": "HUT",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/HUT/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "hut8.com",
    "region": "us"
   },
@@ -5110,17 +5110,17 @@
    "signal": "$2.6B contracted",
    "role": "Nasdaq-listed GPU neocloud (Northbrook, Illinois; founder-CEO Andrew Karos) that went public in May 2026 through a merger with Willow Lane Acquisition Corp. Sells GPU compute, CPU nodes, managed Kubernetes and shared storage through a console and API across six US data centres with five more building, and is an NVIDIA Preferred Cloud Provider that has achieved NVIDIA Exemplar Cloud status on Blackwell. Disclosed in an 8-K filed 2026-10-06 a GPU services agreement signed 2026-09-30 with Cohere worth about $525.6M over five years for dedicated NVIDIA GB300 NVL72 capacity - its own press release described the customer only as 'a leading sovereign AI company' and the filing is what names Cohere. Payment is contingent on delivery and acceptance, partly prepaid, with Cohere able to terminate and recover prepayments if a minimum amount of infrastructure is not accepted by 2027-07-15. The deal takes cumulative contracted revenue past $2.6B against $31.1M of quarterly revenue and a $12.9M operating loss - the counterparty-credit shape the Nscale TCV and Lambda backlog entries are about, on a company an order of magnitude smaller.",
    "confidence": "verified",
-   "valuation_musd": 801,
+   "valuation_musd": 707,
    "ticker": "BRUN",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BRUN/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "boostrun.com",
    "region": "us"
   },
@@ -5225,17 +5225,17 @@
    "signal": "$19B Anthropic lease",
    "role": "Nasdaq-listed data-centre landlord to the frontier labs, and the second of the map's bitcoin miners turned AI landlord after Hut 8: it develops and leases powered shell and the tenant installs the silicon. Its subsidiary Raylan Data signed a 20-year lease with ANTHROPIC on 2026-07-06 for the whole 401 MW Justified Data campus at Hawesville, Kentucky, expected to produce about $19B of contracted revenue over the initial term, with two successive five-year renewal options that could extend the relationship to 30 years - the single largest lease on the map by contract value. At its Lake Mariner campus in upstate New York it has leased more than 200 MW to FLUIDSTACK on 10-year terms (2025-08-14, ~$3.7B), expanded by a 160 MW CB-5 building a week later to about $6.7B of contracted revenue and up to $16B with extensions, and then by a 168 MW, 25-year joint venture on 2025-10-28 worth about $9.5B, in which TeraWulf holds 51%. GOOGLE backstops those Fluidstack obligations - about $3.2B after the CB-5 expansion plus $1.3B behind the joint venture - which is the same credit substitution that underwrites the Hut 8 build, and the reason project debt is financeable at all. Fluidstack runs that capacity for Anthropic, so the chain anthropic -> fluidstack -> terawulf sits alongside the direct Kentucky lease. It is selling its 50.1% of the Abernathy, Texas joint venture to an investor group led by Fluidstack. The contracted figures are headline totals over decade-plus terms, not run-rate revenue, and are therefore a claim on counterparty credit.",
    "confidence": "verified",
-   "valuation_musd": 6297,
+   "valuation_musd": 5828,
    "ticker": "WULF",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/WULF/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "terawulf.com",
    "region": "us"
   },
@@ -5248,17 +5248,17 @@
    "signal": "$9.7B Microsoft contract",
    "role": "Nasdaq-listed Australian AI data-centre operator - the third of the map's bitcoin miners turned AI infrastructure, after Hut 8 and TeraWulf, and the one that operates the GPU cloud itself rather than only leasing the building. Signed a five-year, ~$9.7B AI cloud contract with MICROSOFT on 2025-11-03 to deliver NVIDIA GB300 capacity across four liquid-cooled Horizon buildings at its Childress, Texas campus, about 200 MW of IT load, with 20% prepaid; it bought the GPUs and ancillary equipment from Dell for about $5.8B, raised a $3.65B debt package against the Microsoft contract in June 2026, and delivered the first Horizon building in August 2026. Signed a separate five-year, ~$3.4B managed AI cloud contract with NVIDIA itself on 2026-05-07 - air-cooled Blackwell systems in roughly 60 MW of existing Childress capacity, for NVIDIA's own internal AI and research work, with orchestration software built alongside Mirantis, and a five-year right for NVIDIA to buy up to 30 million IREN shares at $70. So NVIDIA is simultaneously its silicon supplier, a customer and a prospective shareholder. Contracted AI cloud revenue is roughly $4B of annualised run-rate for 2026 capacity against a 2.9 GW development pipeline, so the headline contract values are a claim on counterparty credit rather than booked revenue. The Information reported on 2026-10-11/12 that ANTHROPIC holds an unannounced multiyear cloud agreement with IREN, with the value and length not disclosed and neither company confirming it; the shares rose about 5% on the report, and the deal may be the unnamed AI cloud customer IREN referred to on an earlier earnings call, which is speculation rather than a company statement. Fiscal 2027 capex is guided at $25-30B.",
    "confidence": "verified",
-   "valuation_musd": 11975,
+   "valuation_musd": 10636,
    "ticker": "IREN",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IREN/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "iren.com",
    "region": "apac"
   },
@@ -5271,17 +5271,17 @@
    "signal": "CoreWeave's landlord",
    "role": "A landlord to the AI build-out rather than a GPU operator: it develops data-centre campuses and leases the shells, and the tenant installs the silicon. CoreWeave holds 400 MW under contract at the Polaris Forge 1 campus in Ellendale, North Dakota across three roughly 15-year leases - 250 MW signed 2025-05-28 through the APLD ELN-02 and ELN-03 subsidiaries and a further 150 MW on 2025-08-28 - representing about $11B of prospective lease revenue over the term. The first of the campus's three contracted buildings reached Ready-for-Service in 2026. A separate 200 MW lease at Polaris Forge 2 goes to a US-based investment-grade hyperscaler the company does not name, taking total leased capacity to 600 MW and aggregate prospective lease revenue to roughly $16B before any renewal options are exercised. A bitcoin miner before it pivoted to leasing AI capacity, and the contract value is a claim on counterparty credit rather than recognised revenue.",
    "confidence": "verified",
-   "valuation_musd": 6166,
+   "valuation_musd": 5458,
    "ticker": "APLD",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/APLD/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "applieddigital.com",
    "region": "us"
   },
@@ -5294,17 +5294,17 @@
    "signal": "Amazon- and Google-backed landlord",
    "role": "The third landlord shape on the map after Hut 8 and TeraWulf, and the one with a hyperscaler signed directly as tenant. At the Black Pearl site it holds a 15-year campus lease with Amazon Web Services for 300 MW gross, announced 2025-11-03 and reported at about $5.5B of total contract value, delivered in two phases during 2026 - roughly 216 MW of critical IT load under contract with three five-year extension options, and Amazon.com, Inc. guarantees the base rent and operating expenses. At Barber Lake in Colorado City, Texas it leases the full 300 MW to Fluidstack, built up through a 168 MW lease in September 2025 and a ~$830M, 56 MW expansion on 2025-11-20, with GOOGLE backstopping Fluidstack's lease obligations to support project debt - an additional $333M at the expansion, taking Google's total backstop to $1.73B. In late September 2026 it extended the Barber Lake term from 10 years to 20, lifting contracted revenue at the site from about $3.8B to more than $9B on a binding 10-year commitment from an unnamed leading AI lab worth roughly $5.2B; Cipher absorbs the first $359.3M of cost above the original budget and the tenant covers half of overruns beyond that. Named Cipher Mining until a charter amendment on 2026-02-20; a bitcoin miner before the pivot, and the contracted revenue is a claim on counterparty credit, not revenue.",
    "confidence": "verified",
-   "valuation_musd": 4167,
+   "valuation_musd": 3727,
    "ticker": "CIFR",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CIFR/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "cipherdigital.com",
    "region": "us"
   },
@@ -5317,15 +5317,15 @@
    "signal": "CoreWeave landlord · CORZ",
    "role": "Austin, Texas data-centre operator and the sixth landlord node on this map - a former bitcoin miner now converting its sites to AI colocation, and CoreWeave's largest single host. Contracted hosting for CoreWeave reached approximately 590 MW of critical IT load across six of its sites (Denton, Texas; Dalton, Georgia; Muskogee, Oklahoma; Marble, North Carolina; Austin, Texas), on 12-year terms with two five-year options and about $10.2B of projected revenue; the contracts are take-or-pay with no unilateral right to terminate, and CoreWeave itself funds up to $1.5M per MW (roughly $750M) of build-out cost, credited back against no more than 50% of monthly hosting fees until repaid. It is a landlord that nearly became a subsidiary: its shareholders VOTED DOWN CoreWeave's all-stock acquisition on 2025-10-30, after Two Seas Capital and the proxy adviser ISS argued the roughly $9B offer undervalued the company, and the merger agreement was terminated - the board had already rejected a $5.75-a-share cash proposal in June 2024 on the same grounds. Both sides said the commercial partnership would continue, and it has.",
    "confidence": "verified",
-   "valuation_musd": 4645,
+   "valuation_musd": 4332,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CORZ/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-15",
+   "as_of": "2026-10-16",
    "domain": "corescientific.com",
    "region": "us",
    "ticker": "CORZ",
@@ -5407,25 +5407,15 @@
    "signal": "DRAM · 688825",
    "role": "ChangXin Memory Technologies, the Hefei DRAM maker that is China's only memory supplier at scale and now the world's fourth, behind SAMSUNG, SK HYNIX and MICRON. Counterpoint puts it at 8% of DRAM revenue in Q1 2026 against 3% a year earlier, and by Q2 2026 it sat about a point behind Micron - the first time in twelve years that the gap between the third and fourth DRAM makers was that narrow. It listed on Shanghai's STAR Market on 2026-07-27 at CNY8.66 a share, raising CNY57.9B (about $8.5B) in the largest STAR offering to date, and closed its first day up 466%, briefly the most valuable mainland-listed company. Its scale matters to this map for two reasons: it is the domestic answer to the memory bottleneck that constrains Chinese AI accelerators, having shipped HBM3 samples to customers including HUAWEI with volume production targeted for the end of 2026 (trade reports, contested - Tom's Hardware says the Ascend 950 series uses Huawei's own HiBL and HiZQ memory instead, so no memory_from edge is drawn yet); and its listing alone moved the incumbents, with US and Korean memory stocks selling off in mid-October 2026 on the arrival of a lower-cost fourth supplier. It trails the big three by at least two generations on advanced memory - chasing HBM3 while they compete on HBM4E - and plans to lift monthly wafer output from 320,000 to 420,000 by 2027. The mark is a HAND SEED read off CNBC's dated quote (CNY3.46T / $520B, 2026-10-13) because this sandbox cannot reach a quote endpoint; the weekday ticker cron owns it from here.",
    "confidence": "verified",
-   "valuation_musd": 520000,
+   "valuation_musd": 457726,
    "sources": [
     {
-     "title": "CNBC, Why this little known Chinese chipmaker has caused a global stock rout - quotes a market capitalisation of CNY3.46 trillion ($520B)",
-     "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-     "as_of": "2026-10-13"
-    },
-    {
-     "title": "SCMP, China's CXMT soars 466% on debut as DRAM maker becomes most valuable mainland-listed firm (STAR Market listing 2026-07-27, CNY8.66 IPO price, CNY57.9B raised)",
-     "url": "https://www.scmp.com/tech/big-tech/article/3361926/chinas-cxmt-shares-rise-472-star-market-debut-valuing-dram-maker-us489-billion",
-     "as_of": "2026-07-27"
-    },
-    {
-     "title": "Caixin Global, ChangXin clears key hurdle for record STAR Market IPO",
-     "url": "https://www.caixinglobal.com/2026-05-28/changxin-clears-key-hurdle-for-record-star-market-ipo-102448359.html",
-     "as_of": "2026-05-28"
+     "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
+     "url": "https://finance.yahoo.com/quote/688825.SS/",
+     "as_of": "2026-10-16"
     }
    ],
-   "as_of": "2026-10-13",
+   "as_of": "2026-10-16",
    "domain": "cxmt.com",
    "region": "cn",
    "ticker": "688825.SS",
@@ -5433,5 +5423,5 @@
    "shares_m": 67880
   }
  ],
- "verified_at": "2026-10-15"
+ "verified_at": "2026-10-16"
 }
