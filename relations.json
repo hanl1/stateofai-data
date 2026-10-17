@@ -2912,7 +2912,31 @@
    "from": "datapass-2026-10-16",
    "confidence": "verified",
    "url": "https://scale.com/blog/scale-partners-with-nvidia"
+  },
+  {
+   "source": "reflection",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-17",
+   "confidence": "verified",
+   "url": "https://reflection.ai/blog/introducing-beam"
+  },
+  {
+   "source": "reflection",
+   "target": "amazon",
+   "type": "rents",
+   "from": "datapass-2026-10-17",
+   "confidence": "verified",
+   "url": "https://reflection.ai/blog/introducing-beam"
+  },
+  {
+   "source": "reflection",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-10-17",
+   "confidence": "verified",
+   "url": "https://reflection.ai/blog/introducing-beam"
   }
  ],
- "as_of": "2026-10-13"
+ "as_of": "2026-10-17"
 }
