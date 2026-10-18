@@ -2936,6 +2936,38 @@
    "from": "datapass-2026-10-17",
    "confidence": "verified",
    "url": "https://reflection.ai/blog/introducing-beam"
+  },
+  {
+   "source": "meta",
+   "target": "mtia",
+   "type": "owns",
+   "from": "datapass-2026-10-18",
+   "confidence": "verified",
+   "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/"
+  },
+  {
+   "source": "meta",
+   "target": "mtia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-18",
+   "confidence": "verified",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference"
+  },
+  {
+   "source": "meta",
+   "target": "broadcom",
+   "type": "designed_with",
+   "from": "datapass-2026-10-18",
+   "confidence": "verified",
+   "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology"
+  },
+  {
+   "source": "mtia",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-10-18",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
   }
  ],
  "as_of": "2026-10-17"

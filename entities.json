@@ -1159,7 +1159,7 @@
    "layer": "agent",
    "kind": "company",
    "signal": "agent IDE",
-   "role": "Browser IDE turned autonomous app-building agent.",
+   "role": "Browser IDE turned autonomous app-building agent. At TechCrunch Disrupt on 2026-10-15 chief executive Amjad Masad said Replit is no longer working with ANTHROPIC, citing cost and model performance and calling OpenAI the better partner 'for now'. The claim is contested: a person familiar with the partnership told TechCrunch it is still in place, and Replit's own September 2026 blog post lists Claude Fable 5 and Fable 5.1 running in Replit Agent's production environment. Neither company has announced a termination, so the routing edge to Anthropic stands while the claim is disputed.",
    "confidence": "verified",
    "valuation_musd": 9000,
    "sources": [
@@ -1172,6 +1172,11 @@
      "title": "TechCrunch, Replit snags $9B valuation 6 months after hitting $3B",
      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b",
      "as_of": "2026-03-11"
+    },
+    {
+     "title": "TechCrunch (relayed), Replit CEO Amjad Masad says the company is no longer working with Anthropic; a person familiar says the partnership is still in place",
+     "url": "https://cryptobriefing.com/replit-masad-anthropic-multi-model-disrupt/",
+     "as_of": "2026-10-16"
     }
    ],
    "as_of": "2026-03-11",
@@ -1253,7 +1258,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "$47B ARR",
-   "role": "Frontier lab behind the Claude model family. $65B Series H at $965B; the most valuable AI company. Its IPO prospectus was obtained and reported by Reuters on 2026-09-28 but has still not appeared on EDGAR, so there is no public share count, price range or ticker and nothing to mark against - the reported document shows 2025 revenue up twelvefold to nearly $4.6B against a net loss of about $42B, roughly $34B of which is a non-cash remeasurement of convertible financing instruments rather than operations, an operating loss of $8.06B, $7.33B of compute and infrastructure spend, and nearly a quarter of revenue coming from just two customers on contracts that do not bind them to keep spending. It also sets out at least $518B of cloud, chip and infrastructure commitments over roughly ten years across six partners - about $111.1B to Google, $110B to Amazon, up to $84.5B to SpaceX and $31.4B to Microsoft - of which about 80% is non-cancelable or payable regardless of use - and a seventh leg, a six-year $35B deal with Lambda signed in late August 2026 for roughly 350 MW in Texas, has its own Bloomberg sourcing independent of the prospectus - and it warns investors of existential risks to humanity from advanced AI. Bankers have discussed an offering valuing the company above $2T. On 2026-09-24 it signed an $11.6B seven-year cloud agreement with Akamai for CPU capacity, taking a warrant for up to 5% of Akamai in the process. Amodei committed in September 2026 to give third-party evaluators permanent employee-level access to Anthropic's systems, a pledge OpenAI said it would match, and on 2026-09-12 published 'We Must Pace the Frontier', arguing the industry should slow capability gains - Altman and Musk both said they agreed; Trump publicly rejected the call two days later The FTC is reported to be expanding a sweeping product-safety probe of Anthropic, OpenAI and other frontier labs, with formal demands for information planned (2026-09-30). The reported prospectus also puts a five-year, $125.2B commitment for TPU computing capacity with BROADCOM as lessor, about a third of which Broadcom has agreed to finance itself through up to $42B of convertible notes (2026-10-01) - circular financing of the kind the map now sees repeatedly, and a structure the filing says carries potential conflicts of interest. Broadcom's syndicate began amassing $60B to fund that capacity on 2026-10-02 (Bloomberg) - a $42B senior-secured tranche being placed by Bank of America, Citigroup and Morgan Stanley alongside an $18B subordinated tranche led by Blackstone - which is the financing partner the prospectus allowed for rather than new money on top. Separately, Anthropic is reported to have begun ending the roughly 15% discounts it gives customers once they hit their usage limits, forcing mid-contract renegotiations (2026-10-01). As of 2026-10-05 the S-1 is STILL not on EDGAR, seven days after Reuters obtained and reported the document, so there is no public share count, price range or ticker and nothing to mark against. The SpaceX leg of those commitments is the one the map can read from a public filing rather than from the unfiled prospectus: SpaceX's own S-1 discloses the 2026-05-03 cloud services agreement at $1.25B a month through May 2029, and Anthropic has confirmed that figure. Microsoft is simultaneously a compute counterparty and a paying model customer: The Information reported on 2026-10-12 that Microsoft is on track to pay Anthropic more than $2B a year for the Claude models in Microsoft 365 Copilot, a single-source figure neither company has confirmed, while Microsoft and Meta are separately reported to have cut their own internal Claude spending. An EIGHTH compute counterparty surfaced on 2026-10-14: The Information reports an unannounced multiyear cloud agreement with IREN, with the value and length undisclosed and neither company confirming, which is why that edge is reported - and its framing is that the build-out increasingly depends on former bitcoin miners (IREN, Hut 8, TeraWulf, Nscale) because they control scarce grid connections. The shape of that Broadcom-arranged $60B is now reported in full and settles how it sits against the lease: the FT says the package, codenamed PROJECT NORTH STAR and financing roughly 1.5 GW of TPUs, is a $42B Class A senior-secured tranche plus an $18B Class B junior tranche led by Blackstone, of which Blackstone would hold $9B on its own book at a reported 10% coupon - with fees and issue discount taking its total return above that - and the other $9B would be syndicated to a wider group over the coming months, possibly at a lower yield. The junior debt is reported to be secured on the lease payments themselves, so the $18B is INSIDE the $60B that funds about a third of the $125.2B commitment rather than new money on top of it. The package has not closed. Separately, the company was reported to be meeting prospective IPO investors at its San Francisco headquarters on 2026-10-14 while its S-1 is still not public on EDGAR.",
+   "role": "Frontier lab behind the Claude model family. $65B Series H at $965B; the most valuable AI company. Its IPO prospectus was obtained and reported by Reuters on 2026-09-28 but has still not appeared on EDGAR, so there is no public share count, price range or ticker and nothing to mark against - the reported document shows 2025 revenue up twelvefold to nearly $4.6B against a net loss of about $42B, roughly $34B of which is a non-cash remeasurement of convertible financing instruments rather than operations, an operating loss of $8.06B, $7.33B of compute and infrastructure spend, and nearly a quarter of revenue coming from just two customers on contracts that do not bind them to keep spending. It also sets out at least $518B of cloud, chip and infrastructure commitments over roughly ten years across six partners - about $111.1B to Google, $110B to Amazon, up to $84.5B to SpaceX and $31.4B to Microsoft - of which about 80% is non-cancelable or payable regardless of use - and a seventh leg, a six-year $35B deal with Lambda signed in late August 2026 for roughly 350 MW in Texas, has its own Bloomberg sourcing independent of the prospectus - and it warns investors of existential risks to humanity from advanced AI. Bankers have discussed an offering valuing the company above $2T. On 2026-09-24 it signed an $11.6B seven-year cloud agreement with Akamai for CPU capacity, taking a warrant for up to 5% of Akamai in the process. Amodei committed in September 2026 to give third-party evaluators permanent employee-level access to Anthropic's systems, a pledge OpenAI said it would match, and on 2026-09-12 published 'We Must Pace the Frontier', arguing the industry should slow capability gains - Altman and Musk both said they agreed; Trump publicly rejected the call two days later The FTC is reported to be expanding a sweeping product-safety probe of Anthropic, OpenAI and other frontier labs, with formal demands for information planned (2026-09-30). The reported prospectus also puts a five-year, $125.2B commitment for TPU computing capacity with BROADCOM as lessor, about a third of which Broadcom has agreed to finance itself through up to $42B of convertible notes (2026-10-01) - circular financing of the kind the map now sees repeatedly, and a structure the filing says carries potential conflicts of interest. Broadcom's syndicate began amassing $60B to fund that capacity on 2026-10-02 (Bloomberg) - a $42B senior-secured tranche being placed by Bank of America, Citigroup and Morgan Stanley alongside an $18B subordinated tranche led by Blackstone - which is the financing partner the prospectus allowed for rather than new money on top. Separately, Anthropic is reported to have begun ending the roughly 15% discounts it gives customers once they hit their usage limits, forcing mid-contract renegotiations (2026-10-01). As of 2026-10-05 the S-1 is STILL not on EDGAR, seven days after Reuters obtained and reported the document, so there is no public share count, price range or ticker and nothing to mark against. The SpaceX leg of those commitments is the one the map can read from a public filing rather than from the unfiled prospectus: SpaceX's own S-1 discloses the 2026-05-03 cloud services agreement at $1.25B a month through May 2029, and Anthropic has confirmed that figure. Microsoft is simultaneously a compute counterparty and a paying model customer: The Information reported on 2026-10-12 that Microsoft is on track to pay Anthropic more than $2B a year for the Claude models in Microsoft 365 Copilot, a single-source figure neither company has confirmed, while Microsoft and Meta are separately reported to have cut their own internal Claude spending. An EIGHTH compute counterparty surfaced on 2026-10-14: The Information reports an unannounced multiyear cloud agreement with IREN, with the value and length undisclosed and neither company confirming, which is why that edge is reported - and its framing is that the build-out increasingly depends on former bitcoin miners (IREN, Hut 8, TeraWulf, Nscale) because they control scarce grid connections. The shape of that Broadcom-arranged $60B is now reported in full and settles how it sits against the lease: the FT says the package, codenamed PROJECT NORTH STAR and financing roughly 1.5 GW of TPUs, is a $42B Class A senior-secured tranche plus an $18B Class B junior tranche led by Blackstone, of which Blackstone would hold $9B on its own book at a reported 10% coupon - with fees and issue discount taking its total return above that - and the other $9B would be syndicated to a wider group over the coming months, possibly at a lower yield. The junior debt is reported to be secured on the lease payments themselves, so the $18B is INSIDE the $60B that funds about a third of the $125.2B commitment rather than new money on top of it. The package has not closed. Separately, the company was reported to be meeting prospective IPO investors at its San Francisco headquarters on 2026-10-14 while its S-1 is still not public on EDGAR. Reuters reported on 2026-10-17 that current and prospective IPO investors are tempering their valuation expectations over a slowdown in revenue growth; relays of that story put the figure under discussion at about $1.5T against the roughly $2T previously expected, and attribute the $16.8B that surfaced on 2026-10-15 to THIRD-QUARTER revenue, up about 45% on the second quarter's $11.6B. The Reuters title and date are in the result list but the page cannot be opened from this sandbox, so the $1.5T and the quarterly attribution rest on secondary relays and stay out of the map's fields.",
    "confidence": "verified",
    "valuation_musd": 965000,
    "sources": [
@@ -1291,6 +1296,11 @@
      "title": "Financial Times (relayed), Project North Star - Anthropic's $60B Broadcom-arranged TPU financing is a $42B Class A senior tranche plus an $18B Class B junior tranche led by Blackstone, which would hold $9B at a ~10% coupon; not closed",
      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-raises-60-billion-debt-113047288.html",
      "as_of": "2026-10-16"
+    },
+    {
+     "title": "Reuters, Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+     "as_of": "2026-10-17"
     }
    ],
    "as_of": "2026-05-28",
@@ -5385,6 +5395,47 @@
    ],
    "as_of": "2026-10-12",
    "domain": "azure.microsoft.com",
+   "region": "us"
+  },
+  {
+   "id": "mtia",
+   "name": "Meta MTIA",
+   "sector": "chip",
+   "layer": "chip",
+   "kind": "division",
+   "signal": "division",
+   "role": "Meta's in-house AI accelerator line - the Meta Training and Inference Accelerator - and the fourth hyperscaler silicon programme on this map alongside Google TPU, AWS Trainium and Microsoft Maia. It is co-developed with BROADCOM: on 2026-04-14 the two announced a multi-year, multi-generation partnership running through 2029 under which Broadcom supplies its XPU platform, chip design, advanced packaging and Ethernet networking for MTIA, with an initial commitment of more than 1 GW described as the first phase of a multi-gigawatt rollout; Hock Tan agreed to leave Meta's board at the same time. In March 2026 Meta set out four generations - MTIA 300, 400, 450 and 500 - for deployment across 2026 and 2027 on roughly a six-month cadence, with the 300 already in production for ranking and recommendation work and the 450 due for mass deployment in early 2027. Reuters reported on 2026-07-09 that production of the newest part would begin that September and that TSMC manufactures the chips even though Broadcom does the design, which is why the TSMC leg is reported rather than verified. The process node is contested: the April release says the new chips will be the first custom AI silicon on a 2 nm process, while trade coverage of the September production start says 3 nm - the two statements most likely describe different generations, so the map records neither as a fact. Deployment counts for the earlier MTIA 100 and 200 series rest on a single trade outlet and are not carried here.",
+   "confidence": "verified",
+   "parent": "meta",
+   "sources": [
+    {
+     "title": "Meta newsroom, Meta Partners With Broadcom to Co-Develop Custom AI Silicon (company announcement)",
+     "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
+     "as_of": "2026-04-14"
+    },
+    {
+     "title": "Broadcom investor relations, Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta's Custom Silicon, MTIA (company release)",
+     "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology",
+     "as_of": "2026-04-14"
+    },
+    {
+     "title": "CNBC, Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
+     "url": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
+     "as_of": "2026-04-14"
+    },
+    {
+     "title": "Tom's Hardware, Meta reveals four new MTIA chips built for AI inference - to be released on a six-month cadence (MTIA 300/400/450/500 across 2026-2027)",
+     "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference",
+     "as_of": "2026-03"
+    },
+    {
+     "title": "TechCrunch (on Reuters), Meta's new AI chips will begin production in September - TSMC manufactures, Broadcom designs",
+     "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+     "as_of": "2026-07-09"
+    }
+   ],
+   "as_of": "2026-04-14",
+   "domain": "meta.com",
    "region": "us"
   },
   {
