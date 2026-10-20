@@ -3351,7 +3351,7 @@
     }
    ],
    "as_of": "2026-10-14",
-   "domain": "tel.com",
+   "domain": "www.tel.com",
    "region": "apac"
   },
   {
@@ -3374,7 +3374,7 @@
     }
    ],
    "as_of": "2026-10-20",
-   "domain": "smics.com.cn",
+   "domain": "www.smics.com",
    "region": "cn"
   },
   {
@@ -5507,7 +5507,7 @@
     }
    ],
    "as_of": "2026-10-20",
-   "domain": "cxmt.com",
+   "domain": "www.cxmt.com",
    "region": "cn",
    "ticker": "688825.SS",
    "valuation_live": true,
