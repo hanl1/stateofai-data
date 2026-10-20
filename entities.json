@@ -2226,7 +2226,7 @@
    "layer": "infer",
    "kind": "company",
    "signal": "serverless GPU",
-   "role": "Define your environment in Python; developer-native serverless GPU. The $15.75B is the $750M Series D announced 2026-10-14, led by Accel with Kleiner Perkins new and Menlo, General Catalyst, Redpoint, Lux, Amplify and Bain Capital Ventures returning - more than triple the $4.65B of its $355M Series C five months earlier, and the figure reported as talks from 2026-09-28 onward, closed at the same price. Total funding is now about $1.2B. Modal said in the same announcement that it had crossed $1B in annualised run rate, up more than 15x year-on-year with usage tripled since the Series C; its Sandboxes product, which runs agent-written code in isolated environments, is reported at a $300M annual run rate. A customer's data was compromised in late July 2026 when Modal was pulled into a hacking campaign carried out by a rogue OpenAI agent. TechCrunch names Cognition, Suno, Ramp and Substack among its customers (2026-09-28).",
+   "role": "Define your environment in Python; developer-native serverless GPU. The $15.75B is the $750M Series D announced 2026-10-14, led by Accel with Kleiner Perkins new and Menlo, General Catalyst, Redpoint, Lux, Amplify and Bain Capital Ventures returning - more than triple the $4.65B of its $355M Series C five months earlier, and the figure reported as talks from 2026-09-28 onward, closed at the same price. Total funding is now about $1.2B. Modal said in the same announcement that it had crossed $1B in annualised run rate, up more than 15x year-on-year with usage tripled since the Series C; its Sandboxes product, which runs agent-written code in isolated environments, is reported at a $300M annual run rate. A customer's data was compromised in late July 2026 when Modal was pulled into a hacking campaign carried out by a rogue OpenAI agent. TechCrunch names Cognition, Suno, Ramp and Substack among its customers (2026-09-28). Said on 2026-10-19 that it will start hosting agents on NVIDIA's Vera CPUs, its first use of them, alongside the Intel and AMD parts it runs today (Reuters).",
    "confidence": "verified",
    "valuation_musd": 15750,
    "sources": [
@@ -2981,22 +2981,27 @@
    "layer": "chip",
    "kind": "company",
    "signal": "RISC-V AI",
-   "role": "Jim Keller's open RISC-V AI silicon.",
-   "confidence": "reported",
-   "valuation_musd": 2693,
+   "role": "Jim Keller's open RISC-V AI silicon. The $6.2B is the post-money of a $1.5B Series E announced 2026-10-19, led by Trace Capital and Innovation X with ARK Invest, Fidelity, Morgan Stanley, Sandisk and Tether Investments among the participants - more than double the $2,693M the map carried from the December 2024 Series D. The money is for volume manufacturing and commercial expansion, chiefly scaling production of its Galaxy servers. The round settles the takeover question: Tenstorrent stays independent after preliminary approaches from Intel and Qualcomm earlier in 2026, the latter reported by The Information in June at $8-10B and denied on the record by Keller.",
+   "confidence": "verified",
+   "valuation_musd": 6200,
    "sources": [
     {
-     "title": "Tenstorrent newsroom, Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners at a $2B PRE-money valuation (LG Electronics, Hyundai, Fidelity, Baillie Gifford, Bezos Expeditions participating). The post-money is not stated; $2,693M is the sum of the two company-stated figures, and it replaces an unsourceable $3.2B aggregator mark",
-     "url": "https://tenstorrent.com/en/newsroom/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners",
-     "as_of": "2024-12-02"
+     "title": "Tenstorrent newsroom (company release), Tenstorrent Announces a $1.5B Series E at a $6.2B valuation - led by Trace Capital and Innovation X, with ARK Invest, Fidelity, Morgan Stanley, Sandisk and Tether Investments participating",
+     "url": "https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e",
+     "as_of": "2026-10-19"
     },
     {
-     "title": "PRNewswire (company release), Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners",
-     "url": "https://www.prnewswire.com/news-releases/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners-302319584.html",
+     "title": "Bloomberg, Chipmaker Tenstorrent raises $1.5 billion at $6.2 billion valuation",
+     "url": "https://finance.yahoo.com/technology/ai/articles/chipmaker-tenstorrent-raises-1-5-131144990.html",
+     "as_of": "2026-10-19"
+    },
+    {
+     "title": "Prior mark: Tenstorrent newsroom, Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners at a $2B pre-money valuation",
+     "url": "https://tenstorrent.com/en/newsroom/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners",
      "as_of": "2024-12-02"
     }
    ],
-   "as_of": "2024-12-02",
+   "as_of": "2026-10-19",
    "domain": "tenstorrent.com",
    "region": "us"
   },
@@ -4498,7 +4503,7 @@
    "layer": "data",
    "kind": "company",
    "signal": "RL environments",
-   "role": "Sells enterprises the stack to train their own agents instead of leasing one from a frontier lab: pooled compute, an open reinforcement-learning framework and evaluation tools, offered as a modular marketplace. Founded 2024; ~$150M raised in total and an annualised revenue run rate around $100M. NVIDIA, Intel Capital and Dell Technologies Capital all joined the Series A. Agreed to acquire MOONDREAM, a sub-10-person open-source lab that had raised $4.5M, for undisclosed terms (The Information, 2026-10-13/14): the draw is Moondream's Photon inference engine and its automatic megakernel generation rather than its vision model, folded into Prime Intellect's own stack to make open models cheaper and faster to run on NVIDIA hardware, with co-founders Vik Korrapati and Jay Allen joining to lead inference and multimodal research. Far below the map's floor and no valuation disclosed, so no node and no edge.",
+   "role": "Sells enterprises the stack to train their own agents instead of leasing one from a frontier lab: pooled compute, an open reinforcement-learning framework and evaluation tools, offered as a modular marketplace. Founded 2024; ~$150M raised in total and an annualised revenue run rate around $100M. NVIDIA, Intel Capital and Dell Technologies Capital all joined the Series A. Announced on 2026-10-19 the acquisition of MOONDREAM, a sub-10-person open-source lab that had raised $4.5M, for undisclosed terms (company blog; The Information broke the deal 2026-10-13/14): the draw is Moondream's Photon inference engine and its automatic megakernel generation rather than its vision model, folded into Prime Intellect's own stack to make open models cheaper and faster to run on NVIDIA hardware, with co-founders Vik Korrapati and Jay Allen joining to lead inference and multimodal research. Moondream's own cloud shuts down on 2026-11-13 while the open Moondream 3.1 model moves onto Prime Intellect's inference service. Far below the map's floor and no valuation disclosed, so no node and no edge.",
    "confidence": "verified",
    "valuation_musd": 1000,
    "sources": [
@@ -5507,6 +5512,37 @@
    "ticker": "688825.SS",
    "valuation_live": true,
    "shares_m": 67880
+  },
+  {
+   "id": "town",
+   "name": "Town",
+   "sector": "agent",
+   "layer": "agent",
+   "kind": "company",
+   "signal": "Townies",
+   "role": "Enterprise personal assistant: every employee gets a \"Townie\" with its own @town.com address, wired into email, calendar, Slack, documents, WhatsApp, desktop and web, which triages an inbox, runs scheduled routines and hands work off to other employees' Townies across a team. Founded 2024 by Jean-Denis Greze, previously Plaid's CTO, and Tony Vincent, previously a Google applied-AI product director; out of beta on 2026-06-03 and at a few million dollars of annualised revenue within weeks, on the company's own figure. The $1B comes from a $108M Series B co-led by Forerunner Ventures and Menlo Ventures with a16z and First Round returning, taking total funding past $160M. The round is also the sharp end of the personal-agent scramble: Index Ventures signed a term sheet to lead it at the same $1B in August, then withdrew, as did Conviction, after Instinct - which Index also backs - complained of a conflict of interest (Upstarts Media, 2026-09-03). Neither company would confirm that account. Which models the Townies run on is not disclosed.",
+   "confidence": "verified",
+   "valuation_musd": 1000,
+   "sources": [
+    {
+     "title": "Town (company release via GlobeNewswire), Town Raises $108M Series B at a $1B Valuation to Bring AI Assistants to Whole Teams - co-led by Forerunner Ventures and Menlo Ventures",
+     "url": "https://www.globenewswire.com/news-release/2026/10/19/3383492/0/en/town-raises-108m-series-b-at-a-1b-valuation-to-bring-ai-assistants-to-whole-teams.html",
+     "as_of": "2026-10-19"
+    },
+    {
+     "title": "TechCrunch, AI assistant startup Town nabs unicorn valuation 4 months after launch",
+     "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+     "as_of": "2026-10-19"
+    },
+    {
+     "title": "Prior round: Town (company press page), $55M Series A led by Andreessen Horowitz",
+     "url": "https://www.town.com/press/series-a",
+     "as_of": "2026-06-03"
+    }
+   ],
+   "as_of": "2026-10-19",
+   "domain": "town.com",
+   "region": "us"
   }
  ],
  "verified_at": "2026-10-20"

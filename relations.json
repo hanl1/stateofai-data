@@ -2968,7 +2968,31 @@
    "from": "datapass-2026-10-18",
    "confidence": "reported",
    "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
+  },
+  {
+   "source": "town",
+   "target": "instinct",
+   "type": "rivals",
+   "from": "datapass-2026-10-20",
+   "confidence": "reported",
+   "url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle"
+  },
+  {
+   "source": "modal",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-20",
+   "confidence": "reported",
+   "url": "https://www.techmeme.com/261019/p31#a261019p31"
+  },
+  {
+   "source": "perplexity",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-20",
+   "confidence": "reported",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-"
   }
  ],
- "as_of": "2026-10-17"
+ "as_of": "2026-10-20"
 }
