@@ -1,8 +1,10 @@
 # State of AI World - open data
 
 Every significant AI company, what it is worth, and who funds, supplies,
-hosts and competes with whom. Every valuation and relationship carries a
-source, a confidence grade and an as-of date. Updated daily.
+hosts and competes with whom. Every valuation carries a source, a
+confidence grade and an as-of date. Relationships carry a source URL where
+one is cited; those from the August 2026 starting set are still being
+sourced and have an empty `url`. Updated daily.
 
 This repository is a read-only mirror of the data behind
 [stateofai.world](https://stateofai.world). The map, a page per company and
@@ -14,7 +16,7 @@ automatically after each data update.
 | File | What it holds |
 |---|---|
 | `entities.csv` | One row per company or division: valuation, confidence, as-of date, primary source, page URL |
-| `relations.csv` | One row per relationship: type, how it reads, confidence, source URL |
+| `relations.csv` | One row per relationship: type, how it reads, confidence, source URL, as-of date where recorded |
 | `entities.json` | Full company records: every source, notes, ticker |
 | `relations.json` | Full relationship records |
 | `history.json` | Daily valuation snapshots for every company since 2026-07-27 |

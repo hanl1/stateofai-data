@@ -1,423 +1,429 @@
-source,source_name,type,reads_as,target,target_name,confidence,source_url
-perplexity,Perplexity,routes,routes to,openai,OpenAI,unsourced,
-perplexity,Perplexity,routes,routes to,deepmind,Google DeepMind,unsourced,
-perplexity,Perplexity,routes,routes to,together,Together AI,unsourced,
-perplexity,Perplexity,routes,routes to,openrouter,OpenRouter,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,anthropic,Anthropic,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,openai,OpenAI,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,baseten,Baseten,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,fireworks,Fireworks,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,moonshot,Moonshot AI,unsourced,
-cognition,Cognition,routes,routes to,anthropic,Anthropic,unsourced,
-lovable,Lovable,routes,routes to,anthropic,Anthropic,unsourced,
-replit,Replit,routes,routes to,anthropic,Anthropic,unsourced,
-sierra,Sierra,routes,routes to,openai,OpenAI,unsourced,
-harvey,Harvey,routes,routes to,openai,OpenAI,unsourced,
-harvey,Harvey,routes,routes to,anthropic,Anthropic,unsourced,
-legora,Legora,routes,routes to,anthropic,Anthropic,unsourced,
-abridge,Abridge,routes,routes to,anthropic,Anthropic,unsourced,
-openevidence,OpenEvidence,routes,routes to,openai,OpenAI,unsourced,
-glean,Glean,routes,routes to,anthropic,Anthropic,unsourced,
-notion,Notion,routes,routes to,anthropic,Anthropic,unsourced,
-grammarly,Grammarly/Superhuman,routes,routes to,openai,OpenAI,unsourced,
-venice,Venice,routes,routes to,together,Together AI,unsourced,
-venice,Venice,routes,routes to,nearai,NEAR,unsourced,
-venice,Venice,routes,routes to,openai,OpenAI,unsourced,
-helsing,Helsing,routes,routes to,mistral,Mistral,unsourced,
-openrouter,OpenRouter,routes,routes to,together,Together AI,unsourced,
-openrouter,OpenRouter,routes,routes to,fireworks,Fireworks,unsourced,
-openrouter,OpenRouter,routes,routes to,groq,Groq,unsourced,
-openrouter,OpenRouter,routes,routes to,deepseek,DeepSeek,unsourced,
-openrouter,OpenRouter,routes,routes to,alibaba,Alibaba / Qwen,unsourced,
-vercel,Vercel,routes,routes to,fireworks,Fireworks,unsourced,
-vercel,Vercel,routes,routes to,together,Together AI,unsourced,
-elevenlabs,ElevenLabs,routes,routes to,groq,Groq,unsourced,
-decagon,Decagon,routes,routes to,openai,OpenAI,unsourced,
-openai,OpenAI,trains_on,trains on,scaleai,Scale AI,unsourced,
-anthropic,Anthropic,trains_on,trains on,surge,Surge AI,unsourced,
-metaai,Meta AI / Llama,trains_on,trains on,scaleai,Scale AI,unsourced,
-openai,OpenAI,trains_on,trains on,mercor,Mercor,unsourced,
-anthropic,Anthropic,trains_on,trains on,turing,Turing,unsourced,
-openai,OpenAI,rents,rents from,microsoft,Microsoft,unsourced,
-openai,OpenAI,rents,rents from,oracle,Oracle,unsourced,
-anthropic,Anthropic,rents,rents from,amazon,Amazon,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html
-anthropic,Anthropic,rents,rents from,alphabet,Alphabet,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html
-xai,xAI,builds_on,built on,nvidia,NVIDIA,unsourced,
-mistral,Mistral,builds_on,built on,nvidia,NVIDIA,unsourced,
-deepmind,Google DeepMind,builds_on,built on,tpu,Google TPU,unsourced,
-together,Together AI,rents,rents from,coreweave,CoreWeave,unsourced,
-together,Together AI,rents,rents from,lambda,Lambda,unsourced,
-fireworks,Fireworks,rents,rents from,coreweave,CoreWeave,unsourced,
-baseten,Baseten,rents,rents from,nebius,Nebius,unsourced,
-baseten,Baseten,rents,rents from,coreweave,CoreWeave,unsourced,
-deepinfra,DeepInfra,rents,rents from,crusoe,Crusoe,unsourced,
-modal,Modal,rents,rents from,coreweave,CoreWeave,unsourced,
-replicate,Replicate,rents,rents from,coreweave,CoreWeave,unsourced,
-nearai,NEAR,rents,rents from,nebius,Nebius,unsourced,
-poolside,Poolside,rents,rents from,crusoe,Crusoe,unsourced,
-meta,Meta,rents,rents from,coreweave,CoreWeave,unsourced,
-meta,Meta,rents,rents from,nebius,Nebius,unsourced,
-microsoft,Microsoft,rents,rents from,nebius,Nebius,unsourced,
-deepseek,DeepSeek,rents,rents from,huawei,Huawei,unsourced,
-alibaba,Alibaba / Qwen,rents,rents from,alibabacloud,Alibaba Cloud,unsourced,
-bytedance,ByteDance,rents,rents from,huawei,Huawei,unsourced,
-coreweave,CoreWeave,builds_on,built on,nvidia,NVIDIA,unsourced,
-nebius,Nebius,builds_on,built on,nvidia,NVIDIA,unsourced,
-crusoe,Crusoe,builds_on,built on,nvidia,NVIDIA,unsourced,
-lambda,Lambda,builds_on,built on,nvidia,NVIDIA,unsourced,
-runpod,RunPod,builds_on,built on,nvidia,NVIDIA,unsourced,
-nscale,Nscale,builds_on,built on,amd,AMD,unsourced,
-microsoft,Microsoft,builds_on,built on,nvidia,NVIDIA,unsourced,
-amazon,Amazon,builds_on,built on,trainium,AWS Trainium,unsourced,
-amazon,Amazon,builds_on,built on,nvidia,NVIDIA,unsourced,
-alphabet,Alphabet,builds_on,built on,tpu,Google TPU,unsourced,
-meta,Meta,builds_on,built on,nvidia,NVIDIA,unsourced,
-oracle,Oracle,builds_on,built on,nvidia,NVIDIA,unsourced,
-huawei,Huawei,builds_on,built on,ascend,Huawei Ascend,unsourced,
-alibabacloud,Alibaba Cloud,builds_on,built on,cambricon,Cambricon,unsourced,
-ibm,IBM,builds_on,built on,nvidia,NVIDIA,unsourced,
-cerebras,Cerebras,builds_on,built on,wse,Cerebras WSE-3,unsourced,
-groq,Groq,builds_on,built on,lpu,Groq LPU,unsourced,
-nvidia,NVIDIA,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-amd,AMD,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-broadcom,Broadcom,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-tpu,Google TPU,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-trainium,AWS Trainium,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-qualcomm,Qualcomm,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-etched,Etched,fabricated_by,fabricated by,tsmc,TSMC,unsourced,
-ascend,Huawei Ascend,fabricated_by,fabricated by,smic,SMIC,unsourced,
-cambricon,Cambricon,fabricated_by,fabricated by,smic,SMIC,unsourced,
-biren,Biren,fabricated_by,fabricated by,smic,SMIC,unsourced,
-nvidia,NVIDIA,memory_from,buys memory from,skhynix,SK Hynix,unsourced,
-nvidia,NVIDIA,memory_from,buys memory from,micron,Micron,unsourced,
-nvidia,NVIDIA,packaged_by,packaged by,amkor,Amkor,unsourced,
-nvidia,NVIDIA,designed_with,designed with,synopsys,Synopsys,unsourced,
-amd,AMD,designed_with,designed with,cadence,Cadence,unsourced,
-tsmc,TSMC,equipped_by,equipped by,asml,ASML,unsourced,
-tsmc,TSMC,equipped_by,equipped by,amat,Applied Materials,unsourced,
-tsmc,TSMC,equipped_by,equipped by,lam,Lam Research,unsourced,
-tsmc,TSMC,equipped_by,equipped by,kla,KLA,unsourced,
-tsmc,TSMC,equipped_by,equipped by,tel,Tokyo Electron,unsourced,
-samsung,Samsung,equipped_by,equipped by,asml,ASML,unsourced,
-smic,SMIC,equipped_by,equipped by,naura,Naura,unsourced,
-skhynix,SK Hynix,equipped_by,equipped by,asml,ASML,unsourced,
-micron,Micron,equipped_by,equipped by,lam,Lam Research,unsourced,
-asml,ASML,invests_in,invests in,mistral,Mistral,unsourced,
-nvidia,NVIDIA,invests_in,invests in,coreweave,CoreWeave,unsourced,
-nvidia,NVIDIA,invests_in,invests in,nebius,Nebius,unsourced,
-nvidia,NVIDIA,invests_in,invests in,together,Together AI,unsourced,
-nvidia,NVIDIA,invests_in,invests in,deepinfra,DeepInfra,unsourced,
-nvidia,NVIDIA,invests_in,invests in,cursor,Cursor / Anysphere,unsourced,
-nvidia,NVIDIA,invests_in,invests in,lambda,Lambda,unsourced,
-nvidia,NVIDIA,invests_in,invests in,mistral,Mistral,unsourced,
-nvidia,NVIDIA,invests_in,invests in,groq,Groq,verified,https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
-microsoft,Microsoft,invests_in,invests in,openai,OpenAI,unsourced,
-microsoft,Microsoft,commits_to,commits capacity to,coreweave,CoreWeave,unsourced,
-microsoft,Microsoft,invests_in,invests in,mistral,Mistral,unsourced,
-amazon,Amazon,invests_in,invests in,anthropic,Anthropic,unsourced,
-alphabet,Alphabet,invests_in,invests in,anthropic,Anthropic,unsourced,
-meta,Meta,invests_in,invests in,scaleai,Scale AI,verified,https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html
-oracle,Oracle,commits_to,commits capacity to,openai,OpenAI,unsourced,
-samsung,Samsung,invests_in,invests in,deepinfra,DeepInfra,unsourced,
-tencent,Tencent,invests_in,invests in,moonshot,Moonshot AI,unsourced,
-alibaba,Alibaba / Qwen,invests_in,invests in,moonshot,Moonshot AI,unsourced,
-tencent,Tencent,invests_in,invests in,deepseek,DeepSeek,unsourced,
-alibaba,Alibaba / Qwen,invests_in,invests in,deepseek,DeepSeek,unsourced,
-alphabet,Alphabet,owns,owns,deepmind,Google DeepMind,unsourced,
-alphabet,Alphabet,owns,owns,tpu,Google TPU,unsourced,
-alphabet,Alphabet,owns,owns,waymo,Waymo,unsourced,
-meta,Meta,owns,owns,metaai,Meta AI / Llama,unsourced,
-amazon,Amazon,owns,owns,trainium,AWS Trainium,unsourced,
-groq,Groq,owns,owns,lpu,Groq LPU,unsourced,
-cerebras,Cerebras,owns,owns,wse,Cerebras WSE-3,unsourced,
-huawei,Huawei,owns,owns,ascend,Huawei Ascend,unsourced,
-alibaba,Alibaba / Qwen,owns,owns,alibabacloud,Alibaba Cloud,unsourced,
-coreweave,CoreWeave,owns,owns,wandb,Weights & Biases,unsourced,
-anthropic,Anthropic,rivals,competes with,openai,OpenAI,unsourced,
-openai,OpenAI,rivals,competes with,deepmind,Google DeepMind,unsourced,
-anthropic,Anthropic,rivals,competes with,deepseek,DeepSeek,unsourced,
-cursor,Cursor / Anysphere,rivals,competes with,cognition,Cognition,unsourced,
-harvey,Harvey,rivals,competes with,legora,Legora,unsourced,
-perplexity,Perplexity,rivals,competes with,deepmind,Google DeepMind,unsourced,
-nvidia,NVIDIA,rivals,competes with,amd,AMD,unsourced,
-nvidia,NVIDIA,rivals,competes with,tpu,Google TPU,unsourced,
-tsmc,TSMC,rivals,competes with,samsung,Samsung,unsourced,
-skhynix,SK Hynix,rivals,competes with,micron,Micron,unsourced,
-together,Together AI,rivals,competes with,fireworks,Fireworks,unsourced,
-cerebras,Cerebras,rivals,competes with,groq,Groq,unsourced,
-scaleai,Scale AI,rivals,competes with,surge,Surge AI,unsourced,
-moonshot,Moonshot AI,rivals,competes with,deepseek,DeepSeek,unsourced,
-zhipu,Zhipu / Z.ai,rivals,competes with,minimax,MiniMax,unsourced,
-figure,Figure AI,rivals,competes with,unitree,Unitree,unsourced,
-microsoft,Microsoft,rivals,competes with,amazon,Amazon,unsourced,
-together,Together AI,rivals,competes with,amazon,Amazon,unsourced,
-alphabet,Alphabet,owns,owns,vertex,Google Vertex AI,unsourced,
-amazon,Amazon,owns,owns,bedrock,AWS Bedrock,unsourced,
-microsoft,Microsoft,owns,owns,azureai,Azure AI Foundry,unsourced,
-vercel,Vercel,owns,owns,vercelgw,Vercel AI Gateway,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,together,Together AI,unsourced,
-cursor,Cursor / Anysphere,routes,routes to,bedrock,AWS Bedrock,unsourced,
-perplexity,Perplexity,routes,routes to,vertex,Google Vertex AI,unsourced,
-openrouter,OpenRouter,routes,routes to,bedrock,AWS Bedrock,unsourced,
-openrouter,OpenRouter,routes,routes to,vertex,Google Vertex AI,unsourced,
-vercelgw,Vercel AI Gateway,routes,routes to,together,Together AI,unsourced,
-vercelgw,Vercel AI Gateway,routes,routes to,fireworks,Fireworks,unsourced,
-bedrock,AWS Bedrock,builds_on,built on,trainium,AWS Trainium,unsourced,
-bedrock,AWS Bedrock,builds_on,built on,nvidia,NVIDIA,unsourced,
-vertex,Google Vertex AI,builds_on,built on,tpu,Google TPU,unsourced,
-vertex,Google Vertex AI,builds_on,built on,nvidia,NVIDIA,unsourced,
-microsoft,Microsoft,commits_to,commits capacity to,nebius,Nebius,unsourced,
-meta,Meta,commits_to,commits capacity to,coreweave,CoreWeave,unsourced,
-meta,Meta,commits_to,commits capacity to,nebius,Nebius,unsourced,
-marvell,Marvell,owns,owns,celestial,Celestial AI,unsourced,
-cloudflare,Cloudflare,owns,owns,replicate,Replicate,unsourced,
-nvidia,NVIDIA,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation
-canva,Canva,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation
-alphabet,Alphabet,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/
-nvidia,NVIDIA,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/
-intel,Intel,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/
-databricks,Databricks,invests_in,invests in,langchain,LangChain,verified,https://www.langchain.com/blog/series-b
-alphabet,Alphabet,invests_in,invests in,hippocratic,Hippocratic AI,verified,https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma
-openai,OpenAI,invests_in,invests in,onex,1X,reported,https://sacra.com/c/1x-technologies/
-alphabet,Alphabet,invests_in,invests in,clay,Clay,verified,https://news.crunchbase.com/venture/ai-powered-gtm-startup-clay-valuation-doubles-capitalg/
-tencent,Tencent,invests_in,invests in,stepfun,StepFun,reported,https://www.caproasia.com/2026/05/09/china-ai-startup-stepfun-raised-2-5-billion-in-new-funding-round-plans-hong-kong-ipo-in-2026-june-at-10-billion-valuation-founded-in-2023-by-ex-microsoft-vice-president-jiang-daxin-investors-inc/
-ibm,IBM,invests_in,invests in,writer,Writer,verified,https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation
-skhynix,SK Hynix,invests_in,invests in,etched,Etched,verified,https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/
-anduril,Anduril,builds_on,built on,openai,OpenAI,verified,https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html
-palantir,Palantir,builds_on,built on,anthropic,Anthropic,verified,https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/
-palantir,Palantir,rents,rents from,amazon,Amazon,verified,https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/
-alphabet,Alphabet,invests_in,invests in,ssi,Safe Superintelligence,reported,https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html
-nvidia,NVIDIA,invests_in,invests in,ssi,Safe Superintelligence,reported,https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html
-ssi,Safe Superintelligence,rents,rents from,alphabet,Alphabet,verified,https://www.datacenterdynamics.com/en/news/ai-startup-safe-superintelligence-to-use-googles-tpu-chips-for-research/
-lightmatter,Lightmatter,fabricated_by,fabricated by,gf,GlobalFoundries,verified,https://www.datacenterdynamics.com/en/news/lightmatter-turns-to-globalfoundries-to-bring-photonics-interconnect-to-market-in-2025/
-coreweave,CoreWeave,builds_on,built on,vastdata,VAST Data,verified,https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave
-tenstorrent,Tenstorrent,fabricated_by,fabricated by,samsung,Samsung,verified,https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet
-samsung,Samsung,invests_in,invests in,tenstorrent,Tenstorrent,verified,https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/
-nvidia,NVIDIA,invests_in,invests in,tml,Thinking Machines,reported,https://www.analyticsinsight.net/news/nvidia-invests-in-thinking-machines-lab-plans-1gw-ai-chip-deployment-worth-billions
-amd,AMD,invests_in,invests in,tml,Thinking Machines,reported,https://www.itiger.com/hans/news/1174874464
-nvidia,NVIDIA,invests_in,invests in,reflection,Reflection AI,verified,https://aibusiness.com/foundation-models/reflection-ai-raises-2b-nvidia-leads-open-source-push
-nvidia,NVIDIA,invests_in,invests in,worldlabs,World Labs,verified,https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/
-amd,AMD,invests_in,invests in,worldlabs,World Labs,verified,https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/
-snowflake,Snowflake,builds_on,built on,anthropic,Anthropic,verified,https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/
-openai,OpenAI,invests_in,invests in,pi,Physical Intelligence,verified,https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html
-nvidia,NVIDIA,invests_in,invests in,skild,Skild AI,verified,https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B
-samsung,Samsung,invests_in,invests in,skild,Skild AI,verified,https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B
-nvidia,NVIDIA,invests_in,invests in,nuro,Nuro,verified,https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships
-nuro,Nuro,builds_on,built on,nvidia,NVIDIA,verified,https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round
-appliedint,Applied Intuition,builds_on,built on,openai,OpenAI,verified,https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html
-nvidia,NVIDIA,builds_on,built on,arm,Arm,verified,https://www.nvidia.com/en-us/data-center/grace-cpu/
-oracle,Oracle,invests_in,invests in,cohere,Cohere,verified,https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/
-nvidia,NVIDIA,invests_in,invests in,cohere,Cohere,verified,https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/
-cohere,Cohere,rents,rents from,oracle,Oracle,verified,https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call
-alphabet,Alphabet,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html
-amazon,Amazon,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html
-nvidia,NVIDIA,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html
-nvidia,NVIDIA,invests_in,invests in,runway,Runway,verified,https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/
-alphabet,Alphabet,invests_in,invests in,runway,Runway,verified,https://aibusiness.com/ml/google-nvidia-back-ai-video-lab-runway-in-141m-funding-round
-nvidia,NVIDIA,invests_in,invests in,synthesia,Synthesia,verified,https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html
-alphabet,Alphabet,invests_in,invests in,synthesia,Synthesia,verified,https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html
-microsoft,Microsoft,routes,routes to,suno,Suno,verified,https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/
-astera,Astera Labs,builds_on,built on,nvidia,NVIDIA,verified,https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion
-intel,Intel,invests_in,invests in,sambanova,SambaNova,verified,https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html
-amd,AMD,invests_in,invests in,luma,Luma AI,verified,https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html
-ramp,Ramp,builds_on,built on,openai,OpenAI,verified,https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html
-shieldai,Shield AI,builds_on,built on,palantir,Palantir,verified,https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html
-abnormal,Abnormal,builds_on,built on,microsoft,Microsoft,verified,https://abnormal.ai/partners/microsoft
-baidu,Baidu,rivals,competes with,alibaba,Alibaba / Qwen,unsourced,
-clio,Clio,builds_on,built on,microsoft,Microsoft,verified,https://www.clio.com/features/legal-ai-software/
-cyera,Cyera,builds_on,built on,microsoft,Microsoft,verified,https://www.cyera.com/press-releases/cyera-secures-the-agentic-ai-era-in-collaboration-with-microsoft-purview-sentinel-entra-and-copilot-studio
-figma,Figma,rivals,competes with,canva,Canva,unsourced,
-figma,Figma,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation
-sensetime,SenseTime,rivals,competes with,zhipu,Zhipu / Z.ai,unsourced,
-iflytek,iFlytek,builds_on,built on,ascend,Huawei Ascend,verified,https://www.huaweicentral.com/huawei-ai-chips-powered-new-iflytek-llms-can-rival-openai-deepseek/
-tempus,Tempus AI,rents,rents from,alphabet,Alphabet,reported,https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/
-alphabet,Alphabet,invests_in,invests in,tempus,Tempus AI,reported,https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/
-horizon,Horizon Robotics,rivals,competes with,nvidia,NVIDIA,reported,https://techcrunch.com/?p=2090070
-fal,Fal,builds_on,built on,bfl,Black Forest Labs,reported,https://sacra.com/c/fal-ai/
-manus,Manus / Butterfly Effect,builds_on,built on,anthropic,Anthropic,reported,https://theairankings.com/butterfly-effect/
-manus,Manus / Butterfly Effect,builds_on,built on,alibaba,Alibaba / Qwen,reported,https://theairankings.com/butterfly-effect/
-saronic,Saronic,rivals,competes with,anduril,Anduril,unsourced,
-amd,AMD,invests_in,invests in,vultr,Vultr,verified,https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html
-gamma,Gamma,rivals,competes with,canva,Canva,unsourced,
-microsoft,Microsoft,invests_in,invests in,dmatrix,d-Matrix,verified,https://finance.yahoo.com/news/microsoft-backed-d-matrix-raises-213111081.html
-dmatrix,d-Matrix,rivals,competes with,nvidia,NVIDIA,reported,https://techstartups.com/2025/11/12/ai-chip-startup-d-matrix-raises-275m-at-2b-valuation-to-challenge-nvidias-grip-on-ai-inference/
-pony,Pony.ai,rivals,competes with,waymo,Waymo,unsourced,
-anthropic,Anthropic,commits_to,commits capacity to,fluidstack,Fluidstack,verified,https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/
-alphabet,Alphabet,commits_to,commits capacity to,fluidstack,Fluidstack,reported,https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/
-nvidia,NVIDIA,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/
-amd,AMD,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/
-intel,Intel,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/
-gf,GlobalFoundries,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/
-alphabet,Alphabet,invests_in,invests in,apptronik,Apptronik,verified,https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html
-apptronik,Apptronik,builds_on,built on,deepmind,Google DeepMind,verified,https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html
-furiosa,FuriosaAI,rivals,competes with,nvidia,NVIDIA,reported,https://www.seoulz.com/furiosaai-korea-ai-chip/
-arm,Arm,invests_in,invests in,rebellions,Rebellions,verified,https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
-samsung,Samsung,invests_in,invests in,rebellions,Rebellions,verified,https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
-radai,Rad AI,builds_on,built on,alphabet,Alphabet,reported,https://research.contrary.com/company/rad-ai
-radai,Rad AI,rents,rents from,amazon,Amazon,reported,https://research.contrary.com/company/rad-ai
-deepl,DeepL,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html
-heygen,HeyGen,rivals,competes with,synthesia,Synthesia,reported,https://sacra.com/c/heygen/
-moorethreads,Moore Threads,rivals,competes with,nvidia,NVIDIA,reported,https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut
-ambience,Ambience,rivals,competes with,abridge,Abridge,reported,https://www.beckershospitalreview.com/healthcare-information-technology/ai/ambience-healthcare-reaches-1-25b-valuation/
-openai,OpenAI,invests_in,invests in,ambience,Ambience,verified,https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems
-openai,OpenAI,invests_in,invests in,speak,Speak,verified,https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud
-speak,Speak,builds_on,built on,openai,OpenAI,reported,https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud
-alphabet,Alphabet,invests_in,invests in,alphasense,AlphaSense,reported,https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html
-alphabet,Alphabet,owns,owns,wiz,Wiz,verified,https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/
-nvidia,NVIDIA,invests_in,invests in,sakana,Sakana AI,reported,https://finance.yahoo.com/news/sakana-ai-raises-135m-series-115207368.html
-deepgram,Deepgram,rivals,competes with,elevenlabs,ElevenLabs,reported,https://uk.marketscreener.com/news/deepgram-inc-announced-that-it-has-received-130-million-in-funding-from-a-group-of-investors-ce7e58dbd088f423
-tencent,Tencent,invests_in,invests in,manus,Manus / Butterfly Effect,verified,https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/
-tencent,Tencent,invests_in,invests in,lovable,Lovable,verified,https://lovable.dev/blog/series-c
-samsung,Samsung,invests_in,invests in,mistral,Mistral,verified,https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
-nvidia,NVIDIA,owns,owns,huggingface,Hugging Face,reported,https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm
-nvidia,NVIDIA,invests_in,invests in,poolside,Poolside,reported,https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says
-bedrock,AWS Bedrock,builds_on,built on,openai,OpenAI,verified,https://www.aboutamazon.com/news/aws/bedrock-openai-models
-bedrock,AWS Bedrock,builds_on,built on,anthropic,Anthropic,verified,https://aws.amazon.com/bedrock/anthropic/
-amazon,Amazon,designed_with,designed with,qualcomm,Qualcomm,verified,https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html
-figure,Figure AI,rents,rents from,nscale,Nscale,verified,https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership
-nscale,Nscale,invests_in,invests in,figure,Figure AI,verified,https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership
-palantir,Palantir,rents,rents from,nebius,Nebius,verified,https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers
-groq,Groq,builds_on,built on,nvidia,NVIDIA,verified,https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/
-arm,Arm,invests_in,invests in,gimlet,Gimlet Labs,verified,https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai
-microsoft,Microsoft,invests_in,invests in,gimlet,Gimlet Labs,verified,https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai
-intel,Intel,invests_in,invests in,higgsfield,Higgsfield,verified,https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html
-stripe,Stripe,owns,owns,openrouter,OpenRouter,reported,https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter
-nvidia,NVIDIA,invests_in,invests in,nscale,Nscale,verified,https://www.nscale.com/press-releases/nscale-series-c
-anthropic,Anthropic,rents,rents from,nscale,Nscale,reported,https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html
-tencent,Tencent,invests_in,invests in,enflame,Enflame,verified,https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai
-tencent,Tencent,builds_on,built on,enflame,Enflame,verified,https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html
-qualcomm,Qualcomm,owns,owns,modular,Modular,verified,https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html
-cohere,Cohere,builds_on,built on,amd,AMD,verified,https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd
-nvidia,NVIDIA,invests_in,invests in,vastdata,VAST Data,verified,https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html
-nvidia,NVIDIA,invests_in,invests in,fireworks,Fireworks,verified,https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html
-alphabet,Alphabet,invests_in,invests in,sierra,Sierra,verified,https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/
-nvidia,NVIDIA,invests_in,invests in,legora,Legora,verified,https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors
-databricks,Databricks,invests_in,invests in,replit,Replit,verified,https://replit.com/news/funding-announcement
-spacex,SpaceX,owns,owns,xai,xAI,verified,https://www.cnbc.com/2026/02/02/spacex-xai-merger.html
-spacex,SpaceX,owns,owns,cursor,Cursor / Anysphere,verified,https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html
-bytedance,ByteDance,owns,owns,anewlabs,Anew Labs,reported,https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery
-nvidia,NVIDIA,invests_in,invests in,upscale,Upscale AI,reported,https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/
-qualcomm,Qualcomm,invests_in,invests in,upscale,Upscale AI,verified,https://www.prnewswire.com/news-releases/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards-302558353.html
-upscale,Upscale AI,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon-302710175.html
-nvidia,NVIDIA,invests_in,invests in,crusoe,Crusoe,verified,https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding
-amazon,Amazon,invests_in,invests in,luma,Luma AI,verified,https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html
-tencent,Tencent,invests_in,invests in,naive,Naive AI,reported,https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation
-nvidia,NVIDIA,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/
-amazon,Amazon,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/
-qualcomm,Qualcomm,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/
-openai,OpenAI,invests_in,invests in,chai,Chai Discovery,verified,https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design
-microsoft,Microsoft,rents,rents from,lambda,Lambda,verified,https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus
-nvidia,NVIDIA,invests_in,invests in,elevenlabs,ElevenLabs,verified,https://elevenlabs.io/blog/500m-arr-and-new-investors
-verda,Verda,builds_on,built on,nvidia,NVIDIA,verified,https://verda.com/blog/nvidia-vr200-r200-early-deployments
-microsoft,Microsoft,rents,rents from,nscale,Nscale,verified,https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html
-alphabet,Alphabet,invests_in,invests in,snorkel,Snorkel AI,reported,https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html
-nvidia,NVIDIA,invests_in,invests in,primeintellect,Prime Intellect,verified,https://www.primeintellect.ai/blog/series-a
-intel,Intel,invests_in,invests in,primeintellect,Prime Intellect,verified,https://www.primeintellect.ai/blog/series-a
-ramp,Ramp,trains_on,trains on,primeintellect,Prime Intellect,reported,https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
-tml,Thinking Machines,rents,rents from,crusoe,Crusoe,verified,https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership
-openevidence,OpenEvidence,routes,routes to,anthropic,Anthropic,verified,https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/
-nvidia,NVIDIA,invests_in,invests in,basecamp,Basecamp Research,verified,https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html
-anthropic,Anthropic,invests_in,invests in,basecamp,Basecamp Research,verified,https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html
-brahma,Brahma AI,builds_on,built on,alphabet,Alphabet,verified,"https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises"
-alibaba,Alibaba / Qwen,invests_in,invests in,pixverse,PixVerse,reported,https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/
-anthropic,Anthropic,rents,rents from,akamai,Akamai,verified,https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm
-nvidia,NVIDIA,invests_in,invests in,mirendil,Mirendil,reported,https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html
-mirendil,Mirendil,rents,rents from,alphabet,Alphabet,reported,https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/
-arm,Arm,invests_in,invests in,positron,Positron,verified,https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia
-positron,Positron,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html
-positron,Positron,rents,rents from,oracle,Oracle,reported,https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html
-nvidia,NVIDIA,invests_in,invests in,baseten,Baseten,reported,https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/
-microsoft,Microsoft,invests_in,invests in,vapi,Vapi,reported,https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html
-instinct,Instinct,rivals,competes with,manus,Manus / Butterfly Effect,reported,https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/
-instinct,Instinct,rivals,competes with,openai,OpenAI,reported,https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/
-amd,AMD,owns,owns,worldlabs,World Labs,reported,https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute
-micron,Micron,invests_in,invests in,sima,SiMa.ai,verified,https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/
-sima,SiMa.ai,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/
-sima,SiMa.ai,builds_on,built on,arm,Arm,reported,https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/
-gimlet,Gimlet Labs,builds_on,built on,cerebras,Cerebras,verified,https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment
-anthropic,Anthropic,rents,rents from,microsoft,Microsoft,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html
-anthropic,Anthropic,rents,rents from,spacex,SpaceX,verified,https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm
-alphabet,Alphabet,invests_in,invests in,bedrockrobotics,Bedrock Robotics,reported,https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/
-nvidia,NVIDIA,invests_in,invests in,bedrockrobotics,Bedrock Robotics,reported,https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/
-amazon,Amazon,designed_with,designed with,synopsys,Synopsys,verified,https://www.morningstar.com/news/pr-newswire/20260930sf60430/synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-for-custom-silicon-collaboration-also-extends-to-cloud-and-ai-powered-engineering
-qualcomm,Qualcomm,invests_in,invests in,lumilens,Lumilens,reported,https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center
-alphabet,Alphabet,invests_in,invests in,celero,Celero Communications,reported,https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon
-intel,Intel,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/
-samsung,Samsung,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/
-amd,AMD,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/
-arm,Arm,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/
-meta,Meta,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/
-tencent,Tencent,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo
-baidu,Baidu,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo
-zhipu,Zhipu / Z.ai,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo
-anthropic,Anthropic,rents,rents from,broadcom,Broadcom,reported,https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126
-broadcom,Broadcom,commits_to,commits capacity to,anthropic,Anthropic,reported,https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126
-tencent,Tencent,rents,rents from,oracle,Oracle,reported,https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/
-synopsys,Synopsys,builds_on,built on,openai,OpenAI,verified,https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
-modal,Modal,rivals,competes with,baseten,Baseten,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/
-modal,Modal,rivals,competes with,fireworks,Fireworks,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/
-modal,Modal,rivals,competes with,fal,Fal,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/
-factory,Factory,rivals,competes with,cognition,Cognition,reported,https://www.benzinga.com/markets/private-markets/26/09/62093214/factory-fires-advisor-accuses-cognition-of-seeking-product-information
-stripe,Stripe,invests_in,invests in,supabase,Supabase,reported,https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure
-alphabet,Alphabet,invests_in,invests in,supabase,Supabase,reported,https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/
-cognition,Cognition,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
-suno,Suno,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
-ramp,Ramp,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
-palebluedot,PaleBlueDot AI,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html
-nebius,Nebius,builds_on,built on,ai21,AI21,reported,https://www.calcalistech.com/ctechnews/article/by34n00tjfl
-anthropic,Anthropic,rents,rents from,lambda,Lambda,reported,https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda
-nvidia,NVIDIA,invests_in,invests in,wayve,Wayve,verified,https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html
-microsoft,Microsoft,invests_in,invests in,wayve,Wayve,verified,https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html
-nvidia,NVIDIA,invests_in,invests in,fieldai,FieldAI,verified,https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html
-intel,Intel,invests_in,invests in,fieldai,FieldAI,reported,https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/
-amd,AMD,invests_in,invests in,vinci,Vinci,reported,https://wsau.com/2026/10/06/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/
-nvidia,NVIDIA,invests_in,invests in,nous,Nous Research,reported,https://finance.yahoo.com/technology/ai/articles/nous-research-90m-raise-nvidia-084121035.html
-microsoft,Microsoft,invests_in,invests in,nous,Nous Research,reported,https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai
-samsung,Samsung,invests_in,invests in,nous,Nous Research,reported,https://cryptobriefing.com/nous-research-series-b-hermes-agent/
-tsmc,TSMC,fabricated_by,fabricated by,gf,GlobalFoundries,verified,https://www.investing.com/news/stock-market-news/globalfoundries-to-make-key-ai-chip-component-for-tsmc-4939071
-fluidstack,Fluidstack,rents,rents from,hut8,Hut 8,verified,https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion
-alphabet,Alphabet,commits_to,commits capacity to,hut8,Hut 8,verified,https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm
-nvidia,NVIDIA,rents,rents from,hut8,Hut 8,reported,https://thenextweb.com/news/nvidia-50bn-texas-data-centre
-cohere,Cohere,rents,rents from,boostrun,Boost Run,verified,https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm
-boostrun,Boost Run,builds_on,built on,nvidia,NVIDIA,verified,https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining
-nvidia,NVIDIA,invests_in,invests in,firmus,Firmus,verified,https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia
-firmus,Firmus,builds_on,built on,nvidia,NVIDIA,verified,https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific
-vercel,Vercel,routes,routes to,typesafe,TypeSafe AI,verified,https://vercel.com/blog/ai-gateway-jev-model-launch
-anthropic,Anthropic,rents,rents from,terawulf,TeraWulf,verified,https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm
-fluidstack,Fluidstack,rents,rents from,terawulf,TeraWulf,verified,https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner
-alphabet,Alphabet,commits_to,commits capacity to,terawulf,TeraWulf,verified,https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm
-microsoft,Microsoft,rents,rents from,iren,IREN,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft
-nvidia,NVIDIA,rents,rents from,iren,IREN,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia
-iren,IREN,builds_on,built on,nvidia,NVIDIA,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft
-coreweave,CoreWeave,rents,rents from,applieddigital,Applied Digital,verified,https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with
-amazon,Amazon,rents,rents from,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm
-fluidstack,Fluidstack,rents,rents from,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm
-alphabet,Alphabet,commits_to,commits capacity to,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm
-coreweave,CoreWeave,rents,rents from,corescientific,Core Scientific,verified,https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm
-microsoft,Microsoft,owns,owns,maia,Microsoft Maia,verified,https://www.techmeme.com/261012/p29
-microsoft,Microsoft,builds_on,built on,maia,Microsoft Maia,verified,https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/
-maia,Microsoft Maia,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack
-microsoft,Microsoft,routes,routes to,anthropic,Anthropic,verified,https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/
-alphabet,Alphabet,invests_in,invests in,pi,Physical Intelligence,reported,https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding
-nvidia,NVIDIA,invests_in,invests in,decart,Decart,reported,https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation
-anthropic,Anthropic,rents,rents from,iren,IREN,reported,https://www.investing.com/news/stock-market-news/iren-stock-jumps-on-multiyear-cloud-deal-with-anthropic-93CH-4943757
-cxmt,CXMT,rivals,competes with,micron,Micron,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron
-cxmt,CXMT,rivals,competes with,skhynix,SK Hynix,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron
-cxmt,CXMT,rivals,competes with,samsung,Samsung,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron
-scaleai,Scale AI,builds_on,built on,nvidia,NVIDIA,verified,https://scale.com/blog/scale-partners-with-nvidia
-reflection,Reflection AI,builds_on,built on,nvidia,NVIDIA,verified,https://reflection.ai/blog/introducing-beam
-reflection,Reflection AI,rents,rents from,amazon,Amazon,verified,https://reflection.ai/blog/introducing-beam
-reflection,Reflection AI,rents,rents from,alphabet,Alphabet,verified,https://reflection.ai/blog/introducing-beam
-meta,Meta,owns,owns,mtia,Meta MTIA,verified,https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/
-meta,Meta,builds_on,built on,mtia,Meta MTIA,verified,https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference
-meta,Meta,designed_with,designed with,broadcom,Broadcom,verified,https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology
-mtia,Meta MTIA,fabricated_by,fabricated by,tsmc,TSMC,reported,https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/
-town,Town,rivals,competes with,instinct,Instinct,reported,https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle
-modal,Modal,builds_on,built on,nvidia,NVIDIA,reported,https://www.techmeme.com/261019/p31#a261019p31
-perplexity,Perplexity,builds_on,built on,nvidia,NVIDIA,reported,https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-
-anthropic,Anthropic,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/
-openai,OpenAI,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/
-nvidia,NVIDIA,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/
-cursor,Cursor / Anysphere,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/
-cognition,Cognition,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/
-samsung,Samsung,invests_in,invests in,eka,Eka Robotics,reported,https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/
+source,source_name,type,reads_as,target,target_name,confidence,source_url,as_of
+perplexity,Perplexity,routes,routes to,openai,OpenAI,unsourced,,
+perplexity,Perplexity,routes,routes to,deepmind,Google DeepMind,unsourced,,
+perplexity,Perplexity,routes,routes to,together,Together AI,unsourced,,
+perplexity,Perplexity,routes,routes to,openrouter,OpenRouter,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,anthropic,Anthropic,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,openai,OpenAI,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,baseten,Baseten,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,fireworks,Fireworks,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,moonshot,Moonshot AI,unsourced,,
+cognition,Cognition,routes,routes to,anthropic,Anthropic,unsourced,,
+lovable,Lovable,routes,routes to,anthropic,Anthropic,unsourced,,
+replit,Replit,routes,routes to,anthropic,Anthropic,unsourced,,
+sierra,Sierra,routes,routes to,openai,OpenAI,unsourced,,
+harvey,Harvey,routes,routes to,openai,OpenAI,unsourced,,
+harvey,Harvey,routes,routes to,anthropic,Anthropic,unsourced,,
+legora,Legora,routes,routes to,anthropic,Anthropic,unsourced,,
+abridge,Abridge,routes,routes to,anthropic,Anthropic,unsourced,,
+openevidence,OpenEvidence,routes,routes to,openai,OpenAI,unsourced,,
+glean,Glean,routes,routes to,anthropic,Anthropic,unsourced,,
+notion,Notion,routes,routes to,anthropic,Anthropic,unsourced,,
+grammarly,Grammarly/Superhuman,routes,routes to,openai,OpenAI,unsourced,,
+venice,Venice,routes,routes to,together,Together AI,unsourced,,
+venice,Venice,routes,routes to,nearai,NEAR,unsourced,,
+venice,Venice,routes,routes to,openai,OpenAI,unsourced,,
+helsing,Helsing,routes,routes to,mistral,Mistral,unsourced,,
+openrouter,OpenRouter,routes,routes to,together,Together AI,unsourced,,
+openrouter,OpenRouter,routes,routes to,fireworks,Fireworks,unsourced,,
+openrouter,OpenRouter,routes,routes to,groq,Groq,unsourced,,
+openrouter,OpenRouter,routes,routes to,deepseek,DeepSeek,unsourced,,
+openrouter,OpenRouter,routes,routes to,alibaba,Alibaba / Qwen,unsourced,,
+vercel,Vercel,routes,routes to,fireworks,Fireworks,unsourced,,
+vercel,Vercel,routes,routes to,together,Together AI,unsourced,,
+elevenlabs,ElevenLabs,routes,routes to,groq,Groq,unsourced,,
+decagon,Decagon,routes,routes to,openai,OpenAI,unsourced,,
+openai,OpenAI,trains_on,trains on,scaleai,Scale AI,unsourced,,
+anthropic,Anthropic,trains_on,trains on,surge,Surge AI,unsourced,,
+metaai,Meta AI / Llama,trains_on,trains on,scaleai,Scale AI,unsourced,,
+openai,OpenAI,trains_on,trains on,mercor,Mercor,unsourced,,
+anthropic,Anthropic,trains_on,trains on,turing,Turing,unsourced,,
+openai,OpenAI,rents,rents from,microsoft,Microsoft,verified,https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/,2025-10-28
+openai,OpenAI,rents,rents from,oracle,Oracle,verified,https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm,2026-02-02
+anthropic,Anthropic,rents,rents from,amazon,Amazon,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html,
+anthropic,Anthropic,rents,rents from,alphabet,Alphabet,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html,
+xai,xAI,builds_on,built on,nvidia,NVIDIA,unsourced,,
+mistral,Mistral,builds_on,built on,nvidia,NVIDIA,unsourced,,
+deepmind,Google DeepMind,builds_on,built on,tpu,Google TPU,unsourced,,
+together,Together AI,rents,rents from,coreweave,CoreWeave,unsourced,,
+together,Together AI,rents,rents from,lambda,Lambda,unsourced,,
+fireworks,Fireworks,rents,rents from,coreweave,CoreWeave,unsourced,,
+baseten,Baseten,rents,rents from,nebius,Nebius,unsourced,,
+baseten,Baseten,rents,rents from,coreweave,CoreWeave,unsourced,,
+deepinfra,DeepInfra,rents,rents from,crusoe,Crusoe,unsourced,,
+modal,Modal,rents,rents from,coreweave,CoreWeave,unsourced,,
+replicate,Replicate,rents,rents from,coreweave,CoreWeave,unsourced,,
+nearai,NEAR,rents,rents from,nebius,Nebius,unsourced,,
+poolside,Poolside,rents,rents from,crusoe,Crusoe,unsourced,,
+meta,Meta,rents,rents from,coreweave,CoreWeave,unsourced,,
+meta,Meta,rents,rents from,nebius,Nebius,unsourced,,
+microsoft,Microsoft,rents,rents from,nebius,Nebius,unsourced,,
+deepseek,DeepSeek,rents,rents from,huawei,Huawei,unsourced,,
+alibaba,Alibaba / Qwen,rents,rents from,alibabacloud,Alibaba Cloud,unsourced,,
+bytedance,ByteDance,rents,rents from,huawei,Huawei,unsourced,,
+coreweave,CoreWeave,builds_on,built on,nvidia,NVIDIA,unsourced,,
+nebius,Nebius,builds_on,built on,nvidia,NVIDIA,unsourced,,
+crusoe,Crusoe,builds_on,built on,nvidia,NVIDIA,unsourced,,
+lambda,Lambda,builds_on,built on,nvidia,NVIDIA,unsourced,,
+runpod,RunPod,builds_on,built on,nvidia,NVIDIA,unsourced,,
+nscale,Nscale,builds_on,built on,amd,AMD,unsourced,,
+microsoft,Microsoft,builds_on,built on,nvidia,NVIDIA,unsourced,,
+amazon,Amazon,builds_on,built on,trainium,AWS Trainium,unsourced,,
+amazon,Amazon,builds_on,built on,nvidia,NVIDIA,unsourced,,
+alphabet,Alphabet,builds_on,built on,tpu,Google TPU,unsourced,,
+meta,Meta,builds_on,built on,nvidia,NVIDIA,unsourced,,
+oracle,Oracle,builds_on,built on,nvidia,NVIDIA,unsourced,,
+huawei,Huawei,builds_on,built on,ascend,Huawei Ascend,unsourced,,
+alibabacloud,Alibaba Cloud,builds_on,built on,cambricon,Cambricon,unsourced,,
+ibm,IBM,builds_on,built on,nvidia,NVIDIA,unsourced,,
+cerebras,Cerebras,builds_on,built on,wse,Cerebras WSE-3,unsourced,,
+groq,Groq,builds_on,built on,lpu,Groq LPU,unsourced,,
+nvidia,NVIDIA,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+amd,AMD,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+broadcom,Broadcom,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+tpu,Google TPU,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+trainium,AWS Trainium,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+qualcomm,Qualcomm,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+etched,Etched,fabricated_by,fabricated by,tsmc,TSMC,unsourced,,
+ascend,Huawei Ascend,fabricated_by,fabricated by,smic,SMIC,unsourced,,
+cambricon,Cambricon,fabricated_by,fabricated by,smic,SMIC,unsourced,,
+biren,Biren,fabricated_by,fabricated by,smic,SMIC,unsourced,,
+nvidia,NVIDIA,memory_from,buys memory from,skhynix,SK Hynix,unsourced,,
+nvidia,NVIDIA,memory_from,buys memory from,micron,Micron,unsourced,,
+nvidia,NVIDIA,packaged_by,packaged by,amkor,Amkor,unsourced,,
+nvidia,NVIDIA,designed_with,designed with,synopsys,Synopsys,unsourced,,
+amd,AMD,designed_with,designed with,cadence,Cadence,unsourced,,
+tsmc,TSMC,equipped_by,equipped by,asml,ASML,unsourced,,
+tsmc,TSMC,equipped_by,equipped by,amat,Applied Materials,unsourced,,
+tsmc,TSMC,equipped_by,equipped by,lam,Lam Research,unsourced,,
+tsmc,TSMC,equipped_by,equipped by,kla,KLA,unsourced,,
+tsmc,TSMC,equipped_by,equipped by,tel,Tokyo Electron,unsourced,,
+samsung,Samsung,equipped_by,equipped by,asml,ASML,unsourced,,
+smic,SMIC,equipped_by,equipped by,naura,Naura,unsourced,,
+skhynix,SK Hynix,equipped_by,equipped by,asml,ASML,unsourced,,
+micron,Micron,equipped_by,equipped by,lam,Lam Research,unsourced,,
+asml,ASML,invests_in,invests in,mistral,Mistral,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,coreweave,CoreWeave,verified,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000008/primary_doc.xml,2026-01-26
+nvidia,NVIDIA,invests_in,invests in,nebius,Nebius,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,together,Together AI,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,deepinfra,DeepInfra,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,cursor,Cursor / Anysphere,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,lambda,Lambda,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,mistral,Mistral,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,groq,Groq,verified,https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/,
+microsoft,Microsoft,invests_in,invests in,openai,OpenAI,verified,https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/,2025-10-28
+microsoft,Microsoft,commits_to,commits spend to,coreweave,CoreWeave,verified,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm,2026-03-02
+microsoft,Microsoft,invests_in,invests in,mistral,Mistral,unsourced,,
+amazon,Amazon,invests_in,invests in,anthropic,Anthropic,verified,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm,2026-07-31
+alphabet,Alphabet,invests_in,invests in,anthropic,Anthropic,verified,https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/,2026-04-24
+meta,Meta,invests_in,invests in,scaleai,Scale AI,verified,https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html,
+openai,OpenAI,commits_to,commits spend to,oracle,Oracle,verified,https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm,2026-02-02
+samsung,Samsung,invests_in,invests in,deepinfra,DeepInfra,unsourced,,
+tencent,Tencent,invests_in,invests in,moonshot,Moonshot AI,unsourced,,
+alibaba,Alibaba / Qwen,invests_in,invests in,moonshot,Moonshot AI,unsourced,,
+tencent,Tencent,invests_in,invests in,deepseek,DeepSeek,unsourced,,
+alibaba,Alibaba / Qwen,invests_in,invests in,deepseek,DeepSeek,unsourced,,
+alphabet,Alphabet,owns,owns,deepmind,Google DeepMind,unsourced,,
+alphabet,Alphabet,owns,owns,tpu,Google TPU,unsourced,,
+alphabet,Alphabet,owns,owns,waymo,Waymo,unsourced,,
+meta,Meta,owns,owns,metaai,Meta AI / Llama,unsourced,,
+amazon,Amazon,owns,owns,trainium,AWS Trainium,unsourced,,
+groq,Groq,owns,owns,lpu,Groq LPU,unsourced,,
+cerebras,Cerebras,owns,owns,wse,Cerebras WSE-3,unsourced,,
+huawei,Huawei,owns,owns,ascend,Huawei Ascend,unsourced,,
+alibaba,Alibaba / Qwen,owns,owns,alibabacloud,Alibaba Cloud,unsourced,,
+coreweave,CoreWeave,owns,owns,wandb,Weights & Biases,unsourced,,
+anthropic,Anthropic,rivals,competes with,openai,OpenAI,unsourced,,
+openai,OpenAI,rivals,competes with,deepmind,Google DeepMind,unsourced,,
+anthropic,Anthropic,rivals,competes with,deepseek,DeepSeek,unsourced,,
+cursor,Cursor / Anysphere,rivals,competes with,cognition,Cognition,unsourced,,
+harvey,Harvey,rivals,competes with,legora,Legora,unsourced,,
+perplexity,Perplexity,rivals,competes with,deepmind,Google DeepMind,unsourced,,
+nvidia,NVIDIA,rivals,competes with,amd,AMD,unsourced,,
+nvidia,NVIDIA,rivals,competes with,tpu,Google TPU,unsourced,,
+tsmc,TSMC,rivals,competes with,samsung,Samsung,unsourced,,
+skhynix,SK Hynix,rivals,competes with,micron,Micron,unsourced,,
+together,Together AI,rivals,competes with,fireworks,Fireworks,unsourced,,
+cerebras,Cerebras,rivals,competes with,groq,Groq,unsourced,,
+scaleai,Scale AI,rivals,competes with,surge,Surge AI,unsourced,,
+moonshot,Moonshot AI,rivals,competes with,deepseek,DeepSeek,unsourced,,
+zhipu,Zhipu / Z.ai,rivals,competes with,minimax,MiniMax,unsourced,,
+figure,Figure AI,rivals,competes with,unitree,Unitree,unsourced,,
+microsoft,Microsoft,rivals,competes with,amazon,Amazon,unsourced,,
+together,Together AI,rivals,competes with,amazon,Amazon,unsourced,,
+alphabet,Alphabet,owns,owns,vertex,Google Vertex AI,unsourced,,
+amazon,Amazon,owns,owns,bedrock,AWS Bedrock,unsourced,,
+microsoft,Microsoft,owns,owns,azureai,Azure AI Foundry,unsourced,,
+vercel,Vercel,owns,owns,vercelgw,Vercel AI Gateway,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,together,Together AI,unsourced,,
+cursor,Cursor / Anysphere,routes,routes to,bedrock,AWS Bedrock,unsourced,,
+perplexity,Perplexity,routes,routes to,vertex,Google Vertex AI,unsourced,,
+openrouter,OpenRouter,routes,routes to,bedrock,AWS Bedrock,unsourced,,
+openrouter,OpenRouter,routes,routes to,vertex,Google Vertex AI,unsourced,,
+vercelgw,Vercel AI Gateway,routes,routes to,together,Together AI,unsourced,,
+vercelgw,Vercel AI Gateway,routes,routes to,fireworks,Fireworks,unsourced,,
+bedrock,AWS Bedrock,builds_on,built on,trainium,AWS Trainium,unsourced,,
+bedrock,AWS Bedrock,builds_on,built on,nvidia,NVIDIA,unsourced,,
+vertex,Google Vertex AI,builds_on,built on,tpu,Google TPU,unsourced,,
+vertex,Google Vertex AI,builds_on,built on,nvidia,NVIDIA,unsourced,,
+microsoft,Microsoft,commits_to,commits spend to,nebius,Nebius,verified,https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm,2025-09-08
+meta,Meta,commits_to,commits spend to,coreweave,CoreWeave,verified,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm,2026-03
+meta,Meta,commits_to,commits spend to,nebius,Nebius,verified,https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm,2026-03-16
+marvell,Marvell,owns,owns,celestial,Celestial AI,unsourced,,
+cloudflare,Cloudflare,owns,owns,replicate,Replicate,unsourced,,
+nvidia,NVIDIA,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation,
+canva,Canva,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation,
+alphabet,Alphabet,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/,
+nvidia,NVIDIA,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/,
+intel,Intel,invests_in,invests in,ai21,AI21,verified,https://www.ai21.com/blog/series-c-funding/,
+databricks,Databricks,invests_in,invests in,langchain,LangChain,verified,https://www.langchain.com/blog/series-b,
+alphabet,Alphabet,invests_in,invests in,hippocratic,Hippocratic AI,verified,https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma,
+openai,OpenAI,invests_in,invests in,onex,1X,reported,https://sacra.com/c/1x-technologies/,
+alphabet,Alphabet,invests_in,invests in,clay,Clay,verified,https://news.crunchbase.com/venture/ai-powered-gtm-startup-clay-valuation-doubles-capitalg/,
+tencent,Tencent,invests_in,invests in,stepfun,StepFun,reported,https://www.caproasia.com/2026/05/09/china-ai-startup-stepfun-raised-2-5-billion-in-new-funding-round-plans-hong-kong-ipo-in-2026-june-at-10-billion-valuation-founded-in-2023-by-ex-microsoft-vice-president-jiang-daxin-investors-inc/,
+ibm,IBM,invests_in,invests in,writer,Writer,verified,https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation,
+skhynix,SK Hynix,invests_in,invests in,etched,Etched,verified,https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/,
+anduril,Anduril,builds_on,built on,openai,OpenAI,verified,https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html,
+palantir,Palantir,builds_on,built on,anthropic,Anthropic,verified,https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/,
+palantir,Palantir,rents,rents from,amazon,Amazon,verified,https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/,
+alphabet,Alphabet,invests_in,invests in,ssi,Safe Superintelligence,reported,https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html,
+nvidia,NVIDIA,invests_in,invests in,ssi,Safe Superintelligence,reported,https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html,
+ssi,Safe Superintelligence,rents,rents from,alphabet,Alphabet,verified,https://www.datacenterdynamics.com/en/news/ai-startup-safe-superintelligence-to-use-googles-tpu-chips-for-research/,
+lightmatter,Lightmatter,fabricated_by,fabricated by,gf,GlobalFoundries,verified,https://www.datacenterdynamics.com/en/news/lightmatter-turns-to-globalfoundries-to-bring-photonics-interconnect-to-market-in-2025/,
+coreweave,CoreWeave,builds_on,built on,vastdata,VAST Data,verified,https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave,
+tenstorrent,Tenstorrent,fabricated_by,fabricated by,samsung,Samsung,verified,https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet,
+samsung,Samsung,invests_in,invests in,tenstorrent,Tenstorrent,verified,https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/,
+nvidia,NVIDIA,invests_in,invests in,tml,Thinking Machines,reported,https://www.analyticsinsight.net/news/nvidia-invests-in-thinking-machines-lab-plans-1gw-ai-chip-deployment-worth-billions,
+amd,AMD,invests_in,invests in,tml,Thinking Machines,reported,https://www.itiger.com/hans/news/1174874464,
+nvidia,NVIDIA,invests_in,invests in,reflection,Reflection AI,verified,https://aibusiness.com/foundation-models/reflection-ai-raises-2b-nvidia-leads-open-source-push,
+nvidia,NVIDIA,invests_in,invests in,worldlabs,World Labs,verified,https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/,
+amd,AMD,invests_in,invests in,worldlabs,World Labs,verified,https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/,
+snowflake,Snowflake,builds_on,built on,anthropic,Anthropic,verified,https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/,
+openai,OpenAI,invests_in,invests in,pi,Physical Intelligence,verified,https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html,
+nvidia,NVIDIA,invests_in,invests in,skild,Skild AI,verified,https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B,
+samsung,Samsung,invests_in,invests in,skild,Skild AI,verified,https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B,
+nvidia,NVIDIA,invests_in,invests in,nuro,Nuro,verified,https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships,
+nuro,Nuro,builds_on,built on,nvidia,NVIDIA,verified,https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round,
+appliedint,Applied Intuition,builds_on,built on,openai,OpenAI,verified,https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html,
+nvidia,NVIDIA,builds_on,built on,arm,Arm,verified,https://www.nvidia.com/en-us/data-center/grace-cpu/,
+oracle,Oracle,invests_in,invests in,cohere,Cohere,verified,https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/,
+nvidia,NVIDIA,invests_in,invests in,cohere,Cohere,verified,https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/,
+cohere,Cohere,rents,rents from,oracle,Oracle,verified,https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call,
+alphabet,Alphabet,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html,
+amazon,Amazon,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html,
+nvidia,NVIDIA,invests_in,invests in,huggingface,Hugging Face,verified,https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html,
+nvidia,NVIDIA,invests_in,invests in,runway,Runway,verified,https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/,
+alphabet,Alphabet,invests_in,invests in,runway,Runway,verified,https://aibusiness.com/ml/google-nvidia-back-ai-video-lab-runway-in-141m-funding-round,
+nvidia,NVIDIA,invests_in,invests in,synthesia,Synthesia,verified,https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html,
+alphabet,Alphabet,invests_in,invests in,synthesia,Synthesia,verified,https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html,
+microsoft,Microsoft,routes,routes to,suno,Suno,verified,https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/,
+astera,Astera Labs,builds_on,built on,nvidia,NVIDIA,verified,https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion,
+intel,Intel,invests_in,invests in,sambanova,SambaNova,verified,https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html,
+amd,AMD,invests_in,invests in,luma,Luma AI,verified,https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html,
+ramp,Ramp,builds_on,built on,openai,OpenAI,verified,https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html,
+shieldai,Shield AI,builds_on,built on,palantir,Palantir,verified,https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html,
+abnormal,Abnormal,builds_on,built on,microsoft,Microsoft,verified,https://abnormal.ai/partners/microsoft,
+baidu,Baidu,rivals,competes with,alibaba,Alibaba / Qwen,unsourced,,
+clio,Clio,builds_on,built on,microsoft,Microsoft,verified,https://www.clio.com/features/legal-ai-software/,
+cyera,Cyera,builds_on,built on,microsoft,Microsoft,verified,https://www.cyera.com/press-releases/cyera-secures-the-agentic-ai-era-in-collaboration-with-microsoft-purview-sentinel-entra-and-copilot-studio,
+figma,Figma,rivals,competes with,canva,Canva,unsourced,,
+figma,Figma,invests_in,invests in,bfl,Black Forest Labs,verified,https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation,
+sensetime,SenseTime,rivals,competes with,zhipu,Zhipu / Z.ai,unsourced,,
+iflytek,iFlytek,builds_on,built on,ascend,Huawei Ascend,verified,https://www.huaweicentral.com/huawei-ai-chips-powered-new-iflytek-llms-can-rival-openai-deepseek/,
+tempus,Tempus AI,rents,rents from,alphabet,Alphabet,reported,https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/,
+alphabet,Alphabet,invests_in,invests in,tempus,Tempus AI,reported,https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/,
+horizon,Horizon Robotics,rivals,competes with,nvidia,NVIDIA,reported,https://techcrunch.com/?p=2090070,
+fal,Fal,builds_on,built on,bfl,Black Forest Labs,reported,https://sacra.com/c/fal-ai/,
+manus,Manus / Butterfly Effect,builds_on,built on,anthropic,Anthropic,reported,https://theairankings.com/butterfly-effect/,
+manus,Manus / Butterfly Effect,builds_on,built on,alibaba,Alibaba / Qwen,reported,https://theairankings.com/butterfly-effect/,
+saronic,Saronic,rivals,competes with,anduril,Anduril,unsourced,,
+amd,AMD,invests_in,invests in,vultr,Vultr,verified,https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html,
+gamma,Gamma,rivals,competes with,canva,Canva,unsourced,,
+microsoft,Microsoft,invests_in,invests in,dmatrix,d-Matrix,verified,https://finance.yahoo.com/news/microsoft-backed-d-matrix-raises-213111081.html,
+dmatrix,d-Matrix,rivals,competes with,nvidia,NVIDIA,reported,https://techstartups.com/2025/11/12/ai-chip-startup-d-matrix-raises-275m-at-2b-valuation-to-challenge-nvidias-grip-on-ai-inference/,
+pony,Pony.ai,rivals,competes with,waymo,Waymo,unsourced,,
+anthropic,Anthropic,commits_to,commits spend to,fluidstack,Fluidstack,verified,https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/,
+alphabet,Alphabet,commits_to,commits spend to,fluidstack,Fluidstack,reported,https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/,
+nvidia,NVIDIA,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/,
+amd,AMD,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/,
+intel,Intel,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/,
+gf,GlobalFoundries,invests_in,invests in,ayar,Ayar Labs,verified,https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/,
+alphabet,Alphabet,invests_in,invests in,apptronik,Apptronik,verified,https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html,
+apptronik,Apptronik,builds_on,built on,deepmind,Google DeepMind,verified,https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html,
+furiosa,FuriosaAI,rivals,competes with,nvidia,NVIDIA,reported,https://www.seoulz.com/furiosaai-korea-ai-chip/,
+arm,Arm,invests_in,invests in,rebellions,Rebellions,verified,https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/,
+samsung,Samsung,invests_in,invests in,rebellions,Rebellions,verified,https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/,
+radai,Rad AI,builds_on,built on,alphabet,Alphabet,reported,https://research.contrary.com/company/rad-ai,
+radai,Rad AI,rents,rents from,amazon,Amazon,reported,https://research.contrary.com/company/rad-ai,
+deepl,DeepL,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html,
+heygen,HeyGen,rivals,competes with,synthesia,Synthesia,reported,https://sacra.com/c/heygen/,
+moorethreads,Moore Threads,rivals,competes with,nvidia,NVIDIA,reported,https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut,
+ambience,Ambience,rivals,competes with,abridge,Abridge,reported,https://www.beckershospitalreview.com/healthcare-information-technology/ai/ambience-healthcare-reaches-1-25b-valuation/,
+openai,OpenAI,invests_in,invests in,ambience,Ambience,verified,https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems,
+openai,OpenAI,invests_in,invests in,speak,Speak,verified,https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud,
+speak,Speak,builds_on,built on,openai,OpenAI,reported,https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud,
+alphabet,Alphabet,invests_in,invests in,alphasense,AlphaSense,reported,https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html,
+alphabet,Alphabet,owns,owns,wiz,Wiz,verified,https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/,
+nvidia,NVIDIA,invests_in,invests in,sakana,Sakana AI,reported,https://finance.yahoo.com/news/sakana-ai-raises-135m-series-115207368.html,
+deepgram,Deepgram,rivals,competes with,elevenlabs,ElevenLabs,reported,https://uk.marketscreener.com/news/deepgram-inc-announced-that-it-has-received-130-million-in-funding-from-a-group-of-investors-ce7e58dbd088f423,
+tencent,Tencent,invests_in,invests in,manus,Manus / Butterfly Effect,verified,https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/,
+tencent,Tencent,invests_in,invests in,lovable,Lovable,verified,https://lovable.dev/blog/series-c,
+samsung,Samsung,invests_in,invests in,mistral,Mistral,verified,https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/,
+nvidia,NVIDIA,owns,owns,huggingface,Hugging Face,reported,https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm,
+nvidia,NVIDIA,invests_in,invests in,poolside,Poolside,reported,https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says,
+bedrock,AWS Bedrock,builds_on,built on,openai,OpenAI,verified,https://www.aboutamazon.com/news/aws/bedrock-openai-models,
+bedrock,AWS Bedrock,builds_on,built on,anthropic,Anthropic,verified,https://aws.amazon.com/bedrock/anthropic/,
+amazon,Amazon,designed_with,designed with,qualcomm,Qualcomm,verified,https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html,
+figure,Figure AI,rents,rents from,nscale,Nscale,verified,https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership,
+nscale,Nscale,invests_in,invests in,figure,Figure AI,verified,https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership,
+palantir,Palantir,rents,rents from,nebius,Nebius,verified,https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers,
+groq,Groq,builds_on,built on,nvidia,NVIDIA,verified,https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/,
+arm,Arm,invests_in,invests in,gimlet,Gimlet Labs,verified,https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai,
+microsoft,Microsoft,invests_in,invests in,gimlet,Gimlet Labs,verified,https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai,
+intel,Intel,invests_in,invests in,higgsfield,Higgsfield,verified,https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html,
+stripe,Stripe,owns,owns,openrouter,OpenRouter,reported,https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter,
+nvidia,NVIDIA,invests_in,invests in,nscale,Nscale,verified,https://www.nscale.com/press-releases/nscale-series-c,
+anthropic,Anthropic,rents,rents from,nscale,Nscale,reported,https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html,
+tencent,Tencent,invests_in,invests in,enflame,Enflame,verified,https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai,
+tencent,Tencent,builds_on,built on,enflame,Enflame,verified,https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html,
+qualcomm,Qualcomm,owns,owns,modular,Modular,verified,https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html,
+cohere,Cohere,builds_on,built on,amd,AMD,verified,https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd,
+nvidia,NVIDIA,invests_in,invests in,vastdata,VAST Data,verified,https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html,
+nvidia,NVIDIA,invests_in,invests in,fireworks,Fireworks,verified,https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html,
+alphabet,Alphabet,invests_in,invests in,sierra,Sierra,verified,https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/,
+nvidia,NVIDIA,invests_in,invests in,legora,Legora,verified,https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors,
+databricks,Databricks,invests_in,invests in,replit,Replit,verified,https://replit.com/news/funding-announcement,
+spacex,SpaceX,owns,owns,xai,xAI,verified,https://www.cnbc.com/2026/02/02/spacex-xai-merger.html,
+spacex,SpaceX,owns,owns,cursor,Cursor / Anysphere,verified,https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html,
+bytedance,ByteDance,owns,owns,anewlabs,Anew Labs,reported,https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery,
+nvidia,NVIDIA,invests_in,invests in,upscale,Upscale AI,reported,https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/,
+qualcomm,Qualcomm,invests_in,invests in,upscale,Upscale AI,verified,https://www.prnewswire.com/news-releases/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards-302558353.html,
+upscale,Upscale AI,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon-302710175.html,
+nvidia,NVIDIA,invests_in,invests in,crusoe,Crusoe,verified,https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding,
+amazon,Amazon,invests_in,invests in,luma,Luma AI,verified,https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html,
+tencent,Tencent,invests_in,invests in,naive,Naive AI,reported,https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation,
+nvidia,NVIDIA,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/,
+amazon,Amazon,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/,
+qualcomm,Qualcomm,invests_in,invests in,neura,NEURA Robotics,verified,https://neura-robotics.com/record-series-c/,
+openai,OpenAI,invests_in,invests in,chai,Chai Discovery,verified,https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design,
+microsoft,Microsoft,rents,rents from,lambda,Lambda,verified,https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus,
+nvidia,NVIDIA,invests_in,invests in,elevenlabs,ElevenLabs,verified,https://elevenlabs.io/blog/500m-arr-and-new-investors,
+verda,Verda,builds_on,built on,nvidia,NVIDIA,verified,https://verda.com/blog/nvidia-vr200-r200-early-deployments,
+microsoft,Microsoft,rents,rents from,nscale,Nscale,verified,https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html,
+alphabet,Alphabet,invests_in,invests in,snorkel,Snorkel AI,reported,https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html,
+nvidia,NVIDIA,invests_in,invests in,primeintellect,Prime Intellect,verified,https://www.primeintellect.ai/blog/series-a,
+intel,Intel,invests_in,invests in,primeintellect,Prime Intellect,verified,https://www.primeintellect.ai/blog/series-a,
+ramp,Ramp,trains_on,trains on,primeintellect,Prime Intellect,reported,https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/,
+tml,Thinking Machines,rents,rents from,crusoe,Crusoe,verified,https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership,
+openevidence,OpenEvidence,routes,routes to,anthropic,Anthropic,verified,https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/,
+nvidia,NVIDIA,invests_in,invests in,basecamp,Basecamp Research,verified,https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html,
+anthropic,Anthropic,invests_in,invests in,basecamp,Basecamp Research,verified,https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html,
+brahma,Brahma AI,builds_on,built on,alphabet,Alphabet,verified,"https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises",
+alibaba,Alibaba / Qwen,invests_in,invests in,pixverse,PixVerse,reported,https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/,
+anthropic,Anthropic,rents,rents from,akamai,Akamai,verified,https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm,
+nvidia,NVIDIA,invests_in,invests in,mirendil,Mirendil,reported,https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html,
+mirendil,Mirendil,rents,rents from,alphabet,Alphabet,reported,https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/,
+arm,Arm,invests_in,invests in,positron,Positron,verified,https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia,
+positron,Positron,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html,
+positron,Positron,rents,rents from,oracle,Oracle,reported,https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html,
+nvidia,NVIDIA,invests_in,invests in,baseten,Baseten,reported,https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/,
+microsoft,Microsoft,invests_in,invests in,vapi,Vapi,reported,https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html,
+instinct,Instinct,rivals,competes with,manus,Manus / Butterfly Effect,reported,https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/,
+instinct,Instinct,rivals,competes with,openai,OpenAI,reported,https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/,
+amd,AMD,owns,owns,worldlabs,World Labs,reported,https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute,
+micron,Micron,invests_in,invests in,sima,SiMa.ai,verified,https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/,
+sima,SiMa.ai,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/,
+sima,SiMa.ai,builds_on,built on,arm,Arm,reported,https://www.datacenterdynamics.com/en/news/simaai-launches-mlsoc-modalix-a-multi-modal-platform-for-edge-ai/,
+gimlet,Gimlet Labs,builds_on,built on,cerebras,Cerebras,verified,https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment,
+anthropic,Anthropic,rents,rents from,microsoft,Microsoft,reported,https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html,
+anthropic,Anthropic,rents,rents from,spacex,SpaceX,verified,https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm,
+alphabet,Alphabet,invests_in,invests in,bedrockrobotics,Bedrock Robotics,reported,https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/,
+nvidia,NVIDIA,invests_in,invests in,bedrockrobotics,Bedrock Robotics,reported,https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/,
+amazon,Amazon,designed_with,designed with,synopsys,Synopsys,verified,https://www.morningstar.com/news/pr-newswire/20260930sf60430/synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-for-custom-silicon-collaboration-also-extends-to-cloud-and-ai-powered-engineering,
+qualcomm,Qualcomm,invests_in,invests in,lumilens,Lumilens,reported,https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center,
+alphabet,Alphabet,invests_in,invests in,celero,Celero Communications,reported,https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon,
+intel,Intel,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/,
+samsung,Samsung,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/,
+amd,AMD,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/,
+arm,Arm,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/,
+meta,Meta,invests_in,invests in,eliyan,Eliyan,reported,https://eliyan.com/press-releases/,
+tencent,Tencent,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo,
+baidu,Baidu,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo,
+zhipu,Zhipu / Z.ai,invests_in,invests in,infinigence,Infinigence AI,reported,https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo,
+anthropic,Anthropic,rents,rents from,broadcom,Broadcom,reported,https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126,
+broadcom,Broadcom,commits_to,commits spend to,anthropic,Anthropic,reported,https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126,
+tencent,Tencent,rents,rents from,oracle,Oracle,reported,https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/,
+synopsys,Synopsys,builds_on,built on,openai,OpenAI,verified,https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design,
+modal,Modal,rivals,competes with,baseten,Baseten,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/,
+modal,Modal,rivals,competes with,fireworks,Fireworks,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/,
+modal,Modal,rivals,competes with,fal,Fal,reported,https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/,
+factory,Factory,rivals,competes with,cognition,Cognition,reported,https://www.benzinga.com/markets/private-markets/26/09/62093214/factory-fires-advisor-accuses-cognition-of-seeking-product-information,
+stripe,Stripe,invests_in,invests in,supabase,Supabase,reported,https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure,
+alphabet,Alphabet,invests_in,invests in,supabase,Supabase,reported,https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/,
+cognition,Cognition,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/,
+suno,Suno,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/,
+ramp,Ramp,rents,rents from,modal,Modal,reported,https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/,
+palebluedot,PaleBlueDot AI,builds_on,built on,nvidia,NVIDIA,verified,https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html,
+nebius,Nebius,builds_on,built on,ai21,AI21,reported,https://www.calcalistech.com/ctechnews/article/by34n00tjfl,
+anthropic,Anthropic,rents,rents from,lambda,Lambda,reported,https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda,
+nvidia,NVIDIA,invests_in,invests in,wayve,Wayve,verified,https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html,
+microsoft,Microsoft,invests_in,invests in,wayve,Wayve,verified,https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html,
+nvidia,NVIDIA,invests_in,invests in,fieldai,FieldAI,verified,https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html,
+intel,Intel,invests_in,invests in,fieldai,FieldAI,reported,https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/,
+amd,AMD,invests_in,invests in,vinci,Vinci,reported,https://wsau.com/2026/10/06/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/,
+nvidia,NVIDIA,invests_in,invests in,nous,Nous Research,reported,https://finance.yahoo.com/technology/ai/articles/nous-research-90m-raise-nvidia-084121035.html,
+microsoft,Microsoft,invests_in,invests in,nous,Nous Research,reported,https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai,
+samsung,Samsung,invests_in,invests in,nous,Nous Research,reported,https://cryptobriefing.com/nous-research-series-b-hermes-agent/,
+tsmc,TSMC,fabricated_by,fabricated by,gf,GlobalFoundries,verified,https://www.investing.com/news/stock-market-news/globalfoundries-to-make-key-ai-chip-component-for-tsmc-4939071,
+fluidstack,Fluidstack,rents,rents from,hut8,Hut 8,verified,https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion,
+alphabet,Alphabet,commits_to,commits spend to,hut8,Hut 8,verified,https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm,
+nvidia,NVIDIA,rents,rents from,hut8,Hut 8,reported,https://thenextweb.com/news/nvidia-50bn-texas-data-centre,
+cohere,Cohere,rents,rents from,boostrun,Boost Run,verified,https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm,
+boostrun,Boost Run,builds_on,built on,nvidia,NVIDIA,verified,https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining,
+nvidia,NVIDIA,invests_in,invests in,firmus,Firmus,verified,https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia,
+firmus,Firmus,builds_on,built on,nvidia,NVIDIA,verified,https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific,
+vercel,Vercel,routes,routes to,typesafe,TypeSafe AI,verified,https://vercel.com/blog/ai-gateway-jev-model-launch,
+anthropic,Anthropic,rents,rents from,terawulf,TeraWulf,verified,https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm,
+fluidstack,Fluidstack,rents,rents from,terawulf,TeraWulf,verified,https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner,
+alphabet,Alphabet,commits_to,commits spend to,terawulf,TeraWulf,verified,https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm,
+microsoft,Microsoft,rents,rents from,iren,IREN,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft,
+nvidia,NVIDIA,rents,rents from,iren,IREN,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia,
+iren,IREN,builds_on,built on,nvidia,NVIDIA,verified,https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft,
+coreweave,CoreWeave,rents,rents from,applieddigital,Applied Digital,verified,https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with,
+amazon,Amazon,rents,rents from,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm,
+fluidstack,Fluidstack,rents,rents from,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm,
+alphabet,Alphabet,commits_to,commits spend to,cipher,Cipher Digital,verified,https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm,
+coreweave,CoreWeave,rents,rents from,corescientific,Core Scientific,verified,https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm,
+microsoft,Microsoft,owns,owns,maia,Microsoft Maia,verified,https://www.techmeme.com/261012/p29,
+microsoft,Microsoft,builds_on,built on,maia,Microsoft Maia,verified,https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/,
+maia,Microsoft Maia,fabricated_by,fabricated by,tsmc,TSMC,reported,https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack,
+microsoft,Microsoft,routes,routes to,anthropic,Anthropic,verified,https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/,
+alphabet,Alphabet,invests_in,invests in,pi,Physical Intelligence,reported,https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding,
+nvidia,NVIDIA,invests_in,invests in,decart,Decart,reported,https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation,
+anthropic,Anthropic,rents,rents from,iren,IREN,reported,https://www.investing.com/news/stock-market-news/iren-stock-jumps-on-multiyear-cloud-deal-with-anthropic-93CH-4943757,
+cxmt,CXMT,rivals,competes with,micron,Micron,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron,
+cxmt,CXMT,rivals,competes with,skhynix,SK Hynix,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron,
+cxmt,CXMT,rivals,competes with,samsung,Samsung,reported,https://www.nasdaq.com/articles/chinas-biggest-memory-chip-stock-almost-good-micron,
+scaleai,Scale AI,builds_on,built on,nvidia,NVIDIA,verified,https://scale.com/blog/scale-partners-with-nvidia,
+reflection,Reflection AI,builds_on,built on,nvidia,NVIDIA,verified,https://reflection.ai/blog/introducing-beam,
+reflection,Reflection AI,rents,rents from,amazon,Amazon,verified,https://reflection.ai/blog/introducing-beam,
+reflection,Reflection AI,rents,rents from,alphabet,Alphabet,verified,https://reflection.ai/blog/introducing-beam,
+meta,Meta,owns,owns,mtia,Meta MTIA,verified,https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/,
+meta,Meta,builds_on,built on,mtia,Meta MTIA,verified,https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference,
+meta,Meta,designed_with,designed with,broadcom,Broadcom,verified,https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology,
+mtia,Meta MTIA,fabricated_by,fabricated by,tsmc,TSMC,reported,https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/,
+town,Town,rivals,competes with,instinct,Instinct,reported,https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle,
+modal,Modal,builds_on,built on,nvidia,NVIDIA,reported,https://www.techmeme.com/261019/p31#a261019p31,
+perplexity,Perplexity,builds_on,built on,nvidia,NVIDIA,reported,https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-,
+anthropic,Anthropic,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/,
+openai,OpenAI,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/,
+nvidia,NVIDIA,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/,
+cursor,Cursor / Anysphere,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/,
+cognition,Cognition,rents,rents from,daytona,Daytona,reported,https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/,
+samsung,Samsung,invests_in,invests in,eka,Eka Robotics,reported,https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/,
+nvidia,NVIDIA,invests_in,invests in,openai,OpenAI,verified,https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html,2026-02-27
+amazon,Amazon,invests_in,invests in,openai,OpenAI,verified,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm,2026-02-27
+openai,OpenAI,commits_to,commits spend to,coreweave,CoreWeave,verified,https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b,2025-09-25
+openai,OpenAI,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm,2026-08-05
+openai,OpenAI,rents,rents from,amazon,Amazon,verified,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm,2026-02-27
+nvidia,NVIDIA,commits_to,commits spend to,openai,OpenAI,verified,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm,2026-08

@@ -239,13 +239,19 @@
    "source": "openai",
    "target": "microsoft",
    "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+   "as_of": "2025-10-28",
+   "confidence": "verified"
   },
   {
    "source": "openai",
    "target": "oracle",
    "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm",
+   "as_of": "2026-02-02",
+   "confidence": "verified"
   },
   {
    "source": "anthropic",
@@ -633,7 +639,10 @@
    "source": "nvidia",
    "target": "coreweave",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000008/primary_doc.xml",
+   "as_of": "2026-01-26",
+   "confidence": "verified"
   },
   {
    "source": "nvidia",
@@ -683,13 +692,19 @@
    "source": "microsoft",
    "target": "openai",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+   "as_of": "2025-10-28",
+   "confidence": "verified"
   },
   {
    "source": "microsoft",
    "target": "coreweave",
    "type": "commits_to",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+   "as_of": "2026-03-02",
+   "confidence": "verified"
   },
   {
    "source": "microsoft",
@@ -701,13 +716,19 @@
    "source": "amazon",
    "target": "anthropic",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+   "as_of": "2026-07-31",
+   "confidence": "verified"
   },
   {
    "source": "alphabet",
    "target": "anthropic",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+   "as_of": "2026-04-24",
+   "confidence": "verified"
   },
   {
    "source": "meta",
@@ -718,10 +739,13 @@
    "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html"
   },
   {
-   "source": "oracle",
-   "target": "openai",
+   "source": "openai",
+   "target": "oracle",
    "type": "commits_to",
-   "from": "industry-map"
+   "from": "persona-sourcing-2026-10-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm",
+   "as_of": "2026-02-02",
+   "confidence": "verified"
   },
   {
    "source": "samsung",
@@ -1015,19 +1039,28 @@
    "source": "microsoft",
    "target": "nebius",
    "type": "commits_to",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+   "as_of": "2025-09-08",
+   "confidence": "verified"
   },
   {
    "source": "meta",
    "target": "coreweave",
    "type": "commits_to",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+   "as_of": "2026-03",
+   "confidence": "verified"
   },
   {
    "source": "meta",
    "target": "nebius",
    "type": "commits_to",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
+   "as_of": "2026-03-16",
+   "confidence": "verified"
   },
   {
    "source": "marvell",
@@ -3040,6 +3073,60 @@
    "from": "datapass-2026-10-21",
    "confidence": "reported",
    "url": "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/"
+  },
+  {
+   "source": "nvidia",
+   "target": "openai",
+   "type": "invests_in",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+   "as_of": "2026-02-27"
+  },
+  {
+   "source": "amazon",
+   "target": "openai",
+   "type": "invests_in",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+   "as_of": "2026-02-27"
+  },
+  {
+   "source": "openai",
+   "target": "coreweave",
+   "type": "commits_to",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
+   "as_of": "2025-09-25"
+  },
+  {
+   "source": "openai",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
+   "as_of": "2026-08-05"
+  },
+  {
+   "source": "openai",
+   "target": "amazon",
+   "type": "rents",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+   "as_of": "2026-02-27"
+  },
+  {
+   "source": "nvidia",
+   "target": "openai",
+   "type": "commits_to",
+   "from": "persona-sourcing-2026-10-21",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+   "as_of": "2026-08"
   }
  ],
  "as_of": "2026-10-21"
