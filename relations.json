@@ -2992,7 +2992,55 @@
    "from": "datapass-2026-10-20",
    "confidence": "reported",
    "url": "https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-"
+  },
+  {
+   "source": "anthropic",
+   "target": "daytona",
+   "type": "rents",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+  },
+  {
+   "source": "openai",
+   "target": "daytona",
+   "type": "rents",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+  },
+  {
+   "source": "nvidia",
+   "target": "daytona",
+   "type": "rents",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+  },
+  {
+   "source": "cursor",
+   "target": "daytona",
+   "type": "rents",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+  },
+  {
+   "source": "cognition",
+   "target": "daytona",
+   "type": "rents",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+  },
+  {
+   "source": "samsung",
+   "target": "eka",
+   "type": "invests_in",
+   "from": "datapass-2026-10-21",
+   "confidence": "reported",
+   "url": "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/"
   }
  ],
- "as_of": "2026-10-20"
+ "as_of": "2026-10-21"
 }

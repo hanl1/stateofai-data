@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-10-14",
+ "as_of": "2026-10-21",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -2568,7 +2568,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "$2B Series C",
-   "role": "Regional performance-optimized GPU-as-a-service. Filed a public S-1 on 2026-09-18 for a NYSE listing under the ticker NSCL, seeking as much as ~$3B behind 23 underwriters led by Goldman Sachs, J.P. Morgan and Morgan Stanley; no share count or price range is set yet, so the mark stays at the Series C. The filing shows H1 2026 revenue of $140.6M, up 1,252% year on year, against a $1.02B net loss, and $103.4B of active and contracted total contract value as of 2026-08-31, up from $38.0B at the end of 2025 - a company-defined TCV measure over the life of take-or-pay contracts, not revenue or recognised backlog, and about $45B of it is the single Anthropic West Virginia deal. Bloomberg's read of the filing puts the concentration behind that TCV in the open: Microsoft accounts for about $43.8B and Anthropic about $44.6B, 85% of the total between them, while only $2.6B of the $103.4B was active as of end-August, Nscale has not yet financed the Anthropic build, and Anthropic can walk if defined milestones and performance levels are missed. OpenAI's Fidji Simo joined the board ahead of the listing. On 2026-09-25 it closed a $3.36B pre-IPO convertible financing led by Third Point - a $2.36B initial tranche plus a $1B NVIDIA commitment expected in mid-November, with Apollo, Citadel, Hudson Bay Capital, the Abu Dhabi Investment Council and 8090 Industries alongside and Goldman Sachs as placement agent. The notes convert automatically into shares on the IPO at a discount to the offer price, with the discount adjusted only up to a $30B valuation cap; a cap is not a post-money, so the mark does not move on it. Secondary outlets began floating $30B and $35B target valuations on 2026-09-19; neither figure appears in the filing, which still leaves the share count and price range blank, so the mark stays at the Series C until an amendment sets a range. The FT reported on 2026-09-23 that the S-1 does not name ByteDance, whose Singapore unit accounted for close to three quarters of Nscale's 2025 revenue and about 52% in H1 2026, and which used Nscale's Norwegian site to reach NVIDIA chips it could not buy in China - legal, but a regulatory and reputational exposure the prospectus leaves to an accompanying document. Appointed Justin Osofsky, previously a Meta vice president, as chief operating officer on 2026-10-02 ahead of the IPO - the second senior pre-listing hire after Fidji Simo joined the board in September. On 2026-10-18 The Telegraph reported that MICROSOFT has WITHDRAWN as anchor tenant of the Loughton, Essex site - the roughly GBP2B project announced in September 2025 to house 23,040 NVIDIA GB300 GPUs for Azure from Q1 2027 - after UK Power Networks told Nscale it could not supply enough power for the site until the early-to-mid 2030s. Neither company gave a reason for the exit. Nscale said it remains committed to developing Loughton, is exploring alternative power sources and further UK expansion, and that the grid problem \"has no impact on our other contracts\", so the roughly 200,000 GB300 contract with Microsoft across Europe and the US - about $43.8B of the contracted TCV, or 40% of contracted revenues on one outlet's read - and the edge that records it both stand on the company's own statement. The loss of the flagship site's only announced customer lands weeks before a listing whose price range and share count are still blank.",
+   "role": "Regional performance-optimized GPU-as-a-service. Filed a public S-1 on 2026-09-18 for a NYSE listing under the ticker NSCL, seeking as much as ~$3B behind 23 underwriters led by Goldman Sachs, J.P. Morgan and Morgan Stanley; no share count or price range is set yet, so the mark stays at the Series C. The filing shows H1 2026 revenue of $140.6M, up 1,252% year on year, against a $1.02B net loss, and $103.4B of active and contracted total contract value as of 2026-08-31, up from $38.0B at the end of 2025 - a company-defined TCV measure over the life of take-or-pay contracts, not revenue or recognised backlog, and about $45B of it is the single Anthropic West Virginia deal. Bloomberg's read of the filing puts the concentration behind that TCV in the open: Microsoft accounts for about $43.8B and Anthropic about $44.6B, 85% of the total between them, while only $2.6B of the $103.4B was active as of end-August, Nscale has not yet financed the Anthropic build, and Anthropic can walk if defined milestones and performance levels are missed. OpenAI's Fidji Simo joined the board ahead of the listing. On 2026-09-25 it closed a $3.36B pre-IPO convertible financing led by Third Point - a $2.36B initial tranche plus a $1B NVIDIA commitment expected in mid-November, with Apollo, Citadel, Hudson Bay Capital, the Abu Dhabi Investment Council and 8090 Industries alongside and Goldman Sachs as placement agent. The notes convert automatically into shares on the IPO at a discount to the offer price, with the discount adjusted only up to a $30B valuation cap; a cap is not a post-money, so the mark does not move on it. Secondary outlets began floating $30B and $35B target valuations on 2026-09-19; neither figure appears in the filing, which still leaves the share count and price range blank, so the mark stays at the Series C until an amendment sets a range. The FT reported on 2026-09-23 that the S-1 does not name ByteDance, whose Singapore unit accounted for close to three quarters of Nscale's 2025 revenue and about 52% in H1 2026, and which used Nscale's Norwegian site to reach NVIDIA chips it could not buy in China - legal, but a regulatory and reputational exposure the prospectus leaves to an accompanying document. Appointed Justin Osofsky, previously a Meta vice president, as chief operating officer on 2026-10-02 ahead of the IPO - the second senior pre-listing hire after Fidji Simo joined the board in September. On 2026-10-18 The Telegraph reported that MICROSOFT has WITHDRAWN as anchor tenant of the Loughton, Essex site - the roughly GBP2B project announced in September 2025 to house 23,040 NVIDIA GB300 GPUs for Azure from Q1 2027 - after UK Power Networks told Nscale it could not supply enough power for the site until the early-to-mid 2030s. Neither company gave a reason for the exit. Nscale said it remains committed to developing Loughton, is exploring alternative power sources and further UK expansion, and that the grid problem \"has no impact on our other contracts\", so the roughly 200,000 GB300 contract with Microsoft across Europe and the US - about $43.8B of the contracted TCV, or 40% of contracted revenues on one outlet's read - and the edge that records it both stand on the company's own statement. The loss of the flagship site's only announced customer lands weeks before a listing whose price range and share count are still blank. Bloomberg reported on 2026-10-20 that it is in talks with ANTHROPIC for a SECOND compute deal of about $45B, covering a 460 MW building on the same Monarch campus in West Virginia as the first and running on NVIDIA's Vera Rubin parts, with Anthropic also holding a right of first refusal on a planned third building; nothing is signed, and Nscale would still have to finance the chips.",
    "confidence": "verified",
    "valuation_musd": 14600,
    "sources": [
@@ -2616,6 +2616,11 @@
      "title": "Bloomberg, Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says (Loughton, Essex; Microsoft withdraws as anchor tenant for 23,040 GB300 GPUs)",
      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-scraps-uk-data-center-083110363.html",
      "as_of": "2026-10-18"
+    },
+    {
+     "title": "Bloomberg (via Bloomberg Law), Nscale, Anthropic in Talks for $45 Billion AI Computing Deal - second Monarch building, 460 MW, not signed",
+     "url": "https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+     "as_of": "2026-10-20"
     }
    ],
    "as_of": "2026-03-09",
@@ -3292,7 +3297,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "EDA",
-   "role": "EDA software — every AI chip is designed inside it. Signed a strategic multi-year IP agreement with Amazon on 2026-09-30, valued at more than $1B, making Amazon the lead customer of its application-optimized silicon IP business: a license-plus-royalty structure whose payments rise with Amazon's production volumes, covering the Nitro, Graviton and Trainium lines alongside EDA, simulation and agentic AI tools. Synopsys in turn moves its own product development onto AWS. Signed a separate multi-year agreement with OPENAI on 2026-09-30 to jointly develop GPT-Synopsys, a model built to drive Synopsys' EDA tools across chip-design workflows: the two become preferred partners, OpenAI licenses Synopsys' EDA tools to develop the model, and they share the revenue and go to market together. No dollar figure, compute commitment or contract term was disclosed.",
+   "role": "EDA software - every AI chip is designed inside it. Signed a strategic multi-year IP agreement with Amazon on 2026-09-30, valued at more than $1B, making Amazon the lead customer of its application-optimized silicon IP business: a license-plus-royalty structure whose payments rise with Amazon's production volumes, covering the Nitro, Graviton and Trainium lines alongside EDA, simulation and agentic AI tools. Synopsys in turn moves its own product development onto AWS. Signed a separate multi-year agreement with OPENAI on 2026-09-30 to jointly develop GPT-Synopsys, a model built to drive Synopsys' EDA tools across chip-design workflows: the two become preferred partners, OpenAI licenses Synopsys' EDA tools to develop the model, and they share the revenue and go to market together. No dollar figure, compute commitment or contract term was disclosed.",
    "confidence": "verified",
    "valuation_musd": 85780,
    "ticker": "SNPS",
@@ -3430,7 +3435,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "packaging",
-   "role": "Advanced packaging and test — the CoWoS bottleneck's back end.",
+   "role": "Advanced packaging and test - the CoWoS bottleneck's back end.",
    "confidence": "verified",
    "valuation_musd": 10360,
    "ticker": "AMKR",
@@ -5542,6 +5547,68 @@
    ],
    "as_of": "2026-10-19",
    "domain": "town.com",
+   "region": "us"
+  },
+  {
+   "id": "daytona",
+   "name": "Daytona",
+   "sector": "infer",
+   "layer": "infer",
+   "kind": "company",
+   "signal": "agent sandboxes",
+   "role": "Agent cloud: isolated sandboxes where AI agents run code, which the company says it provisions in about 60 milliseconds against the minutes a general-purpose cloud takes, across Linux, Windows, macOS and GPU environments. The $1B is the post-money on a $60M Series B announced 2026-10-20 and led by FirstMark, taking total funding to about $91M; roughly $50M of the round came from existing investors, and the angels in it are the founders of Stripe, Shopify, Perplexity, Mercor, Zoom, Datadog and Quora acting personally, not their companies. Founded in Croatia, now San Francisco based; the CEO, Ivan Burazin, says the annualised revenue run rate grew about 25-fold between January and September 2026. Coverage of the round names Anthropic, OpenAI, NVIDIA, Cursor, Cognition, Meta, Cohere, Mercor, Clay and Postman among its customers, and reports Snorkel AI as having provisioned more than a million sandboxes on it. The customer lists differ between outlets and every growth figure is the company's own, so only the five names several outlets agree on are drawn as edges.",
+   "confidence": "verified",
+   "valuation_musd": 1000,
+   "sources": [
+    {
+     "title": "Daytona (company blog), Daytona Raises $60M Series B to Build the Agent Cloud - $60M at a $1B valuation led by FirstMark, total funding about $91M",
+     "url": "https://www.daytona.io/dotfiles/daytona-raises-60m-series-b-to-build-the-agent-cloud",
+     "as_of": "2026-10-20"
+    },
+    {
+     "title": "Fortune (via Techmeme), Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation",
+     "url": "https://www.techmeme.com/261020/p27#a261020p27",
+     "as_of": "2026-10-20"
+    },
+    {
+     "title": "Tech.eu, Daytona hits $1B valuation with $60M Series B for AI agent cloud",
+     "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud",
+     "as_of": "2026-10-20"
+    }
+   ],
+   "as_of": "2026-10-20",
+   "domain": "daytona.io",
+   "region": "us"
+  },
+  {
+   "id": "eka",
+   "name": "Eka Robotics",
+   "sector": "physical",
+   "layer": "physical",
+   "kind": "company",
+   "signal": "vision-force-action",
+   "role": "Physics-first physical AI: a vision-force-action model that learns dexterous manipulation from force feedback and physics simulation rather than from vision alone or human teleoperation demonstrations, aimed first at robotic bin picking and object handling. Founded by Pulkit Agrawal, an MIT professor, and Tuomas Haarnoja, previously a Google DeepMind researcher and a co-author of the Soft Actor-Critic algorithm. The $1.45B is the post-money on a $150M Series A announced 2026-10-20, co-led by Andreessen Horowitz and F-Prime, with seed leads Obvious Ventures and E14 Fund returning and MFV Partners, Bison Ventures, Glasswing Ventures, Samsung Next and unnamed Fortune 500 strategic investors joining. Andreessen Horowitz says the system manages as many as 1,500 picks an hour in lab bin picking, about two and a half times human speed, on the company's own measurements; Eka has disclosed no revenue and no customer contracts.",
+   "confidence": "verified",
+   "valuation_musd": 1450,
+   "sources": [
+    {
+     "title": "Eka Robotics (company blog), Eka Robotics Raises $150M to Build Superhuman Intelligence for the Physical World - Series A co-led by Andreessen Horowitz and F-Prime",
+     "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
+     "as_of": "2026-10-20"
+    },
+    {
+     "title": "TechCrunch, Eka is worth $1.45B thanks to a physical AI model that has experts raving - $150M Series A at a $1.45B post-money",
+     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+     "as_of": "2026-10-20"
+    },
+    {
+     "title": "Tech Funding News, Eka Robotics raises $150M at $1.45B valuation led by a16z and F-Prime for dexterous robots (names Samsung Next among the participants)",
+     "url": "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/",
+     "as_of": "2026-10-20"
+    }
+   ],
+   "as_of": "2026-10-20",
+   "domain": "ekarobotics.com",
    "region": "us"
   }
  ],
