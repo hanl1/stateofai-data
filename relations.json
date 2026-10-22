@@ -3127,7 +3127,23 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
    "as_of": "2026-08"
+  },
+  {
+   "source": "nvidia",
+   "target": "amkor",
+   "type": "commits_to",
+   "from": "datapass-2026-10-22",
+   "confidence": "verified",
+   "url": "https://www.investing.com/news/company-news/amkor-announces-13-billion-expansion-deal-with-nvidia-in-korea-93CH-4962647"
+  },
+  {
+   "source": "vertex",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "datapass-2026-10-22",
+   "confidence": "verified",
+   "url": "https://cloud.google.com/products/model-garden/claude"
   }
  ],
- "as_of": "2026-10-21"
+ "as_of": "2026-10-22"
 }

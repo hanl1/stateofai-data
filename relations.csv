@@ -427,3 +427,5 @@ openai,OpenAI,commits_to,commits spend to,coreweave,CoreWeave,verified,https://w
 openai,OpenAI,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm,2026-08-05
 openai,OpenAI,rents,rents from,amazon,Amazon,verified,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm,2026-02-27
 nvidia,NVIDIA,commits_to,commits spend to,openai,OpenAI,verified,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm,2026-08
+nvidia,NVIDIA,commits_to,commits spend to,amkor,Amkor,verified,https://www.investing.com/news/company-news/amkor-announces-13-billion-expansion-deal-with-nvidia-in-korea-93CH-4962647,
+vertex,Google Vertex AI,builds_on,built on,anthropic,Anthropic,verified,https://cloud.google.com/products/model-garden/claude,
