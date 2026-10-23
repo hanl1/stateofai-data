@@ -3143,6 +3143,24 @@
    "from": "datapass-2026-10-22",
    "confidence": "verified",
    "url": "https://cloud.google.com/products/model-garden/claude"
+  },
+  {
+   "source": "alphabet",
+   "target": "flappingairplanes",
+   "type": "invests_in",
+   "from": "datapass-2026-10-23",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "as_of": "2026-10-21"
+  },
+  {
+   "source": "nvidia",
+   "target": "flappingairplanes",
+   "type": "invests_in",
+   "from": "datapass-2026-10-23",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "as_of": "2026-10-21"
   }
  ],
  "as_of": "2026-10-22"
