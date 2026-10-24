@@ -387,7 +387,10 @@
    "source": "coreweave",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+   "as_of": "2026-08-12",
+   "confidence": "verified"
   },
   {
    "source": "nebius",
@@ -423,7 +426,10 @@
    "source": "microsoft",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+   "as_of": "2026-08-26",
+   "confidence": "verified"
   },
   {
    "source": "amazon",
@@ -453,7 +459,10 @@
    "source": "oracle",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
+   "as_of": "2026-08-26",
+   "confidence": "verified"
   },
   {
    "source": "huawei",
@@ -3161,6 +3170,42 @@
    "confidence": "reported",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
    "as_of": "2026-10-21"
+  },
+  {
+   "source": "openai",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "circular-sourcing-2026-10-23",
+   "confidence": "verified",
+   "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
+   "as_of": "2025-10-09"
+  },
+  {
+   "source": "microsoft",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "circular-sourcing-2026-10-23",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm",
+   "as_of": "2026-08-04"
+  },
+  {
+   "source": "oracle",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "circular-sourcing-2026-10-23",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm",
+   "as_of": "2026-08-04"
+  },
+  {
+   "source": "openai",
+   "target": "coreweave",
+   "type": "invests_in",
+   "from": "circular-sourcing-2026-10-23",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+   "as_of": "2025-03-31"
   }
  ],
  "as_of": "2026-10-22"

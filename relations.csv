@@ -61,18 +61,18 @@ microsoft,Microsoft,rents,rents from,nebius,Nebius,unsourced,,
 deepseek,DeepSeek,rents,rents from,huawei,Huawei,unsourced,,
 alibaba,Alibaba / Qwen,rents,rents from,alibabacloud,Alibaba Cloud,unsourced,,
 bytedance,ByteDance,rents,rents from,huawei,Huawei,unsourced,,
-coreweave,CoreWeave,builds_on,built on,nvidia,NVIDIA,unsourced,,
+coreweave,CoreWeave,builds_on,built on,nvidia,NVIDIA,verified,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm,2026-08-12
 nebius,Nebius,builds_on,built on,nvidia,NVIDIA,unsourced,,
 crusoe,Crusoe,builds_on,built on,nvidia,NVIDIA,unsourced,,
 lambda,Lambda,builds_on,built on,nvidia,NVIDIA,unsourced,,
 runpod,RunPod,builds_on,built on,nvidia,NVIDIA,unsourced,,
 nscale,Nscale,builds_on,built on,amd,AMD,unsourced,,
-microsoft,Microsoft,builds_on,built on,nvidia,NVIDIA,unsourced,,
+microsoft,Microsoft,builds_on,built on,nvidia,NVIDIA,verified,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm,2026-08-26
 amazon,Amazon,builds_on,built on,trainium,AWS Trainium,unsourced,,
 amazon,Amazon,builds_on,built on,nvidia,NVIDIA,unsourced,,
 alphabet,Alphabet,builds_on,built on,tpu,Google TPU,unsourced,,
 meta,Meta,builds_on,built on,nvidia,NVIDIA,unsourced,,
-oracle,Oracle,builds_on,built on,nvidia,NVIDIA,unsourced,,
+oracle,Oracle,builds_on,built on,nvidia,NVIDIA,verified,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm,2026-08-26
 huawei,Huawei,builds_on,built on,ascend,Huawei Ascend,unsourced,,
 alibabacloud,Alibaba Cloud,builds_on,built on,cambricon,Cambricon,unsourced,,
 ibm,IBM,builds_on,built on,nvidia,NVIDIA,unsourced,,
@@ -431,3 +431,7 @@ nvidia,NVIDIA,commits_to,commits spend to,amkor,Amkor,verified,https://www.inves
 vertex,Google Vertex AI,builds_on,built on,anthropic,Anthropic,verified,https://cloud.google.com/products/model-garden/claude,
 alphabet,Alphabet,invests_in,invests in,flappingairplanes,Flapping Airplanes,verified,https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/,2026-10-21
 nvidia,NVIDIA,invests_in,invests in,flappingairplanes,Flapping Airplanes,reported,https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/,2026-10-21
+openai,OpenAI,builds_on,built on,nvidia,NVIDIA,verified,https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/,2025-10-09
+microsoft,Microsoft,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm,2026-08-04
+oracle,Oracle,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm,2026-08-04
+openai,OpenAI,invests_in,invests in,coreweave,CoreWeave,verified,https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm,2025-03-31
