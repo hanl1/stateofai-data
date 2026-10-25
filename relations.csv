@@ -435,3 +435,7 @@ openai,OpenAI,builds_on,built on,nvidia,NVIDIA,verified,https://azure.microsoft.
 microsoft,Microsoft,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm,2026-08-04
 oracle,Oracle,builds_on,built on,amd,AMD,verified,https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm,2026-08-04
 openai,OpenAI,invests_in,invests in,coreweave,CoreWeave,verified,https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm,2025-03-31
+nvidia,NVIDIA,invests_in,invests in,higgsfield,Higgsfield,verified,https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia,
+pathos,Pathos AI,trains_on,trains on,tempus,Tempus AI,verified,https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions,
+vertex,Google Vertex AI,builds_on,built on,openai,OpenAI,verified,https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes,
+replit,Replit,routes,routes to,openai,OpenAI,verified,https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/,

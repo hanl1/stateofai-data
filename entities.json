@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-10-22",
+ "as_of": "2026-10-25",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -1160,7 +1160,7 @@
    "layer": "agent",
    "kind": "company",
    "signal": "agent IDE",
-   "role": "Browser IDE turned autonomous app-building agent. At TechCrunch Disrupt on 2026-10-15 chief executive Amjad Masad said Replit is no longer working with ANTHROPIC, citing cost and model performance and calling OpenAI the better partner 'for now'. The claim is contested: a person familiar with the partnership told TechCrunch it is still in place, and Replit's own September 2026 blog post lists Claude Fable 5 and Fable 5.1 running in Replit Agent's production environment. Neither company has announced a termination, so the routing edge to Anthropic stands while the claim is disputed.",
+   "role": "Browser IDE turned autonomous app-building agent. At TechCrunch Disrupt on 2026-10-15 chief executive Amjad Masad said Replit is no longer working with ANTHROPIC, citing cost and model performance and calling OpenAI the better partner 'for now'. He later clarified the narrower fact: OpenAI is now the DEFAULT model in Replit Agent and customers can still select Anthropic models, which is also what Replit's own September 2026 blog post shows, listing Claude Fable 5 and Fable 5.1 in the Agent production environment. So both routing edges stand - the Anthropic one was never terminated by either company, and a person familiar told TechCrunch the partnership is still in place. The commercial shape behind the switch is reported, not announced: The Information said on 2026-10-25 that Replit has moved most of its AI spending to OpenAI under a contract worth more than $100M a year at a discount of more than 30%, part of a wider push in which OpenAI is offering steep discounts to win Anthropic's largest customers, with Rippling and DataCamp named alongside Replit. None of the three companies has confirmed any of those terms.",
    "confidence": "verified",
    "valuation_musd": 9000,
    "sources": [
@@ -1173,6 +1173,11 @@
      "title": "TechCrunch, Replit snags $9B valuation 6 months after hitting $3B",
      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b",
      "as_of": "2026-03-11"
+    },
+    {
+     "title": "TechCrunch, Replit makes OpenAI its default over Anthropic, CEO says",
+     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+     "as_of": "2026-10-17"
     },
     {
      "title": "TechCrunch (relayed), Replit CEO Amjad Masad says the company is no longer working with Anthropic; a person familiar says the partnership is still in place",
@@ -1750,7 +1755,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "raising · CN",
-   "role": "Hangzhou lab building open frontier models known for training efficiency. V4 runs native on Chinese chips. Annualised revenue reached about $1B by September 2026, more than double a few months earlier and almost entirely from API access. Partnered with Huawei on 2026-09-30 to build open-source programming tools for Ascend silicon, aimed squarely at the CUDA software lock-in that underpins NVIDIA's position. The mark here is the FIRST external round, closed around June 2026 at ~RMB50B (~$7.4B) with Tencent (RMB10B), CATL (RMB5B), NetEase, JD.com and the National AI Industry Investment Fund in and founder Liang Wenfeng putting in ~RMB20B himself. The post-money is an IMPLIED figure rather than a disclosed one: the luggage maker Anhui Korrun disclosed on 2026-07-16 that a fund it backs paid RMB2.9B for an indirect 0.8265% stake, from which Reuters computed RMB350.88B (~$51.82B), and Caixin separately reported a post-money of more than RMB350B. Reuters cautions the filings do not say whether new or existing shares were involved, so this is a transaction-implied equity valuation and stays `reported` - the same treatment as Scale AI's implied mark. A second, far larger pre-IPO round is still open and unclosed: Bloomberg and CNBC reported on 2026-10-06 that at least RMB80B (~$12B) is committed against the RMB50B originally sought, that the final tally could approach RMB100B (~$15B) on signed term sheets, that Tencent and CATL are again among the largest cheques, and that it should wrap up in October at a reported RMB500B (~$74-75B) pre-money. Nobody states the post-money that would imply, so it is not carried here. DeepSeek plans to restructure after the financing ahead of a Shanghai STAR Market listing, with an application expected as early as the end of 2026 and a debut framed as early 2027. Chinese regulators are reported to have opened a data-security probe into both DeepSeek and Moonshot AI, which is a new risk to that timetable. It is also now investing rather than only raising: Bloomberg reported on 2026-10-12 that DeepSeek is set to lead a seed round worth tens of millions of dollars in Winverse AI, a Hangzhou robotics-AI startup founded by former Tencent vision-language and robotics lead Hu Han, valuing it at about $400M, with Meituan's Long-Z also committed. The round is not closed, and it is a first clear step into robotics for a lab that has worked almost entirely on language models. The second round is now all but done and the figures have firmed: Reuters reported on 2026-10-22 that DeepSeek has raised about RMB100B (~$15B), double its original RMB50B target, from investors including CATL and Tencent as the largest backers plus GigaDevice, Meituan and Geely, with sources putting the company at RMB500B BEFORE the new capital. Tencent Technology says a few institutions are still competing for the last of the allocation, so it is wrapping up rather than closed, and no post-money has been reported by anyone. The mark here therefore stays at the June round's transaction-implied figure; adding RMB100B to an RMB500B pre would be this map's arithmetic, not a reported number. The raise landed two days after Washington ordered federal civilian agencies to strip DeepSeek's technology out of their systems. On 2026-10-23 Yuyuan Tantian, a CCTV-affiliated account, said DeepSeek had won approval under China's new AI technology export regime, alongside MiniMax; MiniMax confirmed its own registration, DeepSeek did not respond to Reuters and has not confirmed anything, so the DeepSeek leg of that story is state-media sourced only.",
+   "role": "Hangzhou lab building open frontier models known for training efficiency. V4 runs native on Chinese chips. Annualised revenue reached about $1B by September 2026, more than double a few months earlier and almost entirely from API access. Partnered with Huawei on 2026-09-30 to build open-source programming tools for Ascend silicon, aimed squarely at the CUDA software lock-in that underpins NVIDIA's position. The mark here is the FIRST external round, closed around June 2026 at ~RMB50B (~$7.4B) with Tencent (RMB10B), CATL (RMB5B), NetEase, JD.com and the National AI Industry Investment Fund in and founder Liang Wenfeng putting in ~RMB20B himself. The post-money is an IMPLIED figure rather than a disclosed one: the luggage maker Anhui Korrun disclosed on 2026-07-16 that a fund it backs paid RMB2.9B for an indirect 0.8265% stake, from which Reuters computed RMB350.88B (~$51.82B), and Caixin separately reported a post-money of more than RMB350B. Reuters cautions the filings do not say whether new or existing shares were involved, so this is a transaction-implied equity valuation and stays `reported` - the same treatment as Scale AI's implied mark. A second, far larger pre-IPO round is still open and unclosed: Bloomberg and CNBC reported on 2026-10-06 that at least RMB80B (~$12B) is committed against the RMB50B originally sought, that the final tally could approach RMB100B (~$15B) on signed term sheets, that Tencent and CATL are again among the largest cheques, and that it should wrap up in October at a reported RMB500B (~$74-75B) pre-money. Nobody states the post-money that would imply, so it is not carried here. DeepSeek plans to restructure after the financing ahead of a Shanghai STAR Market listing, with an application expected as early as the end of 2026 and a debut framed as early 2027. Chinese regulators are reported to have opened a data-security probe into both DeepSeek and Moonshot AI, which is a new risk to that timetable. It is also now investing rather than only raising: Bloomberg reported on 2026-10-12 that DeepSeek is set to lead a seed round worth tens of millions of dollars in Winverse AI, a Hangzhou robotics-AI startup founded by former Tencent vision-language and robotics lead Hu Han, valuing it at about $400M, with Meituan's Long-Z also committed. The round is not closed, and it is a first clear step into robotics for a lab that has worked almost entirely on language models. The second round is now all but done and the figures have firmed: Reuters reported on 2026-10-22 that DeepSeek has raised about RMB100B (~$15B), double its original RMB50B target, from investors including CATL and Tencent as the largest backers plus GigaDevice, Meituan and Geely, with sources putting the company at RMB500B BEFORE the new capital. Tencent Technology says a few institutions are still competing for the last of the allocation, so it is wrapping up rather than closed, and no post-money has been reported by anyone. The mark here therefore stays at the June round's transaction-implied figure; adding RMB100B to an RMB500B pre would be this map's arithmetic, not a reported number. The raise landed two days after Washington ordered federal civilian agencies to strip DeepSeek's technology out of their systems. On 2026-10-23 Yuyuan Tantian, a CCTV-affiliated account, said DeepSeek had won approval under China's new AI technology export regime, alongside MiniMax; MiniMax confirmed its own registration, DeepSeek did not respond to Reuters and has not confirmed anything, so the DeepSeek leg of that story is state-media sourced only. Two staffing and mandate facts now date the listing work: Reuters reported on 2026-09-09 that DeepSeek had retained CITIC Securities to prepare the STAR Market listing, and on 2026-10-19 that it is hiring Yan Wentao, a partner at Hillhouse's GL Ventures, as its first chief financial officer. Both are sources-based and DeepSeek has announced neither.",
    "confidence": "reported",
    "valuation_musd": 51820,
    "sources": [
@@ -4289,11 +4294,21 @@
    "sector": "app",
    "layer": "app",
    "kind": "company",
-   "signal": "$700M ARR · video",
-   "role": "AI video and visual-production platform; ~$700M annualized revenue in Aug 2026, up from $20M a year earlier, 30M+ users.",
+   "signal": "$1B ARR · video",
+   "role": "AI video and visual-production platform; passed $1B in annualized revenue in September 2026, up from ~$700M in August and $20M a year earlier, with more than 40M users. Extended its Series B on 2026-10-23 with new money from TCV and NVIDIA, announced on the company blog and reported by Bloomberg; neither the size of the extension nor a valuation was disclosed, so the mark here stays at the August Series B. That round was $400M at $5.4B led by DST Global, itself more than four times the $1.3B a January extension had set. Most of the engineering team is in Kazakhstan, which Jensen Huang was visiting when the extension was announced.",
    "confidence": "verified",
    "valuation_musd": 5400,
    "sources": [
+    {
+     "title": "Higgsfield (company blog), Higgsfield Extends Series B With New Investment From TCV and NVIDIA (no size and no valuation disclosed)",
+     "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
+     "as_of": "2026-10-23"
+    },
+    {
+     "title": "Bloomberg, Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
+     "as_of": "2026-10-23"
+    },
     {
      "title": "Higgsfield, $400M Series B at $5.4B led by DST Global, Intel Capital among participants (company release)",
      "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
@@ -5652,6 +5667,37 @@
    ],
    "as_of": "2026-10-20",
    "domain": "ekarobotics.com",
+   "region": "us"
+  },
+  {
+   "id": "pathos",
+   "name": "Pathos AI",
+   "sector": "app",
+   "layer": "app",
+   "kind": "company",
+   "signal": "AI drug development",
+   "role": "Chicago company building Pathos Foundry, a platform that trains on real-world clinical and molecular patient data to pick drug targets and design trials, starting in oncology and now extending into neurology. The $3B is the post-money reported on a $237M Series E announced 2026-10-23 and led by Bristol Myers Squibb, up from $1.6B after the $365M Series D of May 2025. The round came with two commercial agreements announced the same day: BMS gets non-exclusive access to Pathos Foundry across its research and development portfolio plus three years of exclusive rights to use the platform for its neuroscience programmes, and Tempus AI will build a de-identified longitudinal dataset covering hundreds of thousands of patients with Alzheimer's disease and other neurological conditions, which Pathos licenses under a five-year agreement worth up to $55M. Tempus filed the data agreements on an 8-K on 2026-10-23. The $237M size and the $3B mark are press-reported (Axios, STAT) rather than company figures - the Pathos release announces the collaborations and the BMS lead without a valuation - so the mark stays `reported`.",
+   "confidence": "reported",
+   "valuation_musd": 3000,
+   "sources": [
+    {
+     "title": "Pathos AI, Pathos AI Announces Strategic Collaborations with Bristol Myers Squibb and Tempus AI to Advance AI-Driven Drug Development Beginning with Alzheimer's Disease and Other Neurological Conditions (company release; BMS leads the Series E, Tempus licenses neurology data)",
+     "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions",
+     "as_of": "2026-10-23"
+    },
+    {
+     "title": "STAT News, AI drugmaker Pathos, in deal with Bristol, hits $3 billion valuation",
+     "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/",
+     "as_of": "2026-10-23"
+    },
+    {
+     "title": "Investing.com, Pathos AI secures $55M Tempus deal, BMS leads Series E ($237M at an approximately $3B post-money)",
+     "url": "https://www.investing.com/news/company-news/pathos-ai-secures-55m-tempus-deal-bms-leads-series-e-93CH-4969533",
+     "as_of": "2026-10-23"
+    }
+   ],
+   "as_of": "2026-10-23",
+   "domain": "pathos.com",
    "region": "us"
   }
  ],

@@ -3206,7 +3206,39 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
    "as_of": "2025-03-31"
+  },
+  {
+   "source": "nvidia",
+   "target": "higgsfield",
+   "type": "invests_in",
+   "from": "datapass-2026-10-25",
+   "confidence": "verified",
+   "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia"
+  },
+  {
+   "source": "pathos",
+   "target": "tempus",
+   "type": "trains_on",
+   "from": "datapass-2026-10-25",
+   "confidence": "verified",
+   "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions"
+  },
+  {
+   "source": "vertex",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-10-25",
+   "confidence": "verified",
+   "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes"
+  },
+  {
+   "source": "replit",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-10-25",
+   "confidence": "verified",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
   }
  ],
- "as_of": "2026-10-22"
+ "as_of": "2026-10-25"
 }
