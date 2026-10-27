@@ -15,12 +15,12 @@
    "valuation_musd": 20000,
    "sources": [
     {
-     "title": "Eqvista, Top 100 AI Startups by Valuation",
-     "url": "https://eqvista.com/top-ai-startups-by-valuation/",
-     "as_of": "2026-06-05"
+     "title": "TechCrunch (relaying The Information), Perplexity reportedly raised $200M at a $20B valuation; not confirmed by the company",
+     "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
+     "as_of": "2025-09-10"
     }
    ],
-   "as_of": "2026-06-05",
+   "as_of": "2025-09-10",
    "domain": "perplexity.ai",
    "region": "us"
   },
@@ -557,8 +557,8 @@
    "valuation_musd": 13000,
    "sources": [
     {
-     "title": "Last equity mark: $13B round (Nov 2021); May 2025 $1B was nondilutive, no new mark",
-     "url": "https://techcrunch.com/2025/07/01/grammarly-acquires-ai-email-client-superhuman/",
+     "title": "TechCrunch, Grammarly raises $200M at a $13B valuation (last equity mark; the May 2025 $1B from General Catalyst was non-dilutive and set no new price)",
+     "url": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
      "as_of": "2021-11-17"
     },
     {
@@ -793,15 +793,15 @@
     {
      "title": "Figure, Figure exceeds $1B in Series C funding at $39B post-money valuation (led by Parkway Venture Capital; NVIDIA, Intel Capital, Microsoft, Brookfield and the OpenAI Startup Fund participating)",
      "url": "https://www.figure.ai/news/series-c",
-     "as_of": "2025-09"
+     "as_of": "2025-09-16"
     },
     {
      "title": "PR Newswire, Figure exceeds $1B in Series C funding at $39B post-money valuation",
      "url": "https://www.prnewswire.com/news-releases/figure-exceeds-1b-in-series-c-funding-at-39b-post-money-valuation-302556936.html",
-     "as_of": "2025-09"
+     "as_of": "2025-09-16"
     }
    ],
-   "as_of": "2025-09",
+   "as_of": "2025-09-16",
    "domain": "figure.ai",
    "region": "us",
    "news_query": "\"Figure AI\" (humanoid OR robot OR robotics)"
@@ -981,9 +981,14 @@
    "confidence": "verified",
    "sources": [
     {
-     "title": "CNBC, SpaceX to acquire Cursor for $60 billion (closed 2026-08-14)",
-     "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+     "title": "Cursor blog (company release), Cursor is now a part of SpaceX (acquisition closed)",
+     "url": "https://cursor.com/blog/joining-spacex",
      "as_of": "2026-08-14"
+    },
+    {
+     "title": "CNBC, SpaceX to acquire Cursor for $60 billion (agreement)",
+     "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+     "as_of": "2026-06-16"
     }
    ],
    "as_of": "2026-08-14",
@@ -1380,8 +1385,13 @@
    "confidence": "verified",
    "sources": [
     {
-     "title": "CNBC/Bloomberg, SpaceX absorbs xAI at a combined $1.25T (xAI leg $250B)",
-     "url": "https://www.cnbc.com/2026/02/02/spacex-xai-merger.html",
+     "title": "Bloomberg, Musk's SpaceX combines with xAI at $1.25T valuation (xAI leg $250B, per people familiar)",
+     "url": "https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo",
+     "as_of": "2026-02-02"
+    },
+    {
+     "title": "AP (via WSMV), Elon Musk's SpaceX acquires xAI as part of plans to take AI engines to space",
+     "url": "https://www.wsmv.com/2026/02/02/elon-musks-spacex-acquires-xai-part-plans-take-ai-engines-space/",
      "as_of": "2026-02-02"
     }
    ],
@@ -1398,7 +1408,7 @@
    "kind": "division",
    "signal": "division",
    "role": "Alphabet's model lab. Gemini family, runs largely on in-house TPUs.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "alphabet",
    "sources": [],
    "as_of": "2026-07",
@@ -1413,7 +1423,7 @@
    "kind": "division",
    "signal": "division",
    "role": "Open-weight Llama models plus enormous internal capex.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "meta",
    "sources": [],
    "as_of": "2026-07",
@@ -1613,9 +1623,14 @@
    "valuation_musd": 1400,
    "sources": [
     {
-     "title": "AI21 blog, Series C at $1.4B (Aug 2023, ext. to $208M); May 2025 Series D $300M at undisclosed valuation",
+     "title": "AI21 blog, Series C at $1.4B (Aug 2023, extended to $208M) - the last completed raise",
      "url": "https://www.ai21.com/blog/series-c-funding/",
      "as_of": "2023-08-30"
+    },
+    {
+     "title": "CTech (Calcalist), AI21 never closed its reported $300 million round as Nvidia weighs an acquisition",
+     "url": "https://www.calcalistech.com/ctechnews/article/rjswz37eze",
+     "as_of": "2026-01-01"
     }
    ],
    "as_of": "2023-08-30",
@@ -1973,27 +1988,6 @@
    "region": "us"
   },
   {
-   "id": "surge",
-   "name": "Surge AI",
-   "sector": "data",
-   "layer": "data",
-   "kind": "company",
-   "signal": "RLHF data",
-   "role": "Human feedback data at scale; bootstrapped rival to Scale.",
-   "confidence": "reported",
-   "valuation_musd": 25000,
-   "sources": [
-    {
-     "title": "Reported raise talks at $25B+ (Jul 2025, first external round after bootstrapping); no confirmed close; $20B secondary also reported",
-     "url": "https://www.ainvest.com/news/surge-ai-talks-1-billion-funding-25-billion-valuation-2507/",
-     "as_of": "2025-07-15"
-    }
-   ],
-   "as_of": "2025-07-15",
-   "domain": "surgehq.ai",
-   "region": "us"
-  },
-  {
    "id": "mercor",
    "name": "Mercor",
    "sector": "data",
@@ -2005,12 +1999,17 @@
    "valuation_musd": 10000,
    "sources": [
     {
-     "title": "Bloomberg, Mercor discusses $20B valuation",
+     "title": "TechCrunch, Mercor quintuples valuation to $10B with $350M Series C led by Felicis (company confirmed)",
+     "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/",
+     "as_of": "2025-10-27"
+    },
+    {
+     "title": "Bloomberg, Mercor discusses $20B valuation (early talks; not a mark)",
      "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
      "as_of": "2026-07-09"
     }
    ],
-   "as_of": "2026-07-09",
+   "as_of": "2025-10-27",
    "domain": "mercor.com",
    "region": "us"
   },
@@ -2047,9 +2046,9 @@
    "layer": "data",
    "kind": "company",
    "signal": "model hub",
-   "role": "The open-model distribution hub; where open weights actually get found. Agreed to be acquired by NVIDIA for ~$12.9B (Sep 2026), closing expected H1 2027. CNBC reported on 2026-09-28 that OpenAI had offered to invest about $100M in the company first, after its agents escaped a Hugging Face sandbox in July, and had envisaged using the hub as a distribution outlet for the Jalapeno chips it is co-developing with Broadcom; the chip angle is said to have caught Jensen Huang's attention, and the investment talks collapsed early in the process that ended with NVIDIA buying the company outright.",
-   "confidence": "verified",
-   "valuation_musd": 12930,
+   "role": "The open-model distribution hub; where open weights actually get found. Agreed to be acquired by NVIDIA for ~$11.9B in cash (Sep 2026; a separate retention pool of up to ~$1.0B for staff is not part of the price), closing expected H1 2027. CNBC reported on 2026-09-28 that OpenAI had offered to invest about $100M in the company first, after its agents escaped a Hugging Face sandbox in July, and had envisaged using the hub as a distribution outlet for the Jalapeno chips it is co-developing with Broadcom; the chip angle is said to have caught Jensen Huang's attention, and the investment talks collapsed early in the process that ended with NVIDIA buying the company outright.",
+   "confidence": "reported",
+   "valuation_musd": 11900,
    "sources": [
     {
      "title": "NVIDIA 8-K: agreement to acquire Hugging Face for ~$11.9B cash plus up to ~$1.0B retention equity, signed Sep 2 2026, close expected H1 2027 pending regulatory approval",
@@ -2288,8 +2287,8 @@
      "as_of": "2026-10-14"
     },
     {
-     "title": "SiliconANGLE, AI cloud startup Modal raises $750M at $15.75B valuation",
-     "url": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-15-75b-valuation/",
+     "title": "The Next Web, Modal raises $750M at $15.75bn valuation as run rate tops $1bn",
+     "url": "https://thenextweb.com/news/modal-750m-series-d-15-75bn-valuation",
      "as_of": "2026-10-14"
     },
     {
@@ -2703,7 +2702,7 @@
    "kind": "division",
    "signal": "division · CN",
    "role": "China's largest cloud; serves Qwen and third-party models domestically.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "alibaba",
    "sources": [],
    "as_of": "2026-07",
@@ -3017,7 +3016,7 @@
    "valuation_musd": 4400,
    "sources": [
     {
-     "title": "Businesswire, Lightmatter $400M Series D at $4.4B led by T. Rowe Price; S-1 filed Apr 2026, IPO completion unconfirmed",
+     "title": "Businesswire, Lightmatter $400M Series D at $4.4B led by T. Rowe Price",
      "url": "https://www.businesswire.com/news/home/20241016498931/en/Lightmatter-Raises-$400M-Series-D-Quadruples-Valuation-to-$4.4B-as-Photonics-Leader-for-Next-Gen-AI-Data-Centers",
      "as_of": "2024-10-16"
     }
@@ -3086,7 +3085,7 @@
    "kind": "division",
    "signal": "division",
    "role": "The most mature non-NVIDIA AI silicon; powers Gemini and Vertex.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "alphabet",
    "sources": [],
    "as_of": "2026-07",
@@ -3101,7 +3100,7 @@
    "kind": "division",
    "signal": "division",
    "role": "Amazon's in-house training/inference chip; its NVIDIA hedge.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "amazon",
    "sources": [],
    "as_of": "2026-07",
@@ -3116,7 +3115,7 @@
    "kind": "division",
    "signal": "division",
    "role": "Language processing unit tuned for low-latency token generation.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "groq",
    "sources": [],
    "as_of": "2026-07",
@@ -3131,7 +3130,7 @@
    "kind": "division",
    "signal": "division",
    "role": "An entire wafer as one chip.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "cerebras",
    "sources": [],
    "as_of": "2026-07",
@@ -3146,7 +3145,7 @@
    "kind": "division",
    "signal": "division · CN",
    "role": "China's leading domestic AI accelerator; DeepSeek V4 runs native on it.",
-   "confidence": "verified",
+   "confidence": "unsourced",
    "parent": "huawei",
    "sources": [],
    "as_of": "2026-07",
@@ -3512,7 +3511,7 @@
    "parent": "alphabet",
    "signal": "managed inference",
    "role": "Alphabet's managed inference surface for Gemini and open models; runs largely on in-house TPUs.",
-   "confidence": "reported",
+   "confidence": "unsourced",
    "sources": [],
    "as_of": "2026-07",
    "domain": "google.com",
@@ -3527,7 +3526,7 @@
    "parent": "amazon",
    "signal": "managed inference",
    "role": "Amazon's managed inference service; hosts Anthropic and open models on Trainium plus NVIDIA.",
-   "confidence": "reported",
+   "confidence": "unsourced",
    "sources": [],
    "as_of": "2026-07",
    "domain": "aws.amazon.com",
@@ -3542,7 +3541,7 @@
    "parent": "microsoft",
    "signal": "managed inference",
    "role": "Microsoft's managed inference surface serving both open and frontier models.",
-   "confidence": "reported",
+   "confidence": "unsourced",
    "sources": [],
    "as_of": "2026-07",
    "domain": "microsoft.com",
@@ -3557,7 +3556,7 @@
    "parent": "vercel",
    "signal": "managed inference",
    "role": "Gateway bundled with Vercel's dev platform; externalises the routing decision for apps adding AI features.",
-   "confidence": "reported",
+   "confidence": "unsourced",
    "sources": [],
    "as_of": "2026-07",
    "domain": "vercel.com",
@@ -5559,12 +5558,12 @@
     {
      "title": "JNS, Israeli AI firm Decart raises $300 million at $4 billion valuation - Series B led by Radical Ventures, NVIDIA joining as a new investor",
      "url": "https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation",
-     "as_of": "2026-05"
+     "as_of": "2026-05-19"
     },
     {
-     "title": "The Next Web, Decart raises $300M to put a real-time world model in front of Amazon's chips - total funding past $450M",
+     "title": "The Next Web, Decart raises $300M to put a real-time world model in front of Amazon's chips - total funding past $450M (valuation not disclosed here)",
      "url": "https://thenextweb.com/news/decart-300-million-radical-ventures-world-models",
-     "as_of": "2026-05"
+     "as_of": "2026-05-18"
     },
     {
      "title": "The Next Web, Amazon in talks to buy AI chip software startup Decart for about $7bn (WSJ) - restates the May round at nearly $4B",
@@ -5572,7 +5571,7 @@
      "as_of": "2026-10-12"
     }
    ],
-   "as_of": "2026-05",
+   "as_of": "2026-05-18",
    "domain": "decart.ai",
    "region": "other"
   },

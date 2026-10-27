@@ -5,235 +5,249 @@
    "source": "perplexity",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://docs.perplexity.ai/docs/agent-api/models",
+   "confidence": "verified",
+   "title": "Perplexity docs, Agent API Models (lists OpenAI GPT models)"
   },
   {
    "source": "perplexity",
    "target": "deepmind",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "perplexity",
-   "target": "together",
-   "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "perplexity",
-   "target": "openrouter",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://docs.perplexity.ai/docs/agent-api/models",
+   "confidence": "verified",
+   "title": "Perplexity docs, Agent API Models (lists Google Gemini models)"
   },
   {
    "source": "cursor",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://cursor.com/data-use",
+   "confidence": "verified",
+   "title": "Cursor, Data Use & Privacy Overview (names Anthropic as a model provider)",
+   "as_of": "2026-09-03"
   },
   {
    "source": "cursor",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://cursor.com/data-use",
+   "confidence": "verified",
+   "title": "Cursor, Data Use & Privacy Overview (names OpenAI as a model provider)",
+   "as_of": "2026-09-03"
   },
   {
    "source": "cursor",
    "target": "baseten",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.baseten.co/blog/optimizing-delta-weight-syncs-for-managed-rollouts/",
+   "confidence": "verified",
+   "title": "Baseten, Optimizing delta weight syncs for managed RL rollouts (serves inference for Cursor)"
   },
   {
    "source": "cursor",
    "target": "fireworks",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "cursor",
-   "target": "moonshot",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://fireworks.ai/blog/Cursor-Composer-2",
+   "confidence": "verified",
+   "title": "Fireworks AI, Cursor Composer 2 (Fireworks runs Composer inference)",
+   "as_of": "2026-06-26"
   },
   {
    "source": "cognition",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://claude.com/customers/cognition",
+   "confidence": "verified",
+   "title": "Anthropic, Building an autonomous AI engineer: A Q&A with Cognition"
   },
   {
    "source": "lovable",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://claude.com/customers/lovable",
+   "confidence": "verified",
+   "title": "Anthropic, Lovable helps anyone create software 20x faster with Claude"
   },
   {
    "source": "replit",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "confidence": "reported",
+   "title": "TechCrunch, Replit makes OpenAI its default over Anthropic, CEO says (Claude still selectable)",
+   "as_of": "2026-10-17"
   },
   {
    "source": "sierra",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/",
+   "confidence": "reported",
+   "title": "TechCrunch, Bret Taylor's customer service AI startup just raised $175M (uses OpenAI, Anthropic and Meta models)",
+   "as_of": "2024-10-28"
   },
   {
    "source": "harvey",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openai.com/customer-stories/harvey/",
+   "confidence": "verified",
+   "title": "OpenAI, Customizing models for legal professionals (Harvey customer story)"
   },
   {
    "source": "harvey",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://claude.com/customers/harvey",
+   "confidence": "verified",
+   "title": "Anthropic, Harvey transforms legal work with Claude"
   },
   {
    "source": "legora",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "abridge",
-   "target": "anthropic",
-   "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "openevidence",
-   "target": "openai",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.anthropic.com/customers/legora",
+   "confidence": "verified",
+   "title": "Anthropic, customer story: Legora"
   },
   {
    "source": "glean",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.glean.com/press/enterprise-ai-platform-glean-adds-support-for-anthropics-claude-ai-model",
+   "confidence": "verified",
+   "title": "Glean, Enterprise AI Platform Glean Adds Support for Anthropic's Claude AI Model",
+   "as_of": "2024-06-05"
   },
   {
    "source": "notion",
    "target": "anthropic",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://claude.com/customers/notion",
+   "confidence": "verified",
+   "title": "Anthropic, customer story: Notion"
   },
   {
    "source": "grammarly",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "venice",
-   "target": "together",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.techradar.com/news/grammarlys-chatgpt-upgrade-wont-just-improve-your-writing-itll-do-it-for-you",
+   "confidence": "reported",
+   "title": "TechRadar, Grammarly's ChatGPT upgrade won't just improve your writing (GrammarlyGo built on GPT-3; no newer source)",
+   "as_of": "2023-03-09"
   },
   {
    "source": "venice",
    "target": "nearai",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://venice.ai/privacy",
+   "confidence": "verified",
+   "title": "Venice, Privacy (inference run by TEE partners NEAR AI Cloud and Phala Network)"
   },
   {
    "source": "venice",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "helsing",
-   "target": "mistral",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://api.venice.ai/api/v1/models",
+   "confidence": "verified",
+   "title": "Venice API, model list (GPT models served as anonymized proxies)"
   },
   {
    "source": "openrouter",
    "target": "together",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Together)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "openrouter",
    "target": "fireworks",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Fireworks)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "openrouter",
    "target": "groq",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Groq)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "openrouter",
    "target": "deepseek",
    "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (DeepSeek)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "openrouter",
    "target": "alibaba",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "vercel",
-   "target": "fireworks",
-   "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "vercel",
-   "target": "together",
-   "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "elevenlabs",
-   "target": "groq",
-   "type": "routes",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Alibaba)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "decagon",
    "target": "openai",
    "type": "routes",
-   "from": "industry-map"
-  },
-  {
-   "source": "openai",
-   "target": "scaleai",
-   "type": "trains_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "anthropic",
-   "target": "surge",
-   "type": "trains_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://openai.com/index/decagon/",
+   "confidence": "verified",
+   "title": "OpenAI, Delivering high-performance customer support (Decagon; its CEO said in 2026-07 that ~90% of workloads now run on open-source models)"
   },
   {
    "source": "metaai",
    "target": "scaleai",
    "type": "trains_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+   "confidence": "verified",
+   "title": "Scale AI, Scale AI announces next phase of company's evolution (expands Scale and Meta's commercial relationship)",
+   "as_of": "2025-06-12"
   },
   {
    "source": "openai",
    "target": "mercor",
    "type": "trains_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "anthropic",
-   "target": "turing",
-   "type": "trains_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share",
+   "confidence": "reported",
+   "title": "TechCrunch, How AI labs use Mercor to get the data companies won't share (customers include OpenAI, Anthropic and Meta)",
+   "as_of": "2025-10-29"
   },
   {
    "source": "openai",
@@ -242,7 +256,10 @@
    "from": "industry-map",
    "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
    "as_of": "2025-10-28",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "blogs.microsoft.com, The next chapter of the Microsoft–OpenAI partnership - The Official Microsoft Blog",
+   "amount": "$250B of Azure (incremental)",
+   "amount_musd": 250000
   },
   {
    "source": "openai",
@@ -259,7 +276,9 @@
    "type": "rents",
    "from": "industry-map",
    "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+   "title": "Reuters exclusive (via CNBC), Anthropic's IPO prospectus shows sweeping AI vision and surging costs - 2025 revenue ~$4.6B, net loss ~$42B, $518B of infrastructure commitments; no share count or price range set",
+   "as_of": "2026-09-28"
   },
   {
    "source": "anthropic",
@@ -267,121 +286,73 @@
    "type": "rents",
    "from": "industry-map",
    "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+   "title": "Reuters exclusive (via CNBC), Anthropic's IPO prospectus shows sweeping AI vision and surging costs - 2025 revenue ~$4.6B, net loss ~$42B, $518B of infrastructure commitments; no share count or price range set",
+   "as_of": "2026-09-28"
   },
   {
    "source": "xai",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Ethernet-Networking-Accelerates-Worlds-Largest-AI-Supercomputer-Built-by-xAI",
+   "confidence": "verified",
+   "title": "NVIDIA, NVIDIA Ethernet Networking Accelerates World's Largest AI Supercomputer, Built by xAI",
+   "as_of": "2024-10-28"
   },
   {
    "source": "mistral",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://mistral.ai/fr/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "confidence": "verified",
+   "title": "Mistral AI, Mistral fait avancer l'IA pour l'ingenierie avec NVIDIA (trained on 3,800 NVIDIA Grace Blackwell GPUs)",
+   "as_of": "2026-10-21"
   },
   {
    "source": "deepmind",
    "target": "tpu",
    "type": "builds_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "together",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "together",
-   "target": "lambda",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "fireworks",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "baseten",
-   "target": "nebius",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "baseten",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "deepinfra",
-   "target": "crusoe",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "modal",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "replicate",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "nearai",
-   "target": "nebius",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "poolside",
-   "target": "crusoe",
-   "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://blog.google/technology/ai/google-gemini-ai/",
+   "confidence": "verified",
+   "title": "Google, Introducing Gemini (trained on TPU v4 and v5e)",
+   "as_of": "2023-12-06"
   },
   {
    "source": "meta",
    "target": "coreweave",
    "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000050/crwv-20250925.htm",
+   "confidence": "verified",
+   "title": "CoreWeave 8-K, Meta order of about $14.2B under the 2023 master services agreement, through 2031",
+   "as_of": "2025-09-25",
+   "amount": "up to ~$14.2B through 2031",
+   "amount_musd": 14200
   },
   {
    "source": "meta",
    "target": "nebius",
    "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://nebius.com/newsroom/nebius-signs-new-ai-infrastructure-agreement-with-meta",
+   "confidence": "verified",
+   "title": "Nebius, Nebius signs new AI infrastructure agreement with Meta ($12B over 5 years, up to ~$27B)",
+   "as_of": "2026-03-16",
+   "amount": "$12B over 5 yrs, up to ~$27B",
+   "amount_musd": 12000
   },
   {
    "source": "microsoft",
    "target": "nebius",
    "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "deepseek",
-   "target": "huawei",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "alibaba",
-   "target": "alibabacloud",
-   "type": "rents",
-   "from": "industry-map"
-  },
-  {
-   "source": "bytedance",
-   "target": "huawei",
-   "type": "rents",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://nebius.com/newsroom/nebius-announces-multi-billion-dollar-agreement-with-microsoft-for-ai-infrastructure",
+   "confidence": "verified",
+   "title": "Nebius, Nebius announces multi-billion dollar agreement with Microsoft for AI infrastructure ($17.4B, up to $19.4B, through 2031)",
+   "as_of": "2025-09-08"
   },
   {
    "source": "coreweave",
@@ -396,31 +367,40 @@
    "source": "nebius",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://nebius.com/newsroom/nebius-delivers-first-nvidia-blackwell-general-availability-in-europe-brings-nvidia-ai-enterprise-to-nebius-ai-cloud",
+   "confidence": "verified",
+   "title": "Nebius, Nebius delivers first NVIDIA Blackwell general availability in Europe",
+   "as_of": "2025-06-11"
   },
   {
    "source": "crusoe",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.crusoe.ai/resources/blog/unlocking-the-power-of-nvidia-gb200-nvl72",
+   "confidence": "verified",
+   "title": "Crusoe, Unlocking the power of NVIDIA GB200 NVL72: How Crusoe makes next-gen AI a reality",
+   "as_of": "2025-10-09"
   },
   {
    "source": "lambda",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.businesswire.com/news/home/20260316073867/en/Lambda-Expands-NVIDIA-Collaboration-Large-Scale-Deployments-and-New-AI-Infrastructure-Offerings",
+   "confidence": "verified",
+   "title": "Lambda (Business Wire), Lambda Expands NVIDIA Collaboration: Large Scale Deployments and New AI Infrastructure Offerings",
+   "as_of": "2026-03-16"
   },
   {
    "source": "runpod",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "nscale",
-   "target": "amd",
-   "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.runpod.io/cloud-gpus/b200",
+   "confidence": "verified",
+   "title": "Runpod, NVIDIA B200 (product page)"
   },
   {
    "source": "microsoft",
@@ -435,25 +415,39 @@
    "source": "amazon",
    "target": "trainium",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://aws.amazon.com/ai/machine-learning/trainium/",
+   "confidence": "verified",
+   "title": "AWS, Trainium (product page)"
   },
   {
    "source": "amazon",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available",
+   "confidence": "verified",
+   "title": "AWS, Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available",
+   "as_of": "2025-12-02"
   },
   {
    "source": "alphabet",
    "target": "tpu",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://cloud.google.com/tpu",
+   "confidence": "verified",
+   "title": "Google Cloud, Cloud TPU (product page)"
   },
   {
    "source": "meta",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://investor.nvidia.com/news/press-release-details/2026/Meta-Builds-AI-Infrastructure-With-NVIDIA/",
+   "confidence": "verified",
+   "title": "NVIDIA, Meta Builds AI Infrastructure With NVIDIA",
+   "as_of": "2026-02-17"
   },
   {
    "source": "oracle",
@@ -468,49 +462,60 @@
    "source": "huawei",
    "target": "ascend",
    "type": "builds_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "alibabacloud",
-   "target": "cambricon",
-   "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.huawei.com/en/news/2025/9/hc-xu-keynote-speech",
+   "confidence": "verified",
+   "title": "Huawei, Groundbreaking SuperPoD Interconnect: Leading a New Paradigm for AI Infrastructure (Ascend 910C SuperPoD)",
+   "as_of": "2025-09-18"
   },
   {
    "source": "ibm",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://community.ibm.com/community/user/blogs/stephan-woehl/2026/04/19/nvidia-b300-gpus-now-available",
+   "confidence": "verified",
+   "title": "IBM Cloud community blog, NVIDIA B300 GPUs now available",
+   "as_of": "2026-04-19"
   },
   {
    "source": "cerebras",
    "target": "wse",
    "type": "builds_on",
-   "from": "industry-map"
-  },
-  {
-   "source": "groq",
-   "target": "lpu",
-   "type": "builds_on",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cerebras.ai/chip",
+   "confidence": "verified",
+   "title": "Cerebras, The Wafer-Scale Engine (product page)"
   },
   {
    "source": "nvidia",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "confidence": "verified",
+   "title": "NVIDIA 10-K FY2026 (we utilize foundries, such as TSMC and Samsung)",
+   "as_of": "2026-02-25"
   },
   {
    "source": "amd",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+   "confidence": "verified",
+   "title": "AMD 10-K FY2025 (TSMC produces wafers for our HPC products)",
+   "as_of": "2026-02-04"
   },
   {
    "source": "broadcom",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+   "confidence": "verified",
+   "title": "Broadcom 10-K FY2025 (outsourced to external foundries, including TSMC)",
+   "as_of": "2025-12-18"
   },
   {
    "source": "tpu",
@@ -522,19 +527,30 @@
    "source": "trainium",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/?p=3104178",
+   "confidence": "reported",
+   "title": "TechCrunch, An exclusive tour of Amazon's Trainium lab (3-nanometer chip produced by TSMC)",
+   "as_of": "2026-03-22"
   },
   {
    "source": "qualcomm",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+   "confidence": "verified",
+   "title": "Qualcomm 10-K FY2025 (primary foundry suppliers include TSMC)",
+   "as_of": "2025-11-05"
   },
   {
    "source": "etched",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.etched.com/",
+   "confidence": "verified",
+   "title": "Etched (A0 silicon came back from TSMC N4P)"
   },
   {
    "source": "ascend",
@@ -549,100 +565,154 @@
    "from": "industry-map"
   },
   {
-   "source": "biren",
-   "target": "smic",
-   "type": "fabricated_by",
-   "from": "industry-map"
-  },
-  {
    "source": "nvidia",
    "target": "skhynix",
    "type": "memory_from",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "confidence": "verified",
+   "title": "NVIDIA 10-K FY2026 (we purchase memory from SK Hynix, Micron and Samsung)",
+   "as_of": "2026-02-25"
   },
   {
    "source": "nvidia",
    "target": "micron",
    "type": "memory_from",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "confidence": "verified",
+   "title": "NVIDIA 10-K FY2026 (we purchase memory from SK Hynix, Micron and Samsung)",
+   "as_of": "2026-02-25"
   },
   {
    "source": "nvidia",
    "target": "amkor",
    "type": "packaged_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+   "confidence": "verified",
+   "title": "NVIDIA, NVIDIA to Manufacture American-Made AI Supercomputers in US for First Time (Amkor and SPIL for packaging)",
+   "as_of": "2025-04-14"
   },
   {
    "source": "nvidia",
    "target": "synopsys",
    "type": "designed_with",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.synopsys.com/verification/emulation/",
+   "confidence": "verified",
+   "title": "Synopsys, Emulation Systems (NVIDIA's VP of Hardware Engineering on HAPS-200 for system-level verification)"
   },
   {
    "source": "amd",
    "target": "cadence",
    "type": "designed_with",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/amd-is-designing-their-epyc-server-processors-with-the-dynamic-duo",
+   "confidence": "verified",
+   "title": "Cadence, AMD Is Designing Their EPYC Server Processors with the Dynamic Duo (Palladium Z2 and Protium X2)",
+   "as_of": "2023-01-19"
   },
   {
    "source": "tsmc",
    "target": "asml",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://pr.tsmc.com/english/news/2995",
+   "confidence": "verified",
+   "title": "TSMC, TSMC Presents 2022 Excellent Performance Award to Outstanding Suppliers (names ASML)",
+   "as_of": "2023-01-18"
   },
   {
    "source": "tsmc",
    "target": "amat",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000044/amat-20241027.htm",
+   "confidence": "verified",
+   "title": "Applied Materials 10-K FY2024 (TSMC 11% of revenue)",
+   "as_of": "2024-12-13"
   },
   {
    "source": "tsmc",
    "target": "lam",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "confidence": "verified",
+   "title": "Lam Research 10-K FY2026 (most significant customers include TSMC)",
+   "as_of": "2026-08-07"
   },
   {
    "source": "tsmc",
    "target": "kla",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/klac-20260630.htm",
+   "confidence": "verified",
+   "title": "KLA 10-K FY2026 (TSMC above 10% of revenue)",
+   "as_of": "2026-08-06"
   },
   {
    "source": "tsmc",
    "target": "tel",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://pr.tsmc.com/english/news/2995",
+   "confidence": "verified",
+   "title": "TSMC, TSMC Presents 2022 Excellent Performance Award to Outstanding Suppliers (names Tokyo Electron)",
+   "as_of": "2023-01-18"
   },
   {
    "source": "samsung",
    "target": "asml",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.asml.com/en/news/press-releases/2026/samsung-electronics-and-asml-expand-collaboration-on-next-generation-semiconductor-manufacturing",
+   "confidence": "verified",
+   "title": "ASML, Samsung Electronics and ASML expand strategic collaboration for next-generation semiconductor manufacturing",
+   "as_of": "2026-09-08"
   },
   {
    "source": "smic",
    "target": "naura",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://digitimes.com/news/a20230607PD206.html",
+   "confidence": "reported",
+   "title": "DIGITIMES, SMIC subsidiary continues to fulfill Chinese demands for FinFET capabilities (names SMIC's subsidiary as NAURA's largest buyer)",
+   "as_of": "2023-06-07"
   },
   {
    "source": "skhynix",
    "target": "asml",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://news.bloombergtax.com/mergers-and-acquisitions/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear",
+   "confidence": "reported",
+   "title": "Bloomberg Tax, SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear (reporting an SK hynix filing)",
+   "as_of": "2026-03-24"
   },
   {
    "source": "micron",
    "target": "lam",
    "type": "equipped_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "confidence": "verified",
+   "title": "Lam Research 10-K FY2026 (most significant customers include Micron)",
+   "as_of": "2026-08-07"
   },
   {
    "source": "asml",
    "target": "mistral",
    "type": "invests_in",
-   "from": "arbitrated"
+   "from": "arbitrated",
+   "url": "https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership",
+   "confidence": "verified",
+   "title": "ASML, ASML, Mistral AI enter strategic partnership (ASML led the Series C with EUR 1.3B)",
+   "as_of": "2025-09-09",
+   "amount": "EUR 1.3B (~11% stake)"
   },
   {
    "source": "nvidia",
@@ -651,43 +721,68 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000008/primary_doc.xml",
    "as_of": "2026-01-26",
-   "confidence": "verified"
+   "confidence": "verified",
+   "amount": "11.5% stake"
   },
   {
    "source": "nvidia",
    "target": "nebius",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465924124570/tm2429858d1_ex99-1.htm",
+   "confidence": "verified",
+   "title": "Nebius 6-K exhibit 99.1, Nebius announces oversubscribed strategic equity financing of USD 700 million (NVIDIA, Accel and Orbis participating)",
+   "as_of": "2024-12-02"
   },
   {
    "source": "nvidia",
    "target": "together",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.together.ai/blog/together-ai-announcing-305m-series-b",
+   "confidence": "verified",
+   "title": "Together AI, Together AI Announces $305M Series B (NVIDIA participating)",
+   "as_of": "2025-02-20"
   },
   {
    "source": "nvidia",
    "target": "deepinfra",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://deepinfra.com/blog/deepinfra-series-b",
+   "confidence": "verified",
+   "title": "DeepInfra, DeepInfra Raises $107M Series B (NVIDIA participating)",
+   "as_of": "2026-05-04"
   },
   {
    "source": "nvidia",
    "target": "cursor",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://cursor.com/blog/series-d",
+   "confidence": "verified",
+   "title": "Cursor blog, Past, Present, and Future (Series D; NVIDIA a new investor, before the SpaceX acquisition)",
+   "as_of": "2025-11-13"
   },
   {
    "source": "nvidia",
    "target": "lambda",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.businesswire.com/news/home/20250219042887/en/Lambda-Raises-$480M-to-Expand-AI-Cloud-Platform",
+   "confidence": "verified",
+   "title": "Lambda (Business Wire), Lambda Raises $480M to Expand AI Cloud Platform (NVIDIA among new investors)",
+   "as_of": "2025-02-19"
   },
   {
    "source": "nvidia",
    "target": "mistral",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
+   "confidence": "verified",
+   "title": "Mistral AI, Mistral raises 1.7B EUR (NVIDIA an existing investor taking part in the Series C)",
+   "as_of": "2025-09-09"
   },
   {
    "source": "nvidia",
@@ -695,7 +790,9 @@
    "type": "invests_in",
    "from": "industry-map",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+   "title": "TechCrunch, Groq raises $350M to fuel its pivot from AI chips to neocloud",
+   "as_of": "2026-08-17"
   },
   {
    "source": "microsoft",
@@ -704,7 +801,9 @@
    "from": "industry-map",
    "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
    "as_of": "2025-10-28",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "blogs.microsoft.com, The next chapter of the Microsoft–OpenAI partnership - The Official Microsoft Blog",
+   "amount": "~27% stake (~$135B)"
   },
   {
    "source": "microsoft",
@@ -716,19 +815,14 @@
    "confidence": "verified"
   },
   {
-   "source": "microsoft",
-   "target": "mistral",
-   "type": "invests_in",
-   "from": "industry-map"
-  },
-  {
    "source": "amazon",
    "target": "anthropic",
    "type": "invests_in",
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
    "as_of": "2026-07-31",
-   "confidence": "verified"
+   "confidence": "verified",
+   "amount": "$8B notes + $10B preferred"
   },
   {
    "source": "alphabet",
@@ -737,7 +831,10 @@
    "from": "industry-map",
    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
    "as_of": "2026-04-24",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "techcrunch.com, Google to invest up to $40B in Anthropic in cash and compute | TechCrunch",
+   "amount": "up to $40B ($10B now)",
+   "amount_musd": 10000
   },
   {
    "source": "meta",
@@ -745,304 +842,435 @@
    "type": "invests_in",
    "from": "industry-map",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html"
+   "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+   "title": "CNBC, Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal. The ~$29B is IMPLIED by $14.3B for 49% non-voting - Scale has never priced a round at it",
+   "as_of": "2025-06-12",
+   "amount": "$14.3B",
+   "amount_musd": 14300
   },
   {
    "source": "openai",
    "target": "oracle",
    "type": "commits_to",
    "from": "persona-sourcing-2026-10-21",
-   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm",
-   "as_of": "2026-02-02",
-   "confidence": "verified"
+   "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle/",
+   "confidence": "verified",
+   "title": "OpenAI, Stargate advances with 4.5 GW partnership with Oracle",
+   "as_of": "2025-07-22",
+   "amount": "4.5 GW"
   },
   {
    "source": "samsung",
    "target": "deepinfra",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://deepinfra.com/blog/deepinfra-series-b",
+   "confidence": "verified",
+   "title": "DeepInfra, DeepInfra Raises $107M Series B (Samsung Next participating)",
+   "as_of": "2026-05-04"
   },
   {
    "source": "tencent",
    "target": "moonshot",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://technode.com/2024/08/06/tencent-joins-moonshot-ai-300-million-funding-round-report-says/",
+   "confidence": "reported",
+   "title": "TechNode (citing Bloomberg), Tencent joins Moonshot AI $300 million funding round, report says",
+   "as_of": "2024-08-06"
   },
   {
    "source": "alibaba",
    "target": "moonshot",
    "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1577552/000095017024063767/baba-20240331.htm",
+   "confidence": "verified",
+   "title": "Alibaba 20-F for FY2024 (about US$0.8B for about 36% of Moonshot AI)",
+   "as_of": "2024-05-23",
+   "amount": "~$0.8B for ~36%",
+   "amount_musd": 800
   },
   {
    "source": "tencent",
    "target": "deepseek",
    "type": "invests_in",
-   "from": "industry-map"
-  },
-  {
-   "source": "alibaba",
-   "target": "deepseek",
-   "type": "invests_in",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+   "confidence": "reported",
+   "title": "The Decoder (relaying The Information), DeepSeek takes outside money for the first time (Tencent among the largest backers, via an LP controlled by the founder, no direct equity)",
+   "as_of": "2026-06-16"
   },
   {
    "source": "alphabet",
    "target": "deepmind",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://deepmind.google/about/",
+   "confidence": "verified",
+   "title": "Google DeepMind, About Google DeepMind"
   },
   {
    "source": "alphabet",
    "target": "tpu",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "confidence": "verified",
+   "title": "Alphabet 10-K FY2025 (our own custom-built Tensor Processing Units)",
+   "as_of": "2026-02-05"
   },
   {
    "source": "alphabet",
    "target": "waymo",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "confidence": "verified",
+   "title": "Alphabet 10-K FY2025 (Other Bets: Waymo)",
+   "as_of": "2026-02-05"
   },
   {
    "source": "meta",
    "target": "metaai",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/",
+   "confidence": "verified",
+   "title": "Meta, Introducing the Meta AI App: A New Way to Access Your AI Assistant",
+   "as_of": "2025-04-29"
   },
   {
    "source": "amazon",
    "target": "trainium",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://aws.amazon.com/ai/machine-learning/trainium/",
+   "confidence": "verified",
+   "title": "AWS, Trainium (product page)"
   },
   {
    "source": "groq",
    "target": "lpu",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+   "confidence": "verified",
+   "title": "Groq, Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement (Groq keeps the LPU; NVIDIA licenses it)",
+   "as_of": "2025-12-24"
   },
   {
    "source": "cerebras",
    "target": "wse",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cerebras.ai/chip",
+   "confidence": "verified",
+   "title": "Cerebras, The Wafer-Scale Engine (product page)"
   },
   {
    "source": "huawei",
    "target": "ascend",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.hiascend.com/en/",
+   "confidence": "verified",
+   "title": "Huawei Ascend developer site (Huawei Technologies)"
   },
   {
    "source": "alibaba",
    "target": "alibabacloud",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001577552/000110465926060224/tm2614494d1_ex99-1.htm",
+   "confidence": "verified",
+   "title": "Alibaba Group, March Quarter 2026 and Fiscal Year 2026 Results (Cloud Intelligence Group segment)",
+   "as_of": "2026-05-13"
   },
   {
    "source": "coreweave",
    "target": "wandb",
    "type": "owns",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Completes-Acquisition-of-Weights--Biases/default.aspx",
+   "confidence": "verified",
+   "title": "CoreWeave, CoreWeave Completes Acquisition of Weights & Biases",
+   "as_of": "2025-05-05"
   },
   {
    "source": "anthropic",
    "target": "openai",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
+   "confidence": "reported",
+   "title": "CNBC, OpenAI and Anthropic's rivalry on display as CEOs avoid holding hands at AI summit",
+   "as_of": "2026-02-19"
   },
   {
    "source": "openai",
    "target": "deepmind",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2025/12/02/open-ai-code-red-google-anthropic.html",
+   "confidence": "reported",
+   "title": "CNBC, OpenAI is under pressure as Google, Anthropic gain ground",
+   "as_of": "2025-12-02"
   },
   {
    "source": "anthropic",
    "target": "deepseek",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html",
+   "confidence": "reported",
+   "title": "CNBC, Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms",
+   "as_of": "2026-02-24"
   },
   {
    "source": "cursor",
    "target": "cognition",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html",
+   "confidence": "reported",
+   "title": "CNBC, OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf (Windsurf later acquired by Cognition)",
+   "as_of": "2025-04-17"
   },
   {
    "source": "harvey",
    "target": "legora",
    "type": "rivals",
-   "from": "industry-map"
-  },
-  {
-   "source": "perplexity",
-   "target": "deepmind",
-   "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+   "confidence": "reported",
+   "title": "TechCrunch, Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+   "as_of": "2026-04-30"
   },
   {
    "source": "nvidia",
    "target": "amd",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "confidence": "verified",
+   "title": "NVIDIA 10-K FY2026, Competition (names AMD)",
+   "as_of": "2026-02-25"
   },
   {
    "source": "nvidia",
    "target": "tpu",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "confidence": "verified",
+   "title": "NVIDIA 10-K FY2026, Competition (names cloud companies designing their own hardware, including Alphabet)",
+   "as_of": "2026-02-25"
   },
   {
    "source": "tsmc",
    "target": "samsung",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2023/06/28/samsung-lays-out-2-nanometer-semiconductor-roadmap-to-catch-up-to-tsmc.html",
+   "confidence": "reported",
+   "title": "CNBC, Samsung to begin making world's most advanced mobile chips in 2025 as battle with TSMC heats up",
+   "as_of": "2023-06-28"
   },
   {
    "source": "skhynix",
    "target": "micron",
    "type": "rivals",
-   "from": "industry-map"
-  },
-  {
-   "source": "together",
-   "target": "fireworks",
-   "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.sec.gov/Archives/edgar/data/0002120882/000119312526266801/filename1.htm",
+   "confidence": "verified",
+   "title": "SK hynix draft registration statement, risk factors (names Micron Technology as a competitor)",
+   "as_of": "2026-06-11"
   },
   {
    "source": "cerebras",
    "target": "groq",
    "type": "rivals",
-   "from": "industry-map"
-  },
-  {
-   "source": "scaleai",
-   "target": "surge",
-   "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
+   "confidence": "reported",
+   "title": "CNBC, What you need to know about Nvidia competitor Cerebras after wild IPO (names Groq among its competitors)",
+   "as_of": "2026-05-15"
   },
   {
    "source": "moonshot",
    "target": "deepseek",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.scmp.com/tech/big-tech/article/3334602/beyond-deepseek-moonshot-and-minimax-step-chinas-new-frontier-ai-labs",
+   "confidence": "reported",
+   "title": "SCMP, Beyond DeepSeek: Moonshot and MiniMax step up as China's new frontier AI labs",
+   "as_of": "2025-01-01"
   },
   {
    "source": "zhipu",
    "target": "minimax",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.scmp.com/tech/big-tech/article/3356390/minimax-once-led-zhipu-hong-kongs-ai-stock-race-how-tables-have-turned",
+   "confidence": "reported",
+   "title": "SCMP, MiniMax once led Zhipu in Hong Kong's AI stock race. How the tables have turned"
   },
   {
    "source": "figure",
    "target": "unitree",
    "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+   "confidence": "reported",
+   "title": "TechCrunch, Why China's humanoid robot industry is winning the early market (Unitree against Figure and Tesla)",
+   "as_of": "2026-02-28"
   },
   {
    "source": "microsoft",
    "target": "amazon",
    "type": "rivals",
-   "from": "industry-map"
-  },
-  {
-   "source": "together",
-   "target": "amazon",
-   "type": "rivals",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.cnbc.com/2025/08/01/cloud-wars-how-microsoft-stacks-up-against-amazon-google-oracle-in-1-chart.html",
+   "confidence": "reported",
+   "title": "CNBC, Cloud wars: How Microsoft stacks up against Amazon, Google, Oracle in 1 chart",
+   "as_of": "2025-08-01"
   },
   {
    "source": "alphabet",
    "target": "vertex",
    "type": "owns",
-   "from": "derived"
+   "from": "derived",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "confidence": "verified",
+   "title": "Alphabet 10-K FY2025 (through Vertex AI; renamed Gemini Enterprise Agent Platform in April 2026)",
+   "as_of": "2026-02-05"
   },
   {
    "source": "amazon",
    "target": "bedrock",
    "type": "owns",
-   "from": "derived"
+   "from": "derived",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available",
+   "confidence": "verified",
+   "title": "AWS, Amazon Bedrock is now generally available",
+   "as_of": "2023-09-28"
   },
   {
    "source": "microsoft",
    "target": "azureai",
    "type": "owns",
-   "from": "derived"
+   "from": "derived",
+   "url": "https://azure.microsoft.com/products/ai-foundry/",
+   "confidence": "verified",
+   "title": "Microsoft, Azure AI Foundry (product page; renamed Microsoft Foundry, Nov 2025)"
   },
   {
    "source": "vercel",
    "target": "vercelgw",
    "type": "owns",
-   "from": "derived"
+   "from": "derived",
+   "url": "https://vercel.com/blog/ai-gateway-is-now-generally-available",
+   "confidence": "verified",
+   "title": "Vercel, AI Gateway is now generally available",
+   "as_of": "2025-08-22"
   },
   {
    "source": "cursor",
    "target": "together",
    "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.together.ai/customers/cursor",
+   "confidence": "verified",
+   "title": "Together AI, How Cursor partnered with Together AI for real-time, low-latency inference"
   },
   {
    "source": "cursor",
    "target": "bedrock",
    "type": "routes",
-   "from": "inference-map"
-  },
-  {
-   "source": "perplexity",
-   "target": "vertex",
-   "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://cursor.com/docs/customizing/aws-bedrock",
+   "confidence": "verified",
+   "title": "Cursor docs, AWS Bedrock"
   },
   {
    "source": "openrouter",
    "target": "bedrock",
    "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Amazon Bedrock)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "openrouter",
    "target": "vertex",
    "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://openrouter.ai/api/v1/providers",
+   "confidence": "verified",
+   "title": "OpenRouter, live provider list (Google Vertex)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "vercelgw",
    "target": "together",
    "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://ai-gateway.vercel.sh/v1/models/openai/gpt-oss-120b/endpoints",
+   "confidence": "verified",
+   "title": "Vercel AI Gateway, live endpoint list for gpt-oss-120b (includes Together AI)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "vercelgw",
    "target": "fireworks",
    "type": "routes",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://ai-gateway.vercel.sh/v1/models/openai/gpt-oss-120b/endpoints",
+   "confidence": "verified",
+   "title": "Vercel AI Gateway, live endpoint list for gpt-oss-120b (includes Fireworks)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "bedrock",
    "target": "trainium",
    "type": "builds_on",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders",
+   "confidence": "verified",
+   "title": "Amazon, CEO Andy Jassy's 2025 Letter to Shareholders (Bedrock runs most of its inference on Trainium)",
+   "as_of": "2026-04-10"
   },
   {
    "source": "bedrock",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://www.tipranks.com/news/amazons-amzn-bedrock-is-now-mostly-powered-by-custom-chips",
+   "confidence": "reported",
+   "title": "TipRanks (relaying AWS's Julia White on The Information), Amazon's Bedrock Is Now Mostly Powered by Custom Chips (also runs on NVIDIA GPUs)",
+   "as_of": "2025-10-14"
   },
   {
    "source": "vertex",
    "target": "tpu",
    "type": "builds_on",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/model-garden/deploy-and-inference-tutorial-tpu",
+   "confidence": "verified",
+   "title": "Google Cloud docs, Deploy and inference Gemma using Model Garden and Vertex AI TPU-backed endpoints"
   },
   {
    "source": "vertex",
    "target": "nvidia",
    "type": "builds_on",
-   "from": "inference-map"
+   "from": "inference-map",
+   "url": "https://docs.cloud.google.com/vertex-ai/docs/predictions/configure-compute",
+   "confidence": "verified",
+   "title": "Google Cloud docs, Configure compute resources for inference (A100, H100, H200, B200, GB200)",
+   "as_of": "2026-10-26"
   },
   {
    "source": "microsoft",
@@ -1051,7 +1279,9 @@
    "from": "inference-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
    "as_of": "2025-09-08",
-   "confidence": "verified"
+   "confidence": "verified",
+   "amount": "~$17.4B, up to ~$19.4B",
+   "amount_musd": 17400
   },
   {
    "source": "meta",
@@ -1069,19 +1299,29 @@
    "from": "inference-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
    "as_of": "2026-03-16",
-   "confidence": "verified"
+   "confidence": "verified",
+   "amount": "$12B over 5 yrs, up to ~$27B",
+   "amount_musd": 12000
   },
   {
    "source": "marvell",
    "target": "celestial",
    "type": "owns",
-   "from": "baseline-2026-08"
+   "from": "baseline-2026-08",
+   "url": "https://investor.marvell.com/news-events/press-releases/detail/1005/marvell-completes-acquisition-of-celestial-ai",
+   "confidence": "verified",
+   "title": "Marvell, Marvell Completes Acquisition of Celestial AI",
+   "as_of": "2026-02-02"
   },
   {
    "source": "cloudflare",
    "target": "replicate",
    "type": "owns",
-   "from": "baseline-2026-08"
+   "from": "baseline-2026-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000038/cloud-20260331.htm",
+   "confidence": "verified",
+   "title": "Cloudflare 10-Q Q1 2026 (acquired all outstanding shares of Replicate on 2025-12-01)",
+   "as_of": "2025-12-01"
   },
   {
    "source": "nvidia",
@@ -1089,7 +1329,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation",
+   "title": "TechCrunch, Black Forest Labs raises $300M Series B at $3.25B",
+   "as_of": "2025-12-01"
   },
   {
    "source": "canva",
@@ -1097,7 +1339,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation",
+   "title": "TechCrunch, Black Forest Labs raises $300M Series B at $3.25B",
+   "as_of": "2025-12-01"
   },
   {
    "source": "alphabet",
@@ -1105,7 +1349,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.ai21.com/blog/series-c-funding/"
+   "url": "https://www.ai21.com/blog/series-c-funding/",
+   "title": "AI21 blog, Series C at $1.4B (Aug 2023, ext. to $208M); May 2025 Series D $300M at undisclosed valuation",
+   "as_of": "2023-08-30"
   },
   {
    "source": "nvidia",
@@ -1113,15 +1359,19 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.ai21.com/blog/series-c-funding/"
+   "url": "https://www.ai21.com/blog/series-c-funding/",
+   "title": "AI21 blog, Series C at $1.4B (Aug 2023, ext. to $208M); May 2025 Series D $300M at undisclosed valuation",
+   "as_of": "2023-08-30"
   },
   {
    "source": "intel",
    "target": "ai21",
    "type": "invests_in",
    "from": "baseline-2026-08",
-   "confidence": "verified",
-   "url": "https://www.ai21.com/blog/series-c-funding/"
+   "confidence": "reported",
+   "url": "https://siliconangle.com/2023/11/21/generative-ai-startup-ai21-labs-finds-additional-backers-close-series-c-funding-round-208m/",
+   "title": "SiliconANGLE, AI21 Labs finds additional backers to close Series C funding round at $208M (Intel among them)",
+   "as_of": "2023-11-21"
   },
   {
    "source": "databricks",
@@ -1129,7 +1379,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.langchain.com/blog/series-b"
+   "url": "https://www.langchain.com/blog/series-b",
+   "title": "LangChain blog, $125M Series B at $1.25B led by IVP",
+   "as_of": "2025-10-20"
   },
   {
    "source": "alphabet",
@@ -1137,7 +1389,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma"
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma",
+   "title": "Fierce Healthcare, Hippocratic AI lands $126M series C at $3.5B valuation",
+   "as_of": "2025-11-03"
   },
   {
    "source": "openai",
@@ -1145,7 +1399,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://sacra.com/c/1x-technologies/"
+   "url": "https://sacra.com/c/1x-technologies/",
+   "title": "Sacra/The Information: $820M (Jan 2025); ~$10B Series C targeted but not confirmed closed",
+   "as_of": "2025-01-15"
   },
   {
    "source": "alphabet",
@@ -1153,7 +1409,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://news.crunchbase.com/venture/ai-powered-gtm-startup-clay-valuation-doubles-capitalg/"
+   "url": "https://news.crunchbase.com/venture/ai-powered-gtm-startup-clay-valuation-doubles-capitalg/",
+   "title": "news.crunchbase.com, AI-Powered Sales Automation Startup Clay More Than Doubles Valuation To $3.1B",
+   "as_of": "2025-08-05"
   },
   {
    "source": "tencent",
@@ -1169,7 +1427,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation"
+   "url": "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation",
+   "title": "TechCrunch, Writer raises $200M Series C at $1.9B valuation",
+   "as_of": "2024-11-12"
   },
   {
    "source": "skhynix",
@@ -1177,7 +1437,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+   "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+   "title": "techcrunch.com, AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors | TechCrunch",
+   "as_of": "2026-07-23"
   },
   {
    "source": "anduril",
@@ -1185,7 +1447,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html"
+   "url": "https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html",
+   "title": "cnbc.com, OpenAI partners with defense company Anduril",
+   "as_of": "2024-12-04"
   },
   {
    "source": "palantir",
@@ -1193,7 +1457,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/"
+   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/",
+   "title": "siliconangle.com, Anthropic partners with AWS and Palantir to provide AI models to defense agencies - SiliconANGLE",
+   "as_of": "2024-11-07"
   },
   {
    "source": "palantir",
@@ -1201,7 +1467,9 @@
    "type": "rents",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/"
+   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/",
+   "title": "siliconangle.com, Anthropic partners with AWS and Palantir to provide AI models to defense agencies - SiliconANGLE",
+   "as_of": "2024-11-07"
   },
   {
    "source": "alphabet",
@@ -1209,7 +1477,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html"
+   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html",
+   "title": "finance.yahoo.com, Alphabet and Nvidia invest in AI startup SSI at $32bn",
+   "as_of": "2025-04-14"
   },
   {
    "source": "nvidia",
@@ -1217,7 +1487,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html"
+   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html",
+   "title": "finance.yahoo.com, Alphabet and Nvidia invest in AI startup SSI at $32bn",
+   "as_of": "2025-04-14"
   },
   {
    "source": "ssi",
@@ -1241,7 +1513,11 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave"
+   "url": "https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave",
+   "title": "vastdata.com, VAST Data partners with CoreWeave for $1.17B to advance AI technology",
+   "as_of": "2025-11-06",
+   "amount": "$1.17B",
+   "amount_musd": 1170
   },
   {
    "source": "tenstorrent",
@@ -1249,7 +1525,8 @@
    "type": "fabricated_by",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet"
+   "url": "https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet",
+   "title": "tenstorrent.com, Tenstorrent Selects Samsung Foundry to Manufacture Next-Generation AI Chiplet | Tenstorrent"
   },
   {
    "source": "samsung",
@@ -1257,7 +1534,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/"
+   "url": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/",
+   "title": "techcrunch.com, AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung | TechCrunch",
+   "as_of": "2023-08-04"
   },
   {
    "source": "nvidia",
@@ -1265,7 +1544,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://www.analyticsinsight.net/news/nvidia-invests-in-thinking-machines-lab-plans-1gw-ai-chip-deployment-worth-billions"
+   "url": "https://www.analyticsinsight.net/news/nvidia-invests-in-thinking-machines-lab-plans-1gw-ai-chip-deployment-worth-billions",
+   "title": "analyticsinsight.net, NVIDIA Invests in Thinking Machines Lab, Plans 1GW AI Chip Deployment Worth Billions",
+   "as_of": "2026-03-11"
   },
   {
    "source": "amd",
@@ -1273,7 +1554,8 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://www.itiger.com/hans/news/1174874464"
+   "url": "https://www.itiger.com/hans/news/1174874464",
+   "title": "itiger.com, TML AI Lab Secures $2 Billion Seed Funding with NVIDIA and AMD Among Key Investors"
   },
   {
    "source": "nvidia",
@@ -1289,7 +1571,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/"
+   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/",
+   "title": "siliconangle.com, World Labs closes $1B investment backed by Nvidia, AMD and Autodesk - SiliconANGLE",
+   "as_of": "2026-02-18"
   },
   {
    "source": "amd",
@@ -1297,7 +1581,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/"
+   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/",
+   "title": "siliconangle.com, World Labs closes $1B investment backed by Nvidia, AMD and Autodesk - SiliconANGLE",
+   "as_of": "2026-02-18"
   },
   {
    "source": "snowflake",
@@ -1305,7 +1591,10 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/"
+   "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/",
+   "title": "snowflake.com, Snowflake and Anthropic Announce $200 Million Partnership to Bring Agentic AI to Global Enterprises",
+   "amount": "$200M, multi-year",
+   "amount_musd": 200
   },
   {
    "source": "openai",
@@ -1313,7 +1602,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html"
+   "url": "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html",
+   "title": "cnbc.com, Jeff Bezos and OpenAI invest in robot startup Physical Intelligence at $2.4 billion valuation",
+   "as_of": "2024-11-04"
   },
   {
    "source": "nvidia",
@@ -1321,7 +1612,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B"
+   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B",
+   "title": "Skild AI, $1.4B Series C led by SoftBank at a valuation above $14B, with NVIDIA, Samsung, Macquarie and 1789 Capital (company announcement)",
+   "as_of": "2026-01-14"
   },
   {
    "source": "samsung",
@@ -1329,7 +1622,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B"
+   "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B",
+   "title": "Skild AI, $1.4B Series C led by SoftBank at a valuation above $14B, with NVIDIA, Samsung, Macquarie and 1789 Capital (company announcement)",
+   "as_of": "2026-01-14"
   },
   {
    "source": "nvidia",
@@ -1345,7 +1640,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round"
+   "url": "https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round",
+   "title": "techcrunch.com, Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch",
+   "as_of": "2025-08-21"
   },
   {
    "source": "appliedint",
@@ -1353,7 +1650,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html"
+   "url": "https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html",
+   "title": "prnewswire.com, OpenAI and Applied Intuition Enter Into Strategic Collaboration to Usher in a World of Intelligent Vehicles",
+   "as_of": "2025-06-10"
   },
   {
    "source": "nvidia",
@@ -1361,7 +1660,8 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.nvidia.com/en-us/data-center/grace-cpu/"
+   "url": "https://www.nvidia.com/en-us/data-center/grace-cpu/",
+   "title": "nvidia.com, Introducing Grace"
   },
   {
    "source": "oracle",
@@ -1369,7 +1669,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/"
+   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/",
+   "title": "theglobeandmail.com, Canadian AI company Cohere raises US$270-million from Inovia, NVIDIA, Oracle and Salesforce Ventures",
+   "as_of": "2023-06-08"
   },
   {
    "source": "nvidia",
@@ -1377,7 +1679,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/"
+   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/",
+   "title": "theglobeandmail.com, Canadian AI company Cohere raises US$270-million from Inovia, NVIDIA, Oracle and Salesforce Ventures",
+   "as_of": "2023-06-08"
   },
   {
    "source": "cohere",
@@ -1393,7 +1697,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html",
+   "title": "cnbc.com, Google, Amazon, Nvidia and other tech giants invest in AI startup Hugging Face, sending its valuation to $4.5 billion",
+   "as_of": "2023-08-24"
   },
   {
    "source": "amazon",
@@ -1401,7 +1707,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html",
+   "title": "cnbc.com, Google, Amazon, Nvidia and other tech giants invest in AI startup Hugging Face, sending its valuation to $4.5 billion",
+   "as_of": "2023-08-24"
   },
   {
    "source": "nvidia",
@@ -1409,7 +1717,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html"
+   "url": "https://www.cnbc.com/2023/08/24/google-amazon-nvidia-amd-other-tech-giants-invest-in-hugging-face.html",
+   "title": "cnbc.com, Google, Amazon, Nvidia and other tech giants invest in AI startup Hugging Face, sending its valuation to $4.5 billion",
+   "as_of": "2023-08-24"
   },
   {
    "source": "nvidia",
@@ -1417,7 +1727,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/"
+   "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+   "title": "TechCrunch, Runway $315M Series E at $5.3B led by General Atlantic",
+   "as_of": "2026-02-10"
   },
   {
    "source": "alphabet",
@@ -1433,7 +1745,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html"
+   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html",
+   "title": "CNBC, Synthesia $200M Series E at $4B (NVentures, GV)",
+   "as_of": "2026-01-26"
   },
   {
    "source": "alphabet",
@@ -1441,7 +1755,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html"
+   "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html",
+   "title": "CNBC, Synthesia $200M Series E at $4B (NVentures, GV)",
+   "as_of": "2026-01-26"
   },
   {
    "source": "microsoft",
@@ -1449,7 +1765,9 @@
    "type": "routes",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/"
+   "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/",
+   "title": "microsoft.com, Microsoft Copilot Blog | Latest Product Updates and Insights",
+   "as_of": "2025-02-05"
   },
   {
    "source": "astera",
@@ -1465,15 +1783,19 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html"
+   "url": "https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html",
+   "title": "cnbc.com, Intel partners with AI chip startup SambaNova after acquisition talks reportedly failed",
+   "as_of": "2026-02-24"
   },
   {
    "source": "amd",
    "target": "luma",
    "type": "invests_in",
    "from": "baseline-2026-08",
-   "confidence": "verified",
-   "url": "https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html"
+   "confidence": "reported",
+   "url": "https://www.lw.com/en/news/latham-advises-amd-in-luma-ai-series-c-financing-and-strategic-partnership",
+   "title": "Latham & Watkins (AMD's counsel), Latham & Watkins Advises AMD in Luma AI's US$900 Million Series C Financing",
+   "as_of": "2026-04-02"
   },
   {
    "source": "ramp",
@@ -1481,7 +1803,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html"
+   "url": "https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html",
+   "title": "prnewswire.com, Ramp Introduces AI Agents to Automate Finance Operations",
+   "as_of": "2025-07-10"
   },
   {
    "source": "shieldai",
@@ -1489,7 +1813,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html"
+   "url": "https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html",
+   "title": "prnewswire.com, Shield AI and Palantir Technologies Deepen Strategic Partnership and Announce Deployment of Warp Speed",
+   "as_of": "2024-12-05"
   },
   {
    "source": "abnormal",
@@ -1497,15 +1823,18 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://abnormal.ai/partners/microsoft"
+   "url": "https://abnormal.ai/partners/microsoft",
+   "title": "abnormal.ai, Abnormal AI + Microsoft | Strengthen M365 Email Security"
   },
   {
    "source": "baidu",
    "target": "alibaba",
    "type": "rivals",
    "from": "baseline-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2024-05-21/alibaba-sparks-china-ai-price-war-with-spate-of-steep-discounts",
+   "title": "Bloomberg, Alibaba Sparks China AI Price War With Spate of Steep Discounts (Baidu matched within hours)",
+   "as_of": "2024-05-21"
   },
   {
    "source": "clio",
@@ -1521,15 +1850,19 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.cyera.com/press-releases/cyera-secures-the-agentic-ai-era-in-collaboration-with-microsoft-purview-sentinel-entra-and-copilot-studio"
+   "url": "https://www.cyera.com/press-releases/cyera-secures-the-agentic-ai-era-in-collaboration-with-microsoft-purview-sentinel-entra-and-copilot-studio",
+   "title": "cyera.com, Cyera Secures the Agentic AI Era in Collaboration with Microsoft Purview, Sentinel, Entra, and Copilot Studio",
+   "as_of": "2025-11-18"
   },
   {
    "source": "figma",
    "target": "canva",
    "type": "rivals",
    "from": "expansion-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+   "title": "TechCrunch, Figma adds an AI assistant to its collaborative canvas (facing intense competition from Canva)",
+   "as_of": "2026-05-20"
   },
   {
    "source": "figma",
@@ -1537,15 +1870,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
-  },
-  {
-   "source": "sensetime",
-   "target": "zhipu",
-   "type": "rivals",
-   "from": "expansion-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation",
+   "title": "TechCrunch, Black Forest Labs raises $300M Series B at $3.25B",
+   "as_of": "2025-12-01"
   },
   {
    "source": "iflytek",
@@ -1561,7 +1888,11 @@
    "type": "rents",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/"
+   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/",
+   "title": "fool.com, Google Invested in This Hot New Artificial Intelligence (AI) Stock. Should You? | The Motley Fool",
+   "as_of": "2024-06-19",
+   "amount": "$330M note for Google Cloud",
+   "amount_musd": 330
   },
   {
    "source": "alphabet",
@@ -1569,7 +1900,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/"
+   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/",
+   "title": "fool.com, Google Invested in This Hot New Artificial Intelligence (AI) Stock. Should You? | The Motley Fool",
+   "as_of": "2024-06-19"
   },
   {
    "source": "horizon",
@@ -1577,15 +1910,19 @@
    "type": "rivals",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://techcrunch.com/?p=2090070"
+   "url": "https://techcrunch.com/?p=2090070",
+   "title": "techcrunch.com, Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M | TechCrunch",
+   "as_of": "2020-12-22"
   },
   {
    "source": "fal",
    "target": "bfl",
    "type": "builds_on",
    "from": "expansion-2026-08",
-   "confidence": "reported",
-   "url": "https://sacra.com/c/fal-ai/"
+   "confidence": "verified",
+   "url": "https://bfl.ai/announcements/24-08-01-bfl",
+   "title": "Black Forest Labs, Announcing Black Forest Labs (FLUX.1 [pro] available via fal.ai)",
+   "as_of": "2024-08-01"
   },
   {
    "source": "manus",
@@ -1593,7 +1930,8 @@
    "type": "builds_on",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://theairankings.com/butterfly-effect/"
+   "url": "https://theairankings.com/butterfly-effect/",
+   "title": "theairankings.com, Butterfly Effect (Manus) in 2026: Owner, Funding, Founders & the Meta Deal | The AI Rankings"
   },
   {
    "source": "manus",
@@ -1601,15 +1939,8 @@
    "type": "builds_on",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://theairankings.com/butterfly-effect/"
-  },
-  {
-   "source": "saronic",
-   "target": "anduril",
-   "type": "rivals",
-   "from": "expansion-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "url": "https://theairankings.com/butterfly-effect/",
+   "title": "theairankings.com, Butterfly Effect (Manus) in 2026: Owner, Funding, Founders & the Meta Deal | The AI Rankings"
   },
   {
    "source": "amd",
@@ -1617,15 +1948,19 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html"
+   "url": "https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html",
+   "title": "CNBC, AMD invests in Vultr at $3.5B valuation",
+   "as_of": "2024-12-18"
   },
   {
    "source": "gamma",
    "target": "canva",
    "type": "rivals",
    "from": "expansion-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+   "title": "TechCrunch, Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+   "as_of": "2026-03-17"
   },
   {
    "source": "microsoft",
@@ -1633,7 +1968,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://finance.yahoo.com/news/microsoft-backed-d-matrix-raises-213111081.html"
+   "url": "https://finance.yahoo.com/news/microsoft-backed-d-matrix-raises-213111081.html",
+   "title": "finance.yahoo.com, Microsoft-Backed d-Matrix Raises $275M At $2B Valuation, Claims 10X Faster AI Performance Than Nvidia's GPU Systems",
+   "as_of": "2025-11-18"
   },
   {
    "source": "dmatrix",
@@ -1641,15 +1978,19 @@
    "type": "rivals",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://techstartups.com/2025/11/12/ai-chip-startup-d-matrix-raises-275m-at-2b-valuation-to-challenge-nvidias-grip-on-ai-inference/"
+   "url": "https://techstartups.com/2025/11/12/ai-chip-startup-d-matrix-raises-275m-at-2b-valuation-to-challenge-nvidias-grip-on-ai-inference/",
+   "title": "techstartups.com, AI chip startup d-Matrix raises $275M at $2B valuation to challenge Nvidia’s grip on AI inference - Tech Startups",
+   "as_of": "2025-11-12"
   },
   {
    "source": "pony",
    "target": "waymo",
    "type": "rivals",
    "from": "expansion-2026-08",
-   "confidence": "unsourced",
-   "url": ""
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2025/11/20/global-robotaxi-race-heats-up-between-us-and-chinese-rivals.html",
+   "title": "CNBC, Global robotaxi race heats up between U.S. and Chinese rivals",
+   "as_of": "2025-11-20"
   },
   {
    "source": "anthropic",
@@ -1657,7 +1998,11 @@
    "type": "commits_to",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/"
+   "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+   "title": "techcrunch.com, AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report | TechCrunch",
+   "as_of": "2026-04-14",
+   "amount": "$50B",
+   "amount_musd": 50000
   },
   {
    "source": "alphabet",
@@ -1665,7 +2010,9 @@
    "type": "commits_to",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/"
+   "url": "https://siliconangle.com/2026/02/20/google-reportedly-invest-100m-ai-cloud-operator-fluidstack/",
+   "title": "siliconangle.com, Google could reportedly invest $100M in AI cloud operator Fluidstack - SiliconANGLE",
+   "as_of": "2026-02-21"
   },
   {
    "source": "nvidia",
@@ -1689,7 +2036,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+   "url": "https://www.intelcapital.com/ayar-labs-with-investments-from-amd-intel-capital-and-nvidia-secures-155-million-to-address-urgent-need-for-scalable-cost-effective-ai-infrastructure/",
+   "title": "Intel Capital, Ayar Labs, with Investments from AMD, Intel Capital, and NVIDIA, Secures $155 Million",
+   "as_of": "2024-12-11"
   },
   {
    "source": "gf",
@@ -1697,7 +2046,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-ayar-labs-closes-500m-funding-round-backed-by-nvidia-and-amd/"
+   "url": "https://www.intelcapital.com/ayar-labs-with-investments-from-amd-intel-capital-and-nvidia-secures-155-million-to-address-urgent-need-for-scalable-cost-effective-ai-infrastructure/",
+   "title": "Intel Capital, Ayar Labs Secures $155 Million (GlobalFoundries among existing investors)",
+   "as_of": "2024-12-11"
   },
   {
    "source": "alphabet",
@@ -1705,7 +2056,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html"
+   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+   "title": "cnbc.com, Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+   "as_of": "2026-02-11"
   },
   {
    "source": "apptronik",
@@ -1713,7 +2066,9 @@
    "type": "builds_on",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html"
+   "url": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+   "title": "cnbc.com, Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+   "as_of": "2026-02-11"
   },
   {
    "source": "furiosa",
@@ -1721,7 +2076,9 @@
    "type": "rivals",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://www.seoulz.com/furiosaai-korea-ai-chip/"
+   "url": "https://www.seoulz.com/furiosaai-korea-ai-chip/",
+   "title": "seoulz.com, FuriosaAI Korea AI Chip 2026: How a Founder Said No to Meta",
+   "as_of": "2026-05-04"
   },
   {
    "source": "arm",
@@ -1729,7 +2086,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+   "url": "https://rebellions.ai/newsroom/rebellions-scales-global-growth-with-silicon-valley-backed-series-c/",
+   "title": "Rebellions, Rebellions Scales Global Growth with Silicon Valley backed Series C (strategic investors Arm and Samsung)",
+   "as_of": "2025-11-10"
   },
   {
    "source": "samsung",
@@ -1737,7 +2096,9 @@
    "type": "invests_in",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+   "url": "https://rebellions.ai/newsroom/rebellions-scales-global-growth-with-silicon-valley-backed-series-c/",
+   "title": "Rebellions, Rebellions Scales Global Growth with Silicon Valley backed Series C (strategic investors Arm and Samsung)",
+   "as_of": "2025-11-10"
   },
   {
    "source": "radai",
@@ -1745,7 +2106,8 @@
    "type": "builds_on",
    "from": "datapass-2026-08-10",
    "confidence": "reported",
-   "url": "https://research.contrary.com/company/rad-ai"
+   "url": "https://research.contrary.com/company/rad-ai",
+   "title": "research.contrary.com, Report: Rad AI Business Breakdown & Founding Story | Contrary Research"
   },
   {
    "source": "radai",
@@ -1753,7 +2115,8 @@
    "type": "rents",
    "from": "datapass-2026-08-10",
    "confidence": "reported",
-   "url": "https://research.contrary.com/company/rad-ai"
+   "url": "https://research.contrary.com/company/rad-ai",
+   "title": "research.contrary.com, Report: Rad AI Business Breakdown & Founding Story | Contrary Research"
   },
   {
    "source": "deepl",
@@ -1761,7 +2124,9 @@
    "type": "builds_on",
    "from": "tier2-2026-08-16",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html"
+   "url": "https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html",
+   "title": "prnewswire.com, DeepL first to deploy NVIDIA DGX SuperPOD with DGX GB200 systems in Europe, advancing Language AI with powerful generative features and enhanced user experience",
+   "as_of": "2025-06-11"
   },
   {
    "source": "heygen",
@@ -1769,7 +2134,8 @@
    "type": "rivals",
    "from": "tier2-2026-08-16",
    "confidence": "reported",
-   "url": "https://sacra.com/c/heygen/"
+   "url": "https://sacra.com/c/heygen/",
+   "title": "sacra.com, HeyGen revenue, valuation & funding"
   },
   {
    "source": "moorethreads",
@@ -1777,7 +2143,8 @@
    "type": "rivals",
    "from": "tier2-2026-08-16",
    "confidence": "reported",
-   "url": "https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut"
+   "url": "https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut",
+   "title": "yicaiglobal.com, Moore Threads Soars Over Fivefold as ‘China’s Nvidia’ Makes Shanghai Trading Debut"
   },
   {
    "source": "ambience",
@@ -1793,7 +2160,9 @@
    "type": "invests_in",
    "from": "tier2-2026-08-16",
    "confidence": "verified",
-   "url": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems"
+   "url": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems",
+   "title": "Ambience press, $243M Series C at $1.25B co-led by Oak HC/FT and a16z; OpenAI Startup Fund participating",
+   "as_of": "2025-07-24"
   },
   {
    "source": "openai",
@@ -1801,7 +2170,9 @@
    "type": "invests_in",
    "from": "tier2-2026-08-16",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud"
+   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud",
+   "title": "techcrunch.com, OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud | TechCrunch",
+   "as_of": "2024-12-10"
   },
   {
    "source": "speak",
@@ -1809,7 +2180,9 @@
    "type": "builds_on",
    "from": "tier2-2026-08-16",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud"
+   "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud",
+   "title": "techcrunch.com, OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud | TechCrunch",
+   "as_of": "2024-12-10"
   },
   {
    "source": "alphabet",
@@ -1817,7 +2190,9 @@
    "type": "invests_in",
    "from": "tier2-2026-08-16",
    "confidence": "reported",
-   "url": "https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html"
+   "url": "https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html",
+   "title": "AlphaSense press, $350M at $7.5B led by Vitruvian/Accenture/JPMAM; $600M ARR; CapitalG among investors",
+   "as_of": "2026-06-03"
   },
   {
    "source": "alphabet",
@@ -1825,15 +2200,19 @@
    "type": "owns",
    "from": "tier2-2026-08-16",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/"
+   "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+   "title": "TechCrunch, Google completes $32B acquisition of Wiz",
+   "as_of": "2026-03-11"
   },
   {
    "source": "nvidia",
    "target": "sakana",
    "type": "invests_in",
    "from": "tier2b-2026-08-20",
-   "confidence": "reported",
-   "url": "https://finance.yahoo.com/news/sakana-ai-raises-135m-series-115207368.html"
+   "confidence": "verified",
+   "url": "https://sakana.ai/series-a/",
+   "title": "Sakana AI, Announcing Our Series A (NVIDIA participating)",
+   "as_of": "2024-09-04"
   },
   {
    "source": "deepgram",
@@ -1849,7 +2228,9 @@
    "type": "invests_in",
    "from": "datapass-2026-08-28",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "title": "TechCrunch, China's Manus raises over $500M in first funding round since split with Meta (Boyu and IDG co-led; Tencent, HSG, ZhenFund following; valuation not disclosed by the company)",
+   "as_of": "2026-10-08"
   },
   {
    "source": "tencent",
@@ -1857,7 +2238,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-08",
    "confidence": "verified",
-   "url": "https://lovable.dev/blog/series-c"
+   "url": "https://lovable.dev/blog/series-c",
+   "title": "Lovable, $400M Series C at $13.3B led by Menlo Ventures and EQT Scaleup Europe Fund; Tencent among new investors",
+   "as_of": "2026-08-12"
   },
   {
    "source": "samsung",
@@ -1865,7 +2248,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-08",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+   "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+   "title": "Mistral AI, EUR3B Series D at EUR21B (~$24.4B) post led by Samsung Electronics, EQT Scaleup Europe Fund and PSG Equity (company-announced)",
+   "as_of": "2026-09-08"
   },
   {
    "source": "nvidia",
@@ -1873,7 +2258,9 @@
    "type": "owns",
    "from": "datapass-2026-09-08",
    "confidence": "reported",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm",
+   "title": "NVIDIA 8-K: agreement to acquire Hugging Face for ~$11.9B cash plus up to ~$1.0B retention equity, signed Sep 2 2026, close expected H1 2027 pending regulatory approval",
+   "as_of": "2026-09-03"
   },
   {
    "source": "nvidia",
@@ -1881,7 +2268,11 @@
    "type": "invests_in",
    "from": "datapass-2026-09-08",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says"
+   "url": "https://www.bloomberg.com/news/articles/2025-10-30/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside",
+   "title": "Bloomberg, Nvidia to Invest Up to $1 Billion in AI Startup Poolside (unnamed sources; close not confirmed)",
+   "as_of": "2025-10-30",
+   "amount": "up to $1B",
+   "amount_musd": 1000
   },
   {
    "source": "bedrock",
@@ -1889,7 +2280,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-08",
    "confidence": "verified",
-   "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models"
+   "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+   "title": "aboutamazon.com, GPT-6 Astra from OpenAI is now available on Amazon Bedrock",
+   "as_of": "2026-04-28"
   },
   {
    "source": "bedrock",
@@ -1897,7 +2290,8 @@
    "type": "builds_on",
    "from": "datapass-2026-09-08",
    "confidence": "verified",
-   "url": "https://aws.amazon.com/bedrock/anthropic/"
+   "url": "https://aws.amazon.com/bedrock/anthropic/",
+   "title": "aws.amazon.com, Claude by Anthropic - Models in Amazon Bedrock – AWS"
   },
   {
    "source": "amazon",
@@ -1905,7 +2299,9 @@
    "type": "designed_with",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html"
+   "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+   "title": "cnbc.com, Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+   "as_of": "2026-09-08"
   },
   {
    "source": "figure",
@@ -1913,7 +2309,10 @@
    "type": "rents",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
+   "title": "figure.ai, Figure and Nscale Sign Strategic Partnership For Up to 100,000 GPUs on the NVIDIA Vera Rubin Platform",
+   "amount": "$3.5B, up to over $6B",
+   "amount_musd": 3500
   },
   {
    "source": "nscale",
@@ -1921,7 +2320,8 @@
    "type": "invests_in",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership"
+   "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
+   "title": "figure.ai, Figure and Nscale Sign Strategic Partnership For Up to 100,000 GPUs on the NVIDIA Vera Rubin Platform"
   },
   {
    "source": "palantir",
@@ -1929,7 +2329,9 @@
    "type": "rents",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers"
+   "url": "https://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers",
+   "title": "nebius.com, Palantir and Nebius partner to deliver a complete sovereign AI stack to Palantir customers",
+   "as_of": "2026-09-08"
   },
   {
    "source": "groq",
@@ -1937,7 +2339,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+   "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+   "title": "TechCrunch, Groq raises $350M to fuel its pivot from AI chips to neocloud",
+   "as_of": "2026-08-17"
   },
   {
    "source": "arm",
@@ -1945,7 +2349,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai"
+   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai",
+   "title": "Gimlet Labs, $300M Series B at $3B led by Andreessen Horowitz, Arm and Microsoft's M12 joining as new investors (company release)",
+   "as_of": "2026-09-04"
   },
   {
    "source": "microsoft",
@@ -1953,7 +2359,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai"
+   "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai",
+   "title": "Gimlet Labs, $300M Series B at $3B led by Andreessen Horowitz, Arm and Microsoft's M12 joining as new investors (company release)",
+   "as_of": "2026-09-04"
   },
   {
    "source": "intel",
@@ -1961,7 +2369,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html"
+   "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
+   "title": "Higgsfield, $400M Series B at $5.4B led by DST Global, Intel Capital among participants (company release)",
+   "as_of": "2026-08-17"
   },
   {
    "source": "stripe",
@@ -1969,7 +2379,9 @@
    "type": "owns",
    "from": "datapass-2026-09-09",
    "confidence": "reported",
-   "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter"
+   "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter",
+   "title": "Stripe newsroom, Stripe agrees to acquire OpenRouter (terms not disclosed)",
+   "as_of": "2026-08-19"
   },
   {
    "source": "nvidia",
@@ -1977,7 +2389,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-09",
    "confidence": "verified",
-   "url": "https://www.nscale.com/press-releases/nscale-series-c"
+   "url": "https://www.nscale.com/press-releases/nscale-series-c",
+   "title": "Nscale, $2B Series C at $14.6B led by Aker ASA and 8090 Industries; NVIDIA, Dell, Lenovo, Jane Street, Citadel, Nokia and Point72 participating (company release)",
+   "as_of": "2026-03-09"
   },
   {
    "source": "anthropic",
@@ -1985,7 +2399,11 @@
    "type": "rents",
    "from": "datapass-2026-09-09",
    "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html"
+   "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
+   "title": "cnbc.com, Anthropic and Nscale strike $45 billion cloud deal, sources say",
+   "as_of": "2026-08-26",
+   "amount": "~$45B",
+   "amount_musd": 45000
   },
   {
    "source": "tencent",
@@ -2001,7 +2419,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-11",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html"
+   "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+   "title": "cnbc.com, Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+   "as_of": "2026-09-11"
   },
   {
    "source": "qualcomm",
@@ -2009,7 +2429,9 @@
    "type": "owns",
    "from": "datapass-2026-09-12",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html"
+   "url": "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html",
+   "title": "Qualcomm, Qualcomm Completes Acquisition of Modular (company release)",
+   "as_of": "2026-07-29"
   },
   {
    "source": "cohere",
@@ -2017,7 +2439,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-13",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd"
+   "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd",
+   "title": "Prior mark: TechCrunch, Cohere hits $7B valuation a month after its last raise, partners with AMD ($100M second close of the $500M round)",
+   "as_of": "2025-09-24"
   },
   {
    "source": "nvidia",
@@ -2025,7 +2449,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-14",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html"
+   "url": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html",
+   "title": "CNBC, NVIDIA backs AI company VAST Data at $30 billion valuation",
+   "as_of": "2026-04-22"
   },
   {
    "source": "nvidia",
@@ -2033,7 +2459,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-15",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html"
+   "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+   "title": "CNBC, NVIDIA-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+   "as_of": "2026-07-16"
   },
   {
    "source": "alphabet",
@@ -2041,7 +2469,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-15",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+   "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+   "title": "TechCrunch, Sierra raises $950M as the race to own enterprise AI gets serious (Series E at a $15.8B post, led by Tiger Global and GV)",
+   "as_of": "2026-05-04"
   },
   {
    "source": "nvidia",
@@ -2049,15 +2479,19 @@
    "type": "invests_in",
    "from": "datapass-2026-09-16",
    "confidence": "verified",
-   "url": "https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors"
+   "url": "https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors",
+   "title": "Prior mark: Legora extends its Series D with $50M at a $5.6B post-money, adding Atlassian and NVentures (NVIDIA) (company newsroom)",
+   "as_of": "2026-04-30"
   },
   {
    "source": "databricks",
    "target": "replit",
    "type": "invests_in",
    "from": "datapass-2026-09-16",
-   "confidence": "verified",
-   "url": "https://replit.com/news/funding-announcement"
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b",
+   "title": "TechCrunch, Replit snags $9B valuation 6 months after hitting $3B (Databricks Ventures in the Series D)",
+   "as_of": "2026-03-11"
   },
   {
    "source": "spacex",
@@ -2065,7 +2499,9 @@
    "type": "owns",
    "from": "datapass-2026-09-17",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/02/spacex-xai-merger.html"
+   "url": "https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo",
+   "title": "Bloomberg, Musk's SpaceX combines with xAI at $1.25T valuation (xAI leg $250B, per people familiar)",
+   "as_of": "2026-02-02"
   },
   {
    "source": "spacex",
@@ -2073,7 +2509,9 @@
    "type": "owns",
    "from": "datapass-2026-09-17",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html"
+   "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
+   "title": "CNBC, SpaceX to acquire Cursor for $60 billion (agreement)",
+   "as_of": "2026-06-16"
   },
   {
    "source": "bytedance",
@@ -2081,7 +2519,9 @@
    "type": "owns",
    "from": "datapass-2026-09-17",
    "confidence": "reported",
-   "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery"
+   "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
+   "title": "Reuters (via The Next Web), ByteDance completes a $290M first external round for AI drug unit Anew Labs at a ~$1.5B valuation, sources say; HSG, IDG Capital and GL Ventures led with 5Y Capital co-leading and ByteDance retaining 56%",
+   "as_of": "2026-09-16"
   },
   {
    "source": "nvidia",
@@ -2089,7 +2529,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-17",
    "confidence": "reported",
-   "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/"
+   "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/",
+   "title": "Fortune (exclusive), Upscale AI wants to be the next Cisco - and it just raised another $190 million: the $2B post-money",
+   "as_of": "2026-06-22"
   },
   {
    "source": "qualcomm",
@@ -2097,7 +2539,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-17",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards-302558353.html"
+   "url": "https://www.prnewswire.com/news-releases/upscale-ai-launches-with-over-100-million-seed-round-to-democratize-ai-network-infrastructure-and-advance-open-standards-302558353.html",
+   "title": "prnewswire.com, Upscale AI Launches with Over $100 Million Seed Round to Democratize AI Network Infrastructure and Advance Open Standards",
+   "as_of": "2025-09-17"
   },
   {
    "source": "upscale",
@@ -2105,7 +2549,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-17",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon-302710175.html"
+   "url": "https://www.prnewswire.com/news-releases/upscale-ai-supercharges-open-heterogeneous-scale-out-ai-clusters-with-nvidia-ethernet-switch-silicon-302710175.html",
+   "title": "prnewswire.com, Upscale AI Supercharges Open, Heterogeneous Scale-Out AI Clusters with NVIDIA Ethernet Switch Silicon",
+   "as_of": "2026-03-11"
   },
   {
    "source": "nvidia",
@@ -2113,7 +2559,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-18",
    "confidence": "verified",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding"
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+   "title": "Crusoe newsroom, Crusoe raises $3.9B Series F at a $30.9B post-money valuation, co-led by Atreides Management, Mubadala Capital and Valor Equity Partners (NVIDIA, Founders Fund, GIC, QIA, Radical and TPG participating)",
+   "as_of": "2026-09-17"
   },
   {
    "source": "amazon",
@@ -2121,7 +2569,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-18",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html"
+   "url": "https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html",
+   "title": "PRNewswire (company release), Luma AI raises $900M Series C led by HUMAIN and partners on a 2 gigawatt AI supercluster in Saudi Arabia (AWS, AMD Ventures, a16z, Amplify and Matrix participating)",
+   "as_of": "2025-11-19"
   },
   {
    "source": "tencent",
@@ -2129,7 +2579,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-19",
    "confidence": "reported",
-   "url": "https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation"
+   "url": "https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation",
+   "title": "The Information, A Tsinghua professor's stealth LLM startup hits $1.4 billion valuation - $400M raised across three rounds from Tencent, IDG Capital and HSG",
+   "as_of": "2026-09-18"
   },
   {
    "source": "nvidia",
@@ -2137,7 +2589,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-20",
    "confidence": "verified",
-   "url": "https://neura-robotics.com/record-series-c/"
+   "url": "https://neura-robotics.com/record-series-c/",
+   "title": "NEURA Robotics press release, NEURA Robotics announces record Series C of up to $1.4B led by Tether, with NVIDIA, Amazon, Qualcomm Technologies, imec.xpand, Bosch, Schaeffler, the European Investment Bank, Lingotto Horizon and InterAlpen Partners (no valuation disclosed)",
+   "as_of": "2026-06-10"
   },
   {
    "source": "amazon",
@@ -2145,7 +2599,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-20",
    "confidence": "verified",
-   "url": "https://neura-robotics.com/record-series-c/"
+   "url": "https://neura-robotics.com/record-series-c/",
+   "title": "NEURA Robotics press release, NEURA Robotics announces record Series C of up to $1.4B led by Tether, with NVIDIA, Amazon, Qualcomm Technologies, imec.xpand, Bosch, Schaeffler, the European Investment Bank, Lingotto Horizon and InterAlpen Partners (no valuation disclosed)",
+   "as_of": "2026-06-10"
   },
   {
    "source": "qualcomm",
@@ -2153,7 +2609,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-20",
    "confidence": "verified",
-   "url": "https://neura-robotics.com/record-series-c/"
+   "url": "https://neura-robotics.com/record-series-c/",
+   "title": "NEURA Robotics press release, NEURA Robotics announces record Series C of up to $1.4B led by Tether, with NVIDIA, Amazon, Qualcomm Technologies, imec.xpand, Bosch, Schaeffler, the European Investment Bank, Lingotto Horizon and InterAlpen Partners (no valuation disclosed)",
+   "as_of": "2026-06-10"
   },
   {
    "source": "openai",
@@ -2161,7 +2619,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-21",
    "confidence": "verified",
-   "url": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design"
+   "url": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design",
+   "title": "Chai Discovery, $400M Series C led by Index Ventures with Kleiner Perkins, Sequoia and Dimension; existing investors including OpenAI and Thrive Capital participating (company release - it states the round, not a post-money)",
+   "as_of": "2026-07-14"
   },
   {
    "source": "microsoft",
@@ -2169,7 +2629,9 @@
    "type": "rents",
    "from": "datapass-2026-09-21",
    "confidence": "verified",
-   "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus"
+   "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus",
+   "title": "lambda.ai, Lambda Announces Multibillion-Dollar Agreement With Microsoft to Deploy AI Infrastructure Powered by Tens of Thousands of NVIDIA GPUs",
+   "as_of": "2025-11-03"
   },
   {
    "source": "nvidia",
@@ -2177,7 +2639,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-21",
    "confidence": "verified",
-   "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors"
+   "url": "https://elevenlabs.io/blog/500m-arr-and-new-investors",
+   "title": "elevenlabs.io, ElevenLabs crosses $500M ARR and welcomes new investors",
+   "as_of": "2026-05-05"
   },
   {
    "source": "verda",
@@ -2185,7 +2649,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-22",
    "confidence": "verified",
-   "url": "https://verda.com/blog/nvidia-vr200-r200-early-deployments"
+   "url": "https://verda.com/blog/nvidia-vr200-r200-early-deployments",
+   "title": "Verda blog (company), Verda to deploy NVIDIA VR200 NVL72 and R200 in H2 2026 across Europe, the US and APAC",
+   "as_of": "2026-09-22"
   },
   {
    "source": "microsoft",
@@ -2201,7 +2667,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-23",
    "confidence": "reported",
-   "url": "https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html"
+   "url": "https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html",
+   "title": "Snorkel AI Raises $350M to Scale the Data Factory for Frontier AI - Series E co-led by Insight Partners and S32, with Addition, Lightspeed, Greylock and GV (company release)",
+   "as_of": "2026-09-22"
   },
   {
    "source": "nvidia",
@@ -2209,7 +2677,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-23",
    "confidence": "verified",
-   "url": "https://www.primeintellect.ai/blog/series-a"
+   "url": "https://www.primeintellect.ai/blog/series-a",
+   "title": "$130M Series A to Build the Open Superintelligence Stack - led by Radical Ventures, with NVIDIA Ventures, Intel Capital and Dell Technologies Capital (company blog)",
+   "as_of": "2026-07-08"
   },
   {
    "source": "intel",
@@ -2217,7 +2687,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-23",
    "confidence": "verified",
-   "url": "https://www.primeintellect.ai/blog/series-a"
+   "url": "https://www.primeintellect.ai/blog/series-a",
+   "title": "$130M Series A to Build the Open Superintelligence Stack - led by Radical Ventures, with NVIDIA Ventures, Intel Capital and Dell Technologies Capital (company blog)",
+   "as_of": "2026-07-08"
   },
   {
    "source": "ramp",
@@ -2225,7 +2697,9 @@
    "type": "trains_on",
    "from": "datapass-2026-09-23",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/"
+   "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+   "title": "TechCrunch, Prime Intellect raises $130M Series A to help enterprises build their own AI agents - $1B valuation",
+   "as_of": "2026-07-08"
   },
   {
    "source": "tml",
@@ -2233,7 +2707,10 @@
    "type": "rents",
    "from": "datapass-2026-09-24",
    "confidence": "verified",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership"
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership",
+   "title": "crusoe.ai, Thinking Machines Lab Taps Crusoe in $65M Inference Deal",
+   "amount": "$65M a year",
+   "amount_musd": 65
   },
   {
    "source": "openevidence",
@@ -2241,7 +2718,9 @@
    "type": "routes",
    "from": "datapass-2026-09-24",
    "confidence": "verified",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-openevidence-team-to-expand-reach-of-medical-ai/",
+   "title": "pymnts.com, Anthropic and OpenEvidence Team to Expand Reach of Medical AI | PYMNTS.com",
+   "as_of": "2026-09-23"
   },
   {
    "source": "nvidia",
@@ -2249,15 +2728,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-24",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html"
-  },
-  {
-   "source": "anthropic",
-   "target": "basecamp",
-   "type": "invests_in",
-   "from": "datapass-2026-09-24",
-   "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html"
+   "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html",
+   "title": "Basecamp Research raises $140M to advance AI-designed therapeutics - oversubscribed Series C led by S32, with NVIDIA, Anthropic's Anthology Fund, Catalio, the NATO Innovation Fund, Rockefeller, Redalpine, Singular, Sovereign AI and True Ventures (company release)",
+   "as_of": "2026-09-23"
   },
   {
    "source": "brahma",
@@ -2265,7 +2738,8 @@
    "type": "builds_on",
    "from": "datapass-2026-09-25",
    "confidence": "verified",
-   "url": "https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises"
+   "url": "https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises",
+   "title": "googlecloudpresscorner.com, Brahma AI and Google Cloud Collaborate to Scale High-Fidelity, Interactive Digital Humans for Global Enterprises"
   },
   {
    "source": "alibaba",
@@ -2273,7 +2747,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-25",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+   "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+   "title": "TechCrunch, Video-generation startup PixVerse raises $439M, valuation soars past $2B (Series C extension; Alibaba, Lollapalooza Capital and Mirae Asset join)",
+   "as_of": "2026-07-13"
   },
   {
    "source": "anthropic",
@@ -2281,7 +2757,9 @@
    "type": "rents",
    "from": "datapass-2026-09-26",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm",
+   "amount": "~$11.6B over 7 years",
+   "amount_musd": 11600
   },
   {
    "source": "nvidia",
@@ -2289,7 +2767,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-26",
    "confidence": "reported",
-   "url": "https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html"
+   "url": "https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html",
+   "title": "FinSMES, Mirendil raises $200M in seed funding at a $1 billion valuation, co-led by Andreessen Horowitz and Kleiner Perkins with NVIDIA participating",
+   "as_of": "2026-06"
   },
   {
    "source": "mirendil",
@@ -2297,7 +2777,11 @@
    "type": "rents",
    "from": "datapass-2026-09-26",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/"
+   "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+   "title": "TechCrunch (exclusive), Mirendil inks $100M+ Google Cloud deal to scale self-improving AI - states the seed was raised at a $1 billion valuation in late June",
+   "as_of": "2026-08-06",
+   "amount": "over $100M, multiyear",
+   "amount_musd": 100
   },
   {
    "source": "arm",
@@ -2305,7 +2789,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-27",
    "confidence": "verified",
-   "url": "https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia"
+   "url": "https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia",
+   "title": "Bloomberg, AI chip startup Positron raises $230 million from Arm, Qatar to compete with Nvidia (Series B, >$1B post)",
+   "as_of": "2026-02-04"
   },
   {
    "source": "positron",
@@ -2313,7 +2799,9 @@
    "type": "fabricated_by",
    "from": "datapass-2026-09-27",
    "confidence": "reported",
-   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+   "title": "Positron AI, $875M at a $5B post-money - a $375M Series C at a $3.5B pre co-led by NEA, Atreides, Valor, Andra and SemiAnalysis Capital, plus a Series C-1 of up to $500M led by NEA and Jim Clark (company release)",
+   "as_of": "2026-09-10"
   },
   {
    "source": "positron",
@@ -2321,7 +2809,9 @@
    "type": "rents",
    "from": "datapass-2026-09-27",
    "confidence": "reported",
-   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html"
+   "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+   "title": "Positron AI, $875M at a $5B post-money - a $375M Series C at a $3.5B pre co-led by NEA, Atreides, Valor, Andra and SemiAnalysis Capital, plus a Series C-1 of up to $500M led by NEA and Jim Clark (company release)",
+   "as_of": "2026-09-10"
   },
   {
    "source": "nvidia",
@@ -2329,7 +2819,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-27",
    "confidence": "reported",
-   "url": "https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/"
+   "url": "https://www.baseten.co/blog/announcing-baseten-s-300m-series-e/",
+   "title": "baseten.co, Announcing Baseten's $300M Series E",
+   "as_of": "2026-01-23"
   },
   {
    "source": "microsoft",
@@ -2337,7 +2829,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-28",
    "confidence": "reported",
-   "url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html"
+   "url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html",
+   "title": "GlobeNewswire company release, Vapi raises $50M Series B as it reaches 1 billion calls (led by Peak XV; M12, Kleiner Perkins, Bessemer participating) - states the round, NOT a post-money",
+   "as_of": "2026-05-12"
   },
   {
    "source": "instinct",
@@ -2345,7 +2839,9 @@
    "type": "rivals",
    "from": "datapass-2026-09-28",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "title": "TechCrunch, Instinct raises $1B Series C at a $10B valuation led by Sequoia, Benchmark and Coatue",
+   "as_of": "2026-09-28"
   },
   {
    "source": "instinct",
@@ -2353,7 +2849,9 @@
    "type": "rivals",
    "from": "datapass-2026-09-28",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "title": "TechCrunch, Instinct raises $1B Series C at a $10B valuation led by Sequoia, Benchmark and Coatue",
+   "as_of": "2026-09-28"
   },
   {
    "source": "amd",
@@ -2361,7 +2859,9 @@
    "type": "owns",
    "from": "datapass-2026-09-29",
    "confidence": "reported",
-   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+   "title": "AMD investor relations, AMD to Acquire World Labs to Advance the Future of AI Compute (all-stock, ~$8.2B; close expected end of 2026 subject to regulatory approval)",
+   "as_of": "2026-09-28"
   },
   {
    "source": "micron",
@@ -2369,7 +2869,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-29",
    "confidence": "verified",
-   "url": "https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/"
+   "url": "https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/",
+   "title": "SiMa.ai press release, SiMa.ai Secures Strategic Investment from Micron to Scale High-Performance, Power-Efficient Physical AI (amount undisclosed)",
+   "as_of": "2026-04-08"
   },
   {
    "source": "sima",
@@ -2400,8 +2902,12 @@
    "target": "microsoft",
    "type": "rents",
    "from": "datapass-2026-09-30",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+   "confidence": "verified",
+   "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+   "title": "Microsoft, Microsoft, NVIDIA and Anthropic announce strategic partnerships (Anthropic committed to $30B of Azure compute)",
+   "as_of": "2025-11-18",
+   "amount": "$30B Azure commitment",
+   "amount_musd": 30000
   },
   {
    "source": "anthropic",
@@ -2409,7 +2915,8 @@
    "type": "rents",
    "from": "datapass-2026-09-30",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm",
+   "amount": "$1.25B a month to May 2029"
   },
   {
    "source": "alphabet",
@@ -2417,7 +2924,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-30",
    "confidence": "reported",
-   "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/"
+   "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/",
+   "title": "Construction Dive, Bedrock Robotics raises $270M in red-hot AI sector - total funding past $350M at a $1.75B valuation",
+   "as_of": "2026-02-05"
   },
   {
    "source": "nvidia",
@@ -2425,7 +2934,9 @@
    "type": "invests_in",
    "from": "datapass-2026-09-30",
    "confidence": "reported",
-   "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/"
+   "url": "https://www.therobotreport.com/bedrock-robotics-270m-series-b-paves-way-operator-less-excavators/",
+   "title": "The Robot Report, Bedrock Robotics' $270M Series B paves the way for operator-less excavators (NVentures participating)",
+   "as_of": "2026-02-04"
   },
   {
    "source": "amazon",
@@ -2433,7 +2944,9 @@
    "type": "designed_with",
    "from": "datapass-2026-10-01",
    "confidence": "verified",
-   "url": "https://www.morningstar.com/news/pr-newswire/20260930sf60430/synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-for-custom-silicon-collaboration-also-extends-to-cloud-and-ai-powered-engineering"
+   "url": "https://www.morningstar.com/news/pr-newswire/20260930sf60430/synopsys-and-amazon-announce-strategic-multi-year-ip-agreement-for-custom-silicon-collaboration-also-extends-to-cloud-and-ai-powered-engineering",
+   "title": "morningstar.com, Synopsys and Amazon Announce Strategic, Multi-year IP Agreement for Custom Silicon; Collaboration Also Extends to Cloud and AI-Powered Engineering",
+   "as_of": "2026-09-30"
   },
   {
    "source": "qualcomm",
@@ -2441,7 +2954,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center"
+   "url": "https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center",
+   "title": "Lumilens press release (BusinessWire), Lumilens Emerges from Stealth with More Than $900 Million in Funding to Break AI's Connectivity Bottlenecks in the Data Center - $700M+ Series C co-led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital, with Qualcomm Ventures, Peak XV, J.P. Morgan Private Capital, Redpoint, Mayfield, Addition, Alkeon and HarbourVest participating (no post-money stated)",
+   "as_of": "2026-08-06"
   },
   {
    "source": "alphabet",
@@ -2449,7 +2964,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon"
+   "url": "https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon",
+   "title": "Celero Communications press release (BusinessWire), Celero Communications Raises $275 Million Series C Following Validation of Industry's First 2nm Coherent DSP Silicon - led by Atreides Management, Valor Equity Partners and CapitalG (no post-money stated)",
+   "as_of": "2026-09-08"
   },
   {
    "source": "intel",
@@ -2457,7 +2974,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://eliyan.com/press-releases/"
+   "url": "https://eliyan.com/press-releases/",
+   "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
+   "as_of": "2026-01-28"
   },
   {
    "source": "samsung",
@@ -2465,7 +2984,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://eliyan.com/press-releases/"
+   "url": "https://eliyan.com/press-releases/",
+   "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
+   "as_of": "2026-01-28"
   },
   {
    "source": "amd",
@@ -2473,7 +2994,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://eliyan.com/press-releases/"
+   "url": "https://eliyan.com/press-releases/",
+   "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
+   "as_of": "2026-01-28"
   },
   {
    "source": "arm",
@@ -2481,7 +3004,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://eliyan.com/press-releases/"
+   "url": "https://eliyan.com/press-releases/",
+   "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
+   "as_of": "2026-01-28"
   },
   {
    "source": "meta",
@@ -2489,7 +3014,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-01",
    "confidence": "reported",
-   "url": "https://eliyan.com/press-releases/"
+   "url": "https://eliyan.com/press-releases/",
+   "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
+   "as_of": "2026-01-28"
   },
   {
    "source": "tencent",
@@ -2497,7 +3024,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
+   "title": "Bloomberg, Tencent-Backed AI Cloud Unicorn Said to File for Hong Kong IPO - valued at RMB14.3B (~$2.1B) ahead of the offering, backed by Tencent, Baidu and Z.AI; no company release and the IPO filing is confidential, so the figure is Bloomberg's reporting rather than a published post-money",
+   "as_of": "2026-10-01"
   },
   {
    "source": "baidu",
@@ -2505,7 +3034,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
+   "title": "Bloomberg, Tencent-Backed AI Cloud Unicorn Said to File for Hong Kong IPO - valued at RMB14.3B (~$2.1B) ahead of the offering, backed by Tencent, Baidu and Z.AI; no company release and the IPO filing is confidential, so the figure is Bloomberg's reporting rather than a published post-money",
+   "as_of": "2026-10-01"
   },
   {
    "source": "zhipu",
@@ -2513,7 +3044,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
+   "title": "Bloomberg, Tencent-Backed AI Cloud Unicorn Said to File for Hong Kong IPO - valued at RMB14.3B (~$2.1B) ahead of the offering, backed by Tencent, Baidu and Z.AI; no company release and the IPO filing is confidential, so the figure is Bloomberg's reporting rather than a published post-money",
+   "as_of": "2026-10-01"
   },
   {
    "source": "anthropic",
@@ -2529,7 +3062,9 @@
    "type": "commits_to",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126"
+   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126",
+   "amount": "up to $42B loan",
+   "amount_musd": 42000
   },
   {
    "source": "tencent",
@@ -2537,7 +3072,11 @@
    "type": "rents",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/"
+   "url": "https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/",
+   "title": "trendforce.com, [News] Tencent Reportedly Signs $7B Deal to Lease 100,000 AI Chips From Oracle in Southeast Asia",
+   "as_of": "2026-10-01",
+   "amount": "~$7B over 5 yrs",
+   "amount_musd": 7000
   },
   {
    "source": "synopsys",
@@ -2545,7 +3084,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-02",
    "confidence": "verified",
-   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+   "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+   "title": "news.synopsys.com, OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
   },
   {
    "source": "modal",
@@ -2553,7 +3093,9 @@
    "type": "rivals",
    "from": "datapass-2026-10-03",
    "confidence": "reported",
-   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/",
+   "title": "theaiinsider.tech, Modal Labs Nears $750M Round at $15.75B Valuation as AI Inference Demand Surges",
+   "as_of": "2026-09-30"
   },
   {
    "source": "modal",
@@ -2561,7 +3103,9 @@
    "type": "rivals",
    "from": "datapass-2026-10-03",
    "confidence": "reported",
-   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/",
+   "title": "theaiinsider.tech, Modal Labs Nears $750M Round at $15.75B Valuation as AI Inference Demand Surges",
+   "as_of": "2026-09-30"
   },
   {
    "source": "modal",
@@ -2569,7 +3113,9 @@
    "type": "rivals",
    "from": "datapass-2026-10-03",
    "confidence": "reported",
-   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/"
+   "url": "https://theaiinsider.tech/2026/09/30/modal-labs-nears-750m-round-at-15-75b-valuation-as-ai-inference-demand-surges/",
+   "title": "theaiinsider.tech, Modal Labs Nears $750M Round at $15.75B Valuation as AI Inference Demand Surges",
+   "as_of": "2026-09-30"
   },
   {
    "source": "factory",
@@ -2585,7 +3131,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-05",
    "confidence": "reported",
-   "url": "https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure"
+   "url": "https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure",
+   "title": "Supabase, $500M Series F at a $10.5B post-money led by GIC, with Accel, Y Combinator, Craft, Felicis, Peak XV and Coatue following, Stripe investing a second time and Salesforce Ventures new (deal counsel Orrick's announcement; no company release with the figure surfaced)",
+   "as_of": "2026-06-04"
   },
   {
    "source": "alphabet",
@@ -2593,7 +3141,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-05",
    "confidence": "reported",
-   "url": "https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/"
+   "url": "https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/",
+   "title": "Supabase raises $150M led by GIC with Alphabet's CapitalG and agrees to acquire Turso for agentic databases; no valuation stated",
+   "as_of": "2026-10-02"
   },
   {
    "source": "cognition",
@@ -2601,7 +3151,9 @@
    "type": "rents",
    "from": "datapass-2026-10-05",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "title": "techcrunch.com, Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation | TechCrunch",
+   "as_of": "2026-09-28"
   },
   {
    "source": "suno",
@@ -2609,7 +3161,9 @@
    "type": "rents",
    "from": "datapass-2026-10-05",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "title": "techcrunch.com, Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation | TechCrunch",
+   "as_of": "2026-09-28"
   },
   {
    "source": "ramp",
@@ -2617,7 +3171,9 @@
    "type": "rents",
    "from": "datapass-2026-10-05",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "title": "techcrunch.com, Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation | TechCrunch",
+   "as_of": "2026-09-28"
   },
   {
    "source": "palebluedot",
@@ -2625,7 +3181,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-06",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html"
+   "url": "https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html",
+   "title": "PRNewswire (company release), PaleBlueDot AI's HGX B300 cluster earns NVIDIA Exemplar Cloud status for large-model training",
+   "as_of": "2026-08-18"
   },
   {
    "source": "nebius",
@@ -2633,7 +3191,10 @@
    "type": "builds_on",
    "from": "datapass-2026-10-06",
    "confidence": "reported",
-   "url": "https://www.calcalistech.com/ctechnews/article/by34n00tjfl"
+   "url": "https://www.calcalistech.com/ctechnews/article/by34n00tjfl",
+   "title": "calcalistech.com, AI21’s fall from unicorn to survival mode | CTech",
+   "as_of": "2026-05-19",
+   "amount": "tens of millions"
   },
   {
    "source": "anthropic",
@@ -2641,7 +3202,11 @@
    "type": "rents",
    "from": "datapass-2026-10-07",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda"
+   "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+   "title": "Bloomberg, Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda (six-year, ~350 MW compute commitment)",
+   "as_of": "2026-08-31",
+   "amount": "$35B",
+   "amount_musd": 35000
   },
   {
    "source": "nvidia",
@@ -2649,7 +3214,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-07",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html"
+   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html",
+   "title": "CNBC, Nvidia, Microsoft back self-driving firm Wayve as it hits $8.6 billion valuation ($1.2B Series D led by Eclipse, Balderton and SoftBank Vision Fund 2)",
+   "as_of": "2026-02-24"
   },
   {
    "source": "microsoft",
@@ -2657,7 +3224,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-07",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html"
+   "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html",
+   "title": "CNBC, Nvidia, Microsoft back self-driving firm Wayve as it hits $8.6 billion valuation ($1.2B Series D led by Eclipse, Balderton and SoftBank Vision Fund 2)",
+   "as_of": "2026-02-24"
   },
   {
    "source": "nvidia",
@@ -2665,7 +3234,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-07",
    "confidence": "verified",
-   "url": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html"
+   "url": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html",
+   "title": "CNBC, Nvidia, Bill Gates-backed robotics startup Field AI hits $2 billion valuation after recent raise (consecutive Series A and A1 totalling $405M, co-led by Bezos Expeditions, Prysm and Temasek)",
+   "as_of": "2025-08-20"
   },
   {
    "source": "intel",
@@ -2673,7 +3244,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-07",
    "confidence": "reported",
-   "url": "https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/"
+   "url": "https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/",
+   "title": "GeekWire, Robotics startup FieldAI, backed by Gates and Bezos, hits $2B valuation after latest funding",
+   "as_of": "2025-08-20"
   },
   {
    "source": "amd",
@@ -2681,7 +3254,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-07",
    "confidence": "reported",
-   "url": "https://wsau.com/2026/10/06/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/"
+   "url": "https://www.getvinci.ai/news/vinci-raises-250-million-series-b-at-1-5-billion-valuation-to-expand-ai-native-computational-platform/",
+   "title": "Vinci newsroom (Pulse 2.0 article), Vinci Raises $250 Million Series B at $1.5 Billion Valuation (AMD participating)",
+   "as_of": "2026-10-06"
   },
   {
    "source": "nvidia",
@@ -2689,7 +3264,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-08",
    "confidence": "reported",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nous-research-90m-raise-nvidia-084121035.html"
+   "url": "https://finance.yahoo.com/technology/ai/articles/nous-research-90m-raise-nvidia-084121035.html",
+   "title": "finance.yahoo.com, Nous Research $90M Raise: NVIDIA’s Dual Bet Reveals the Compute Landlord Strategy",
+   "as_of": "2026-10-08"
   },
   {
    "source": "microsoft",
@@ -2697,7 +3274,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-08",
    "confidence": "reported",
-   "url": "https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai"
+   "url": "https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai",
+   "title": "Wall Street Journal via TechCrunch/Dealroom, Nous Research raises $90M Series B at a $1.5B valuation led by Robot Ventures (NVIDIA, Microsoft's M12, Samsung Next, Union Square Ventures, Y Combinator and Menlo Ventures in; company announced the round but not the valuation)",
+   "as_of": "2026-10-07"
   },
   {
    "source": "samsung",
@@ -2705,7 +3284,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-08",
    "confidence": "reported",
-   "url": "https://cryptobriefing.com/nous-research-series-b-hermes-agent/"
+   "url": "https://cryptobriefing.com/nous-research-series-b-hermes-agent/",
+   "title": "Cryptobriefing, Nous Research raises $90 million Series B at a $1.5 billion valuation to scale Hermes Agent",
+   "as_of": "2026-10-07"
   },
   {
    "source": "tsmc",
@@ -2721,7 +3302,10 @@
    "type": "rents",
    "from": "datapass-2026-10-09",
    "confidence": "verified",
-   "url": "https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion"
+   "url": "https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion",
+   "title": "canada.hut8.com, Hut 8 $7 Billion Deal with Fluidstack and Anthropic",
+   "amount": "$7.0B over 15 years",
+   "amount_musd": 7000
   },
   {
    "source": "alphabet",
@@ -2737,7 +3321,11 @@
    "type": "rents",
    "from": "datapass-2026-10-09",
    "confidence": "reported",
-   "url": "https://thenextweb.com/news/nvidia-50bn-texas-data-centre"
+   "url": "https://thenextweb.com/news/nvidia-50bn-texas-data-centre",
+   "title": "thenextweb.com, Nvidia is the mystery tenant behind Hut 8’s $50bn Texas data centre, FT reports",
+   "as_of": "2026-07-28",
+   "amount": "$19.6B, up to $50B",
+   "amount_musd": 19600
   },
   {
    "source": "cohere",
@@ -2745,7 +3333,9 @@
    "type": "rents",
    "from": "datapass-2026-10-09",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm",
+   "amount": "~$525.6M over ~5 years",
+   "amount_musd": 525.6
   },
   {
    "source": "boostrun",
@@ -2753,7 +3343,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-09",
    "confidence": "verified",
-   "url": "https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining"
+   "url": "https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining",
+   "title": "nasdaq.com, Boost Run Achieves NVIDIA Exemplar Cloud on NVIDIA Blackwell Architecture™, Joining an Elite Tier of Global AI Infrastructure Leaders"
   },
   {
    "source": "nvidia",
@@ -2761,7 +3352,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-10",
    "confidence": "verified",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia"
+   "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
+   "title": "Bloomberg, AI data center group Firmus draws $2 billion from Coatue, Nvidia",
+   "as_of": "2026-08-07"
   },
   {
    "source": "firmus",
@@ -2769,7 +3362,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-10",
    "confidence": "verified",
-   "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific"
+   "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific",
+   "title": "Firmus (company newsroom), Firmus announces fully subscribed USD$2 billion strategic equity investment to accelerate NVIDIA AI Factory expansion across Australia and Asia-Pacific - follow-on from Coatue and NVIDIA, new investment from Blackstone Tactical Opportunities and other Blackstone funds, with Jane Street. The release does NOT state the post-money",
+   "as_of": "2026-08-07"
   },
   {
    "source": "vercel",
@@ -2777,7 +3372,9 @@
    "type": "routes",
    "from": "datapass-2026-10-10",
    "confidence": "verified",
-   "url": "https://vercel.com/blog/ai-gateway-jev-model-launch"
+   "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
+   "title": "Vercel (company blog), Jev is the fastest-adopted model in AI Gateway history",
+   "as_of": "2026-09-16"
   },
   {
    "source": "anthropic",
@@ -2785,7 +3382,9 @@
    "type": "rents",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm",
+   "amount": "~$19B over 20 years",
+   "amount_musd": 19000
   },
   {
    "source": "fluidstack",
@@ -2793,7 +3392,10 @@
    "type": "rents",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner"
+   "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
+   "title": "investors.terawulf.com, TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner",
+   "amount": "$6.7B, up to $16B",
+   "amount_musd": 6700
   },
   {
    "source": "alphabet",
@@ -2801,7 +3403,9 @@
    "type": "commits_to",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm",
+   "amount": "~$3.2B backstop",
+   "amount_musd": 3200
   },
   {
    "source": "microsoft",
@@ -2809,7 +3413,9 @@
    "type": "rents",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft"
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft",
+   "amount": "~$9.7B over 5 yrs",
+   "amount_musd": 9700
   },
   {
    "source": "nvidia",
@@ -2817,7 +3423,9 @@
    "type": "rents",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia"
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia",
+   "amount": "~$3.4B over 5 yrs",
+   "amount_musd": 3400
   },
   {
    "source": "iren",
@@ -2833,7 +3441,10 @@
    "type": "rents",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with"
+   "url": "https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with",
+   "title": "ir.applieddigital.com, Applied Digital Finalizes Additional 150MW Lease with CoreWeave in North Dakota",
+   "amount": "~$11B across all leases",
+   "amount_musd": 11000
   },
   {
    "source": "amazon",
@@ -2841,7 +3452,9 @@
    "type": "rents",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
+   "amount": "~$5.5B over 15 years",
+   "amount_musd": 5500
   },
   {
    "source": "fluidstack",
@@ -2865,7 +3478,10 @@
    "type": "rents",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm"
+   "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm",
+   "title": "investors.corescientific.com, February 27, 2025 - EX-99.1 - 8-K: Current report | Core Scientific, Inc. (CORZ)",
+   "amount": "$10.2B over 12 years",
+   "amount_musd": 10200
   },
   {
    "source": "microsoft",
@@ -2873,7 +3489,9 @@
    "type": "owns",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://www.techmeme.com/261012/p29"
+   "url": "https://www.techmeme.com/261012/p29",
+   "title": "Reuters (via Techmeme), Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out multi-gigawatt deployments of the chip starting next year",
+   "as_of": "2026-10-12"
   },
   {
    "source": "microsoft",
@@ -2881,7 +3499,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/"
+   "url": "https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/",
+   "title": "Converge Digest, Microsoft Unveils Maia 300 Accelerator (Scott Guthrie on multi-gigawatt deployments from 2027; superpods of 128 racks and 12,288 accelerators)",
+   "as_of": "2026-10-12"
   },
   {
    "source": "maia",
@@ -2889,7 +3509,9 @@
    "type": "fabricated_by",
    "from": "datapass-2026-10-13",
    "confidence": "reported",
-   "url": "https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack"
+   "url": "https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack",
+   "title": "StorageReview, Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet and 96 Accelerators in a 167kW Rack",
+   "as_of": "2026-10-12"
   },
   {
    "source": "microsoft",
@@ -2897,7 +3519,9 @@
    "type": "routes",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/"
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
+   "title": "microsoft.com, Expanding model choice in Microsoft 365 Copilot | Microsoft Copilot Blog",
+   "as_of": "2025-09-24"
   },
   {
    "source": "alphabet",
@@ -2905,7 +3529,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-13",
    "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding"
+   "url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding",
+   "title": "Bloomberg, Robotics Startup Physical Intelligence Valued at $5.6 Billion in New Funding ($600M round led by Alphabet's CapitalG, with Bezos, Thrive, Lux, Index and T. Rowe Price) - the latest round the company has closed",
+   "as_of": "2025-11-20"
   },
   {
    "source": "nvidia",
@@ -2913,7 +3539,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-14",
    "confidence": "reported",
-   "url": "https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation"
+   "url": "https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation",
+   "title": "JNS, Israeli AI firm Decart raises $300 million at $4 billion valuation - Series B led by Radical Ventures, NVIDIA joining as a new investor",
+   "as_of": "2026-05-19"
   },
   {
    "source": "anthropic",
@@ -2953,7 +3581,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-16",
    "confidence": "verified",
-   "url": "https://scale.com/blog/scale-partners-with-nvidia"
+   "url": "https://scale.com/blog/scale-partners-with-nvidia",
+   "title": "scale.com, Scale Partners With NVIDIA on Post Training",
+   "as_of": "2026-10-15"
   },
   {
    "source": "reflection",
@@ -2961,23 +3591,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-17",
    "confidence": "verified",
-   "url": "https://reflection.ai/blog/introducing-beam"
-  },
-  {
-   "source": "reflection",
-   "target": "amazon",
-   "type": "rents",
-   "from": "datapass-2026-10-17",
-   "confidence": "verified",
-   "url": "https://reflection.ai/blog/introducing-beam"
-  },
-  {
-   "source": "reflection",
-   "target": "alphabet",
-   "type": "rents",
-   "from": "datapass-2026-10-17",
-   "confidence": "verified",
-   "url": "https://reflection.ai/blog/introducing-beam"
+   "url": "https://reflection.ai/blog/introducing-beam",
+   "title": "Reflection (company blog), Introducing Beam: Reflection's 501B open-weight model - pretrained in under four weeks on 6,144 NVIDIA GB300 NVL72 GPUs; RL sandbox fleet peaked at 883,006 vCPUs across 23 clusters on Google Cloud and AWS",
+   "as_of": "2026-10-05"
   },
   {
    "source": "meta",
@@ -2985,7 +3601,9 @@
    "type": "owns",
    "from": "datapass-2026-10-18",
    "confidence": "verified",
-   "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/"
+   "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
+   "title": "Meta newsroom, Meta Partners With Broadcom to Co-Develop Custom AI Silicon (company announcement)",
+   "as_of": "2026-04-14"
   },
   {
    "source": "meta",
@@ -2993,7 +3611,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-18",
    "confidence": "verified",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference"
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference",
+   "title": "Tom's Hardware, Meta reveals four new MTIA chips built for AI inference - to be released on a six-month cadence (MTIA 300/400/450/500 across 2026-2027)",
+   "as_of": "2026-03"
   },
   {
    "source": "meta",
@@ -3001,7 +3621,9 @@
    "type": "designed_with",
    "from": "datapass-2026-10-18",
    "confidence": "verified",
-   "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology"
+   "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology",
+   "title": "Broadcom investor relations, Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta's Custom Silicon, MTIA (company release)",
+   "as_of": "2026-04-14"
   },
   {
    "source": "mtia",
@@ -3009,7 +3631,9 @@
    "type": "fabricated_by",
    "from": "datapass-2026-10-18",
    "confidence": "reported",
-   "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/"
+   "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+   "title": "TechCrunch (on Reuters), Meta's new AI chips will begin production in September - TSMC manufactures, Broadcom designs",
+   "as_of": "2026-07-09"
   },
   {
    "source": "town",
@@ -3017,7 +3641,9 @@
    "type": "rivals",
    "from": "datapass-2026-10-20",
    "confidence": "reported",
-   "url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle"
+   "url": "https://www.upstartsmedia.com/p/scoop-town-fundraise-vc-reshuffle",
+   "title": "upstartsmedia.com, Scoop: Conflict With Instinct Knocks Index Out Of Town’s Buzzy New Raise",
+   "as_of": "2026-09-03"
   },
   {
    "source": "modal",
@@ -3025,7 +3651,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-20",
    "confidence": "reported",
-   "url": "https://www.techmeme.com/261019/p31#a261019p31"
+   "url": "https://www.techmeme.com/261019/p31#a261019p31",
+   "title": "techmeme.com, AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips"
   },
   {
    "source": "perplexity",
@@ -3033,7 +3660,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-20",
    "confidence": "reported",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-"
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/07/08/perplexity-says-it-plans-to-use-nvidia039s-new-cpu-",
+   "title": "thestar.com.my, Perplexity says it plans to use Nvidia's new CPU",
+   "as_of": "2026-07-07"
   },
   {
    "source": "anthropic",
@@ -3041,7 +3670,9 @@
    "type": "rents",
    "from": "datapass-2026-10-21",
    "confidence": "reported",
-   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "title": "techstartups.com, Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others - Tech Startups",
+   "as_of": "2026-10-20"
   },
   {
    "source": "openai",
@@ -3049,7 +3680,9 @@
    "type": "rents",
    "from": "datapass-2026-10-21",
    "confidence": "reported",
-   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "title": "techstartups.com, Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others - Tech Startups",
+   "as_of": "2026-10-20"
   },
   {
    "source": "nvidia",
@@ -3057,7 +3690,9 @@
    "type": "rents",
    "from": "datapass-2026-10-21",
    "confidence": "reported",
-   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "title": "techstartups.com, Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others - Tech Startups",
+   "as_of": "2026-10-20"
   },
   {
    "source": "cursor",
@@ -3065,7 +3700,9 @@
    "type": "rents",
    "from": "datapass-2026-10-21",
    "confidence": "reported",
-   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "title": "techstartups.com, Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others - Tech Startups",
+   "as_of": "2026-10-20"
   },
   {
    "source": "cognition",
@@ -3073,15 +3710,19 @@
    "type": "rents",
    "from": "datapass-2026-10-21",
    "confidence": "reported",
-   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   "url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "title": "techstartups.com, Daytona raises $60M at $1B valuation to provide AI agent infrastructure to OpenAI, Anthropic, and others - Tech Startups",
+   "as_of": "2026-10-20"
   },
   {
    "source": "samsung",
    "target": "eka",
    "type": "invests_in",
    "from": "datapass-2026-10-21",
-   "confidence": "reported",
-   "url": "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/"
+   "confidence": "verified",
+   "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
+   "title": "Eka Robotics, Eka Robotics Raises $150M to Build Superhuman Intelligence for the Physical World (Samsung Next participating)",
+   "as_of": "2026-10-20"
   },
   {
    "source": "nvidia",
@@ -3090,7 +3731,10 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
-   "as_of": "2026-02-27"
+   "as_of": "2026-02-27",
+   "title": "cnbc.com, OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank",
+   "amount": "$30B",
+   "amount_musd": 30000
   },
   {
    "source": "amazon",
@@ -3099,7 +3743,8 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
-   "as_of": "2026-02-27"
+   "as_of": "2026-02-27",
+   "amount": "$15B + $35B commitment"
   },
   {
    "source": "openai",
@@ -3108,7 +3753,9 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
-   "as_of": "2025-09-25"
+   "as_of": "2025-09-25",
+   "amount": "up to ~$22.4B",
+   "amount_musd": 22400
   },
   {
    "source": "openai",
@@ -3126,7 +3773,8 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
-   "as_of": "2026-02-27"
+   "as_of": "2026-02-27",
+   "amount": "$38B + $100B over 8 years"
   },
   {
    "source": "nvidia",
@@ -3135,7 +3783,9 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
-   "as_of": "2026-08"
+   "as_of": "2026-08",
+   "amount": "guarantees up to $105B",
+   "amount_musd": 105000
   },
   {
    "source": "nvidia",
@@ -3151,7 +3801,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-22",
    "confidence": "verified",
-   "url": "https://cloud.google.com/products/model-garden/claude"
+   "url": "https://cloud.google.com/products/model-garden/claude",
+   "title": "cloud.google.com, Try Claude on Agent Platform's Model Garden"
   },
   {
    "source": "alphabet",
@@ -3160,7 +3811,8 @@
    "from": "datapass-2026-10-23",
    "confidence": "verified",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "as_of": "2026-10-21"
+   "as_of": "2026-10-21",
+   "title": "TechCrunch, Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation - co-led by Index and Lux, with Sequoia, GV and Kleiner Perkins returning and Valor, A*, NVIDIA and Atreides named among its investors"
   },
   {
    "source": "nvidia",
@@ -3169,7 +3821,8 @@
    "from": "datapass-2026-10-23",
    "confidence": "reported",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "as_of": "2026-10-21"
+   "as_of": "2026-10-21",
+   "title": "TechCrunch, Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation - co-led by Index and Lux, with Sequoia, GV and Kleiner Perkins returning and Valor, A*, NVIDIA and Atreides named among its investors"
   },
   {
    "source": "openai",
@@ -3178,7 +3831,8 @@
    "from": "circular-sourcing-2026-10-23",
    "confidence": "verified",
    "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
-   "as_of": "2025-10-09"
+   "as_of": "2025-10-09",
+   "title": "azure.microsoft.com, NVIDIA GB300 NVL72: Next-generation AI infrastructure at scale | Microsoft Azure Blog"
   },
   {
    "source": "microsoft",
@@ -3205,7 +3859,9 @@
    "from": "circular-sourcing-2026-10-23",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
-   "as_of": "2025-03-31"
+   "as_of": "2025-03-31",
+   "amount": "$350M in stock",
+   "amount_musd": 350
   },
   {
    "source": "nvidia",
@@ -3213,7 +3869,9 @@
    "type": "invests_in",
    "from": "datapass-2026-10-25",
    "confidence": "verified",
-   "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia"
+   "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
+   "title": "Higgsfield (company blog), Higgsfield Extends Series B With New Investment From TCV and NVIDIA (no size and no valuation disclosed)",
+   "as_of": "2026-10-23"
   },
   {
    "source": "pathos",
@@ -3221,7 +3879,9 @@
    "type": "trains_on",
    "from": "datapass-2026-10-25",
    "confidence": "verified",
-   "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions"
+   "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions",
+   "title": "Pathos AI, Pathos AI Announces Strategic Collaborations with Bristol Myers Squibb and Tempus AI to Advance AI-Driven Drug Development Beginning with Alzheimer's Disease and Other Neurological Conditions (company release; BMS leads the Series E, Tempus licenses neurology data)",
+   "as_of": "2026-10-23"
   },
   {
    "source": "vertex",
@@ -3229,7 +3889,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-25",
    "confidence": "verified",
-   "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes"
+   "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
+   "title": "docs.cloud.google.com, Vertex AI release notes | Generative AI on Vertex AI | Google Cloud Documentation"
   },
   {
    "source": "replit",
@@ -3237,7 +3898,79 @@
    "type": "routes",
    "from": "datapass-2026-10-25",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "title": "TechCrunch, Replit makes OpenAI its default over Anthropic, CEO says",
+   "as_of": "2026-10-17"
+  },
+  {
+   "source": "poolside",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "integrity-2026-10-26",
+   "confidence": "verified",
+   "url": "https://www.coreweave.com/news/coreweave-announces-partnership-with-foundation-model-company-poolside-to-deliver-ai-cloud-services",
+   "as_of": "2025-10-15",
+   "title": "CoreWeave, CoreWeave Announces Partnership with Foundation Model Company Poolside (more than 40,000 GB300 GPUs)"
+  },
+  {
+   "source": "nscale",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "integrity-2026-10-26",
+   "confidence": "verified",
+   "url": "https://nscale.com/press-releases/nscale-microsoft-2025",
+   "as_of": "2025-10-15",
+   "title": "Nscale, Nscale Contracts Approximately 200,000 NVIDIA GB300 GPUs with Microsoft"
+  },
+  {
+   "source": "perplexity",
+   "target": "alphabet",
+   "type": "rivals",
+   "from": "integrity-2026-10-26",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/05/19/perplexity-cnbc-disruptor-50-ranking.html",
+   "as_of": "2026-05-19",
+   "title": "CNBC Disruptor 50, Perplexity (a direct challenger to Google's search)"
+  },
+  {
+   "source": "cursor",
+   "target": "moonshot",
+   "type": "builds_on",
+   "from": "integrity-2026-10-26",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+   "as_of": "2026-03-22",
+   "title": "TechCrunch, Cursor admits its new coding model was built on top of Moonshot AI's Kimi"
+  },
+  {
+   "source": "helsing",
+   "target": "anduril",
+   "type": "rivals",
+   "from": "integrity-2026-10-26",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+   "as_of": "2026-07-13",
+   "title": "CNBC, Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation"
+  },
+  {
+   "source": "sensetime",
+   "target": "ascend",
+   "type": "builds_on",
+   "from": "integrity-2026-10-26",
+   "confidence": "verified",
+   "url": "https://www.sensetime.com/en/news/51170268/",
+   "as_of": "2025-11-20",
+   "title": "SenseTime, SenseCore Ranks First Among China's AI Native Cloud Vendors (full adaptation with the Ascend 384 super node)"
+  },
+  {
+   "source": "saronic",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "integrity-2026-10-26",
+   "confidence": "verified",
+   "url": "https://www.navalnews.com/naval-news/2025/10/saronic-and-nvidia-form-strategic-collaboration/",
+   "as_of": "2025-10-23",
+   "title": "Naval News (Saronic release), Saronic and NVIDIA Form Strategic Collaboration (NVIDIA hardware onboard all Saronic vessels)"
   }
  ],
  "as_of": "2026-10-25"
