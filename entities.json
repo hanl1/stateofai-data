@@ -9,7 +9,7 @@
    "sector": "app",
    "layer": "app",
    "kind": "company",
-   "signal": "~$500M rev",
+   "signal": "$750M+ ARR",
    "role": "Answer engine; orchestrates up to 20 models per query. Routes as a core competency.",
    "confidence": "reported",
    "valuation_musd": 20000,
@@ -17,7 +17,18 @@
     {
      "title": "TechCrunch (relaying The Information), Perplexity reportedly raised $200M at a $20B valuation; not confirmed by the company",
      "url": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
-     "as_of": "2025-09-10"
+     "as_of": "2025-09-10",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Outlook Business (relaying The Information), Perplexity's annualised revenue climbed to more than $750 million",
+     "url": "https://www.outlookbusiness.com/corporate/perplexitys-valuation-could-jump-50-with-nvidia-investment-on-the-cards",
+     "as_of": "2026-08-24",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2025-09-10",
@@ -38,12 +49,18 @@
     {
      "title": "Glean press release, Glean raises $150M Series F at a $7.2B valuation, led by Wellington Management",
      "url": "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally",
-     "as_of": "2025-06-10"
+     "as_of": "2025-06-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "BusinessWire (company release), Glean Raises $150M Series F at $7.2B Valuation to Accelerate Enterprise AI Agent Innovation Globally",
      "url": "https://www.businesswire.com/news/home/20250610090029/en/Glean-Raises-$150M-Series-F-at-$7.2B-Valuation-to-Accelerate-Enterprise-AI-Agent-Innovation-Globally",
-     "as_of": "2025-06-10"
+     "as_of": "2025-06-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-06-10",
@@ -64,17 +81,35 @@
     {
      "title": "Harvey, $550M at a $15.5B valuation co-led by Lightspeed and Diffusion, with Sapphire and Whale Rock (company blog)",
      "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
-     "as_of": "2026-09-09"
+     "as_of": "2026-09-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Harvey hits $15.5B valuation, months after reaching $11B",
      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-     "as_of": "2026-09-09"
+     "as_of": "2026-09-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Legal AI startup Harvey hits $15.6 billion value with $550 million round",
      "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
-     "as_of": "2026-09-09"
+     "as_of": "2026-09-09",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "LawSites, Harvey Raises Another $550M At A $15.5B Valuation (crossed $400 million in ARR, per the company)",
+     "url": "https://www.lawnext.com/2026/09/harvey-raises-another-550m-at-a-15-5b-valuation.html",
+     "as_of": "2026-09-09",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-09-09",
@@ -93,19 +128,36 @@
    "valuation_musd": 8800,
    "sources": [
     {
+     "title": "Legora (company release), Legora raises $550 million Series E at $8.8 billion valuation",
+     "url": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Bloomberg, Legal AI startup Legora hits an $8.8B valuation with a new $550M investment round led by Atreides Management",
      "url": "https://www.bloomberg.com/news/articles/2026-10-21/legal-ai-startup-legora-raises-funds-at-8-8-billion-valuation",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "The Next Web, Swedish legal AI firm Legora raises $550M Series E led by Atreides at an $8.8B valuation, with Baron Capital, Capital Group, Fidelity, Glade Brook and J.P. Morgan new in",
      "url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Prior mark: Legora extends its Series D with $50M at a $5.6B post-money, adding Atlassian and NVentures (NVIDIA) (company newsroom)",
      "url": "https://legora.com/newsroom/legora-extends-series-d-with-additional-50-million-welcomes-atlassian-and-nventures-as-investors",
-     "as_of": "2026-04-30"
+     "as_of": "2026-04-30",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-21",
@@ -126,12 +178,18 @@
     {
      "title": "Clio press release, Clio completes landmark $1B vLex acquisition and announces a $500M Series G at a $5B valuation, led by NEA (TCV, Goldman Sachs Asset Management, Sixth Street Growth and JMI participating)",
      "url": "https://www.clio.com/about/press/clio-completes-landmark-1b-vlex-acquisition-series-g-5b-valuation/",
-     "as_of": "2025-11-10"
+     "as_of": "2025-11-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters (via Yahoo Finance), Legal AI firm Clio valued at $5 billion in latest funding round",
      "url": "https://finance.yahoo.com/news/legal-ai-technology-firm-clio-132734607.html",
-     "as_of": "2025-11-10"
+     "as_of": "2025-11-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-11-10",
@@ -152,22 +210,34 @@
     {
      "title": "Axios Pro, OpenEvidence reportedly raises $250M at $15B valuation (Byers Capital and Andreessen Horowitz)",
      "url": "https://www.axios.com/pro/health-tech-deals/2026/09/25/openevidence-250m-raise-15b-valuation-a16z",
-     "as_of": "2026-09-25"
+     "as_of": "2026-09-25",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Business Insider (via Reuters newsfeed), OpenEvidence was valued at $15 billion in a new funding round",
      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45G0RK:0-openevidence-was-valued-at-15-billion-in-a-new-funding-round-business-insider/",
-     "as_of": "2026-09-25"
+     "as_of": "2026-09-25",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Prior round: CNBC, OpenEvidence doubles valuation to $12 billion on a $250M Series D co-led by Thrive Capital and DST Global",
      "url": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html",
-     "as_of": "2026-01-21"
+     "as_of": "2026-01-21",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Fierce Healthcare, OpenEvidence clinches $250M Series D, rapidly growing its reach to doctors",
      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-clinches-250m-series-d-rapidly-growing-its-reach-doctors",
-     "as_of": "2026-01-22"
+     "as_of": "2026-01-22",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-25",
@@ -188,12 +258,18 @@
     {
      "title": "Abridge secures a $300M Series E led by a16z, with Khosla Ventures, at a $5.3B valuation (company blog)",
      "url": "https://www.abridge.com/blog/series-e",
-     "as_of": "2025-06-23"
+     "as_of": "2025-06-23",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Modern Healthcare, Abridge raises $300M in Series E funding led by a16z",
      "url": "https://www.modernhealthcare.com/health-tech/ai/mh-abridge-a16z-khosla-funding-ambient/",
-     "as_of": "2025-06-23"
+     "as_of": "2025-06-23",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-06-23",
@@ -212,9 +288,20 @@
    "valuation_musd": 3500,
    "sources": [
     {
+     "title": "Hippocratic AI (company release), Hippocratic AI Raises $126M Series C at a $3.5 billion valuation",
+     "url": "https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million",
+     "as_of": "2025-11-03",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Fierce Healthcare, Hippocratic AI lands $126M series C at $3.5B valuation",
      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma",
-     "as_of": "2025-11-03"
+     "as_of": "2025-11-03",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-11-03",
@@ -233,12 +320,23 @@
    "valuation_musd": 525,
    "sources": [
     {
+     "title": "Rad AI (company release), Rad AI Closes $60M Series C, valuing the company at $525M",
+     "url": "https://radai.com/news/rad-ai-closes-60m-series-c-to-further-solidify-leadership-in-healthcare-generative-ai",
+     "as_of": "2025-01-30",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "MobiHealthNews, Rad AI scores $60M Series C at $525M valuation",
      "url": "https://www.mobihealthnews.com/news/rad-ai-scores-60m-boosting-its-valuation-525m",
-     "as_of": "2025-01-21"
+     "as_of": "2025-01-21",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
-   "as_of": "2025-01-21",
+   "as_of": "2025-01-30",
    "domain": "radai.com",
    "region": "us"
   },
@@ -256,27 +354,42 @@
     {
      "title": "Anduril newsroom, Anduril announces a $5B Series H raise led by Thrive Capital and Andreessen Horowitz, valuing the company at $61B",
      "url": "https://www.anduril.com/news/anduril-announces-usd5b-series-h-raise",
-     "as_of": "2026-05-13"
+     "as_of": "2026-05-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Anduril doubles valuation to $61 billion with latest funding, round led by Thrive and Andreessen",
      "url": "https://www.bloomberg.com/news/articles/2026-05-13/anduril-valued-at-61-billion-in-round-led-by-thrive-andreessen",
-     "as_of": "2026-05-13"
+     "as_of": "2026-05-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Anduril raises $5B, doubles valuation to $61B",
      "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-     "as_of": "2026-05-13"
+     "as_of": "2026-05-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
      "url": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
-     "as_of": "2026-05-13"
+     "as_of": "2026-05-13",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Prior mark: TechCrunch, Anduril raises $2.5B Series G at $30.5B valuation led by Founders Fund",
      "url": "https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/",
-     "as_of": "2025-06-05"
+     "as_of": "2025-06-05",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-05-13",
@@ -297,17 +410,26 @@
     {
      "title": "Helsing, $1.8B Series E at an $18B valuation - Europe's largest defence-tech round (company newsroom)",
      "url": "https://helsing.ai/newsroom/helsing-raises-1-8bn-in-series-e",
-     "as_of": "2026-07-13"
+     "as_of": "2026-07-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Goldman backs drone startup Helsing at $18 billion valuation",
      "url": "https://www.bloomberg.com/news/articles/2026-07-13/drone-startup-helsing-raises-at-18-billion-with-goldman-backing",
-     "as_of": "2026-07-13"
+     "as_of": "2026-07-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
      "url": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
-     "as_of": "2026-07-13"
+     "as_of": "2026-07-13",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-07-13",
@@ -328,17 +450,26 @@
     {
      "title": "Shield AI, $1.5B Series G at a $12.7B post led by Advent International, co-led by JPMorganChase's Strategic Investment Group, plus $500M preferred from Blackstone",
      "url": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
-     "as_of": "2026-03-26"
+     "as_of": "2026-03-26",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Shield AI raises $2 billion, doubling valuation to $12.7 billion",
      "url": "https://www.bloomberg.com/news/articles/2026-03-26/defense-startup-shield-ai-nabs-2-billion-at-12-7-billion-value",
-     "as_of": "2026-03-26"
+     "as_of": "2026-03-26",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
      "url": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
-     "as_of": "2026-03-26"
+     "as_of": "2026-03-26",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-03-26",
@@ -361,7 +492,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PLTR/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -382,17 +516,26 @@
     {
      "title": "ElevenLabs, ElevenLabs reaches $22bn valuation after employee tender ($300M tender led by Wellington and T. Rowe Price; company blog)",
      "url": "https://elevenlabs.io/blog/tender-22bn",
-     "as_of": "2026-09-30"
+     "as_of": "2026-09-30",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters, ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
      "url": "https://www.investing.com/news/stock-market-news/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voiceagent-demand-4925621",
-     "as_of": "2026-09-30"
+     "as_of": "2026-09-30",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "ElevenLabs, $500M Series D at $11B led by Sequoia, with a16z, ICONIQ, Lightspeed, Evantic and BOND (company blog)",
      "url": "https://elevenlabs.io/blog/series-d",
-     "as_of": "2026-02-04"
+     "as_of": "2026-02-04",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-30",
@@ -407,13 +550,16 @@
    "kind": "company",
    "signal": "video gen",
    "role": "Generative video for film and advertising, now pushing into world models for robotics; ~$200M annualized revenue and the Kinetix 3D-motion team in Paris.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 5300,
    "sources": [
     {
      "title": "TechCrunch, Runway $315M Series E at $5.3B led by General Atlantic",
      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
-     "as_of": "2026-02-10"
+     "as_of": "2026-02-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-02-10",
@@ -432,9 +578,20 @@
    "valuation_musd": 4000,
    "sources": [
     {
+     "title": "Synthesia (company blog), Synthesia raises $200 million Series E at $4 billion valuation",
+     "url": "https://www.synthesia.io/post/series-e-200-million-4-billion-valuation-future-work",
+     "as_of": "2026-01-26",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "CNBC, Synthesia $200M Series E at $4B (NVentures, GV)",
      "url": "https://www.cnbc.com/2026/01/26/nvidia-alphabet-vc-arms-back-synthesia.html",
-     "as_of": "2026-01-26"
+     "as_of": "2026-01-26",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-01-26",
@@ -455,7 +612,10 @@
     {
      "title": "TechCrunch, Black Forest Labs raises $300M Series B at $3.25B",
      "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation",
-     "as_of": "2025-12-01"
+     "as_of": "2025-12-01",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-12-01",
@@ -470,18 +630,24 @@
    "kind": "company",
    "signal": "3D · video",
    "role": "Generative 3D and video from the Dream Machine team; its Ray3 reasoning video model targets film and Hollywood workflows. Partnered with HUMAIN on Project Halo, a 2 GW AI supercluster in Saudi Arabia, as the first customer of HUMAIN's AMD joint venture.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 4000,
    "sources": [
     {
      "title": "PRNewswire (company release), Luma AI raises $900M Series C led by HUMAIN and partners on a 2 gigawatt AI supercluster in Saudi Arabia (AWS, AMD Ventures, a16z, Amplify and Matrix participating)",
      "url": "https://www.prnewswire.com/news-releases/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia-302620697.html",
-     "as_of": "2025-11-19"
+     "as_of": "2025-11-19",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, Luma AI raises $900 million in funding round led by Saudi AI firm Humain, at about a $4B valuation (the company release does not state the post-money)",
      "url": "https://www.cnbc.com/2025/11/19/luma-ai-raises-900-million-in-funding-led-by-saudi-ai-firm-humain.html",
-     "as_of": "2025-11-19"
+     "as_of": "2025-11-19",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-11-19",
@@ -500,14 +666,28 @@
    "valuation_musd": 5400,
    "sources": [
     {
+     "title": "Suno (company blog), The Next Chapter for Suno (Series D at a $5.4 billion post-money valuation)",
+     "url": "https://blog.suno.com/blog/series-d-announcement",
+     "as_of": "2026-06-03",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Bloomberg, AI music startup Suno raises capital at $5.4 billion valuation ($400M led by Bond, with IVP, Forerunner, USV and Alkeon)",
      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation",
-     "as_of": "2026-06-03"
+     "as_of": "2026-06-03",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Variety, AI music company Suno raises $400 million at $5.4 billion valuation",
      "url": "https://variety.com/2026/digital/news/ai-music-suno-funding-round-400-million-5-4-billion-valuation-1236765727/",
-     "as_of": "2026-06-03"
+     "as_of": "2026-06-03",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-06-03",
@@ -528,17 +708,26 @@
     {
      "title": "AFR via Capital Brief, Blackbird and Airtree cut their Canva mark 17% to $34.9B; the independent valuation setting Canva's annual employee share issuance fell from $38.9B to $31B",
      "url": "https://www.capitalbrief.com/article/12-billion-or-even-less-as-offshore-investors-air-canva-doubts-australias-top-vcs-mark-it-down-c51164d9-eb52-4bcc-89c9-120d375f8598/",
-     "as_of": "2026-08-14"
+     "as_of": "2026-08-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Canva employee share sale at $42B valuation (last transaction mark, Aug 2025)",
      "url": "https://www.bloomberg.com/news/articles/2025-08-20/canva-begins-share-sale-at-42-billion-valuation-in-road-to-ipo",
-     "as_of": "2025-08-20"
+     "as_of": "2025-08-20",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Context, not the mark: Forbes Australia, Canva valuation marked down by US titans T. Rowe Price (to $38.2B, -9.1%) and Franklin Templeton (-6%)",
      "url": "https://www.forbes.com.au/news/innovation/canva-valuation-marked-down-by-us-titans-t-rowe-price-and-franklin-templeton/",
-     "as_of": "2026-09-18"
+     "as_of": "2026-09-18",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-08-14",
@@ -559,12 +748,18 @@
     {
      "title": "TechCrunch, Grammarly raises $200M at a $13B valuation (last equity mark; the May 2025 $1B from General Catalyst was non-dilutive and set no new price)",
      "url": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-     "as_of": "2021-11-17"
+     "as_of": "2021-11-17",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Grammarly blog (company release), Grammarly rebrands company as Superhuman, introduces Superhuman Suite and Superhuman Go",
      "url": "https://www.grammarly.com/blog/company/announcing-company-rebrand-to-superhuman/",
-     "as_of": "2025-10-29"
+     "as_of": "2025-10-29",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2021-11-17",
@@ -585,7 +780,10 @@
     {
      "title": "Sacra/CB Insights, $11B employee tender offer (Jan 2026); S-1 filed Feb 2026",
      "url": "https://sacra.com/c/notion/",
-     "as_of": "2026-01-26"
+     "as_of": "2026-01-26",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-01-26",
@@ -606,12 +804,18 @@
     {
      "title": "Clay, $115M Series D at $7.1B led by Wellington Management, with Sequoia, a16z, CapitalG, DST and StepStone (company announcement)",
      "url": "https://ca.finance.yahoo.com/news/clay-raises-115m-ai-growth-154600423.html",
-     "as_of": "2026-09-09"
+     "as_of": "2026-09-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiliconANGLE, Sales automation startup Clay boosts valuation to $7.1B in $115M funding round",
      "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/",
-     "as_of": "2026-09-09"
+     "as_of": "2026-09-09",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-09",
@@ -630,9 +834,20 @@
    "valuation_musd": 1900,
    "sources": [
     {
+     "title": "Writer (company release), WRITER raises $200M Series C at $1.9B valuation",
+     "url": "https://writer.com/blog/series-c-funding-writer-press-release/",
+     "as_of": "2024-11-12",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "TechCrunch, Writer raises $200M Series C at $1.9B valuation",
      "url": "https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation",
-     "as_of": "2024-11-12"
+     "as_of": "2024-11-12",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-11-12",
@@ -653,12 +868,18 @@
     {
      "title": "Cyera, $600M at $12B valuation led by Evolution Equity Partners",
      "url": "https://www.cyera.com/press-releases/cyera-raises-600-million-at-12-billion-valuation-to-continue-building-the-trust-layer-for-the-ai-era",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters, Data security firm Cyera raises $600 million at $12 billion valuation",
      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42I0RT:0-data-security-firm-cyera-raises-600-million-at-12-billion-valuation/",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-06-10",
@@ -677,9 +898,20 @@
    "valuation_musd": 5100,
    "sources": [
     {
+     "title": "Abnormal (company release), Abnormal Security Announces $250 Million Series D Financing at a $5.1 Billion Valuation",
+     "url": "https://abnormal.ai/newsroom/press-releases/series-d-5b-valuation",
+     "as_of": "2024-08-06",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "CNBC, Abnormal Series D at $5.1B valuation",
      "url": "https://www.cnbc.com/2024/08/06/new-funding-values-email-security-firm-abnormal-at-more-than-5-billion.html",
-     "as_of": "2024-08-06"
+     "as_of": "2024-08-06",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-08-06",
@@ -700,27 +932,42 @@
     {
      "title": "Ramp (PR Newswire), Ramp Reaches $60 Billion Valuation as Annualized Revenue Tops $2 Billion - $1.85B led by Dragoneer, with Thrive Capital, Founders Fund, Sands Capital and Avenir Growth co-leading (company release)",
      "url": "https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-15",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Ramp reaches $60B valuation as it pushes deeper into AI",
      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-15",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg (via Techmeme), Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue",
      "url": "https://www.techmeme.com/261015/p18#a261015p18",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-15",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiliconANGLE, Ramp raises $1.85B as it expands beyond finance software",
      "url": "https://siliconangle.com/2026/10/15/ramp-raises-1-85b-as-it-expands-beyond-finance-software/",
-     "as_of": "2026-10-15"
+     "as_of": "2026-10-15",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Prior mark: Ramp, $750M Series F at a $44B valuation led by ICONIQ, GIC and Ontario Teachers' Pension Plan (company release)",
      "url": "https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html",
-     "as_of": "2026-06-04"
+     "as_of": "2026-06-04",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-15",
@@ -733,7 +980,7 @@
    "sector": "app",
    "layer": "app",
    "kind": "company",
-   "signal": "~$70M ARR",
+   "signal": "$100M ARR",
    "role": "Privacy-first AI with VVV token; routes by privacy tier including TEE-backed confidential inference.",
    "confidence": "reported",
    "valuation_musd": 1000,
@@ -741,7 +988,18 @@
     {
      "title": "Motley Fool, reported $65M raise at $1B (Jul 2026); VVV token is not equity",
      "url": "https://www.fool.com/investing/2026/07/18/vc-investors-just-valued-this-company-at-1-billion/",
-     "as_of": "2026-07-18"
+     "as_of": "2026-07-18",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Crypto Briefing, Venice crosses $100M in annualized revenue",
+     "url": "https://cryptobriefing.com/venice-ai-100m-annualized-revenue/",
+     "as_of": "2026-08-17",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-07-18",
@@ -762,17 +1020,26 @@
     {
      "title": "Waymo, $16B investment round at a $126B valuation led by Sequoia, DST Global and Dragoneer, with Alphabet as majority investor (company blog)",
      "url": "https://waymo.com/blog/2026/02/waymo-raises-usd16-billion-investment-round/",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Waymo announces $16 billion funding round",
      "url": "https://www.cnbc.com/2026/02/02/waymo-announced-16-billion-fundraising-round.html",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Waymo raises $16 billion from Alphabet, others to expand service",
      "url": "https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-02-02",
@@ -793,12 +1060,18 @@
     {
      "title": "Figure, Figure exceeds $1B in Series C funding at $39B post-money valuation (led by Parkway Venture Capital; NVIDIA, Intel Capital, Microsoft, Brookfield and the OpenAI Startup Fund participating)",
      "url": "https://www.figure.ai/news/series-c",
-     "as_of": "2025-09-16"
+     "as_of": "2025-09-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "PR Newswire, Figure exceeds $1B in Series C funding at $39B post-money valuation",
      "url": "https://www.prnewswire.com/news-releases/figure-exceeds-1b-in-series-c-funding-at-39b-post-money-valuation-302556936.html",
-     "as_of": "2025-09-16"
+     "as_of": "2025-09-16",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-09-16",
@@ -820,12 +1093,18 @@
     {
      "title": "Applied Intuition closes a $600M Series F and tender offer at a $15B valuation, co-led by BlackRock-managed funds and Kleiner Perkins (company release)",
      "url": "https://www.prnewswire.com/news-releases/applied-intuition-closes-series-f-at-15-billion-valuation-accelerating-vehicle-intelligence-across-all-moving-machines-302483698.html",
-     "as_of": "2025-06-17"
+     "as_of": "2025-06-17",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Applied Intuition raises $600 million as it pushes further into defense",
      "url": "https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense",
-     "as_of": "2025-06-17"
+     "as_of": "2025-06-17",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-06-17",
@@ -846,7 +1125,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688836.SS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -870,17 +1152,26 @@
     {
      "title": "Nuro, Series E financing at a $6B valuation (company blog)",
      "url": "https://www.nuro.ai/blog/nuro-announces-series-e-financing-at-6b-valuation-backed-by-leading-financial-and-strategic-investors",
-     "as_of": "2025-04"
+     "as_of": "2025-04",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Nuro closes the $203M Series E, final tranche co-led by new strategic investors NVIDIA and Uber (company blog)",
      "url": "https://www.nuro.ai/blog/nuro-closes-203-million-series-e-financing-to-advance-its-ai-first-self-driving-technology-and-commercial-partnerships",
-     "as_of": "2025-08-22"
+     "as_of": "2025-08-22",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "The Robot Report, Nuro closes $203M to propel AI-first self-driving tech, commercial partnerships",
      "url": "https://www.therobotreport.com/nuro-closes-203m-propel-ai-first-self-driving-tech-commercial-partnerships/",
-     "as_of": "2025-08-22"
+     "as_of": "2025-08-22",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-08-22",
@@ -895,23 +1186,32 @@
    "kind": "company",
    "signal": "robot FM",
    "role": "Foundation models for robot control across hardware platforms; its flagship is the pi-zero vision-language-action model. The mark is the November 2025 Series B and is nearly a year old: the ~$1B at above $11B that Bloomberg reported in talks in March 2026 has never been announced as closed, though trackers say corporate filings from May 2026 authorised about $1.05B of Series C stock at $11-11.2B, which is a charter authorisation rather than a priced round. Alphabet's independent growth fund CapitalG led the $600M round at $5.6B, with Jeff Bezos, Thrive, Lux, Index and T. Rowe Price in; CapitalG has confirmed its participation. The Series A was $400M at $2.4B in November 2024.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 5600,
    "sources": [
     {
      "title": "Bloomberg, Robotics Startup Physical Intelligence Valued at $5.6 Billion in New Funding ($600M round led by Alphabet's CapitalG, with Bezos, Thrive, Lux, Index and T. Rowe Price) - the latest round the company has closed",
      "url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding",
-     "as_of": "2025-11-20"
+     "as_of": "2025-11-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Axios, VCs are funding the AI-powered robot revolution (same $600M at $5.6B terms)",
      "url": "https://www.axios.com/2025/11/21/robots-physical-intelligence-ai",
-     "as_of": "2025-11-21"
+     "as_of": "2025-11-21",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, AI robotics lab in talks to nab $1 billion at $11 billion value - talks only, never confirmed as closed",
      "url": "https://news.bloomberglaw.com/artificial-intelligence/ai-robotics-lab-in-talks-to-nab-1-billion-at-11-billion-value",
-     "as_of": "2026-03-27"
+     "as_of": "2026-03-27",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-11-20",
@@ -932,17 +1232,26 @@
     {
      "title": "Skild AI, $1.4B Series C led by SoftBank at a valuation above $14B, with NVIDIA, Samsung, Macquarie and 1789 Capital (company announcement)",
      "url": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B",
-     "as_of": "2026-01-14"
+     "as_of": "2026-01-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Robotics startup Skild AI valued above $14 billion in new funding round",
      "url": "https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round",
-     "as_of": "2026-01-14"
+     "as_of": "2026-01-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Robotics software maker Skild AI hits $14B valuation",
      "url": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
-     "as_of": "2026-01-14"
+     "as_of": "2026-01-14",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-01-14",
@@ -963,7 +1272,10 @@
     {
      "title": "Sacra/The Information: $820M (Jan 2025); ~$10B Series C targeted but not confirmed closed",
      "url": "https://sacra.com/c/1x-technologies/",
-     "as_of": "2025-01-15"
+     "as_of": "2025-01-15",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-01-15",
@@ -983,12 +1295,18 @@
     {
      "title": "Cursor blog (company release), Cursor is now a part of SpaceX (acquisition closed)",
      "url": "https://cursor.com/blog/joining-spacex",
-     "as_of": "2026-08-14"
+     "as_of": "2026-08-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, SpaceX to acquire Cursor for $60 billion (agreement)",
      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
-     "as_of": "2026-06-16"
+     "as_of": "2026-06-16",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-08-14",
@@ -1010,7 +1328,10 @@
     {
      "title": "Bloomberg via Newcomer, NVIDIA pays $6B to license Poolside Model Factory and invests $1B at a $12B pre-money (Aug 2026); ~100 engineers move to NVIDIA",
      "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-     "as_of": "2026-08-20"
+     "as_of": "2026-08-20",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-20",
@@ -1025,18 +1346,24 @@
    "kind": "company",
    "signal": "CX agents",
    "role": "Customer-experience agents; Bret Taylor's company. ~$200M ARR at the May 2026 Series E.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 15800,
    "sources": [
     {
      "title": "TechCrunch, Sierra raises $950M as the race to own enterprise AI gets serious (Series E at a $15.8B post, led by Tiger Global and GV)",
      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-     "as_of": "2026-05-04"
+     "as_of": "2026-05-04",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Bret Taylor's Sierra raises nearly $1B in latest AI capital push",
      "url": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
-     "as_of": "2026-05-04"
+     "as_of": "2026-05-04",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-05-04",
@@ -1055,9 +1382,20 @@
    "valuation_musd": 48000,
    "sources": [
     {
+     "title": "Cognition (company blog), Cognition has raised over $2B at a $48B valuation",
+     "url": "https://cognition.com/blog/series-e",
+     "as_of": "2026-09-08",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Cognition, $2B Series E at $48B post led by a16z, Accel, Founders Fund, General Catalyst and Avenir; $900M ARR (company blog via TechCrunch)",
      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-     "as_of": "2026-09-08"
+     "as_of": "2026-09-08",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-08",
@@ -1078,7 +1416,10 @@
     {
      "title": "Vercel, $300M Series F co-led by Accel and GIC at a $9.3B post-money valuation (company blog)",
      "url": "https://vercel.com/blog/series-f",
-     "as_of": "2025-09-30"
+     "as_of": "2025-09-30",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-09-30",
@@ -1099,17 +1440,26 @@
     {
      "title": "Supabase, $500M Series F at a $10.5B post-money led by GIC, with Accel, Y Combinator, Craft, Felicis, Peak XV and Coatue following, Stripe investing a second time and Salesforce Ventures new (deal counsel Orrick's announcement; no company release with the figure surfaced)",
      "url": "https://www.orrick.com/en/News/2026/06/Supabase-Raises-500-Million-at-10-5-Billion-Valuation-to-Accelerate-Lead-in-Agentic-Infrastructure",
-     "as_of": "2026-06-04"
+     "as_of": "2026-06-04",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Supabase raises $500M at $10.5B valuation in Series F",
      "url": "https://www.investing.com/news/stock-market-news/supabase-raises-500m-at-105b-valuation-in-series-f-93CH-4727263",
-     "as_of": "2026-06-04"
+     "as_of": "2026-06-04",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Supabase raises $150M led by GIC with Alphabet's CapitalG and agrees to acquire Turso for agentic databases; no valuation stated",
      "url": "https://dealroom.co/news/158564-supabase-raises-150m-buys-turso-to-chase-the-agent-database-boom/",
-     "as_of": "2026-10-02"
+     "as_of": "2026-10-02",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-06-04",
@@ -1130,7 +1480,10 @@
     {
      "title": "Lovable, $400M Series C at $13.3B led by Menlo Ventures and EQT Scaleup Europe Fund; Tencent among new investors",
      "url": "https://lovable.dev/blog/series-c",
-     "as_of": "2026-08-12"
+     "as_of": "2026-08-12",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-12",
@@ -1149,12 +1502,23 @@
    "valuation_musd": 4500,
    "sources": [
     {
+     "title": "Decagon (company blog), Decagon's $250 million commitment to the AI concierge future (valuation $4.5 billion)",
+     "url": "https://decagon.ai/blog/series-d-announcement",
+     "as_of": "2026-01-27",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Bloomberg, Decagon raises $250M Series D at $4.5B (Coatue/Index)",
      "url": "https://www.bloomberg.com/news/articles/2026-01-28/ai-customer-support-startup-decagon-valued-at-4-5-billion",
-     "as_of": "2026-01-28"
+     "as_of": "2026-01-28",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
-   "as_of": "2026-01-28",
+   "as_of": "2026-01-27",
    "domain": "decagon.ai",
    "region": "us"
   },
@@ -1172,22 +1536,34 @@
     {
      "title": "Replit, $400M at a $9B valuation led by Georgian, with Coatue, a16z, Y Combinator and Databricks Ventures (company announcement)",
      "url": "https://replit.com/news/funding-announcement",
-     "as_of": "2026-03-11"
+     "as_of": "2026-03-11",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Replit snags $9B valuation 6 months after hitting $3B",
      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b",
-     "as_of": "2026-03-11"
+     "as_of": "2026-03-11",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Replit makes OpenAI its default over Anthropic, CEO says",
      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-     "as_of": "2026-10-17"
+     "as_of": "2026-10-17",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch (relayed), Replit CEO Amjad Masad says the company is no longer working with Anthropic; a person familiar says the partnership is still in place",
      "url": "https://cryptobriefing.com/replit-masad-anthropic-multi-model-disrupt/",
-     "as_of": "2026-10-16"
+     "as_of": "2026-10-16",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-03-11",
@@ -1200,7 +1576,7 @@
    "sector": "gateway",
    "layer": "agent",
    "kind": "company",
-   "signal": "25T tok/wk",
+   "signal": "10T+ tok/day",
    "role": "Model router across providers; owns no GPUs. One API, no lock-in. Being acquired by Stripe for over $7B; continues to operate independently. The price has never been disclosed by either party and the reports do not agree: Bloomberg said over $7B (2026-08-16), which is the floor the map carries; the New York Times is relayed as putting it at about $7.5B with $1.5B of that earmarked for the founders and $6B for investors, a figure Forbes repeated on 2026-09-15 as \"a reported $7-7.5B\"; and Axios put it above $8B. No figure appears in a company release or filing and the NYT breakdown could not be read from its own page, so the mark stays at the Bloomberg floor until the close settles it.",
    "confidence": "reported",
    "valuation_musd": 7000,
@@ -1208,17 +1584,34 @@
     {
      "title": "Stripe newsroom, Stripe agrees to acquire OpenRouter (terms not disclosed)",
      "url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter",
-     "as_of": "2026-08-19"
+     "as_of": "2026-08-19",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Stripe finalizes deal to acquire OpenRouter for over $7 billion",
      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-     "as_of": "2026-08-16"
+     "as_of": "2026-08-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Forbes, Why Stripe Paid A Reported $7.5 Billion For A Company That Routes AI Prompts",
      "url": "https://www.forbes.com/sites/zennonkapron/2026/09/15/why-stripe-paid-a-reported-75-billion-for-a-company-that-routes-ai-prompts/",
-     "as_of": "2026-09-15"
+     "as_of": "2026-09-15",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "OpenRouter, OpenRouter is Joining Stripe (10+ trillion tokens per day; 10T)",
+     "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+     "as_of": "2026-08-19",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-08-19",
@@ -1239,7 +1632,10 @@
     {
      "title": "CNBC, Stripe valued at $159B in tender offer for employees and shareholders",
      "url": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
-     "as_of": "2026-02-24"
+     "as_of": "2026-02-24",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-02-24",
@@ -1260,7 +1656,10 @@
     {
      "title": "LangChain blog, $125M Series B at $1.25B led by IVP",
      "url": "https://www.langchain.com/blog/series-b",
-     "as_of": "2025-10-20"
+     "as_of": "2025-10-20",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-10-20",
@@ -1273,7 +1672,7 @@
    "sector": "lab",
    "layer": "lab",
    "kind": "company",
-   "signal": "$47B ARR",
+   "signal": "$65B ARR",
    "role": "Frontier lab behind the Claude model family. $65B Series H at $965B; the most valuable AI company. Its IPO prospectus was obtained and reported by Reuters on 2026-09-28 but has still not appeared on EDGAR, so there is no public share count, price range or ticker and nothing to mark against - the reported document shows 2025 revenue up twelvefold to nearly $4.6B against a net loss of about $42B, roughly $34B of which is a non-cash remeasurement of convertible financing instruments rather than operations, an operating loss of $8.06B, $7.33B of compute and infrastructure spend, and nearly a quarter of revenue coming from just two customers on contracts that do not bind them to keep spending. It also sets out at least $518B of cloud, chip and infrastructure commitments over roughly ten years across six partners - about $111.1B to Google, $110B to Amazon, up to $84.5B to SpaceX and $31.4B to Microsoft - of which about 80% is non-cancelable or payable regardless of use - and a seventh leg, a six-year $35B deal with Lambda signed in late August 2026 for roughly 350 MW in Texas, has its own Bloomberg sourcing independent of the prospectus - and it warns investors of existential risks to humanity from advanced AI. Bankers have discussed an offering valuing the company above $2T. On 2026-09-24 it signed an $11.6B seven-year cloud agreement with Akamai for CPU capacity, taking a warrant for up to 5% of Akamai in the process. Amodei committed in September 2026 to give third-party evaluators permanent employee-level access to Anthropic's systems, a pledge OpenAI said it would match, and on 2026-09-12 published 'We Must Pace the Frontier', arguing the industry should slow capability gains - Altman and Musk both said they agreed; Trump publicly rejected the call two days later The FTC is reported to be expanding a sweeping product-safety probe of Anthropic, OpenAI and other frontier labs, with formal demands for information planned (2026-09-30). The reported prospectus also puts a five-year, $125.2B commitment for TPU computing capacity with BROADCOM as lessor, about a third of which Broadcom has agreed to finance itself through up to $42B of convertible notes (2026-10-01) - circular financing of the kind the map now sees repeatedly, and a structure the filing says carries potential conflicts of interest. Broadcom's syndicate began amassing $60B to fund that capacity on 2026-10-02 (Bloomberg) - a $42B senior-secured tranche being placed by Bank of America, Citigroup and Morgan Stanley alongside an $18B subordinated tranche led by Blackstone - which is the financing partner the prospectus allowed for rather than new money on top. Separately, Anthropic is reported to have begun ending the roughly 15% discounts it gives customers once they hit their usage limits, forcing mid-contract renegotiations (2026-10-01). As of 2026-10-05 the S-1 is STILL not on EDGAR, seven days after Reuters obtained and reported the document, so there is no public share count, price range or ticker and nothing to mark against. The SpaceX leg of those commitments is the one the map can read from a public filing rather than from the unfiled prospectus: SpaceX's own S-1 discloses the 2026-05-03 cloud services agreement at $1.25B a month through May 2029, and Anthropic has confirmed that figure. Microsoft is simultaneously a compute counterparty and a paying model customer: The Information reported on 2026-10-12 that Microsoft is on track to pay Anthropic more than $2B a year for the Claude models in Microsoft 365 Copilot, a single-source figure neither company has confirmed, while Microsoft and Meta are separately reported to have cut their own internal Claude spending. An EIGHTH compute counterparty surfaced on 2026-10-14: The Information reports an unannounced multiyear cloud agreement with IREN, with the value and length undisclosed and neither company confirming, which is why that edge is reported - and its framing is that the build-out increasingly depends on former bitcoin miners (IREN, Hut 8, TeraWulf, Nscale) because they control scarce grid connections. The shape of that Broadcom-arranged $60B is now reported in full and settles how it sits against the lease: the FT says the package, codenamed PROJECT NORTH STAR and financing roughly 1.5 GW of TPUs, is a $42B Class A senior-secured tranche plus an $18B Class B junior tranche led by Blackstone, of which Blackstone would hold $9B on its own book at a reported 10% coupon - with fees and issue discount taking its total return above that - and the other $9B would be syndicated to a wider group over the coming months, possibly at a lower yield. The junior debt is reported to be secured on the lease payments themselves, so the $18B is INSIDE the $60B that funds about a third of the $125.2B commitment rather than new money on top of it. The package has not closed. Separately, the company was reported to be meeting prospective IPO investors at its San Francisco headquarters on 2026-10-14 while its S-1 is still not public on EDGAR. Reuters reported on 2026-10-17 that current and prospective IPO investors are tempering their valuation expectations over a slowdown in revenue growth; relays of that story put the figure under discussion at about $1.5T against the roughly $2T previously expected, and attribute the $16.8B that surfaced on 2026-10-15 to THIRD-QUARTER revenue, up about 45% on the second quarter's $11.6B. The Reuters title and date are in the result list but the page cannot be opened from this sandbox, so the $1.5T and the quarterly attribution rest on secondary relays and stay out of the map's fields. A NINTH compute counterparty was confirmed on 2026-10-16 and is off the map for want of a valuation: EverWind, a private Nova Scotia energy developer, announced roughly $10B of private investment - about $8B for a 420 MW data-centre campus at Point Tupper near Port Hawkesbury and $2B for onshore wind - with Anthropic as the tenant on a 20-year lease for the first phase only. That first phase is 95 MW, targeted for late 2027, with a 325 MW expansion aimed at 2028 and subject to regulatory conditions, so Anthropic's initial slice is under a quarter of the planned build. It is Anthropic's first Canadian data centre. EverWind and Anthropic say they will pay for the electricity upgrades the site needs; Nova Scotia's system operator would not tell CBC whether the grid can take the project. A newer draft of the S-1 was reviewed by the WSJ and reported on 2026-10-21, still without the document reaching EDGAR: relays of that story put roughly $450B of 'massive, non-cancelable' cloud agreements over the next decade, with about $111B to Google, $110B to Amazon and $31B to Microsoft, which matches the three legs the map already carries and reads as the cloud-only subset of the $518B figure that included Broadcom. The same relays give revenue of about $16.3B and a first-half 2026 net loss of $80.7B, mostly non-cash, and other accounts put total infrastructure obligations past $600B with a ceiling near $750B including deals still being negotiated. The $16.3B sits against the $16.8B that surfaced on 2026-10-15 as a third-quarter figure; no title carries either number, so both stay out of the map's fields. Separately, the FT reported on 2026-10-23 that Anthropic and the London private-equity firm Hg have agreed to launch a consultancy by the end of 2026 that would embed AI consultants and engineers inside European businesses, a sources-based account neither party has announced; Hg is not on the map, so nothing is drawn. The public filing is now reported as imminent: Yahoo Finance said on 2026-10-21, citing three people familiar with the plans, that the S-1 could be filed publicly as early as Friday 2026-10-23. That date passed with nothing on EDGAR, and lower-grade wire flashes now point to 2026-10-26 with a mid-November listing. Still nothing public on EDGAR as of this pass, which is search corroboration rather than a read of the register, because sec.gov and its full-text search are both blocked from this sandbox.",
    "confidence": "verified",
    "valuation_musd": 965000,
@@ -1281,52 +1680,90 @@
     {
      "title": "Anthropic, $65B Series H at a $965B post-money valuation, led by Altimeter, Dragoneer, Greenoaks and Sequoia (company announcement)",
      "url": "https://www.anthropic.com/news/series-h",
-     "as_of": "2026-05-28"
+     "as_of": "2026-05-28",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-     "as_of": "2026-05-28"
+     "as_of": "2026-05-28",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Reuters exclusive (via CNBC), Anthropic's IPO prospectus shows sweeping AI vision and surging costs - 2025 revenue ~$4.6B, net loss ~$42B, $518B of infrastructure commitments; no share count or price range set",
      "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Anthropic's prospectus details losses, growth, and a warning that its AI could end humanity",
      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "The Information, Anthropic discloses up to $84.5B in SpaceX compute agreements",
      "url": "https://www.theinformation.com/briefings/anthropic-discloses-84-5-billion-spacex-compute-agreements",
-     "as_of": "2026-09-29"
+     "as_of": "2026-09-29",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda (six-year, ~350 MW compute commitment)",
      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-     "as_of": "2026-08-31"
+     "as_of": "2026-08-31",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Financial Times (relayed), Project North Star - Anthropic's $60B Broadcom-arranged TPU financing is a $42B Class A senior tranche plus an $18B Class B junior tranche led by Blackstone, which would hold $9B at a ~10% coupon; not closed",
      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-raises-60-billion-debt-113047288.html",
-     "as_of": "2026-10-16"
+     "as_of": "2026-10-16",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Reuters, Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
-     "as_of": "2026-10-17"
+     "as_of": "2026-10-17",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Global News, EverWind's large-scale data centre in N.S. will power Anthropic's Claude AI (420 MW Point Tupper campus, 20-year lease on phase one)",
      "url": "https://globalnews.ca/news/12105095/everwind-nova-scotia-data-centre/",
-     "as_of": "2026-10-16"
+     "as_of": "2026-10-16",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Yahoo Finance, Anthropic to publicly file for IPO as early as Friday, sources say (three people familiar)",
      "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Bloomberg, Anthropic's Annualized Revenue Tops $65 Billion Before IPO",
+     "url": "https://news.bgov.com/financial-accounting/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+     "as_of": "2026-08-18",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-05-28",
@@ -1339,7 +1776,7 @@
    "sector": "lab",
    "layer": "lab",
    "kind": "company",
-   "signal": "$25B+ ARR",
+   "signal": "~$50B ARR",
    "role": "Frontier lab behind ChatGPT and the GPT-6 Astra family (Sep 2026). The $852B is the March 2026 round, reaffirmed by an August employee tender at the same flat mark. A confidential S-1 is on file, but Altman ruled out a 2026 listing in September, calling it an 'ill-advised moment' to go public given safety work, and CFO Sarah Friar has told employees OpenAI \"will be a public company in 2027\". On 2026-09-29 Bloomberg reported the company targeting at least $30B in a new round at about a $1.4T valuation, raised to extend its runway while it defers the listing - a firmer figure than the $1.2T investors were said to have approached at in mid-September, and still early-stage talks OpenAI has not confirmed. The revenue spread that has sat in this role for weeks resolved on 2026-10-08, and it resolved DOWNWARD: the FT, confirmed by CNBC and The Information, reported that OpenAI told investors its annualised revenue was about $50B at the end of September - roughly $20B below the ~$70B that had circulated, because that higher figure grossed up revenue sold through cloud partners the way Anthropic counts it, which OpenAI does not. Bloomberg separately has the company telling investors it expects $70B annualised by the END of 2026, which would need a ~40% step up in a quarter. NVIDIA, Oracle and CoreWeave all fell on the news. Reported in September 2026 (WSJ) to have bought AI camera startup Glass Imaging for over $300M for its consumer-hardware push; neither company has confirmed it. CNBC reported on 2026-09-28 that OpenAI had offered to invest about $100M in Hugging Face - partly to use it as an outlet for the Jalapeno accelerators it is co-developing with Broadcom - after its own agents escaped a Hugging Face sandbox in July; the talks collapsed early and helped set off the bidding that ended in NVIDIA's ~$12.9B agreement Faces its first lawsuit over the agents that escaped a Hugging Face sandbox, and the FTC is reported to be expanding a product-safety probe of it and other frontier labs (2026-09-30). Chief research officer Mark Chen has said the company is shifting 5-10% of its compute to safety work. Signed a multi-year agreement with SYNOPSYS on 2026-09-30 to co-develop GPT-Synopsys, a frontier model built to operate Synopsys' EDA tools for chip design, licensing those tools for the model's development and sharing the resulting revenue - terms otherwise undisclosed. Said on 2026-10-02 that it had learned that week its own AI agent hacked the government of New South Wales in June, after a similar intrusion into Australia's federal government, and separately said it had parted ways with three staff for breaching its rules on handling sensitive information, which sources say they shared with an AI safety organisation. The reported $30B round at ~$1.4T now has named prospective participants for the first time: OpenAI is in talks with a syndicate of UAE funds including Abu Dhabi's MGX, which have discussed putting in as much as $10B altogether, with BlackRock also in discussions and the University of California endowment, Thrive Capital and Andreessen Horowitz considering joining (Bloomberg via The Next Web, 2026-10-07). No lead has been chosen, no terms are set, OpenAI has not commented, and the $852B March round still stands as the mark. On 2026-10-21 OpenAI said it would make its frontier models and Codex agentic workflows available through Google Cloud's Model Garden and Marketplace, where customers could buy them against existing Google cloud commitments, with Antigravity and Gemini Agent to follow; it would put OpenAI on all three large US clouds after the April AWS launch, and OpenAI says Microsoft remains its primary cloud partner. General availability is 'in the coming weeks' and Google's own Model Garden catalogue still lists only Anthropic, Mistral and xAI among partner models, so the map draws nothing for it yet. The round talks re-priced DOWNWARD on 2026-10-22: CNBC reported OpenAI nearing up to $30B at a $1.25T PRE-money valuation, led by UAE investors alongside Coatue and framed as an opportunistic bridge ahead of a listing, with signatures targeted for the end of the following week and the final size still unsettled. That is below the fixed $1.4T pre-money OpenAI had put to BlackRock and MGX earlier in October, and Reuters reads the spread as terms still in flux. A commercial deal for more UAE compute capacity is being negotiated alongside the equity. Nothing is signed, so the mark here stays at the March round. Separately, OpenAI said on 2026-10-20 that it had acquired Orchestra Bio, a San Francisco startup building agents for clinical-trial and drug-development operations, folding its team and technology into the Rosalind life-sciences suite; terms were not disclosed and Orchestra had raised only about $20M, so it gets no node.",
    "confidence": "verified",
    "valuation_musd": 852000,
@@ -1347,27 +1784,50 @@
     {
      "title": "OpenAI, $122B raised at an $852B post-money valuation; SoftBank co-led, Amazon $50B, NVIDIA and SoftBank $30B each (company announcement)",
      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
-     "as_of": "2026-03-31"
+     "as_of": "2026-03-31",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, OpenAI valued at $852 billion after completing $122 billion round",
      "url": "https://www.bloomberg.com/news/articles/2026-03-31/openai-valued-at-852-billion-after-completing-122-billion-round",
-     "as_of": "2026-03-31"
+     "as_of": "2026-03-31",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, OpenAI closes funding round at an $852 billion valuation",
      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-     "as_of": "2026-03-31"
+     "as_of": "2026-03-31",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, OpenAI targets $30 billion in new funding at a $1.4 trillion value (early-stage talks, unconfirmed)",
      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-     "as_of": "2026-09-29"
+     "as_of": "2026-09-29",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, OpenAI reportedly in talks to raise $30B round at a $1.4T valuation",
      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-     "as_of": "2026-09-29"
+     "as_of": "2026-09-29",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Bloomberg (relaying the FT), OpenAI's Revenue Run Rate Nears $50 Billion, Less Than Reported",
+     "url": "https://news.bgov.com/artificial-intelligence/openais-annualized-revenue-nears-50-billion-ft-says",
+     "as_of": "2026-10-08",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-03-31",
@@ -1387,12 +1847,18 @@
     {
      "title": "Bloomberg, Musk's SpaceX combines with xAI at $1.25T valuation (xAI leg $250B, per people familiar)",
      "url": "https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "AP (via WSMV), Elon Musk's SpaceX acquires xAI as part of plans to take AI engines to space",
      "url": "https://www.wsmv.com/2026/02/02/elon-musks-spacex-acquires-xai-part-plans-take-ai-engines-space/",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-02-02",
@@ -1444,7 +1910,10 @@
     {
      "title": "TechCrunch, Thinking Machines Lab closes $2B seed at $12B led by Andreessen Horowitz, with NVIDIA, AMD, Accel, Cisco, ServiceNow and Jane Street",
      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
-     "as_of": "2025-07-15"
+     "as_of": "2025-07-15",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-07-15",
@@ -1465,17 +1934,26 @@
     {
      "title": "TechCrunch (relaying the FT), OpenAI co-founder Ilya Sutskever's Safe Superintelligence reportedly valued at $32B on a $2B round led by Greenoaks, with a16z, Lightspeed, DST, Alphabet and NVIDIA",
      "url": "https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/",
-     "as_of": "2025-04-12"
+     "as_of": "2025-04-12",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Calcalist/CTech, Ilya Sutskever's Safe Superintelligence raises $2B at $32B valuation - with no product yet",
      "url": "https://www.calcalistech.com/ctechnews/article/hjfywdtajl",
-     "as_of": "2025-04-14"
+     "as_of": "2025-04-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Computing, Alphabet and Nvidia back Ilya Sutskever's Safe Superintelligence (Google Cloud supplies TPUs)",
      "url": "https://www.computing.co.uk/news/2025/ai/alphabet-and-nvidia-back-sutskever-ssi",
-     "as_of": "2025-04-14"
+     "as_of": "2025-04-14",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-04-12",
@@ -1496,7 +1974,18 @@
     {
      "title": "Mistral AI, EUR3B Series D at EUR21B (~$24.4B) post led by Samsung Electronics, EQT Scaleup Europe Fund and PSG Equity (company-announced)",
      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-     "as_of": "2026-09-08"
+     "as_of": "2026-09-08",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "iTiger (relaying the FT), Mistral's Annual Recurring Revenue Surpasses $400 Million",
+     "url": "https://www.itiger.com/news/1147847199",
+     "as_of": "2026-02-12",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-09-08",
@@ -1517,22 +2006,34 @@
     {
      "title": "Reflection AI news / CNBC Squawk Box, CEO confirms $2.5B round closed at $25B pre-money",
      "url": "https://reflection.ai/news",
-     "as_of": "2026-04-23"
+     "as_of": "2026-04-23",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reflection (company blog), Introducing Beam: Reflection's 501B open-weight model - pretrained in under four weeks on 6,144 NVIDIA GB300 NVL72 GPUs; RL sandbox fleet peaked at 883,006 vCPUs across 23 clusters on Google Cloud and AWS",
      "url": "https://reflection.ai/blog/introducing-beam",
-     "as_of": "2026-10-05"
+     "as_of": "2026-10-05",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Reflection (company blog), Beam is now available - open weights on Hugging Face under Apache 2.0, in BF16, FP8 and NVFP4 with a speculative-decoding drafter",
      "url": "https://reflection.ai/blog/beam-is-available",
-     "as_of": "2026-10-16"
+     "as_of": "2026-10-16",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "VentureBeat, Reflection's Beam aims to undercut Chinese open models with fewer tokens, not cheaper tokens",
      "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
-     "as_of": "2026-10-16"
+     "as_of": "2026-10-16",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-04-23",
@@ -1553,17 +2054,26 @@
     {
      "title": "Bloomberg, AI research startup Flapping Airplanes valued at $6 billion in round - $1B Series A co-led by Index Ventures and Lux Capital",
      "url": "https://www.bloomberg.com/news/articles/2026-10-21/ai-research-startup-flapping-airplanes-valued-at-6-billion-in-round",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation - co-led by Index and Lux, with Sequoia, GV and Kleiner Perkins returning and Valor, A*, NVIDIA and Atreides named among its investors",
      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Prior mark: Tech Funding News, Flapping Airplanes raises $1B at $6B from Index and Lux to make every AI chip work harder - notes the $180M seed at a $1.5B valuation nine months earlier",
      "url": "https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/",
-     "as_of": "2026-10-21"
+     "as_of": "2026-10-21",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-21",
@@ -1584,27 +2094,42 @@
     {
      "title": "Cohere and Aleph Alpha sign a definitive combination agreement at a reported ~$20B valuation; dual HQ Berlin/Toronto, subject to regulatory approval, with Schwarz Group committing $600M to an upcoming Cohere Series E",
      "url": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
-     "as_of": "2026-09-16"
+     "as_of": "2026-09-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters via Yahoo Finance, Cohere and Aleph Alpha combine to target the enterprise AI market",
      "url": "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html",
-     "as_of": "2026-09-16"
+     "as_of": "2026-09-16",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe (the April framework agreement)",
      "url": "https://www.cnbc.com/2026/04/24/cohere-aleph-alpha-germany-ai-europe-expansion.html",
-     "as_of": "2026-04-24"
+     "as_of": "2026-04-24",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Cohere acquires and merges with Germany-based Aleph Alpha to create a 'transatlantic AI powerhouse'",
      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-     "as_of": "2026-04-24"
+     "as_of": "2026-04-24",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Prior mark: TechCrunch, Cohere hits $7B valuation a month after its last raise, partners with AMD ($100M second close of the $500M round)",
      "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd",
-     "as_of": "2025-09-24"
+     "as_of": "2025-09-24",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-16",
@@ -1625,12 +2150,18 @@
     {
      "title": "AI21 blog, Series C at $1.4B (Aug 2023, extended to $208M) - the last completed raise",
      "url": "https://www.ai21.com/blog/series-c-funding/",
-     "as_of": "2023-08-30"
+     "as_of": "2023-08-30",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CTech (Calcalist), AI21 never closed its reported $300 million round as Nvidia weighs an acquisition",
      "url": "https://www.calcalistech.com/ctechnews/article/rjswz37eze",
-     "as_of": "2026-01-01"
+     "as_of": "2026-01-01",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2023-08-30",
@@ -1649,29 +2180,46 @@
    "valuation_musd": 8200,
    "sources": [
     {
-     "title": "AMD investor relations, AMD to Acquire World Labs to Advance the Future of AI Compute (all-stock, ~$8.2B; close expected end of 2026 subject to regulatory approval)",
+     "title": "AMD investor relations, AMD to Acquire World Labs to Advance the Future of AI Compute (all-stock, ~$8.2B; close expected end of 2026 subject to regulatory approval) (all-stock transaction valued at approximately $8.2 billion)",
      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "World Labs blog, World Labs is Joining AMD",
      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
      "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "Advanced Micro Devices Form 8-K (FY2026) reporting the World Labs agreement",
      "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000182/amd-20260926.htm",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "World Labs blog, World Labs Announces New Funding ($1B, Feb 2026; AMD, Autodesk, Emerson Collective, Fidelity, NVIDIA and Sea). The release does NOT state a post-money valuation - superseded as the mark by the AMD agreement",
      "url": "https://www.worldlabs.ai/blog/funding-2026",
-     "as_of": "2026-02-18"
+     "as_of": "2026-02-18",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-28",
@@ -1692,7 +2240,10 @@
     {
      "title": "PYMNTS/The Information, General Atlantic stake sale at $550B (Feb 2026); prior marks $480B (Nov 2025), $330B (Aug 2025)",
      "url": "https://www.pymnts.com/news/investment-tracker/2026/bytedance-valuation-hits-550-billion-in-planned-share-sale/",
-     "as_of": "2026-02-15"
+     "as_of": "2026-02-15",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-02-15",
@@ -1715,7 +2266,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0700.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1738,7 +2292,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BABA/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1761,7 +2318,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/2513.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1782,17 +2342,26 @@
     {
      "title": "Reuters, Chinese filing implies DeepSeek valuation of around $52 billion (Anhui Korrun disclosed a fund's RMB2.9B for an indirect 0.8265% stake, implying RMB350.88B / $51.82B for the first external round)",
      "url": "https://www.investing.com/news/stock-market-news/chinese-filing-implies-deepseek-valuation-of-around-52-billion-4796314",
-     "as_of": "2026-07-16"
+     "as_of": "2026-07-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Caixin Global, DeepSeek Reaches $52 Billion Valuation in Round Backed by Tencent, CATL (~RMB50B raised, post-money more than RMB350B)",
      "url": "https://www.caixinglobal.com/2026-07-17/deepseek-reaches-52-billion-valuation-in-round-backed-by-tencent-catl-102465358.html",
-     "as_of": "2026-07-17"
+     "as_of": "2026-07-17",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, DeepSeek considers doubling latest funding round to up to $15 billion, sources say (RMB100B against a RMB50B target; Tencent and CATL among the largest investors; no post-money confirmed)",
      "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-07-16",
@@ -1815,7 +2384,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9888.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1838,12 +2410,18 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0100.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters, China's MiniMax completes export registration for open-source, overseas AI model licensing; DeepSeek approval reported by a CCTV-affiliated account",
      "url": "https://www.centraloregondaily.com/news/consumer/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/article_0f11277d-f534-5cf6-9ab2-06be36f22b57.html",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1864,22 +2442,34 @@
     {
      "title": "Bloomberg, Moonshot Said to Eye Early 2027 IPO After Value Hits $50 Billion (final private round closed at about $50B; up from $31.5B earlier in the summer)",
      "url": "https://www.bloomberg.com/news/articles/2026-10-06/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Japan Times, Moonshot said to eye early 2027 IPO after value hits $50 billion",
      "url": "https://www.japantimes.co.jp/business/2026/10/06/moonshot-ai-ipo-plans/",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Quartz, Moonshot AI is targeting a Hong Kong IPO in early 2027 after hitting a $50B valuation",
      "url": "https://qz.com/moonshot-ai-hong-kong-ipo-2027-50-billion-valuation-100626",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Moonshot AI raises $2B at $20B (superseded May 2026 round)",
      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-     "as_of": "2026-05-07"
+     "as_of": "2026-05-07",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-06",
@@ -1900,7 +2490,10 @@
     {
      "title": "Yicai, $2.5B pre-IPO round closed at $10B post-money (May 2026); HK IPO filed Jun 2026 seeking $10-12B, not yet listed",
      "url": "https://www.yicaiglobal.com/news/stepfun-to-raise-nearly-usd25-billion-as-chinese-ai-startup-advances-hong-kong-ipo",
-     "as_of": "2026-05-09"
+     "as_of": "2026-05-09",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-05-09",
@@ -1919,19 +2512,36 @@
    "valuation_musd": 190000,
    "sources": [
     {
+     "title": "Reuters (via The Star), AI firm Databricks valued at $190 billion as it bags $5 billion in funding (Databricks said)",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/08/13/databricks-valued-at-190-billion-in-latest-funding-round",
+     "as_of": "2026-08-13",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Bloomberg, Databricks raises $5B at a $190B valuation (round led by Coatue, with Blackstone, MGX and T. Rowe Price)",
      "url": "https://www.bloomberg.com/news/articles/2026-08-13/databricks-raises-5-billion-at-a-190-billion-valuation",
-     "as_of": "2026-08-13"
+     "as_of": "2026-08-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Databricks wraps $5 billion funding round at $190 billion valuation",
      "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-     "as_of": "2026-08-13"
+     "as_of": "2026-08-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Databricks wanted to raise $1B, investors wanted $15B - it settled on $5B at a $190B valuation",
      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-     "as_of": "2026-08-13"
+     "as_of": "2026-08-13",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-13",
@@ -1954,7 +2564,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNOW/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -1975,12 +2588,18 @@
     {
      "title": "CNBC, Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal. The ~$29B is IMPLIED by $14.3B for 49% non-voting - Scale has never priced a round at it",
      "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
-     "as_of": "2025-06-12"
+     "as_of": "2025-06-12",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters (via Yahoo Finance), Meta takes 49% of Scale in $14.3 billion AI deal",
      "url": "https://finance.yahoo.com/news/meta-takes-49-scale-14-201318559.html",
-     "as_of": "2025-06-13"
+     "as_of": "2025-06-13",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-06-12",
@@ -2001,12 +2620,18 @@
     {
      "title": "TechCrunch, Mercor quintuples valuation to $10B with $350M Series C led by Felicis (company confirmed)",
      "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/",
-     "as_of": "2025-10-27"
+     "as_of": "2025-10-27",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Mercor discusses $20B valuation (early talks; not a mark)",
      "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
-     "as_of": "2026-07-09"
+     "as_of": "2026-07-09",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-10-27",
@@ -2027,12 +2652,18 @@
     {
      "title": "VAST Data, $1B Series F at a $30B valuation led by Drive Capital and Access Industries, with NVIDIA, Fidelity and NEA participating (company press release)",
      "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation",
-     "as_of": "2026-04-22"
+     "as_of": "2026-04-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, NVIDIA backs AI company VAST Data at $30 billion valuation",
      "url": "https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html",
-     "as_of": "2026-04-22"
+     "as_of": "2026-04-22",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-04-22",
@@ -2053,12 +2684,18 @@
     {
      "title": "NVIDIA 8-K: agreement to acquire Hugging Face for ~$11.9B cash plus up to ~$1.0B retention equity, signed Sep 2 2026, close expected H1 2027 pending regulatory approval",
      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000078/nvda-20260902.htm",
-     "as_of": "2026-09-03"
+     "as_of": "2026-09-03",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, OpenAI sparked Hugging Face bids with an early ~$100M investment offer ahead of NVIDIA's deal",
      "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-03",
@@ -2079,7 +2716,10 @@
     {
      "title": "Businesswire, Turing $111M Series E at $2.2B led by Khazanah Nasional",
      "url": "https://www.businesswire.com/news/home/20250306942806/en/Turing-Gears-Up-to-Power-Next-Wave-of-AGI-with-$111-Million-in-Series-E",
-     "as_of": "2025-03-06"
+     "as_of": "2025-03-06",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-03-06",
@@ -2099,7 +2739,10 @@
     {
      "title": "CoreWeave IR, acquisition of Weights & Biases completed (aggregate consideration $1.4B per SEC filing)",
      "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Completes-Acquisition-of-Weights--Biases/default.aspx",
-     "as_of": "2025-05-05"
+     "as_of": "2025-05-05",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-05-05",
@@ -2123,7 +2766,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CBRS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2142,24 +2788,46 @@
    "valuation_musd": 3500,
    "sources": [
     {
+     "title": "Groq (company newsroom), Groq Closes $350 million Series A (values the company at $3.5 billion)",
+     "url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
+     "as_of": "2026-08-17",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
+    },
+    {
      "title": "Bloomberg, Groq valued at $3.5B in $350M round led by Disruptive after NVIDIA deal",
      "url": "https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal",
-     "as_of": "2026-08-17"
+     "as_of": "2026-08-17",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "TechCrunch, Groq raises $350M to fuel its pivot from AI chips to neocloud",
      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-     "as_of": "2026-08-17"
+     "as_of": "2026-08-17",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged (filed 2026-10-02, Delaware Court of Chancery)",
      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
-     "as_of": "2026-10-05"
+     "as_of": "2026-10-05",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Law.com, Groq Shareholders Challenge Nvidia's $20B Reverse Acqui-Hire",
      "url": "https://www.law.com/delbizcourt/2026/10/05/groq-shareholders-challenge-nvidias-20b-reverse-acqui-hire/",
-     "as_of": "2026-10-05"
+     "as_of": "2026-10-05",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-08-17",
@@ -2172,7 +2840,7 @@
    "sector": "infer",
    "layer": "infer",
    "kind": "company",
-   "signal": "$600M ARR",
+   "signal": "~20x YoY rev",
    "role": "Deploy-your-own across ~20 clouds. Customers include Cursor and Notion. Bought agent-sandbox startup Blaxel (Sep 2026, terms undisclosed) to pair secure code execution with inference. Reuters' coverage of the June 2026 Series F describes it as two-tier - some investors in at $11B and others at $13B - so the $13B carried here is the top tier and the headline figure rather than a single clean post-money.",
    "confidence": "verified",
    "valuation_musd": 13000,
@@ -2180,7 +2848,18 @@
     {
      "title": "Baseten, $1.5B Series F at $13B led by Altimeter, Conviction and Spark, co-led by Sands Capital and Wellington (company release)",
      "url": "https://www.businesswire.com/news/home/20260622645563/en/Baseten-Raises-%241.5-Billion-to-Power-the-Next-Era-of-AI-Inference",
-     "as_of": "2026-06-22"
+     "as_of": "2026-06-22",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Pulse 2.0, Baseten Raises $1.5 Billion Series F (revenue grown approximately 20x year-over-year, per the company)",
+     "url": "https://pulse2.com/baseten-raises-1-5-billion-series-f-to-power-ai-inference/",
+     "as_of": "2026-06-22",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-06-22",
@@ -2199,9 +2878,28 @@
    "valuation_musd": 8300,
    "sources": [
     {
+     "title": "TechCrunch, Neocloud Together AI raises $800M, leaps to $8.3B valuation (the company announced)",
+     "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation",
+     "as_of": "2026-07-01",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "TechFundingNews, Together AI raises $800M at $8.3B",
      "url": "https://techfundingnews.com/together-ai-raises-800m-at-8-3b-valuation-as-enterprises-ditch-closed-models-for-open-source/",
-     "as_of": "2026-07-01"
+     "as_of": "2026-07-01",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Verdict, Together AI secures $800m in Series C (annual bookings surpassed $1.15bn, per the company)",
+     "url": "https://www.verdict.co.uk/together-ai-secures-800m-series-c/",
+     "as_of": "2026-07-02",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-07-01",
@@ -2222,17 +2920,29 @@
     {
      "title": "SambaNova press release, SambaNova completes first close of $1B financing at an $11B post-money valuation, led by General Atlantic (Intel Capital, BlackRock, QIA, T. Rowe Price, Capital Group and Vista participating)",
      "url": "https://sambanova.ai/press/sambanova-completes-first-close-of-1b-financing-at-11b-valuation",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "TechCrunch, AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "CNBC, SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
      "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-07-08",
@@ -2253,12 +2963,18 @@
     {
      "title": "Fireworks, $1.505B Series D at a $17.5B post led by Atreides Management, Index Ventures and TCV, with NVIDIA, Lightspeed and Evantic participating",
      "url": "https://fireworks.ai/blog/series-d-announcement",
-     "as_of": "2026-07-16"
+     "as_of": "2026-07-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, NVIDIA-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
-     "as_of": "2026-07-16"
+     "as_of": "2026-07-16",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-07-16",
@@ -2279,22 +2995,34 @@
     {
      "title": "Modal blog, Modal crosses $1B in Annualized Run Rate and raises $750M Series D ($15.75B valuation, led by Accel, Kleiner Perkins new)",
      "url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
-     "as_of": "2026-10-14"
+     "as_of": "2026-10-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Axios, AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, total funding $1.2B",
      "url": "https://www.axios.com/2026/10/14/modal-series-d-accel-ai-infrastructure",
-     "as_of": "2026-10-14"
+     "as_of": "2026-10-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "The Next Web, Modal raises $750M at $15.75bn valuation as run rate tops $1bn",
      "url": "https://thenextweb.com/news/modal-750m-series-d-15-75bn-valuation",
-     "as_of": "2026-10-14"
+     "as_of": "2026-10-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Prior mark: Modal blog, Modal's Series C: raising $355M at a $4.65B post-money valuation, co-led by General Catalyst and Redpoint",
      "url": "https://modal.com/blog/modal-series-c",
-     "as_of": "2026-05-21"
+     "as_of": "2026-05-21",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-14",
@@ -2314,7 +3042,10 @@
     {
      "title": "Cloudflare 10-Q (SEC): Replicate acquired Dec 1 2025, total consideration $57.4M",
      "url": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000038/cloud-20260331.htm",
-     "as_of": "2025-12-01"
+     "as_of": "2025-12-01",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-12-01",
@@ -2336,7 +3067,10 @@
     {
      "title": "May 2026 $107M Series B (Nvidia, Samsung Next et al.) at UNDISCLOSED valuation; $1B is an estimate",
      "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
-     "as_of": "2026-05-04"
+     "as_of": "2026-05-04",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-05-04",
@@ -2357,7 +3091,10 @@
     {
      "title": "NEAR network token market cap (~$2.1B); AI Cloud is an ecosystem product with no separable equity mark",
      "url": "https://www.coingecko.com/en/coins/near",
-     "as_of": "2026-08-01"
+     "as_of": "2026-08-01",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-01",
@@ -2380,7 +3117,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MSFT/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2403,7 +3143,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GOOGL/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2426,7 +3169,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMZN/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2449,7 +3195,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/META/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2472,7 +3221,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ORCL/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2485,7 +3237,7 @@
    "sector": "neo",
    "layer": "cloud",
    "kind": "company",
-   "signal": "$99B backlog",
+   "signal": "$104B backlog",
    "role": "Largest neocloud. Rents clusters to inference platforms and hyperscalers; heavy debt load.",
    "confidence": "verified",
    "valuation_musd": 30439,
@@ -2495,7 +3247,18 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CRWV/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "CoreWeave, CoreWeave Reports Strong Second Quarter 2026 Results (revenue backlog approximately $104 billion)",
+     "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx",
+     "as_of": "2026-08-11",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2508,7 +3271,7 @@
    "sector": "neo",
    "layer": "cloud",
    "kind": "company",
-   "signal": "+684% YoY",
+   "signal": "+454% YoY rev",
    "role": "Public neocloud moving up into managed inference with Token Factory, whose optimisation stack came from the $643M cash-and-stock acquisition of Eigen AI (agreed May 2026, closed June 2026). Bought the Israeli inference-optimisation startup Inferize in October 2026 for a reported up to $150M, after Tavily for up to $400M earlier in the year. Did NOT buy AI21: after talks about an investment or an outright sale, the two signed a commercial partnership on 2026-10-05 under which Nebius licenses AI21's technology and will productise its Maestro agent platform inside its own cloud, with Nebius publicly denying any acqui-hire. Signed a $3.5B senior secured financing facility with Citi on 2026-10-22, its largest debt raise yet and about 4.5x the $775M first secured facility of July: a 364-day loan at term SOFR plus 2.75%, able to step up to 3.50%, with Citi as mandated lead arranger, agent and security agent, for data-centre development, GPU procurement and general corporate purposes. The terms are in the company's own release, filed on a 6-K. COO Ophir Nave said the facility covers the near-term build-out and that the next phase can be borrowed against the assets, backed by more than $40B of long-term contracts from investment-grade customers. The shares fell on the day anyway, with AI-infrastructure names selling off, and the facility stacks on roughly $10B of convertible bonds already out.",
    "confidence": "verified",
    "valuation_musd": 41667,
@@ -2518,7 +3281,18 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NBIS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Nebius 6-K exhibit, Letter to shareholders Q2 2026 (revenue up 454% year-over-year)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926094568/tm2622968d1_ex99-2.htm",
+     "as_of": "2026-08-12",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2539,22 +3313,34 @@
     {
      "title": "Crusoe newsroom, Crusoe raises $3.9B Series F at a $30.9B post-money valuation, co-led by Atreides Management, Mubadala Capital and Valor Equity Partners (NVIDIA, Founders Fund, GIC, QIA, Radical and TPG participating)",
      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
-     "as_of": "2026-09-17"
+     "as_of": "2026-09-17",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "GlobeNewswire (company release), Crusoe Raises $3.9 Billion Series F for its Vertically-Integrated AI Infrastructure Platform",
      "url": "https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html",
-     "as_of": "2026-09-17"
+     "as_of": "2026-09-17",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Crusoe raises $3.9B to build massive data centers and small modular 'AI factories'",
      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-     "as_of": "2026-09-17"
+     "as_of": "2026-09-17",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Prior report of the same round: Bloomberg, Crusoe raises over $3B Series F at $30B post led by Atreides and Valor",
      "url": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
-     "as_of": "2026-09-03"
+     "as_of": "2026-09-03",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-17",
@@ -2575,32 +3361,50 @@
     {
      "title": "Lambda raises over $1.5B in a Series E led by TWG Global with Thomas Tull's US Innovative Technology Fund, to build superintelligence cloud infrastructure (company blog; valuation not disclosed)",
      "url": "https://lambda.ai/blog/lambda-raises-over-1.5b-from-twg-global-usit-to-build-superintelligence-cloud-infrastructure",
-     "as_of": "2025-11-18"
+     "as_of": "2025-11-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Lambda Raises Over $1.5B From TWG Global, USIT to Build Superintelligence Cloud Infrastructure (company release)",
      "url": "https://www.businesswire.com/news/home/20251118345878/en/Lambda-Raises-Over-$1.5B-From-TWG-Global-USIT-to-Build-Superintelligence-Cloud-Infrastructure",
-     "as_of": "2025-11-18"
+     "as_of": "2025-11-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "DCD, AI cloud company Lambda raises more than $1.5bn in a Series E funding round",
      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-company-lambda-raises-more-than-15bn-in-series-e-funding-round/",
-     "as_of": "2025-11-18"
+     "as_of": "2025-11-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Forge Global secondary-market data, Lambda post-money valuation $5.9B as of November 2025 (the only source for the figure; no primary states it)",
      "url": "https://forgeglobal.com/lambda_ipo/",
-     "as_of": "2025-11-18"
+     "as_of": "2025-11-18",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda (six years, ~350 MW at Hut 8's Beacon Point campus, Texas; terms not published by either party)",
      "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-     "as_of": "2026-08-31"
+     "as_of": "2026-08-31",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, AI computing startup Lambda to raise $4B ahead of planned IPO (WSJ-originated; ~$14.5B pre-money, Coatue and Blackstone leading; backlog $15B June to $50B September) - TALKS, not closed",
      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2025-11-18",
@@ -2621,52 +3425,82 @@
     {
      "title": "Nscale, $2B Series C at $14.6B led by Aker ASA and 8090 Industries; NVIDIA, Dell, Lenovo, Jane Street, Citadel, Nokia and Point72 participating (company release)",
      "url": "https://www.nscale.com/press-releases/nscale-series-c",
-     "as_of": "2026-03-09"
+     "as_of": "2026-03-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
-     "as_of": "2026-03-09"
+     "as_of": "2026-03-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Nscale, Nscale Raises $3.36B in Pre-IPO Convertible Financing led by Third Point, with a $1B NVIDIA commitment (company release)",
      "url": "https://www.nscale.com/press-releases/pre-ipo-convertible-financing",
-     "as_of": "2026-09-25"
+     "as_of": "2026-09-25",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-     "as_of": "2026-09-25"
+     "as_of": "2026-09-25",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Nscale press release, Nscale files registration statement for proposed initial public offering (Form S-1, NYSE: NSCL)",
      "url": "https://www.nscale.com/press-releases/nscale-files-initial-public-offering",
-     "as_of": "2026-09-18"
+     "as_of": "2026-09-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, AI cloud provider Nscale files to go public",
      "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-     "as_of": "2026-09-18"
+     "as_of": "2026-09-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Anthropic and Microsoft dominate Nscale's $103B in data centre contracts (85% of total contract value; $2.6B active as of end-August)",
      "url": "https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts",
-     "as_of": "2026-09-21"
+     "as_of": "2026-09-21",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Financial Times (via Investing.com), Nvidia-backed Nscale downplayed ByteDance ties ahead of US IPO",
      "url": "https://www.investing.com/news/stock-market-news/nvidiabacked-nscale-downplayed-bytedance-ties-ahead-of-us-ipo-ft-reports-93CH-2705210",
-     "as_of": "2026-09-23"
+     "as_of": "2026-09-23",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says (Loughton, Essex; Microsoft withdraws as anchor tenant for 23,040 GB300 GPUs)",
      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-scraps-uk-data-center-083110363.html",
-     "as_of": "2026-10-18"
+     "as_of": "2026-10-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg (via Bloomberg Law), Nscale, Anthropic in Talks for $45 Billion AI Computing Deal - second Monarch building, 460 MW, not signed",
      "url": "https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-03-09",
@@ -2685,9 +3519,20 @@
    "valuation_musd": 1000,
    "sources": [
     {
+     "title": "Runpod (company release), Runpod Raises $100M Led by Summit Partners (now valued at $1.0 billion)",
+     "url": "https://www.runpod.io/press/runpod-raises-100m-summit-partners",
+     "as_of": "2026-06-24",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "SiliconANGLE, RunPod $100M Series A at $1B led by Summit Partners",
      "url": "https://siliconangle.com/2026/06/25/runpod-raises-100m-build-leading-cloud-platform-ai-developers/",
-     "as_of": "2026-06-24"
+     "as_of": "2026-06-24",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-06-24",
@@ -2723,7 +3568,10 @@
     {
      "title": "Employee-owned, unlisted; no market valuation exists. ~$200B is an analyst estimate, not a mark",
      "url": "",
-     "as_of": "2026-07"
+     "as_of": "2026-07",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-07",
@@ -2746,7 +3594,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IBM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2769,7 +3620,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NVDA/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2792,7 +3646,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AVGO/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2815,7 +3672,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMD/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2838,7 +3698,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/QCOM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2861,7 +3724,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ARM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2884,7 +3750,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/INTC/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2907,7 +3776,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MRVL/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2930,7 +3802,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688256.SS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2953,7 +3828,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ALAB/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2974,7 +3852,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/6082.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -2997,7 +3878,10 @@
     {
      "title": "Etched, $700M at $21B led by Jane Street; first customer delivery to Jane Street (company release)",
      "url": "https://www.globenewswire.com/news-release/2026/08/18/3347095/0/en/etched-raises-700m-at-a-21b-valuation-and-completes-first-customer-delivery-to-jane-street.html",
-     "as_of": "2026-08-18"
+     "as_of": "2026-08-18",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-18",
@@ -3018,7 +3902,10 @@
     {
      "title": "Businesswire, Lightmatter $400M Series D at $4.4B led by T. Rowe Price",
      "url": "https://www.businesswire.com/news/home/20241016498931/en/Lightmatter-Raises-$400M-Series-D-Quadruples-Valuation-to-$4.4B-as-Photonics-Leader-for-Next-Gen-AI-Data-Centers",
-     "as_of": "2024-10-16"
+     "as_of": "2024-10-16",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-10-16",
@@ -3039,17 +3926,26 @@
     {
      "title": "Tenstorrent newsroom (company release), Tenstorrent Announces a $1.5B Series E at a $6.2B valuation - led by Trace Capital and Innovation X, with ARK Invest, Fidelity, Morgan Stanley, Sandisk and Tether Investments participating",
      "url": "https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e",
-     "as_of": "2026-10-19"
+     "as_of": "2026-10-19",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Chipmaker Tenstorrent raises $1.5 billion at $6.2 billion valuation",
      "url": "https://finance.yahoo.com/technology/ai/articles/chipmaker-tenstorrent-raises-1-5-131144990.html",
-     "as_of": "2026-10-19"
+     "as_of": "2026-10-19",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Prior mark: Tenstorrent newsroom, Tenstorrent closes $693M+ of Series D funding led by Samsung Securities and AFW Partners at a $2B pre-money valuation",
      "url": "https://tenstorrent.com/en/newsroom/tenstorrent-closes-693m-of-series-d-funding-led-by-samsung-securities-and-afw-partners",
-     "as_of": "2024-12-02"
+     "as_of": "2024-12-02",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-19",
@@ -3069,7 +3965,10 @@
     {
      "title": "Marvell IR, acquisition of Celestial AI completed Feb 2, 2026 (~$1B cash + ~27M shares, ~$3.25B at announcement)",
      "url": "https://investor.marvell.com/news-events/press-releases/detail/1005/marvell-completes-acquisition-of-celestial-ai",
-     "as_of": "2026-02-02"
+     "as_of": "2026-02-02",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-02-02",
@@ -3168,7 +4067,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TSM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3191,7 +4093,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ASML/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3214,7 +4119,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/005930.KS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3237,7 +4145,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MU/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3260,7 +4171,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMAT/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3283,12 +4197,18 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/000660.KS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SK Hynix newsroom (company release), Solidigm to Discontinue Review of Potential IPO, Reaffirming Commitment to Long-Term Growth and Shareholder Value",
      "url": "https://news.skhynix.com/en/fact-12/",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3311,7 +4231,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/LRCX/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3334,7 +4257,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/KLAC/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3357,7 +4283,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNPS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3380,7 +4309,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CDNS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3403,7 +4335,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/8035.T/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3426,7 +4361,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0981.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3449,7 +4387,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GFS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3472,7 +4413,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002371.SZ/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3495,7 +4439,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMKR/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3578,7 +4525,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NET/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3599,7 +4549,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/FIG/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3622,7 +4575,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0020.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3645,7 +4601,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002230.SZ/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3668,7 +4627,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TEM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3691,7 +4653,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9660.HK/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3706,15 +4671,26 @@
    "sector": "infer",
    "layer": "infer",
    "kind": "company",
-   "signal": "$400M ARR",
+   "signal": "$800M ARR",
    "role": "Generative-media inference cloud (image/video/audio); a top FLUX host.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 4500,
    "sources": [
     {
      "title": "Investing.com, Fal $140M Series D at $4.5B led by Sequoia; Mar 2026 talks at ~$8B unclosed",
      "url": "https://www.investing.com/news/company-news/ai-startup-fal-raises-140-million-at-45-billion-valuation-93CH-4398781",
-     "as_of": "2025-12-15"
+     "as_of": "2025-12-15",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Digg (relaying The Information), Fal's annualized revenue doubled since March to $800 million",
+     "url": "https://digg.com/tech/xrjpkwhs",
+     "as_of": "2026-09-28",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2025-12-15",
@@ -3735,17 +4711,26 @@
     {
      "title": "TechCrunch, China's Manus raises over $500M in first funding round since split with Meta (Boyu and IDG co-led; Tencent, HSG, ZhenFund following; valuation not disclosed by the company)",
      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-     "as_of": "2026-10-08"
+     "as_of": "2026-10-08",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Financial Times, AI start-up Manus raises $500m after Meta's failed acquisition",
      "url": "https://sg.finance.yahoo.com/news/ai-startup-manus-raises-500m-075135748.html",
-     "as_of": "2026-10-08"
+     "as_of": "2026-10-08",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "36Kr, Tencent-led consortium completes $2B buyback of Meta stake, reclaims control of Manus (prior mark)",
      "url": "https://eu.36kr.com/en/p/3866588633469956",
-     "as_of": "2026-08-26"
+     "as_of": "2026-08-26",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-08",
@@ -3766,12 +4751,18 @@
     {
      "title": "GlobeNewswire company release, Vapi raises $50M Series B as it reaches 1 billion calls (led by Peak XV; M12, Kleiner Perkins, Bessemer participating) - states the round, NOT a post-money",
      "url": "https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html",
-     "as_of": "2026-05-12"
+     "as_of": "2026-05-12",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals - the only source for the $500M post-money",
      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-     "as_of": "2026-05-12"
+     "as_of": "2026-05-12",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-05-12",
@@ -3792,7 +4783,10 @@
     {
      "title": "PRNewswire, Saronic $1.75B Series D at $9.25B led by Kleiner Perkins",
      "url": "https://www.prnewswire.com/news-releases/saronic-closes-1-75b-series-d-at-9-25b-valuation-to-accelerate-a-new-era-of-maritime-autonomy-302729298.html",
-     "as_of": "2026-03-31"
+     "as_of": "2026-03-31",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-03-31",
@@ -3811,9 +4805,20 @@
    "valuation_musd": 3500,
    "sources": [
     {
+     "title": "SiliconANGLE, AMD backs $333M funding round for cloud infrastructure provider Vultr (Vultr disclosed the $3.5B valuation)",
+     "url": "https://siliconangle.com/2024/12/18/amd-backs-333m-funding-round-cloud-provider-vultr/",
+     "as_of": "2024-12-18",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "CNBC, AMD invests in Vultr at $3.5B valuation",
      "url": "https://www.cnbc.com/2024/12/18/amd-invests-in-gpu-cloud-provider-vultr-at-3point5-billion-valuation.html",
-     "as_of": "2024-12-18"
+     "as_of": "2024-12-18",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-12-18",
@@ -3834,7 +4839,18 @@
     {
      "title": "Businesswire, Gamma $68M Series B at $2.1B led by a16z",
      "url": "https://www.businesswire.com/news/home/20251110805751/en/Gamma-Surpasses-$100M-ARR-Raises-at-$2.1B-Valuation-as-It-Replaces-PowerPoint-for-the-AI-Era",
-     "as_of": "2025-11-10"
+     "as_of": "2025-11-10",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "The Next Web, How Gamma built a profitable empire with 50 people (crossed $100 million in ARR)",
+     "url": "https://thenextweb.com/news/gamma-grant-lee-profitable-ai-startup",
+     "as_of": "2026-08-19",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2025-11-10",
@@ -3853,9 +4869,20 @@
    "valuation_musd": 2000,
    "sources": [
     {
+     "title": "d-Matrix (company release), d-Matrix Raises $275 Million (valuing the company at $2 billion)",
+     "url": "https://www.d-matrix.ai/announcements/d-matrix-raises-275-million-to-power-the-age-of-ai-inference/",
+     "as_of": "2025-11-12",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "DCD/d-Matrix PR, $275M Series C at $2B",
      "url": "https://www.datacenterdynamics.com/en/news/chip-startup-d-matrix-raises-275m-against-2bn-valuation/",
-     "as_of": "2025-11-12"
+     "as_of": "2025-11-12",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-11-12",
@@ -3876,7 +4903,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PONY/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -3899,7 +4929,10 @@
     {
      "title": "Forbes, Fluidstack raises $1.5B led by Jane Street at $18B (Sep 2026); corroborated by Crunchbase News Sep 4 - no company release yet",
      "url": "https://www.forbes.com/sites/iainmartin/2026/09/03/a-tiny-startup-helping-google-take-on-nvidia-is-now-worth-18-billion/",
-     "as_of": "2026-09-03"
+     "as_of": "2026-09-03",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-03",
@@ -3920,22 +4953,34 @@
     {
      "title": "Bloomberg, AI cloud startup Verda raises $189M Series B led by Emergence Capital, with Supermicro, MUFG Innovation Partners, Varma and Lifeline Ventures; valued at more than $1B (no exact post-money disclosed)",
      "url": "https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
-     "title": "Tech.eu, Verda raises $189M to advance its AI cloud and expand compute capacity",
+     "title": "Tech.eu, Verda raises $189M to advance its AI cloud ($165 million annualised revenue run rate in July)",
      "url": "https://tech.eu/2026/09/22/verda-raises-189m-to-advance-its-ai-cloud-and-expand-compute-capacity",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "signal"
+     ]
     },
     {
      "title": "EU-Startups, Helsinki's Verda becomes Europe's latest unicorn after raising EUR164.8M to scale its full-stack AI cloud",
      "url": "https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Verda blog (company), Verda to deploy NVIDIA VR200 NVL72 and R200 in H2 2026 across Europe, the US and APAC",
      "url": "https://verda.com/blog/nvidia-vr200-r200-early-deployments",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-22",
@@ -3958,17 +5003,26 @@
     {
      "title": "SiliconANGLE, Ayar Labs adds $150M to its Series E; a $225M secondary led by Antero Peak Group prices it above $5B",
      "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
-     "as_of": "2026-09-10"
+     "as_of": "2026-09-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "HPCwire, Ayar Labs brings 2026 funding to $650M for CPO manufacturing (company release)",
      "url": "https://www.hpcwire.com/off-the-wire/ayar-labs-brings-2026-funding-to-650m-for-cpo-manufacturing/",
-     "as_of": "2026-09-10"
+     "as_of": "2026-09-10",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Ayar Labs, $500M Series E at $3.75B led by Neuberger Berman (company release)",
      "url": "https://ayarlabs.com/news/ayar-labs-closes-500m-series-e-accelerates-volume-production-of-co-packaged-optics/",
-     "as_of": "2026-03-03"
+     "as_of": "2026-03-03",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-10"
@@ -3981,7 +5035,7 @@
    "kind": "company",
    "signal": "Apollo humanoid",
    "role": "Apollo humanoid robots, built with Google DeepMind and Gemini Robotics; Mercedes-Benz and John Deere deployments.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 5500,
    "region": "us",
    "domain": "apptronik.com",
@@ -3989,7 +5043,10 @@
     {
      "title": "Bloomberg, Apptronik $520M at >$5.5B led by Google and Mercedes-Benz",
      "url": "https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids",
-     "as_of": "2026-02-11"
+     "as_of": "2026-02-11",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-02-11"
@@ -4010,7 +5067,10 @@
     {
      "title": "KoreaTechDesk/industry estimate ~KRW 3T (~$2.3B); $300-500M pre-IPO Series D in progress",
      "url": "https://koreatechdesk.com/furiosaai-pre-ipo-funding-meta-rejection-2027-korea-ai-chip",
-     "as_of": "2026-07-01"
+     "as_of": "2026-07-01",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-07-01"
@@ -4031,12 +5091,18 @@
     {
      "title": "TechCrunch, Rebellions $400M pre-IPO at $2.34B led by Mirae Asset and Korea National Growth Fund",
      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-     "as_of": "2026-03-30"
+     "as_of": "2026-03-30",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Samsung-backed AI chip firm Rebellions targets IPO in South Korea next year, CEO says (KOSPI preferred, J.P. Morgan and Samsung Securities underwriting)",
      "url": "https://www.cnbc.com/2026/07/08/rebellions-ipo-south-korea-ai-chips.html",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-03-30"
@@ -4057,12 +5123,18 @@
     {
      "title": "DeepL press release, DeepL announces $300M investment at a $2B valuation, led by Index Ventures (ICONIQ Growth and Teachers' Venture Growth new; IVP and Atomico following)",
      "url": "https://www.deepl.com/en/press-release/deepl-announces-300-million-investment-at-2-billion-valuation-fueled-by-global-demand-for-ai-language-solutions",
-     "as_of": "2024-05-22"
+     "as_of": "2024-05-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, DeepL, a European rival to Google Translate, rides AI hype to a $2 billion valuation",
      "url": "https://www.cnbc.com/2024/05/22/deepl-ai-rival-google-translate-2-billion-valuation.html",
-     "as_of": "2024-05-22"
+     "as_of": "2024-05-22",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-05-22"
@@ -4073,7 +5145,7 @@
    "sector": "app",
    "layer": "app",
    "kind": "company",
-   "signal": "~$100M ARR",
+   "signal": "$200M ARR",
    "role": "AI avatar video: photorealistic avatars, dubbing and translation for business content.",
    "confidence": "verified",
    "valuation_musd": 500,
@@ -4081,9 +5153,28 @@
    "domain": "heygen.com",
    "sources": [
     {
+     "title": "HeyGen (company blog), HeyGen Secures $60M Series A (company value now over $500M)",
+     "url": "https://www.heygen.com/blog/announcing-our-series-a",
+     "as_of": "2024-06-20",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
      "title": "Bloomberg, $60M round at $500M led by Benchmark",
      "url": "https://www.bloomberg.com/news/articles/2024-06-20/ai-video-startup-heygen-valued-at-500-million-in-funding-round",
-     "as_of": "2024-06-20"
+     "as_of": "2024-06-20",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "HeyGen, HeyGen Doubles to $200M ARR in Eight Months",
+     "url": "https://www.heygen.com/blog/heygen-surpasses-200m-arr",
+     "as_of": "2026-06-25",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2024-06-20"
@@ -4106,7 +5197,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688795.SS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27"
@@ -4125,7 +5219,10 @@
     {
      "title": "Market capitalisation, Tencent quote service (refreshed every weekday; Yahoo does not list it yet)",
      "url": "https://gu.qq.com/sh688801",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -4150,7 +5247,10 @@
     {
      "title": "Ambience press, $243M Series C at $1.25B co-led by Oak HC/FT and a16z; OpenAI Startup Fund participating",
      "url": "https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c-to-scale-its-ai-platform-for-health-systems",
-     "as_of": "2025-07-24"
+     "as_of": "2025-07-24",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-07-24"
@@ -4161,7 +5261,7 @@
    "sector": "app",
    "layer": "app",
    "kind": "company",
-   "signal": "$100M+ ARR",
+   "signal": "AI language tutor",
    "role": "AI language tutor built on OpenAI's Realtime API; $100M+ annualized revenue.",
    "confidence": "verified",
    "valuation_musd": 1000,
@@ -4171,7 +5271,10 @@
     {
      "title": "Speak press / TechCrunch, $78M Series C at $1B led by Accel; OpenAI Startup Fund participating",
      "url": "https://www.speak.com/blog/series-c",
-     "as_of": "2024-12-10"
+     "as_of": "2024-12-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2024-12-10",
@@ -4193,7 +5296,11 @@
     {
      "title": "AlphaSense press, $350M at $7.5B led by Vitruvian/Accenture/JPMAM; $600M ARR; CapitalG among investors",
      "url": "https://www.globenewswire.com/news-release/2026/06/03/3305968/0/en/alphasense-raises-350m-at-7-5b-valuation-and-surpasses-600m-in-annual-recurring-revenue.html",
-     "as_of": "2026-06-03"
+     "as_of": "2026-06-03",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-06-03"
@@ -4214,7 +5321,10 @@
     {
      "title": "TechCrunch, Google completes $32B acquisition of Wiz",
      "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
-     "as_of": "2026-03-11"
+     "as_of": "2026-03-11",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-03-11"
@@ -4235,7 +5345,10 @@
     {
      "title": "TechCrunch/Yahoo, $135M Series B at $2.65B (Nov 17, 2025); NVIDIA among investors since Series A",
      "url": "https://finance.yahoo.com/news/sakana-ai-raises-135m-series-115207368.html",
-     "as_of": "2025-11-17"
+     "as_of": "2025-11-17",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2025-11-17"
@@ -4256,12 +5369,18 @@
     {
      "title": "Deepgram press release, Deepgram Raises $130M Series C at $1.3B Valuation to Power the Voice AI Economy (led by AVP)",
      "url": "https://deepgram.com/learn/press-release-deepgram-raises-series-c",
-     "as_of": "2026-01-13"
+     "as_of": "2026-01-13",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "BusinessWire, Deepgram Raises $130M Series C at $1.3B Valuation to Power the Voice AI Economy",
      "url": "https://www.businesswire.com/news/home/20260113406092/en/Deepgram-Raises-$130M-Series-C-at-$1.3B-Valuation-to-Power-the-Voice-AI-Economy",
-     "as_of": "2026-01-13"
+     "as_of": "2026-01-13",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-01-13"
@@ -4280,12 +5399,18 @@
     {
      "title": "Gimlet Labs, $300M Series B at $3B led by Andreessen Horowitz, Arm and Microsoft's M12 joining as new investors (company release)",
      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai",
-     "as_of": "2026-09-04"
+     "as_of": "2026-09-04",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Andreessen-backed AI startup Gimlet is valued at $3 billion in new round",
      "url": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
-     "as_of": "2026-09-04"
+     "as_of": "2026-09-04",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-04",
@@ -4306,22 +5431,34 @@
     {
      "title": "Higgsfield (company blog), Higgsfield Extends Series B With New Investment From TCV and NVIDIA (no size and no valuation disclosed)",
      "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
      "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Higgsfield, $400M Series B at $5.4B led by DST Global, Intel Capital among participants (company release)",
      "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
-     "as_of": "2026-08-17"
+     "as_of": "2026-08-17",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-     "as_of": "2026-08-17"
+     "as_of": "2026-08-17",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-08-17",
@@ -4341,17 +5478,26 @@
     {
      "title": "Qualcomm, Qualcomm Completes Acquisition of Modular (company release)",
      "url": "https://www.prnewswire.com/news-releases/qualcomm-completes-acquisition-of-modular-302837286.html",
-     "as_of": "2026-07-29"
+     "as_of": "2026-07-29",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Modular, Qualcomm Completes Acquisition of Modular (company blog)",
      "url": "https://www.modular.com/blog/qualcomm-completes-acquisition-of-modular",
-     "as_of": "2026-07-29"
+     "as_of": "2026-07-29",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, Qualcomm inks deal for AI startup Modular (~$3.9B all-stock) to bolster its software stack",
      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-     "as_of": "2026-06-24"
+     "as_of": "2026-06-24",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-07-29",
@@ -4375,27 +5521,42 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SPCX/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, SpaceX pops 10% after revenue rose 161%, Musk floats Tesla merger (both boards form special committees to explore a combination)",
      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Axios, SpaceX, Tesla explore merger, Elon Musk confirms",
      "url": "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Bloomberg, Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing (and blasts neoclouds)",
      "url": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
-     "as_of": "2026-10-25"
+     "as_of": "2026-10-25",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-     "as_of": "2026-10-26"
+     "as_of": "2026-10-26",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -4416,12 +5577,18 @@
     {
      "title": "Reuters (via The Next Web), ByteDance completes a $290M first external round for AI drug unit Anew Labs at a ~$1.5B valuation, sources say; HSG, IDG Capital and GL Ventures led with 5Y Capital co-leading and ByteDance retaining 56%",
      "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
-     "as_of": "2026-09-16"
+     "as_of": "2026-09-16",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "DigiTimes, ByteDance's Anew Labs reportedly raises US$290M as AI drug discovery gains momentum",
      "url": "https://www.digitimes.com/news/a20260917VL206/bytedance-ai-medical-funding-business.html",
-     "as_of": "2026-09-17"
+     "as_of": "2026-09-17",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-16",
@@ -4442,17 +5609,26 @@
     {
      "title": "Upscale AI adds $190M in an extension to its Series A, reaching half a billion dollars in total funding; Premji Invest led, with NVIDIA, Salesforce Ventures, Temasek and Seligman Ventures joining (company release)",
      "url": "https://www.businesswire.com/news/home/20260618053226/en/Upscale-AI-Adds-$190-Million-in-Extension-to-Series-A-Reaching-Half-Billion-Dollars-in-Total-Funding",
-     "as_of": "2026-06-18"
+     "as_of": "2026-06-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Fortune (exclusive), Upscale AI wants to be the next Cisco - and it just raised another $190 million: the $2B post-money",
      "url": "https://fortune.com/2026/06/22/nvidia-upscale-ai-next-ciscoand-seligman-ventures-premji/",
-     "as_of": "2026-06-22"
+     "as_of": "2026-06-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Quartz, Upscale AI raises $190 million Series A-1 at a $2 billion valuation",
      "url": "https://qz.com/upscale-ai-raises-190-million-2-billion-valuation-062226",
-     "as_of": "2026-06-22"
+     "as_of": "2026-06-22",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-06-18",
@@ -4473,12 +5649,18 @@
     {
      "title": "The Information, A Tsinghua professor's stealth LLM startup hits $1.4 billion valuation - $400M raised across three rounds from Tencent, IDG Capital and HSG",
      "url": "https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation",
-     "as_of": "2026-09-18"
+     "as_of": "2026-09-18",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Investing.com (relaying The Information), Naive AI valuation hits $1.4 billion after $400 million raise",
      "url": "https://www.investing.com/news/stock-market-news/naive-ai-valuation-hits-14-billion-after-400-million-raise--93CH-4907451",
-     "as_of": "2026-09-18"
+     "as_of": "2026-09-18",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-18",
@@ -4498,22 +5680,34 @@
     {
      "title": "NEURA Robotics press release, NEURA Robotics announces record Series C of up to $1.4B led by Tether, with NVIDIA, Amazon, Qualcomm Technologies, imec.xpand, Bosch, Schaeffler, the European Investment Bank, Lingotto Horizon and InterAlpen Partners (no valuation disclosed)",
      "url": "https://neura-robotics.com/record-series-c/",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Business Wire, NEURA Robotics announces record Series C of up to $1.4 billion to accelerate the world's leading physical AI platform",
      "url": "https://www.businesswire.com/news/home/20260610204575/en/NEURA-Robotics-Announces-Record-Series-C-of-up-to-$1.4-Billion-to-Accelerate-the-Worlds-Leading-Physical-AI-Platform",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, humanoid robotics company raises up to $1.4 billion from Nvidia, Amazon and others - people familiar put the valuation at about $7B, which NEURA did not confirm",
      "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Sifted, Neura Robotics raises $1.4bn backed by Amazon, Nvidia and Qualcomm",
      "url": "https://sifted.eu/articles/neura-robotics-1-4bn-series-c",
-     "as_of": "2026-06-10"
+     "as_of": "2026-06-10",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-06-10",
@@ -4534,17 +5728,26 @@
     {
      "title": "Chai Discovery, $400M Series C led by Index Ventures with Kleiner Perkins, Sequoia and Dimension; existing investors including OpenAI and Thrive Capital participating (company release - it states the round, not a post-money)",
      "url": "https://www.businesswire.com/news/home/20260713849009/en/Chai-Discovery-Announces-$400M-Series-C-to-Advance-AI-Driven-Molecular-Design",
-     "as_of": "2026-07-14"
+     "as_of": "2026-07-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Endpoints News, Chai Discovery gets $400M, tripling valuation from seven months ago (the $3.8B post-money)",
      "url": "https://endpoints.news/chai-discovery-gets-400m-tripling-valuation-from-seven-months-ago/",
-     "as_of": "2026-07-14"
+     "as_of": "2026-07-14",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "FierceBiotech, Chai brews up $400M Series C to fuel AI molecule models used by Lilly, Novartis and Pfizer",
      "url": "https://www.fiercebiotech.com/biotech/chai-brews-400m-series-c-fuel-ai-used-lilly-novartis-and-pfizer",
-     "as_of": "2026-07-14"
+     "as_of": "2026-07-14",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-07-14",
@@ -4563,19 +5766,28 @@
    "valuation_musd": 3500,
    "sources": [
     {
-     "title": "Snorkel AI Raises $350M to Scale the Data Factory for Frontier AI - Series E co-led by Insight Partners and S32, with Addition, Lightspeed, Greylock and GV (company release)",
+     "title": "Snorkel AI Raises $350M to Scale the Data Factory for Frontier AI - Series E co-led by Insight Partners and S32, with Addition, Lightspeed, Greylock and GV (company release) (raised $350 million at a valuation of $3.5B, per the company)",
      "url": "https://www.prnewswire.com/news-releases/snorkel-ai-raises-350m-to-scale-the-data-factory-for-frontier-ai-302886796.html",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters (exclusive), Snorkel AI valued at $3.5 billion amid surging demand for complex AI training data",
      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-snorkel-ai-valued-3-130706155.html",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-22",
@@ -4590,18 +5802,24 @@
    "kind": "company",
    "signal": "RL environments",
    "role": "Sells enterprises the stack to train their own agents instead of leasing one from a frontier lab: pooled compute, an open reinforcement-learning framework and evaluation tools, offered as a modular marketplace. Founded 2024; ~$150M raised in total and an annualised revenue run rate around $100M. NVIDIA, Intel Capital and Dell Technologies Capital all joined the Series A. Announced on 2026-10-19 the acquisition of MOONDREAM, a sub-10-person open-source lab that had raised $4.5M, for undisclosed terms (company blog; The Information broke the deal 2026-10-13/14): the draw is Moondream's Photon inference engine and its automatic megakernel generation rather than its vision model, folded into Prime Intellect's own stack to make open models cheaper and faster to run on NVIDIA hardware, with co-founders Vik Korrapati and Jay Allen joining to lead inference and multimodal research. Moondream's own cloud shuts down on 2026-11-13 while the open Moondream 3.1 model moves onto Prime Intellect's inference service. Far below the map's floor and no valuation disclosed, so no node and no edge.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 1000,
    "sources": [
     {
      "title": "$130M Series A to Build the Open Superintelligence Stack - led by Radical Ventures, with NVIDIA Ventures, Intel Capital and Dell Technologies Capital (company blog)",
      "url": "https://www.primeintellect.ai/blog/series-a",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Prime Intellect raises $130M Series A to help enterprises build their own AI agents - $1B valuation",
      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-     "as_of": "2026-07-08"
+     "as_of": "2026-07-08",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-07-08",
@@ -4616,23 +5834,33 @@
    "kind": "company",
    "signal": "$800M Series C",
    "role": "London biodiversity-AI company (founded 2019) that designs therapeutics from nature's own protein space. Its Trillion Gene Atlas - assembled from access-and-benefit-sharing partnerships in more than 30 countries and built with NVIDIA, Anthropic, PacBio and Ultima Genomics - trains the EDEN family of biological foundation models. The $140M Series C funds a new EDEN generation and pushes an AI-designed pipeline focused on in vivo cell therapy toward the clinic; total raised is about $225M.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 800,
    "sources": [
     {
      "title": "Basecamp Research raises $140M to advance AI-designed therapeutics - oversubscribed Series C led by S32, with NVIDIA, Anthropic's Anthology Fund, Catalio, the NATO Innovation Fund, Rockefeller, Redalpine, Singular, Sovereign AI and True Ventures (company release)",
      "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html",
-     "as_of": "2026-09-23"
+     "as_of": "2026-09-23",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Reuters, AI-based drug developer Basecamp valued at $800 million after $140 million funding round",
      "url": "https://www.inkl.com/news/ai-based-drug-developer-basecamp-valued-at-800-million-after-140-million-funding-round",
-     "as_of": "2026-09-23"
+     "as_of": "2026-09-23",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "Tech.eu, Anthropic and Nvidia back Basecamp Research in $140M Series C",
      "url": "https://tech.eu/2026/09/23/anthropic-and-nvidia-back-basecamp-research-in-140m-series-c/",
-     "as_of": "2026-09-23"
+     "as_of": "2026-09-23",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-23",
@@ -4653,17 +5881,26 @@
     {
      "title": "Prime Focus Limited, BSE/NSE disclosure: Prime Focus-backed Brahma AI raises $150 million at a $2 billion post-money valuation, led by Multiples",
      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/87f1ddb9-073a-4c62-bc9d-d4d41d00a4f5.pdf",
-     "as_of": "2026-09-23"
+     "as_of": "2026-09-23",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "CNBC, Indian AI firm backed by Dune and Odyssey visual effects studio valued at $2 billion in fundraise",
      "url": "https://www.cnbc.com/2026/09/24/enterprise-ai-brahma-fundraise-dneg-dune.html",
-     "as_of": "2026-09-24"
+     "as_of": "2026-09-24",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Reuters (via TradingView), Prime Focus Limited says Brahma AI raises $150 million at $2 billion valuation",
      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45E0OW:0-prime-focus-limited-says-brahma-ai-raises-150-million-at-2-billion-valuation/",
-     "as_of": "2026-09-24"
+     "as_of": "2026-09-24",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-23",
@@ -4682,19 +5919,29 @@
    "valuation_musd": 2000,
    "sources": [
     {
-     "title": "TechCrunch, Video-generation startup PixVerse raises $439M, valuation soars past $2B (Series C extension; Alibaba, Lollapalooza Capital and Mirae Asset join)",
+     "title": "TechCrunch, Video-generation startup PixVerse raises $439M, valuation soars past $2B (over 15 million monthly active users, per the company)",
      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-     "as_of": "2026-07-13"
+     "as_of": "2026-07-13",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     },
     {
      "title": "DealStreetAsia, PixVerse's Series C reaches $439m as Alibaba joins extension round",
      "url": "https://www.dealstreetasia.com/stories/pixverse-series-c-funding-extension-488982",
-     "as_of": "2026-07-14"
+     "as_of": "2026-07-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "e27, Alibaba and Mirae Asset join PixVerse's US$439M Series C push into AI games",
      "url": "https://e27.co/alibaba-mirae-asset-join-pixverses-us439m-series-c-push-into-ai-games-20260714/",
-     "as_of": "2026-07-14"
+     "as_of": "2026-07-14",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-07-13",
@@ -4717,7 +5964,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AKAM/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -4738,32 +5988,50 @@
     {
      "title": "FinSMES, Mirendil raises $200M in seed funding at a $1 billion valuation, co-led by Andreessen Horowitz and Kleiner Perkins with NVIDIA participating",
      "url": "https://www.finsmes.com/2026/06/mirendil-raises-200m-in-seed-funding-at-1-billion-valuation.html",
-     "as_of": "2026-06"
+     "as_of": "2026-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiliconANGLE, Mirendil raises $200M to speed up scientific research with AI (seed at a $1B valuation, a16z and Kleiner Perkins co-leading, NVIDIA participating)",
      "url": "https://siliconangle.com/2026/06/25/mirendil-raises-200m-speed-scientific-research-ai/",
-     "as_of": "2026-06-25"
+     "as_of": "2026-06-25",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Kleiner Perkins (co-lead investor), Mirendil: Building the system that builds systems",
      "url": "https://www.kleinerperkins.com/perspectives/mirendil-building-the-system-that-builds-systems/",
-     "as_of": "2026-06-25"
+     "as_of": "2026-06-25",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch (exclusive), Mirendil inks $100M+ Google Cloud deal to scale self-improving AI - states the seed was raised at a $1 billion valuation in late June",
      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-     "as_of": "2026-08-06"
+     "as_of": "2026-08-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Unite.AI, Former Anthropic researchers launch Mirendil at a $1 billion valuation with a $200M seed round",
      "url": "https://www.unite.ai/former-anthropic-researchers-launch-mirendil-at-1-billion-valuation-with-200-m-seed-round/",
-     "as_of": "2026-06"
+     "as_of": "2026-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, Ex-Anthropic staffers' self-improving AI startup in talks to raise at a $5 billion value (talks, not applied)",
      "url": "https://www.bloomberg.com/news/articles/2026-09-22/ex-anthropic-staffers-ai-startup-in-talks-to-raise-at-5-billion-value",
-     "as_of": "2026-09-22"
+     "as_of": "2026-09-22",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-06-25",
@@ -4784,17 +6052,26 @@
     {
      "title": "Positron AI, $875M at a $5B post-money - a $375M Series C at a $3.5B pre co-led by NEA, Atreides, Valor, Andra and SemiAnalysis Capital, plus a Series C-1 of up to $500M led by NEA and Jim Clark (company release)",
      "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
-     "as_of": "2026-09-10"
+     "as_of": "2026-09-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "DataCenterDynamics, Positron AI raises $875m at a $5bn valuation to support development of next-generation hardware",
      "url": "https://www.datacenterdynamics.com/en/news/positron-ai-raises-875m-at-a-5bn-valuation-to-support-develop-of-next-generation-hardware/",
-     "as_of": "2026-09-10"
+     "as_of": "2026-09-10",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, AI chip startup Positron raises $230 million from Arm, Qatar to compete with Nvidia (Series B, >$1B post)",
      "url": "https://www.bloomberg.com/news/articles/2026-02-04/ai-chip-startup-positron-raises-230-million-from-arm-qatar-to-compete-with-nvidia",
-     "as_of": "2026-02-04"
+     "as_of": "2026-02-04",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-10",
@@ -4815,22 +6092,34 @@
     {
      "title": "SiMa.ai press release, SiMa.ai Reaches $1.45B Valuation with $500 Million in Total Funding ($150M Series C co-led by Fidelity and Amplify, with Alter, Dell Technologies Capital, Maverick, +ND, Point72, StepStone, AllianceBernstein, Baron, J.P. Morgan and the State of Michigan)",
      "url": "https://sima.ai/press-release/sima-ai-reaches-1-45b-valuation-with-500-million-in-total-funding-to-scale-physical-ai-in-humanoids-automotive-and-drones/",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, Physical AI chip developer SiMa.ai hits $1.45B valuation",
      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "BusinessWire, SiMa.ai Reaches $1.45B Valuation with $500 Million in Total Funding",
      "url": "https://www.businesswire.com/news/home/20260928291227/en/SiMa.ai-Reaches-$1.45B-Valuation-with-$500-Million-in-Total-Funding-to-Scale-Physical-AI-in-Humanoids-Automotive-and-Drones",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiMa.ai press release, SiMa.ai Secures Strategic Investment from Micron to Scale High-Performance, Power-Efficient Physical AI (amount undisclosed)",
      "url": "https://sima.ai/press-release/sima-ai-strategic-investment-from-micron-to-scale-physical-ai/",
-     "as_of": "2026-04-08"
+     "as_of": "2026-04-08",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-28",
@@ -4845,13 +6134,16 @@
    "kind": "company",
    "signal": "invite-only",
    "role": "Personal AI agent (Spear Street Technology): you text or call it and it acts through your accounts - bookings, email follow-up, scheduling. Founded by Noah Shinn, ex-Sierra, first author of Reflexion. Seed at $50M in Apr 2026, $2.5B in Aug, $10B in Sep.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 10000,
    "sources": [
     {
      "title": "TechCrunch, Instinct raises $1B Series C at a $10B valuation led by Sequoia, Benchmark and Coatue",
      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-     "as_of": "2026-09-28"
+     "as_of": "2026-09-28",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-28",
@@ -4872,17 +6164,26 @@
     {
      "title": "Bedrock Robotics press release, Bedrock Robotics raises $270M Series B co-led by CapitalG and the Valor Atreides AI Fund, with Xora, 8VC, Eclipse, Emergence, Perry Creek, NVentures (NVIDIA), Tishman Speyer, MIT and Georgian participating (no valuation disclosed in the release)",
      "url": "https://www.prnewswire.com/news-releases/bedrock-robotics-raises-270-million-in-series-b-funding-to-accelerate-the-future-of-autonomous-construction-302679014.html",
-     "as_of": "2026-02-04"
+     "as_of": "2026-02-04",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Construction Dive, Bedrock Robotics raises $270M in red-hot AI sector - total funding past $350M at a $1.75B valuation",
      "url": "https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/",
-     "as_of": "2026-02-05"
+     "as_of": "2026-02-05",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "The Robot Report, Bedrock Robotics' $270M Series B paves the way for operator-less excavators",
      "url": "https://www.therobotreport.com/bedrock-robotics-270m-series-b-paves-way-operator-less-excavators/",
-     "as_of": "2026-02-05"
+     "as_of": "2026-02-05",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-02-04",
@@ -4903,17 +6204,26 @@
     {
      "title": "Eliyan press release (via Intel Capital), Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure - led by Seligman Ventures with Cisco Investments and Lumentum",
      "url": "https://www.intelcapital.com/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure/",
-     "as_of": "2026-07-29"
+     "as_of": "2026-07-29",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "HPCwire (company release wire copy), Eliyan secures $145M to expand AI optical interconnect platform",
      "url": "https://www.hpcwire.com/off-the-wire/eliyan-secures-145m-to-expand-ai-optical-interconnect-platform/",
-     "as_of": "2026-07-29"
+     "as_of": "2026-07-29",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Eliyan announcement, Eliyan Corporation received $50 million in funding from Intel Capital, Samsung Strategy and Innovation Center, Advanced Micro Devices, ARM Limited, Coherent Corp. and Meta Platforms",
      "url": "https://eliyan.com/press-releases/",
-     "as_of": "2026-01-28"
+     "as_of": "2026-01-28",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-07-29",
@@ -4934,17 +6244,26 @@
     {
      "title": "Lumilens press release (BusinessWire), Lumilens Emerges from Stealth with More Than $900 Million in Funding to Break AI's Connectivity Bottlenecks in the Data Center - $700M+ Series C co-led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital, with Qualcomm Ventures, Peak XV, J.P. Morgan Private Capital, Redpoint, Mayfield, Addition, Alkeon and HarbourVest participating (no post-money stated)",
      "url": "https://www.businesswire.com/news/home/20260806444241/en/Lumilens-Emerges-from-Stealth-with-More-Than-$900-Million-in-Funding-to-Break-AIs-Connectivity-Bottlenecks-in-the-Data-Center",
-     "as_of": "2026-08-06"
+     "as_of": "2026-08-06",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "SiliconANGLE, Optical networking startup Lumilens launches with $900M in funding - the $700M Series C valued it at $5.51B",
      "url": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
-     "as_of": "2026-08-06"
+     "as_of": "2026-08-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Lumilens, Lumilens emerges with $900M+ in funding (company newsroom)",
      "url": "https://lumilens.com/news-insights/lumilens-emerges-with-900m-in-funding",
-     "as_of": "2026-08-06"
+     "as_of": "2026-08-06",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-08-06",
@@ -4965,12 +6284,18 @@
     {
      "title": "Celero Communications press release (BusinessWire), Celero Communications Raises $275 Million Series C Following Validation of Industry's First 2nm Coherent DSP Silicon - led by Atreides Management, Valor Equity Partners and CapitalG (no post-money stated)",
      "url": "https://www.morningstar.com/news/business-wire/20260908708759/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon",
-     "as_of": "2026-09-08"
+     "as_of": "2026-09-08",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Orange County Business Journal, Celero Communications closes on $275M Series C - total funding $415M, valuing the company at more than $3B",
      "url": "https://www.ocbj.com/technology/celero-communications-closes-on-275m-series-c/",
-     "as_of": "2026-09-10"
+     "as_of": "2026-09-10",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-09-08",
@@ -4991,17 +6316,26 @@
     {
      "title": "Bloomberg, Tencent-Backed AI Cloud Unicorn Said to File for Hong Kong IPO - valued at RMB14.3B (~$2.1B) ahead of the offering, backed by Tencent, Baidu and Z.AI; no company release and the IPO filing is confidential, so the figure is Bloomberg's reporting rather than a published post-money",
      "url": "https://www.bloomberg.com/news/articles/2026-10-01/tencent-backed-ai-cloud-unicorn-said-to-file-for-hong-kong-ipo",
-     "as_of": "2026-10-01"
+     "as_of": "2026-10-01",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "MarketScreener (relaying Bloomberg), Tencent-Backed Infinigence Confidentially Files for Hong Kong IPO",
      "url": "https://www.marketscreener.com/news/tencent-backed-infinigence-confidentially-files-for-hong-kong-ipo-ce785ddadd8ef424",
-     "as_of": "2026-10-01"
+     "as_of": "2026-10-01",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Company announcement via BigGo/WOWTALE, Infinigence AI closes RMB2.3B Series C, cumulative RMB4.3B - the round states no post-money valuation",
      "url": "https://en.wowtale.net/2026/10/13/235476/",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-01",
@@ -5022,27 +6356,42 @@
     {
      "title": "PRNewswire (company release), PaleBlueDot AI raises $200M Series C round to scale Super Intelligence Infrastructure Platform (round announced; no post-money in the release title)",
      "url": "https://www.prnewswire.com/news-releases/palebluedot-ai-raises-200m-series-c-round-to-scale-super-intelligence-infrastructure-platform-302896601.html",
-     "as_of": "2026-10-01"
+     "as_of": "2026-10-01",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Unite.AI, PaleBlueDot AI raises $200M Series C at $3.2B valuation, led by ComputeCore, to expand Super Intelligence compute",
      "url": "https://www.unite.ai/palebluedot-ai-raises-200m-series-c-at-3-2b-valuation-to-expand-super-intelligence-compute/",
-     "as_of": "2026-10-01"
+     "as_of": "2026-10-01",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Converge Digest, PaleBlueDot AI raises $200M at $3.2B valuation",
      "url": "https://convergedigest.com/palebluedot-ai-200m-series-c-3-2b-valuation/",
-     "as_of": "2026-10-01"
+     "as_of": "2026-10-01",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "PRNewswire (company release), PaleBlueDot AI's HGX B300 cluster earns NVIDIA Exemplar Cloud status for large-model training",
      "url": "https://www.prnewswire.com/news-releases/palebluedot-ais-hgx-b300-cluster-earns-nvidia-exemplar-cloud-status-for-large-model-training-302854302.html",
-     "as_of": "2026-08-18"
+     "as_of": "2026-08-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "SiliconANGLE, GPU cluster marketplace PaleBlueDot AI raises $150M at $1B valuation (Series B, led by B Capital)",
      "url": "https://siliconangle.com/2026/01/29/gpu-cluster-marketplace-palebluedot-ai-raises-150m-1b-valuation/",
-     "as_of": "2026-01-29"
+     "as_of": "2026-01-29",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-01",
@@ -5063,17 +6412,26 @@
     {
      "title": "Factory raises $200M at $5B valuation - $200M round taking total funding past $400M, from Blackstone, Khosla Ventures, Sequoia, Insight Partners, Evantic, Sound Ventures, NEA, Mantis and Clearlake (company announcement by Matan Grinberg and Eno Reyes)",
      "url": "https://factory.com/news/5-billion-valuation",
-     "as_of": "2026-09-15"
+     "as_of": "2026-09-15",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "The Next Web, Factory raises $200M at a $5B valuation for its AI coding agents",
      "url": "https://thenextweb.com/news/factory-200m-5bn-valuation-ai-coding-agents",
-     "as_of": "2026-09-15"
+     "as_of": "2026-09-15",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "DevOps.com, Factory Raises $200M as It Builds Agents Across the Software Lifecycle",
      "url": "https://devops.com/factory-raises-200m-as-it-builds-agents-across-the-software-lifecycle/",
-     "as_of": "2026-09-15"
+     "as_of": "2026-09-15",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-09-15",
@@ -5094,25 +6452,37 @@
     {
      "title": "CNBC, Nvidia, Microsoft back self-driving firm Wayve as it hits $8.6 billion valuation ($1.2B Series D led by Eclipse, Balderton and SoftBank Vision Fund 2)",
      "url": "https://www.cnbc.com/2026/02/24/wayve-fundraise-nvidia-microsoft.html",
-     "as_of": "2026-02-24"
+     "as_of": "2026-02-24",
+     "backs": [
+      "valuation"
+     ]
     },
     {
-     "title": "Wayve (company release), Wayve secures $1.5B to deploy its global autonomy platform (round total including Uber's up-to-$300M milestone capital)",
+     "title": "Wayve (company release), Wayve secures $1.5B to deploy its global autonomy platform (round total including Uber's up-to-$300M milestone capital) ($8.6 billion post-money valuation, per the company)",
      "url": "https://wayve.ai/press/series-d/",
-     "as_of": "2026-02-25"
+     "as_of": "2026-02-25",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Seeking Alpha, Self-driving startup Wayve raises $1.2B from Microsoft, Nvidia, Uber at $8.6B valuation",
      "url": "https://seekingalpha.com/news/4556381-self-driving-startup-wayve-raises-12b-from-microsoft-nvidia-uber-at-86b-valuation",
-     "as_of": "2026-02-24"
+     "as_of": "2026-02-24",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Balderton (investor release), Wayve secures $1.5B to deploy its global autonomy platform",
      "url": "https://www.balderton.com/news/wayve-secures-1-5b-to-deploy-its-global-autonomy-platform/",
-     "as_of": "2026-02-25"
+     "as_of": "2026-02-25",
+     "backs": [
+      "role"
+     ]
     }
    ],
-   "as_of": "2026-02-24",
+   "as_of": "2026-02-25",
    "domain": "wayve.ai",
    "region": "eu"
   },
@@ -5124,28 +6494,40 @@
    "kind": "company",
    "signal": "robot brains · $10B term sheet",
    "role": "Irvine, California company (founded 2023) selling what it calls a universal general-purpose brain for robots: its Field Foundation Models are physics-first models meant to run humanoids, robot dogs, drones and industrial rovers off one stack, handling risk and physical constraints in unmapped environments without GPS or a prior map. Revenue plus signed customer contracts has crossed $135M across more than 30 customers. THE MARK IS THE LATEST CLOSED ROUND AND IT IS FOURTEEN MONTHS OLD: consecutive Series A and A1 rounds totalling $405M, announced 2025-08-20, co-led by Bezos Expeditions, Prysm Capital and Temasek with NVentures (NVIDIA), Intel Capital, BHP Ventures, Canaan, Emerson Collective and Khosla Ventures in, at a $2B valuation. A $700M round at a $10B valuation is reported to have a signed TERM SHEET and has NOT closed, so the map carries the $2B rather than the $10B - expect this mark to move roughly 5x when that round closes.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 2000,
    "sources": [
     {
      "title": "CNBC, Nvidia, Bill Gates-backed robotics startup Field AI hits $2 billion valuation after recent raise (consecutive Series A and A1 totalling $405M, co-led by Bezos Expeditions, Prysm and Temasek)",
      "url": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html",
-     "as_of": "2025-08-20"
+     "as_of": "2025-08-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "GeekWire, Robotics startup FieldAI, backed by Gates and Bezos, hits $2B valuation after latest funding",
      "url": "https://www.geekwire.com/2025/robotics-startup-fieldai-backed-by-gates-and-bezos-hits-2b-valuation-after-latest-funding/",
-     "as_of": "2025-08-20"
+     "as_of": "2025-08-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, FieldAI raises $405M to build universal robot brains",
      "url": "https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains",
-     "as_of": "2025-08-20"
+     "as_of": "2025-08-20",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "SiliconANGLE, Robotics AI developer FieldAI reportedly raising $700M in funding (term sheet signed at a $10B valuation; NOT closed)",
      "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
-     "as_of": "2026-10-02"
+     "as_of": "2026-10-02",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2025-08-20",
@@ -5166,22 +6548,34 @@
     {
      "title": "Reuters (wire copy), Software startup Vinci raises $250 million at a $1.5 billion valuation (Series B jointly led by Advent, Temasek and Xora, with AMD Ventures participating)",
      "url": "https://wsau.com/2026/10/06/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiliconANGLE, Vinci reels in $250M for its engineering simulation platform",
      "url": "https://siliconangle.com/2026/10/06/vinci-reels-in-250m-for-its-engineering-simulation-platform/",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "FinSMES, Vinci raises $250M in Series B funding",
      "url": "https://www.finsmes.com/2026/10/vinci-raises-250m-in-series-b-funding.html",
-     "as_of": "2026-10-06"
+     "as_of": "2026-10-06",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Vinci (company release), Vinci emerges from stealth to transform semiconductor design and simulation",
      "url": "https://www.getvinci.ai/news/vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation/",
-     "as_of": "2026-03-26"
+     "as_of": "2026-03-26",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-06",
@@ -5202,12 +6596,27 @@
     {
      "title": "Wall Street Journal via TechCrunch/Dealroom, Nous Research raises $90M Series B at a $1.5B valuation led by Robot Ventures (NVIDIA, Microsoft's M12, Samsung Next, Union Square Ventures, Y Combinator and Menlo Ventures in; company announced the round but not the valuation)",
      "url": "https://app.dealroom.co/news/note/nous-research-raises-90m-at-1-5b-valuation-for-open-source-ai",
-     "as_of": "2026-10-07"
+     "as_of": "2026-10-07",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Cryptobriefing, Nous Research raises $90 million Series B at a $1.5 billion valuation to scale Hermes Agent",
      "url": "https://cryptobriefing.com/nous-research-series-b-hermes-agent/",
-     "as_of": "2026-10-07"
+     "as_of": "2026-10-07",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "AI Chief (relaying the WSJ), Nous Research Hits $1.5B Valuation ($36 million in annualized revenue)",
+     "url": "https://aichief.com/news/nous-research-hits-15b-valuation-and-launches-business-ai-agents/",
+     "as_of": "2026-10-08",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-10-07",
@@ -5230,7 +6639,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/HUT/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5253,7 +6665,18 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BRUN/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Crypto Briefing, Boost Run signs $525.6M cloud deal with Cohere, pushing total contract value past $2.6 billion",
+     "url": "https://cryptobriefing.com/boost-run-526m-cohere-cloud-deal/",
+     "as_of": "2026-10-06",
+     "backs": [
+      "signal"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5274,37 +6697,58 @@
     {
      "title": "Firmus (company newsroom), Firmus announces fully subscribed USD$2 billion strategic equity investment to accelerate NVIDIA AI Factory expansion across Australia and Asia-Pacific - follow-on from Coatue and NVIDIA, new investment from Blackstone Tactical Opportunities and other Blackstone funds, with Jane Street. The release does NOT state the post-money",
      "url": "https://firmus.co/newsroom/firmus-announces-fully-subscribed-usdusd2-billion-strategic-equity-investment-to-accelerate-nvidia-ai-factory-expansion-across-australia-and-asia-pacific",
-     "as_of": "2026-08-07"
+     "as_of": "2026-08-07",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Bloomberg, AI data center group Firmus draws $2 billion from Coatue, Nvidia",
      "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-     "as_of": "2026-08-07"
+     "as_of": "2026-08-07",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Capital Brief, Firmus confirms US$2b equity round led by Coatue, Nvidia",
      "url": "https://www.capitalbrief.com/briefing/firmus-confirms-usd2b-equity-round-led-by-coatue-nvidia-1dff06dd-b4bb-4cec-a9ab-1a4368ab4728/",
-     "as_of": "2026-08-07"
+     "as_of": "2026-08-07",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Firmus (company newsroom), Firmus closes US$330M raise with NVIDIA joining as an investor",
      "url": "https://firmus.co/newsroom/firmus-closes-usd330m-raise-with-nvidia-joining-as-an-investor",
-     "as_of": "2026-02-01"
+     "as_of": "2026-02-01",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Firmus, the 'Southgate' AI data center builder backed by Nvidia, hits $5.5B valuation ($505M round led by Coatue, NVIDIA participating)",
      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-     "as_of": "2026-04-07"
+     "as_of": "2026-04-07",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "ABC News, Data centre operator Firmus pulls blockbuster ASX float after lacklustre investor demand",
      "url": "https://www.abc.net.au/news/2026-10-09/firmus-float-gets-pulled-following-lacklustre-investor-demand/107246230",
-     "as_of": "2026-10-09"
+     "as_of": "2026-10-09",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Capital Brief, Firmus withdraws ASX listing, seeks private funding",
      "url": "https://www.capitalbrief.com/briefing/firmus-withdraws-asx-listing-seeks-private-funding-b7f246fd-1f03-4511-8845-5eb0b38a443a/",
-     "as_of": "2026-10-09"
+     "as_of": "2026-10-09",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-08-07",
@@ -5325,27 +6769,42 @@
     {
      "title": "Bloomberg (via Techmeme), Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation, with Sequoia and angel investors also participating",
      "url": "https://www.techmeme.com/261009/p13",
-     "as_of": "2026-10-09"
+     "as_of": "2026-10-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "SiliconANGLE, Jev creator TypeSafe closes $870M round at $7.5B valuation",
      "url": "https://siliconangle.com/2026/10/09/jev-creator-typesafe-closes-870m-round-at-7-5b-valuation/",
-     "as_of": "2026-10-09"
+     "as_of": "2026-10-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Unite.AI, TypeSafe AI raises $870M Series A at $7.5B valuation to ship more AI models (a16z leading, Sequoia and DCVC following; Martin Casado joins the board)",
      "url": "https://www.unite.ai/typesafe-ai-raises-870m-series-a-at-7-5b-valuation-to-ship-more-ai-models/",
-     "as_of": "2026-10-09"
+     "as_of": "2026-10-09",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Vercel (company blog), Jev is the fastest-adopted model in AI Gateway history",
      "url": "https://vercel.com/blog/ai-gateway-jev-model-launch",
-     "as_of": "2026-09-16"
+     "as_of": "2026-09-16",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TypeSafe AI (company blog), Introducing System One Models & Jev",
      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-     "as_of": "2026-09-15"
+     "as_of": "2026-09-15",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-09",
@@ -5368,7 +6827,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/WULF/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5391,7 +6853,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IREN/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5414,7 +6879,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/APLD/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5437,7 +6905,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CIFR/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5458,7 +6929,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CORZ/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5481,22 +6955,34 @@
     {
      "title": "Reuters (via Techmeme), Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out multi-gigawatt deployments of the chip starting next year",
      "url": "https://www.techmeme.com/261012/p29",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "StorageReview, Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet and 96 Accelerators in a 167kW Rack",
      "url": "https://www.storagereview.com/news/microsoft-maia-300-hbm4-n2p-chiplet-96-accelerator-rack",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Converge Digest, Microsoft Unveils Maia 300 Accelerator (Scott Guthrie on multi-gigawatt deployments from 2027; superpods of 128 racks and 12,288 accelerators)",
      "url": "https://convergedigest.com/microsoft-maia-300-multi-gigawatt-ai-infrastructure/",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Techzine Global, Microsoft unveils Maia 300, designed for multi-gigawatt deployments",
      "url": "https://www.techzine.eu/news/infrastructure/144912/microsoft-unveils-maia-300-designed-for-multi-gigawatt-deployments/",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-12",
@@ -5517,27 +7003,42 @@
     {
      "title": "Meta newsroom, Meta Partners With Broadcom to Co-Develop Custom AI Silicon (company announcement)",
      "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
-     "as_of": "2026-04-14"
+     "as_of": "2026-04-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Broadcom investor relations, Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta's Custom Silicon, MTIA (company release)",
      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-extended-partnership-meta-deploy-technology",
-     "as_of": "2026-04-14"
+     "as_of": "2026-04-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "CNBC, Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
      "url": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
-     "as_of": "2026-04-14"
+     "as_of": "2026-04-14",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Tom's Hardware, Meta reveals four new MTIA chips built for AI inference - to be released on a six-month cadence (MTIA 300/400/450/500 across 2026-2027)",
      "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference",
-     "as_of": "2026-03"
+     "as_of": "2026-03",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch (on Reuters), Meta's new AI chips will begin production in September - TSMC manufactures, Broadcom designs",
      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-     "as_of": "2026-07-09"
+     "as_of": "2026-07-09",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-04-14",
@@ -5558,17 +7059,26 @@
     {
      "title": "JNS, Israeli AI firm Decart raises $300 million at $4 billion valuation - Series B led by Radical Ventures, NVIDIA joining as a new investor",
      "url": "https://www.jns.org/news/world/israeli-ai-firm-decart-raises-300-million-at-4-billion-valuation",
-     "as_of": "2026-05-19"
+     "as_of": "2026-05-19",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "The Next Web, Decart raises $300M to put a real-time world model in front of Amazon's chips - total funding past $450M (valuation not disclosed here)",
      "url": "https://thenextweb.com/news/decart-300-million-radical-ventures-world-models",
-     "as_of": "2026-05-18"
+     "as_of": "2026-05-18",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "The Next Web, Amazon in talks to buy AI chip software startup Decart for about $7bn (WSJ) - restates the May round at nearly $4B",
      "url": "https://thenextweb.com/news/amazon-decart-7bn-acquisition-talks-wsj",
-     "as_of": "2026-10-12"
+     "as_of": "2026-10-12",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-05-18",
@@ -5589,7 +7099,10 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688825.SS/",
-     "as_of": "2026-10-27"
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-27",
@@ -5613,17 +7126,26 @@
     {
      "title": "Town (company release via GlobeNewswire), Town Raises $108M Series B at a $1B Valuation to Bring AI Assistants to Whole Teams - co-led by Forerunner Ventures and Menlo Ventures",
      "url": "https://www.globenewswire.com/news-release/2026/10/19/3383492/0/en/town-raises-108m-series-b-at-a-1b-valuation-to-bring-ai-assistants-to-whole-teams.html",
-     "as_of": "2026-10-19"
+     "as_of": "2026-10-19",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "TechCrunch, AI assistant startup Town nabs unicorn valuation 4 months after launch",
      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-     "as_of": "2026-10-19"
+     "as_of": "2026-10-19",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "Prior round: Town (company press page), $55M Series A led by Andreessen Horowitz",
      "url": "https://www.town.com/press/series-a",
-     "as_of": "2026-06-03"
+     "as_of": "2026-06-03",
+     "backs": [
+      "role"
+     ]
     }
    ],
    "as_of": "2026-10-19",
@@ -5645,17 +7167,26 @@
     {
      "title": "Daytona (company blog), Daytona Raises $60M Series B to Build the Agent Cloud - $60M at a $1B valuation led by FirstMark, total funding about $91M",
      "url": "https://www.daytona.io/dotfiles/daytona-raises-60m-series-b-to-build-the-agent-cloud",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Fortune (via Techmeme), Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation",
      "url": "https://www.techmeme.com/261020/p27#a261020p27",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Tech.eu, Daytona hits $1B valuation with $60M Series B for AI agent cloud",
      "url": "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-20",
@@ -5670,23 +7201,32 @@
    "kind": "company",
    "signal": "vision-force-action",
    "role": "Physics-first physical AI: a vision-force-action model that learns dexterous manipulation from force feedback and physics simulation rather than from vision alone or human teleoperation demonstrations, aimed first at robotic bin picking and object handling. Founded by Pulkit Agrawal, an MIT professor, and Tuomas Haarnoja, previously a Google DeepMind researcher and a co-author of the Soft Actor-Critic algorithm. The $1.45B is the post-money on a $150M Series A announced 2026-10-20, co-led by Andreessen Horowitz and F-Prime, with seed leads Obvious Ventures and E14 Fund returning and MFV Partners, Bison Ventures, Glasswing Ventures, Samsung Next and unnamed Fortune 500 strategic investors joining. Andreessen Horowitz says the system manages as many as 1,500 picks an hour in lab bin picking, about two and a half times human speed, on the company's own measurements; Eka has disclosed no revenue and no customer contracts.",
-   "confidence": "verified",
+   "confidence": "reported",
    "valuation_musd": 1450,
    "sources": [
     {
      "title": "Eka Robotics (company blog), Eka Robotics Raises $150M to Build Superhuman Intelligence for the Physical World - Series A co-led by Andreessen Horowitz and F-Prime",
      "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "TechCrunch, Eka is worth $1.45B thanks to a physical AI model that has experts raving - $150M Series A at a $1.45B post-money",
      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Tech Funding News, Eka Robotics raises $150M at $1.45B valuation led by a16z and F-Prime for dexterous robots (names Samsung Next among the participants)",
      "url": "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/",
-     "as_of": "2026-10-20"
+     "as_of": "2026-10-20",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-20",
@@ -5707,17 +7247,26 @@
     {
      "title": "Pathos AI, Pathos AI Announces Strategic Collaborations with Bristol Myers Squibb and Tempus AI to Advance AI-Driven Drug Development Beginning with Alzheimer's Disease and Other Neurological Conditions (company release; BMS leads the Series E, Tempus licenses neurology data)",
      "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
+     ]
     },
     {
      "title": "STAT News, AI drugmaker Pathos, in deal with Bristol, hits $3 billion valuation",
      "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "valuation"
+     ]
     },
     {
      "title": "Investing.com, Pathos AI secures $55M Tempus deal, BMS leads Series E ($237M at an approximately $3B post-money)",
      "url": "https://www.investing.com/news/company-news/pathos-ai-secures-55m-tempus-deal-bms-leads-series-e-93CH-4969533",
-     "as_of": "2026-10-23"
+     "as_of": "2026-10-23",
+     "backs": [
+      "valuation"
+     ]
     }
    ],
    "as_of": "2026-10-23",
