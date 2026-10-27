@@ -17,6 +17,7 @@ automatically after each data update.
 |---|---|
 | `entities.csv` | One row per company or division: valuation, confidence, as-of date, primary source, page URL |
 | `relations.csv` | One row per relationship: type, how it reads, confidence, source URL, as-of date where recorded |
+| `sources.csv` | One row per citation and the fact it backs: a company's valuation, signal or description, or a relationship (by its id in the explorer at stateofai.world/explore) |
 | `entities.json` | Full company records: every source, notes, ticker |
 | `relations.json` | Full relationship records |
 | `history.json` | Daily valuation snapshots for every company since 2026-07-27 |
