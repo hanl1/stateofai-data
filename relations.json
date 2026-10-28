@@ -3971,7 +3971,67 @@
    "url": "https://www.navalnews.com/naval-news/2025/10/saronic-and-nvidia-form-strategic-collaboration/",
    "as_of": "2025-10-23",
    "title": "Naval News (Saronic release), Saronic and NVIDIA Form Strategic Collaboration (NVIDIA hardware onboard all Saronic vessels)"
+  },
+  {
+   "source": "meta",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "verified",
+   "url": "https://newsroom.amd.com/news/amd-meta-advance-strategic-partnership-power-metas-ai-infrastructure/",
+   "as_of": "2026-10-27",
+   "title": "AMD newsroom (company release), AMD, Meta Advance Strategic Partnership to Power Meta's AI Infrastructure (first Helios rack systems installed and under test at Meta; Instinct GPUs already in production for training and recommendation)"
+  },
+  {
+   "source": "pony",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "verified",
+   "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-announces-new-generation-autonomous-driving-domain",
+   "as_of": "2026-04-25",
+   "title": "PONY AI Inc. (company release), PONY AI Inc. Announces New-Generation Autonomous Driving Domain Controller Built on NVIDIA DRIVE Hyperion (the shipping Gen-7 controller runs four NVIDIA DRIVE AGX Orin SoCs)"
+  },
+  {
+   "source": "anduril",
+   "target": "qualcomm",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "verified",
+   "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680",
+   "as_of": "2026-10-27",
+   "title": "Reuters, Anduril, Qualcomm partner on new line of US-made laptops (BlueChip rugged laptops run Qualcomm Snapdragon X chips; board assembly at Anduril's Arsenal-1, preorders 2027)"
+  },
+  {
+   "source": "generalcompute",
+   "target": "positron",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "verified",
+   "url": "https://www.prnewswire.com/news-releases/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-infrastructure-302913449.html",
+   "as_of": "2026-10-20",
+   "title": "Positron AI and General Compute (joint company release via PRNewswire), Positron AI and General Compute Partner to Expand Access to Memory-First AI Inference Infrastructure (General Compute buys Atlas systems, available to its customers from Q1 2027, and commits to the next-generation Titan platform)"
+  },
+  {
+   "source": "generalcompute",
+   "target": "sambanova",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "as_of": "2026-10-27",
+   "title": "TechCrunch, General Compute raises $100 million Series A, countering the neocloud disaster narrative (a reported $400M agreement for SambaNova chips; accounts differ on whether it is a purchase or financing)"
+  },
+  {
+   "source": "generalcompute",
+   "target": "cerebras",
+   "type": "builds_on",
+   "from": "datapass-2026-10-28",
+   "confidence": "reported",
+   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "as_of": "2026-10-27",
+   "title": "TechCrunch, General Compute raises $100 million Series A, countering the neocloud disaster narrative (builds its inference cloud on chips from SambaNova, Positron and Cerebras rather than NVIDIA GPUs)"
   }
  ],
- "as_of": "2026-10-25"
+ "as_of": "2026-10-28"
 }

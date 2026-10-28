@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-10-25",
+ "as_of": "2026-10-28",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -347,7 +347,7 @@
    "layer": "app",
    "kind": "company",
    "signal": "defense",
-   "role": "Autonomous defense systems; the largest AI-native defense company. The $61B is the May 2026 Series H - $5B led by Thrive Capital and Andreessen Horowitz - which doubled the June 2025 Series G mark; 2025 revenue was $2.2B and total raised is over $11B. An employee and ex-employee tender offer of up to about $1.3B opened 2026-10-13 and closes 2026-11-09 at $94.80 a share, which would price the company near $90B; it is the first tender open to staff in 16 countries, after earlier ones limited to the US, UK and Australia. The tender has not closed, so the map still carries the Series H. Reported in talks since July 2026 at a valuation around $100B, not closed.",
+   "role": "Autonomous defense systems; the largest AI-native defense company. The $61B is the May 2026 Series H - $5B led by Thrive Capital and Andreessen Horowitz - which doubled the June 2025 Series G mark; 2025 revenue was $2.2B and total raised is over $11B. An employee and ex-employee tender offer of up to about $1.3B opened 2026-10-13 and closes 2026-11-09 at $94.80 a share, which would price the company near $90B; it is the first tender open to staff in 16 countries, after earlier ones limited to the US, UK and Australia. The tender has not closed, so the map still carries the Series H. Reported in talks since July 2026 at a valuation around $100B, not closed. Unveiled BlueChip with Qualcomm on 2026-10-27: a line of rugged laptops for government, defence and first responders, running Qualcomm Snapdragon X chips that TSMC makes in Arizona, with circuit-board assembly at Anduril's Arsenal-1 plant in Ohio and preorders expected in 2027. Anduril says cases, batteries and other parts are still largely made abroad and that it is standing up US production and qualifying US suppliers for them.",
    "confidence": "verified",
    "valuation_musd": 61000,
    "sources": [
@@ -387,6 +387,14 @@
      "title": "Prior mark: TechCrunch, Anduril raises $2.5B Series G at $30.5B valuation led by Founders Fund",
      "url": "https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/",
      "as_of": "2025-06-05",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Reuters, Anduril, Qualcomm partner on new line of US-made laptops (BlueChip on Snapdragon X, assembled at Arsenal-1, preorders 2027)",
+     "url": "https://www.investing.com/news/stock-market-news/anduril-qualcomm-partner-on-new-line-of-usmade-laptops-4976680",
+     "as_of": "2026-10-27",
      "backs": [
       "role"
      ]
@@ -3218,7 +3226,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "capex giant",
-   "role": "Open-weight lab and enormous neocloud customer; $20B+ committed to CoreWeave and Nebius.",
+   "role": "Open-weight lab and enormous neocloud customer; $20B+ committed to CoreWeave and Nebius. Raising about $97.5B of equity to fund 2026 capital spending of $135-145B, in $12.5B of preferred stock, $25B of common stock and up to $60B through an at-the-market offering, with the two offerings expected to close 2026-10-29. Its three chip suppliers are cornerstone investors in that raise: NVIDIA said on 2026-10-27 it will put in $3B and AMD $1B, with Broadcom named but giving no amount, and Meta's own filing calls the trio's indications of interest non-binding and caps them at about $5B collectively - so nothing is drawn until the offering closes and the purchases are confirmed. Alongside, AMD says the first Helios rack systems are installed and under test at Meta and its Instinct GPUs are already in production for training and recommendation, and Meta intends to expand its NVIDIA Vera Rubin and Vera CPU deployment for the Muse agent models.",
    "confidence": "verified",
    "valuation_musd": 1585722,
    "ticker": "META",
@@ -3230,6 +3238,22 @@
      "as_of": "2026-10-28",
      "backs": [
       "valuation"
+     ]
+    },
+    {
+     "title": "AMD newsroom (company release), AMD, Meta Advance Strategic Partnership to Power Meta's AI Infrastructure ($1B into Meta's equity offering; first Helios racks installed and under test at Meta; Instinct GPUs in production)",
+     "url": "https://newsroom.amd.com/news/amd-meta-advance-strategic-partnership-power-metas-ai-infrastructure/",
+     "as_of": "2026-10-27",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "CNBC, Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership (NVIDIA $3B and AMD $1B into the equity offering; Broadcom a cornerstone investor without an amount)",
+     "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+     "as_of": "2026-10-27",
+     "backs": [
+      "role"
      ]
     }
    ],
@@ -4928,7 +4952,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "robotaxi · CN",
-   "role": "Robotaxi operator dual-listed on Nasdaq and HKEX; large-scale commercial autonomous driving.",
+   "role": "Robotaxi operator dual-listed on Nasdaq and HKEX; large-scale commercial autonomous driving. Its mass-produced L4 domain controller runs four NVIDIA DRIVE AGX Orin SoCs and is the computer in the seventh-generation robotaxis; the next-generation controller Pony announced on 2026-04-25 is built on NVIDIA DRIVE Hyperion with two DRIVE AGX Thor SoCs linked by NVLink, which the company puts at a combined 4,000 FP4 TFLOPS of peak compute. Pony, inDrive and NVIDIA signed a memorandum on 2026-10-23 to study autonomous ride-hailing in Kazakhstan, with Pony supplying Gen-7 vehicles, inDrive the platform, NVIDIA its Hyperion compute and Halos safety stack, and testing planned in Astana in the first half of 2027 subject to government agreement.",
    "confidence": "verified",
    "valuation_musd": 2206,
    "sources": [
@@ -4938,6 +4962,22 @@
      "as_of": "2026-10-28",
      "backs": [
       "valuation"
+     ]
+    },
+    {
+     "title": "PONY AI Inc. (company release), PONY AI Inc. Announces New-Generation Autonomous Driving Domain Controller Built on NVIDIA DRIVE Hyperion (dual DRIVE AGX Thor; the shipping Gen-7 controller uses four DRIVE AGX Orin SoCs)",
+     "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-announces-new-generation-autonomous-driving-domain",
+     "as_of": "2026-04-25",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "PONY AI Inc. (company release), PONY AI Inc. and inDrive Announce Collaboration to Explore Autonomous Mobility in Kazakhstan Built on NVIDIA Hyperion",
+     "url": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-and-indrive-announce-collaboration-explore",
+     "as_of": "2026-10-23",
+     "backs": [
+      "role"
      ]
     }
    ],
@@ -7327,6 +7367,47 @@
    ],
    "as_of": "2026-10-23",
    "domain": "pathos.com",
+   "region": "us"
+  },
+  {
+   "id": "generalcompute",
+   "name": "General Compute",
+   "sector": "neo",
+   "layer": "cloud",
+   "kind": "company",
+   "signal": "alt-silicon inference",
+   "role": "San Francisco neocloud that rents inference capacity on silicon other than NVIDIA's: it buys accelerators from SambaNova, Positron and Cerebras, finances them with debt, and racks them in other people's data centres and converted bitcoin-mining sites rather than building its own, selling the result as bare metal or as a tokens-per-second service. The $800M is the post-money TechCrunch reported on a $100M Series A announced 2026-10-27 and co-led by Blackbird and Abstract Ventures, up from about $60M after a May 2026 seed; the company announced the round and its leads on X but has published no valuation, so the mark is press-reported. A customer contract worth about $100M of annual recurring revenue preceded the round, a $400M Upper90 debt facility funds the buildout, and a separate reported $400M agreement covers SambaNova chips - accounts differ on whether that one is a purchase or financing. Signed on 2026-10-20 to buy Positron Atlas systems and committed to the next-generation Titan systems, planning to run prompt prefill on GPUs and hand token generation to Positron silicon. First customer deployments are expected in Q1 2027, with about 75 MW targeted for deployment that year against roughly 200 MW of power the founders say they can reach. Founded by Finn Puklowski and Jason Goodison.",
+   "confidence": "reported",
+   "valuation_musd": 800,
+   "sources": [
+    {
+     "title": "TechCrunch, General Compute raises $100 million Series A, countering the neocloud disaster narrative ($100M co-led by Blackbird and Abstract Ventures at an $800M post-money, up from $60M after the May seed; chips from SambaNova, Positron and Cerebras; $400M Upper90 facility)",
+     "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+     "as_of": "2026-10-27",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Positron AI and General Compute (joint company release via PRNewswire), Positron AI and General Compute Partner to Expand Access to Memory-First AI Inference Infrastructure (General Compute buys Atlas systems, available to its customers from Q1 2027, and commits to the next-generation Titan platform)",
+     "url": "https://www.prnewswire.com/news-releases/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-infrastructure-302913449.html",
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "General Compute (company blog), General Compute Partners with Positron AI",
+     "url": "https://www.generalcompute.com/blog/general-compute-positron-ai-partnership",
+     "as_of": "2026-10-20",
+     "backs": [
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-10-27",
+   "domain": "generalcompute.com",
    "region": "us"
   }
  ],
