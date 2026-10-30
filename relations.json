@@ -1679,9 +1679,9 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.theglobeandmail.com/business/article-ai-cohere-fundraising-inovia-nvidia-oracle-salesforce/",
-   "title": "theglobeandmail.com, Canadian AI company Cohere raises US$270-million from Inovia, NVIDIA, Oracle and Salesforce Ventures",
-   "as_of": "2023-06-08"
+   "url": "https://qz.com/cohere-series-e-nvidia-canada-funding-round-102926",
+   "title": "Quartz, Cohere Series E round of up to CAD $7 billion draws Nvidia, Canada (NVIDIA a returning investor in the Series E initial close of 2026-10-29; first invested in the US$270M round of 2023-06-08 alongside Inovia, Oracle and Salesforce Ventures)",
+   "as_of": "2026-10-29"
   },
   {
    "source": "cohere",
@@ -4063,6 +4063,16 @@
    "url": "https://www.cnbc.com/2025/07/16/openai-googles-cloud-chatgpt.html",
    "as_of": "2025-07-16",
    "title": "CNBC, OpenAI says it will use Google's cloud for ChatGPT (Google Cloud added to OpenAI's own published list of compute suppliers alongside Microsoft, Oracle and CoreWeave; capacity in the US, Japan, the Netherlands, Norway and the UK)"
+  },
+  {
+   "source": "furiosa",
+   "target": "broadcom",
+   "type": "designed_with",
+   "from": "datapass-2026-10-30",
+   "confidence": "verified",
+   "url": "https://furiosa.ai/blog/furiosaai-partners-with-broadcom-to-build-next-generation-inference-platform-for-the-agentic-era",
+   "as_of": "2026-05-28",
+   "title": "FuriosaAI (company blog), FuriosaAI partners with Broadcom to build next-generation inference platform for the Agentic Era (third-generation accelerator: 2 nm compute die, HBM4/4E, Broadcom advanced packaging integrating the dies plus Broadcom Ethernet and PCIe; sampling 1H 2028)"
   }
  ],
  "as_of": "2026-10-28"

@@ -2127,16 +2127,58 @@
    "layer": "lab",
    "kind": "company",
    "signal": "enterprise · CA",
-   "role": "Enterprise-focused models with on-prem and sovereign deployments; expanded to AMD Instinct GPU infrastructure alongside NVIDIA in Sep 2025. Signed a definitive combination agreement with Germany's Aleph Alpha on 2026-09-16 at a reported ~$20B, formalising an April framework: one company dual-headquartered in Berlin and Toronto, 1,000+ staff, pitched as a transatlantic sovereign-AI alternative for regulated and public-sector buyers. Not closed - it needs regulatory approval, and the Series E that prices it (Schwarz Group committing $600M) is still to come. Took dedicated capacity rather than building it: Boost Run disclosed in an 8-K on 2026-10-06 a five-year GPU services agreement signed 2026-09-30 worth about $525.6M for NVIDIA GB300 NVL72 systems, part prepaid, with first acceptance expected in Q2 2027 and a right to terminate and recover prepayments if a minimum amount of infrastructure is not accepted by 2027-07-15. Boost Run's own release named only 'a leading sovereign AI company'; the filing names Cohere. Its second dedicated-capacity contract of the same shape, and the one that admits a seventh listed landlord to this map: HIVE Digital Technologies' BUZZ HPC subsidiary announced on 2026-06-18 a three-year GPU cloud contract worth about $220M, restated at a fixed $225M on 2026-10-27 once connectivity and storage are counted, putting Cohere's models on 2,304 NVIDIA Grace Blackwell GPUs at Bell's Merritt, British Columbia facility, with Bell AI Fabric supplying the data centre. HIVE financed about 80% of the $165M cluster with a $129M loan at 9.0% secured on the GPUs, and expects it live between late 2026 and early 2027.",
+   "role": "Enterprise-focused models with on-prem and sovereign deployments; expanded to AMD Instinct GPU infrastructure alongside NVIDIA in Sep 2025. PRICED BY A RECORD CANADIAN ROUND: Cohere announced the initial close of a Series E on 2026-10-29, in its own words 'targeting up to CAD $7 billion at a CAD $35.7 billion valuation', the largest private financing in Canadian startup history. Schwarz Group leads, the GOVERNMENT OF CANADA takes an equity stake of up to $1.14B (C$1.6B, via the Canada Development Investment Corporation, announced by Prime Minister Mark Carney), Bell Ventures and Bullhound Capital are also new, and Inovia Capital, NVIDIA and Prosperity7 Ventures returned. Reuters headlined it \"Ottawa takes stake in Cohere as AI company opens $4.5 billion funding round\". Cohere says it will keep its headquarters in Canada and invest about $1.2B in Canadian compute by 2030. The figure this map carries is Bloomberg's US$20.5B PRE-money; the company's own CAD 35.7B works out to roughly US$25.5B post-money at full subscription, but Cohere has not disclosed how much of the target is committed beyond 'the majority', so no USD post-money is party-stated. The Aleph Alpha combination signed 2026-09-16 at a reported ~$20B is still not closed - it needs Canadian, German and EC approval - and this is the Series E that the combination agreement said would price it, with Schwarz Group's $600M commitment inside it. Took dedicated capacity rather than building it: Boost Run disclosed in an 8-K on 2026-10-06 a five-year GPU services agreement signed 2026-09-30 worth about $525.6M for NVIDIA GB300 NVL72 systems, part prepaid, with first acceptance expected in Q2 2027 and a right to terminate and recover prepayments if a minimum amount of infrastructure is not accepted by 2027-07-15. Boost Run's own release named only 'a leading sovereign AI company'; the filing names Cohere. Its second dedicated-capacity contract of the same shape, and the one that admits a seventh listed landlord to this map: HIVE Digital Technologies' BUZZ HPC subsidiary announced on 2026-06-18 a three-year GPU cloud contract worth about $220M, restated at a fixed $225M on 2026-10-27 once connectivity and storage are counted, putting Cohere's models on 2,304 NVIDIA Grace Blackwell GPUs at Bell's Merritt, British Columbia facility, with Bell AI Fabric supplying the data centre. HIVE financed about 80% of the $165M cluster with a $129M loan at 9.0% secured on the GPUs, and expects it live between late 2026 and early 2027.",
    "confidence": "reported",
-   "valuation_musd": 20000,
+   "valuation_musd": 20500,
    "sources": [
     {
-     "title": "Cohere and Aleph Alpha sign a definitive combination agreement at a reported ~$20B valuation; dual HQ Berlin/Toronto, subject to regulatory approval, with Schwarz Group committing $600M to an upcoming Cohere Series E",
+     "title": "Bloomberg (via Techmeme), Canada-based Cohere completes the first close of a round that it expects to total up to $5B, with Canada agreeing to invest up to $1.14B, at a $20.5B valuation",
+     "url": "https://www.techmeme.com/261029/p31#a261029p31",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Cohere (company statement), We're proud to announce the initial close of our Series E, targeting up to CAD $7 billion at a CAD $35.7 billion valuation; marking the largest private financing round in Canadian startup history",
+     "url": "https://x.com/cohere/status/2115833490126336507",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "The Next Web, Canada joins Nvidia in backing Cohere's record C$7bn Series E",
+     "url": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Unite.AI, Cohere Closes Initial Series E Targeting Up to CAD $7B at CAD $35.7B Valuation",
+     "url": "https://www.unite.ai/cohere-closes-initial-series-e-targeting-up-to-cad-7b-at-cad-35-7b-valuation/",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "BetaKit, Feds to buy stake in Cohere via planned $7-billion Series E at $36-billion valuation (Canada Development Investment Corporation; Cohere says most of the target is secured)",
+     "url": "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
+     "as_of": "2026-10-29",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Prior mark: Cohere and Aleph Alpha sign a definitive combination agreement at a reported ~$20B valuation; dual HQ Berlin/Toronto, subject to regulatory approval, with Schwarz Group committing $600M to an upcoming Cohere Series E",
      "url": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
      "as_of": "2026-09-16",
      "backs": [
-      "valuation"
+      "role"
      ]
     },
     {
@@ -2156,14 +2198,6 @@
      ]
     },
     {
-     "title": "TechCrunch, Cohere acquires and merges with Germany-based Aleph Alpha to create a 'transatlantic AI powerhouse'",
-     "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-     "as_of": "2026-04-24",
-     "backs": [
-      "role"
-     ]
-    },
-    {
      "title": "Prior mark: TechCrunch, Cohere hits $7B valuation a month after its last raise, partners with AMD ($100M second close of the $500M round)",
      "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd",
      "as_of": "2025-09-24",
@@ -2172,7 +2206,7 @@
      ]
     }
    ],
-   "as_of": "2026-09-16",
+   "as_of": "2026-10-29",
    "domain": "cohere.com",
    "region": "other"
   },
@@ -5130,22 +5164,55 @@
    "layer": "chip",
    "kind": "company",
    "signal": "RNGD · KR",
-   "role": "Korean AI inference chips (RNGD); supplies LG AI Research; rejected a Meta acquisition to chart a 2027 IPO.",
-   "confidence": "reported",
-   "valuation_musd": 2300,
+   "role": "Korean AI inference chips (RNGD, a 180 W PCIe accelerator in mass production on TSMC N5); supplies LG AI Research, and turned down a reported ~$800M Meta approach to stay independent for a 2027 listing. ITS SERIES D FINALLY PRICED: the company announced on 2026-10-29 a $620M round (KRW 820B) at a post-money valuation of about $2.9B, roughly four times the ~$735M of its previous round, after demand from domestic and overseas investors pushed the target above its original KRW 450-750B range. The Elec puts the same round at KRW 3.8T post-money against a KRW 3T pre-money. South Korea's National Growth Fund was the largest investor at a reported KRW 370B, with the Korea Development Bank, UAMCO, Infinitum, QUDA Capital, Cisco Investments, Jericho Capital and Worldline Capital named and existing holders adding about KRW 170B. Proceeds go to RNGD supply capacity, the software stack and a third-generation accelerator being co-developed with BROADCOM: a strategic partnership announced 2026-05-28 that moves Furiosa's Tensor Contraction Processor into a multi-die chiplet system on a 2 nm compute die with HBM4/4E, using Broadcom's advanced packaging to integrate the dies and its Ethernet and PCIe for the fabric, with sampling scheduled for the first half of 2028. The map carried an industry ESTIMATE of ~KRW 3T (~$2.3B) for this company from July 2026 until this round priced it.",
+   "confidence": "verified",
+   "valuation_musd": 2900,
    "region": "apac",
    "domain": "furiosa.ai",
    "sources": [
     {
-     "title": "KoreaTechDesk/industry estimate ~KRW 3T (~$2.3B); $300-500M pre-IPO Series D in progress",
-     "url": "https://koreatechdesk.com/furiosaai-pre-ipo-funding-meta-rejection-2027-korea-ai-chip",
-     "as_of": "2026-07-01",
+     "title": "FuriosaAI (company release via Yahoo Finance), FuriosaAI Secures $620 Million Series D to Meet Surging Enterprise AI Inference Demand and Accelerate Next-Gen Silicon (~$2.9B post-money)",
+     "url": "https://finance.yahoo.com/technology/ai/articles/furiosaai-secures-620-million-series-235700023.html",
+     "as_of": "2026-10-29",
      "backs": [
       "valuation"
      ]
+    },
+    {
+     "title": "The Elec, FuriosaAI Raises 820 Billion Won in Series D Funding, Reaches 3.8 Trillion Won Valuation (KRW 3T pre-money; third-generation accelerator with Broadcom)",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=15054",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "New Electronics, FuriosaAI raises $620m to expand AI chip production and develop next-generation processors",
+     "url": "https://www.newelectronics.co.uk/content/news/furiosaai-raises-620m-to-expand-ai-chip-production-and-develop-next-generation-processors",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "MoneyToday, FuriosaAI, backed by Korea's National Growth Fund, raises 820 billion won at 3.8 trillion won valuation",
+     "url": "https://www.mt.co.kr/en/future/2026/10/29/2026102908523397390",
+     "as_of": "2026-10-29",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Prior mark (superseded): KoreaTechDesk industry estimate ~KRW 3T (~$2.3B) of an unpriced pre-IPO Series D",
+     "url": "https://koreatechdesk.com/furiosaai-pre-ipo-funding-meta-rejection-2027-korea-ai-chip",
+     "as_of": "2026-07-01",
+     "backs": [
+      "role"
+     ]
     }
    ],
-   "as_of": "2026-07-01"
+   "as_of": "2026-10-29"
   },
   {
    "id": "rebellions",
