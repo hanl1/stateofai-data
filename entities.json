@@ -2144,7 +2144,6 @@
      "url": "https://x.com/cohere/status/2115833490126336507",
      "as_of": "2026-10-29",
      "backs": [
-      "valuation",
       "role"
      ]
     },
@@ -2153,7 +2152,6 @@
      "url": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
      "as_of": "2026-10-29",
      "backs": [
-      "valuation",
       "role"
      ]
     },
@@ -2162,7 +2160,7 @@
      "url": "https://www.unite.ai/cohere-closes-initial-series-e-targeting-up-to-cad-7b-at-cad-35-7b-valuation/",
      "as_of": "2026-10-29",
      "backs": [
-      "valuation"
+      "role"
      ]
     },
     {
@@ -2178,7 +2176,7 @@
      "url": "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal/",
      "as_of": "2026-09-16",
      "backs": [
-      "role"
+      "valuation"
      ]
     },
     {
@@ -5183,7 +5181,6 @@
      "url": "https://www.thelec.net/news/articleView.html?idxno=15054",
      "as_of": "2026-10-29",
      "backs": [
-      "valuation",
       "role"
      ]
     },
@@ -5192,7 +5189,7 @@
      "url": "https://www.newelectronics.co.uk/content/news/furiosaai-raises-620m-to-expand-ai-chip-production-and-develop-next-generation-processors",
      "as_of": "2026-10-29",
      "backs": [
-      "valuation"
+      "role"
      ]
     },
     {
@@ -5208,7 +5205,7 @@
      "url": "https://koreatechdesk.com/furiosaai-pre-ipo-funding-meta-rejection-2027-korea-ai-chip",
      "as_of": "2026-07-01",
      "backs": [
-      "role"
+      "valuation"
      ]
     }
    ],
