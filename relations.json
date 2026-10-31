@@ -4073,6 +4073,36 @@
    "url": "https://furiosa.ai/blog/furiosaai-partners-with-broadcom-to-build-next-generation-inference-platform-for-the-agentic-era",
    "as_of": "2026-05-28",
    "title": "FuriosaAI (company blog), FuriosaAI partners with Broadcom to build next-generation inference platform for the Agentic Era (third-generation accelerator: 2 nm compute die, HBM4/4E, Broadcom advanced packaging integrating the dies plus Broadcom Ethernet and PCIe; sampling 1H 2028)"
+  },
+  {
+   "source": "alibaba",
+   "target": "kling",
+   "type": "invests_in",
+   "from": "datapass-2026-10-31",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+   "title": "Bloomberg, Alibaba, Tencent Join $2.8 Billion Funding for Kling AI (Alibaba joined a clutch of investors in Kling that included BlueFive Capital, Baidu Inc. and Tencent Holdings Ltd.)",
+   "as_of": "2026-07-02"
+  },
+  {
+   "source": "tencent",
+   "target": "kling",
+   "type": "invests_in",
+   "from": "datapass-2026-10-31",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+   "title": "Bloomberg, Alibaba, Tencent Join $2.8 Billion Funding for Kling AI (Alibaba joined a clutch of investors in Kling that included BlueFive Capital, Baidu Inc. and Tencent Holdings Ltd.)",
+   "as_of": "2026-07-02"
+  },
+  {
+   "source": "baidu",
+   "target": "kling",
+   "type": "invests_in",
+   "from": "datapass-2026-10-31",
+   "confidence": "reported",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
+   "title": "Bloomberg, Alibaba, Tencent Join $2.8 Billion Funding for Kling AI (Alibaba joined a clutch of investors in Kling that included BlueFive Capital, Baidu Inc. and Tencent Holdings Ltd.)",
+   "as_of": "2026-07-02"
   }
  ],
  "as_of": "2026-10-28"
