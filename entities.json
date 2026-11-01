@@ -2355,7 +2355,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "Qwen · CN",
-   "role": "E-commerce and cloud giant; its Qwen models are the most-used open-weight family globally, under Apache-style licensing.",
+   "role": "E-commerce and cloud giant; its Qwen models are the most-used open-weight family globally, under Apache-style licensing. Won the Apple distribution slot in China: Apple said in a statement on 2026-10-31 that the first batch of Apple Intelligence features will reach Chinese iPhone users with iOS 27.3 in December, after a developer beta from 2026-11-04, with Qwen reachable through Siri for text generation, image creation and photo or document analysis. About 18 features ship, including writing tools, live call and message translation and visual intelligence; the next-generation Siri that Apple launched in September is excluded from this first release. China's Cyberspace Administration licensed Apple's AI services in July 2026 alongside six other smartphone AI services, and Baidu is reported to be building Apple Intelligence features for the same market. No edge is drawn here: Apple has no node on this map, and the deployment is not live until December in any case.",
    "confidence": "verified",
    "valuation_musd": 243899,
    "ticker": "BABA",
@@ -2367,6 +2367,14 @@
      "as_of": "2026-10-31",
      "backs": [
       "valuation"
+     ]
+    },
+    {
+     "title": "South China Morning Post, Apple Intelligence to roll out on iPhones in China in December with Alibaba backing (Apple statement of 2026-10-31: developer beta 2026-11-04, iOS 27.3 in December, Qwen reachable through Siri)",
+     "url": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
+     "as_of": "2026-10-31",
+     "backs": [
+      "role"
      ]
     }
    ],
