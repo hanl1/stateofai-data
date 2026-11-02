@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-10-31",
+ "as_of": "2026-11-02",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -7554,6 +7554,57 @@
    "as_of": "2026-07-02",
    "domain": "klingai.com",
    "region": "cn"
+  },
+  {
+   "id": "livekit",
+   "name": "LiveKit",
+   "sector": "agent",
+   "layer": "agent",
+   "kind": "company",
+   "signal": "powers ChatGPT voice",
+   "role": "Real-time network and open-source Agents framework for voice AI: the infrastructure that carries audio and video between a user and a model, plus a hosted LiveKit Cloud that runs the agent beside it. The $1B is the post-money on a $100M Series C announced 2026-01-22 and led by Index Ventures, with Salesforce Ventures, Hanabi Capital, Altimeter and Redpoint also in. The company's own release names OpenAI, xAI, Salesforce, Coursera and Spotify as companies running voice AI on the platform, and its site says OpenAI built ChatGPT's Advanced Voice on LiveKit Cloud; the two launched ChatGPT Voice Mode together in September 2023, the same week LiveKit open-sourced the Agents framework. Vapi is the nearest rival on the map, but only product-comparison blogs put the two head to head, so no rivals edge is drawn. Every customer list here is the company's own and its pages are blocked to this sandbox, so only the two counterparties the January release names and the map already carries are drawn as edges.",
+   "confidence": "verified",
+   "valuation_musd": 1000,
+   "sources": [
+    {
+     "title": "LiveKit (company release, Fortune press-release wire), $100M Series C at a $1B valuation led by Index Ventures, with Salesforce Ventures, Hanabi Capital, Altimeter and Redpoint; names OpenAI, xAI, Salesforce, Coursera and Spotify as customers",
+     "url": "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22",
+     "as_of": "2026-01-22",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "LiveKit (company blog), LiveKit's Series C: towards the voice-driven era of computing ($100M at a $1B valuation, Index Ventures leading)",
+     "url": "https://livekit.com/blog/livekit-series-c",
+     "as_of": "2026-01-22",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Bloomberg, LiveKit, Seller of Voice Tools to OpenAI, Raises $100 Million (at a $1B valuation)",
+     "url": "https://www.bloomberg.com/news/articles/2026-01-22/livekit-seller-of-voice-tools-to-openai-raises-100-million",
+     "as_of": "2026-01-22",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "SiliconANGLE, LiveKit raises $100M at $1B valuation to scale real-time AI and media platform (Index Ventures led, Salesforce Ventures, Altimeter, Hanabi and Redpoint joined)",
+     "url": "https://siliconangle.com/2026/01/22/livekit-raises-100m-1b-valuation-scale-real-time-ai-media-platform/",
+     "as_of": "2026-01-22",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-01-22",
+   "domain": "livekit.com",
+   "region": "us"
   }
  ],
  "verified_at": "2026-10-31"

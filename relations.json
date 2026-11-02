@@ -4103,7 +4103,27 @@
    "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-s-kling-ai-raises-2-billion-to-expand-ai-video-operations",
    "title": "Bloomberg, Alibaba, Tencent Join $2.8 Billion Funding for Kling AI (Alibaba joined a clutch of investors in Kling that included BlueFive Capital, Baidu Inc. and Tencent Holdings Ltd.)",
    "as_of": "2026-07-02"
+  },
+  {
+   "source": "openai",
+   "target": "livekit",
+   "type": "builds_on",
+   "from": "datapass-2026-11-02",
+   "confidence": "verified",
+   "url": "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22",
+   "title": "LiveKit (company release, Fortune press-release wire), LiveKit raises $100M at a $1B valuation (the release says the platform powers voice AI for OpenAI, xAI, Salesforce, Coursera and Spotify); LiveKit's own site says OpenAI built ChatGPT's Advanced Voice on LiveKit Cloud",
+   "as_of": "2026-01-22"
+  },
+  {
+   "source": "xai",
+   "target": "livekit",
+   "type": "builds_on",
+   "from": "datapass-2026-11-02",
+   "confidence": "reported",
+   "url": "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22",
+   "title": "LiveKit (company release, Fortune press-release wire), LiveKit raises $100M at a $1B valuation (the release says the platform powers voice AI for OpenAI, xAI, Salesforce, Coursera and Spotify)",
+   "as_of": "2026-01-22"
   }
  ],
- "as_of": "2026-10-28"
+ "as_of": "2026-11-02"
 }
