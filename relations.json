@@ -4123,7 +4123,41 @@
    "url": "https://fortune.com/press-releases/livekit-raises-100m-1b-valuation-voice-first-computing-2026-01-22",
    "title": "LiveKit (company release, Fortune press-release wire), LiveKit raises $100M at a $1B valuation (the release says the platform powers voice AI for OpenAI, xAI, Salesforce, Coursera and Spotify)",
    "as_of": "2026-01-22"
+  },
+  {
+   "source": "marvell",
+   "target": "lumentum",
+   "type": "owns",
+   "from": "datapass-2026-11-03",
+   "confidence": "reported",
+   "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+   "title": "Marvell and Lumentum joint press release, Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity - definitive all-stock merger agreement dated 2026-11-01 at an implied enterprise value of $115B, 4.5 Marvell shares per Lumentum share, close expected in the first half of 2028 subject to both shareholder votes and regulatory approval; signed, not closed",
+   "as_of": "2026-11-02"
+  },
+  {
+   "source": "nvidia",
+   "target": "lumentum",
+   "type": "invests_in",
+   "from": "datapass-2026-11-03",
+   "confidence": "verified",
+   "amount": "$2B",
+   "amount_musd": 2000,
+   "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+   "title": "CNBC, Nvidia to invest $4 billion into photonics companies Coherent and Lumentum - $2B into Lumentum, paired with a multi-year strategic agreement and future capacity access rights for laser and optical networking products",
+   "as_of": "2026-03-02"
+  },
+  {
+   "source": "nvidia",
+   "target": "coherent",
+   "type": "invests_in",
+   "from": "datapass-2026-11-03",
+   "confidence": "verified",
+   "amount": "$2B",
+   "amount_musd": 2000,
+   "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+   "title": "CNBC, Nvidia to invest $4 billion into photonics companies Coherent and Lumentum - $2B into Coherent, paired with a multi-year strategic agreement and future capacity access rights for laser and optical networking products",
+   "as_of": "2026-03-02"
   }
  ],
- "as_of": "2026-11-02"
+ "as_of": "2026-11-03"
 }
