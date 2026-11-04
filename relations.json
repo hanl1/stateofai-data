@@ -521,7 +521,11 @@
    "source": "tpu",
    "target": "tsmc",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.jonpeddie.com/news/ironwood-chetyorka-google-broadcom-mediatek-and-tsmc/",
+   "confidence": "reported",
+   "as_of": "2025-12-01",
+   "title": "Jon Peddie Research, Ironwood chetyorka: Google, Broadcom, MediaTek, and TSMC (Broadcom coordinates TPU fabrication and packaging with TSMC)"
   },
   {
    "source": "trainium",
@@ -556,13 +560,21 @@
    "source": "ascend",
    "target": "smic",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-chip-champions-ramp-up-production-of-ai-accelerators-at-domestic-fabs-but-hbm-and-fab-production-capacity-are-towering-bottlenecks",
+   "confidence": "reported",
+   "as_of": "2025-09-10",
+   "title": "Tom's Hardware, China's chip champions ramp up production of AI accelerators at domestic fabs (SMIC began producing Ascend 910B in Q3 2024)"
   },
   {
    "source": "cambricon",
    "target": "smic",
    "type": "fabricated_by",
-   "from": "industry-map"
+   "from": "industry-map",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/cambricon-targets-500000-ai-chips-in-2026-as-china-accelerates-domestic-hardware-push",
+   "confidence": "reported",
+   "as_of": "2025-12-12",
+   "title": "Tom's Hardware, Cambricon targets 500,000 AI chips in 2026 (output depends on SMIC N+2 capacity and yields)"
   },
   {
    "source": "nvidia",
@@ -4207,6 +4219,26 @@
    "url": "https://fal.ai/blog/series-e-f",
    "title": "fal (company blog), Our Series E and F - the Series F is led by Bessemer Venture Partners with NVIDIA continuing as an investor; NVIDIA first came in at the $140M Series D",
    "as_of": "2026-11-03"
+  },
+  {
+   "source": "openai",
+   "target": "turing",
+   "type": "trains_on",
+   "from": "integrity-2026-11-04",
+   "url": "https://finance.yahoo.com/news/turing-key-coding-provider-openai-140054839.html",
+   "confidence": "reported",
+   "title": "TechCrunch, Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation",
+   "as_of": "2025-03-06"
+  },
+  {
+   "source": "biren",
+   "target": "nvidia",
+   "type": "rivals",
+   "from": "integrity-2026-11-04",
+   "url": "https://www.tomshardware.com/pc-components/gpus/blacklisted-chinese-ai-gpu-champ-biren-preps-for-ipo-at-dollar219b-valuation",
+   "confidence": "reported",
+   "title": "Tom's Hardware, Blacklisted Chinese AI GPU champ Biren preps for IPO (a Chinese AI GPU developer that rivals Nvidia)",
+   "as_of": "2024-09-12"
   }
  ],
  "as_of": "2026-11-04"
