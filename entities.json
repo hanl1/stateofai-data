@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-11-03",
+ "as_of": "2026-11-04",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -4776,16 +4776,33 @@
    "layer": "infer",
    "kind": "company",
    "signal": "$800M ARR",
-   "role": "Generative-media inference cloud (image/video/audio); a top FLUX host.",
+   "role": "Generative-media inference cloud (image/video/audio); a top FLUX host. fal announced its Series E and Series F TOGETHER on 2026-11-03: a Series E led by Sequoia that closed earlier in 2026 and a $1.3B Series F led by existing backer Bessemer Venture Partners that closed in October, about $1.65B across the two. fal's own post names Bessemer as the Series F lead and NVIDIA as a continuing investor, with Sound Ventures, HOF Capital and T. Rowe Price named in press accounts, but it states neither an amount nor a valuation, so the $16B post-money and the $1.3B size are Bloomberg's and the mark stays reported. Bloomberg puts $16B at double the $8B of the April Series E, which this map had carried as unclosed talks at $4.5B since December 2025. Annualised revenue passed $800M earlier in 2026; CEO Burkay Gur says fal ran out of capacity in the summer and had to rate-limit customers, and the new money goes on inference capacity and a team of about 185.",
    "confidence": "reported",
-   "valuation_musd": 4500,
+   "valuation_musd": 16000,
    "sources": [
     {
-     "title": "Investing.com, Fal $140M Series D at $4.5B led by Sequoia; Mar 2026 talks at ~$8B unclosed",
-     "url": "https://www.investing.com/news/company-news/ai-startup-fal-raises-140-million-at-45-billion-valuation-93CH-4398781",
-     "as_of": "2025-12-15",
+     "title": "TechCrunch, AI inference startup Fal doubles its valuation to $16B as demand surges - $1.3B Series F led by Bessemer Venture Partners at a $16B valuation, announced alongside a Sequoia-led Series E for about $1.65B in total, with NVIDIA participating",
+     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+     "as_of": "2026-11-03",
      "backs": [
       "valuation"
+     ]
+    },
+    {
+     "title": "Bloomberg, AI Inference Startup Fal Raises Capital at $16 Billion Valuation - Bessemer led a $1.3B round that closed in October, double the $8B valuation of April, with NVIDIA, Sound Ventures, HOF Capital and T. Rowe Price also participating",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
+     "as_of": "2026-11-03",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "fal (company blog), Our Series E and F - the Series E was led by Sequoia Capital and the Series F is led by Bessemer Venture Partners, with NVIDIA continuing as an investor; no amount or valuation is stated",
+     "url": "https://fal.ai/blog/series-e-f",
+     "as_of": "2026-11-03",
+     "backs": [
+      "role"
      ]
     },
     {
@@ -4797,7 +4814,7 @@
      ]
     }
    ],
-   "as_of": "2025-12-15",
+   "as_of": "2026-11-03",
    "domain": "fal.ai",
    "region": "us"
   },
@@ -7618,7 +7635,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "AI optics",
-   "role": "Indium phosphide lasers and optical components for AI data centres - the EML laser chips inside the high-speed transceivers that move traffic between racks, a scarce capacity the whole optical layer queues for. Fiscal Q3 2026 revenue was $808.4M, up about 90% year on year. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split with Coherent, each leg paired with a multi-year strategic agreement that includes a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; no figure has been stated for the purchase commitment, so only the equity leg is drawn. Lumentum is putting its share into a new fab. MARVELL AGREED TO BUY IT on 2026-11-02 in an all-stock merger at an implied enterprise value of $115B, 4.5 Marvell shares per Lumentum share or about $1,132 a share, a 23.9% premium to the 2026-10-28 close, with Reuters putting the equity value at $102.54B and closing expected in the first half of 2028; Lumentum holders would own about 33% of the combined company. Marvell is also already a customer, buying Lumentum lasers. The mark here is the market cap and belongs to the ticker feed: the figure carried today is a HAND SEED off a quote page at the 2026-10-28 close, corroborated to within 0.05% by the deal's own arithmetic ($102.54B equity value at $1,132 a share over a 23.9% premium implies about $82.8B), because Yahoo Finance is unreachable from the routine's sandbox. The next weekday ticker cron owns the field and the seed should not survive it. Quote pages disagreed by about 8% on the pre-deal cap ($76.15B to $82.79B) and the shares fell on the announcement with Marvell's, so the seed is a starting point, not a close.",
+   "role": "Indium phosphide lasers and optical components for AI data centres - the EML laser chips inside the high-speed transceivers that move traffic between racks, a scarce capacity the whole optical layer queues for. Fiscal Q3 2026 revenue was $808.4M, up about 90% year on year. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split with Coherent, each leg paired with a multi-year strategic agreement that includes a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; no figure has been stated for the purchase commitment, so only the equity leg is drawn. Lumentum is putting its share into a new fab. MARVELL AGREED TO BUY IT on 2026-11-02 in an all-stock merger at an implied enterprise value of $115B, 4.5 Marvell shares per Lumentum share or about $1,132 a share, a 23.9% premium to the 2026-10-28 close, with Reuters putting the equity value at $102.54B and closing expected in the first half of 2028; Lumentum holders would own about 33% of the combined company. Marvell is also already a customer, buying Lumentum lasers. The mark is the market cap and belongs to the ticker feed, which took the field over on 2026-11-04 and replaced the hand seed the 2026-11-03 pass had read off a quote page. The shares fell on the announcement with Marvell's own, so the cap is well below the pre-deal quote pages' $76.15B to $82.79B.",
    "confidence": "verified",
    "valuation_musd": 61680,
    "ticker": "LITE",
@@ -7676,7 +7693,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "AI optics",
-   "role": "Lasers, optical transceivers and compound-semiconductor materials; the other half of the AI optical supply chain beside Lumentum. Data Center and Communications was about 79% of a recent quarter's revenue, with that segment at roughly $1.62B and up about 59% year on year, against $1.81B of total fiscal Q3 2026 revenue. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split evenly with Lumentum, each leg paired with a multi-year strategic agreement carrying a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; NVIDIA stated no figure for the purchase commitment, so only the equity leg is drawn, and Coherent said it would use the money to build out its domestic manufacturing footprint. Added to the map on 2026-11-03 off the Marvell/Lumentum deal, which repriced the layer: Northland upgraded Coherent to Outperform on 2026-11-02 on the value of scarce AI optics. Reports earnings 2026-11-04. The mark is a HAND SEED off the Yahoo quote page the ticker cron itself reads, taken the day after the 2026-11-02 close of $199.95, because the sandbox cannot reach Yahoo; the next weekday cron owns the field and the seed should not survive it.",
+   "role": "Lasers, optical transceivers and compound-semiconductor materials; the other half of the AI optical supply chain beside Lumentum. Data Center and Communications was about 79% of a recent quarter's revenue, with that segment at roughly $1.62B and up about 59% year on year, against $1.81B of total fiscal Q3 2026 revenue. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split evenly with Lumentum, each leg paired with a multi-year strategic agreement carrying a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; NVIDIA stated no figure for the purchase commitment, so only the equity leg is drawn, and Coherent said it would use the money to build out its domestic manufacturing footprint. Added to the map on 2026-11-03 off the Marvell/Lumentum deal, which repriced the layer: Northland upgraded Coherent to Outperform on 2026-11-02 on the value of scarce AI optics. Reports earnings 2026-11-04. The mark is the market cap and belongs to the ticker feed, which took the field over on 2026-11-04 and replaced the hand seed the 2026-11-03 pass had read off a quote page.",
    "confidence": "verified",
    "valuation_musd": 40861,
    "ticker": "COHR",
@@ -7717,6 +7734,40 @@
    ],
    "as_of": "2026-11-04",
    "domain": "coherent.com",
+   "region": "us"
+  },
+  {
+   "id": "hark",
+   "name": "Hark",
+   "sector": "lab",
+   "layer": "lab",
+   "kind": "company",
+   "signal": "personal intelligence",
+   "role": "AI lab and consumer-device company founded by Figure's Brett Adcock, out of stealth in March 2026 after eight months and started on about $100M of his own capital. It builds end-to-end speech, text and vision models with persistent personalised memory, ships a consumer app (Hark Pro) and a computer-use agent (Handoff), and plans bespoke native hardware devices as the interface to them. Hark announced on 2026-05-20 that it had raised more than $700M in a Series A at a $6B POST-money valuation, led by Parkway Venture Capital, and its own release names NVIDIA, AMD Ventures, Intel Capital and Qualcomm Ventures among the participants alongside Align Ventures, ARK Invest, Brookfield, Greycroft, Prime Movers Lab, Salesforce Ventures and Tamarack Global: four on-map silicon investors in a single round, which is why this node could finally be drawn. Headquartered in San Jose as Hark Labs, Inc., about 70 people at the raise and hiring 100 more, with the money going on GPU infrastructure and model development. Adcock's other company Figure is a founder tie and not a relationship, so no edge is drawn to it. Added 2026-11-04, five months after the round, because every page is blocked to the routine's sandbox and the figure and the investor list rest on search corroboration of the Hark release and of Bloomberg's 2026-05-21 story.",
+   "confidence": "verified",
+   "valuation_musd": 6000,
+   "sources": [
+    {
+     "title": "Hark (company release), Hark announces $700 million fundraising round - more than $700M of Series A funding at a $6B post-money valuation, led by Parkway Venture Capital, with NVIDIA, AMD Ventures, Intel Capital, Qualcomm Ventures, Align Ventures, ARK Invest, Brookfield, Greycroft, Prime Movers Lab, Salesforce Ventures and Tamarack Global participating",
+     "url": "https://hark.com/articles/hark-announces-usd700-million-fundraising-round",
+     "as_of": "2026-05-20",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Bloomberg, AI Hardware Startup Hark Valued at $6 Billion in New Funding Round - over $700M raised, valuing Brett Adcock's startup at $6B including the new money, Parkway Venture Capital leading with NVIDIA, AMD Ventures, Brookfield, Intel Capital, Qualcomm Ventures and Salesforce Ventures participating",
+     "url": "https://www.bloomberg.com/news/articles/2026-05-21/ai-hardware-startup-hark-valued-at-6-billion-in-new-funding-round",
+     "as_of": "2026-05-21",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-05-20",
+   "domain": "hark.com",
    "region": "us"
   }
  ],

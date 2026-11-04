@@ -4157,7 +4157,57 @@
    "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
    "title": "CNBC, Nvidia to invest $4 billion into photonics companies Coherent and Lumentum - $2B into Coherent, paired with a multi-year strategic agreement and future capacity access rights for laser and optical networking products",
    "as_of": "2026-03-02"
+  },
+  {
+   "source": "nvidia",
+   "target": "hark",
+   "type": "invests_in",
+   "from": "datapass-2026-11-04",
+   "confidence": "verified",
+   "url": "https://hark.com/articles/hark-announces-usd700-million-fundraising-round",
+   "title": "Hark (company release), Hark announces $700 million fundraising round - NVIDIA named as a participant in the more than $700M Series A at a $6B post-money valuation led by Parkway Venture Capital",
+   "as_of": "2026-05-20"
+  },
+  {
+   "source": "amd",
+   "target": "hark",
+   "type": "invests_in",
+   "from": "datapass-2026-11-04",
+   "confidence": "verified",
+   "url": "https://hark.com/articles/hark-announces-usd700-million-fundraising-round",
+   "title": "Hark (company release), Hark announces $700 million fundraising round - AMD Ventures named as a participant in the more than $700M Series A at a $6B post-money valuation led by Parkway Venture Capital",
+   "as_of": "2026-05-20"
+  },
+  {
+   "source": "intel",
+   "target": "hark",
+   "type": "invests_in",
+   "from": "datapass-2026-11-04",
+   "confidence": "verified",
+   "url": "https://hark.com/articles/hark-announces-usd700-million-fundraising-round",
+   "title": "Hark (company release), Hark announces $700 million fundraising round - Intel Capital named as a participant in the more than $700M Series A at a $6B post-money valuation led by Parkway Venture Capital",
+   "as_of": "2026-05-20"
+  },
+  {
+   "source": "qualcomm",
+   "target": "hark",
+   "type": "invests_in",
+   "from": "datapass-2026-11-04",
+   "confidence": "verified",
+   "url": "https://hark.com/articles/hark-announces-usd700-million-fundraising-round",
+   "title": "Hark (company release), Hark announces $700 million fundraising round - Qualcomm Ventures named as a participant in the more than $700M Series A at a $6B post-money valuation led by Parkway Venture Capital",
+   "as_of": "2026-05-20"
+  },
+  {
+   "source": "nvidia",
+   "target": "fal",
+   "type": "invests_in",
+   "from": "datapass-2026-11-04",
+   "confidence": "verified",
+   "url": "https://fal.ai/blog/series-e-f",
+   "title": "fal (company blog), Our Series E and F - the Series F is led by Bessemer Venture Partners with NVIDIA continuing as an investor; NVIDIA first came in at the $140M Series D",
+   "as_of": "2026-11-03"
   }
  ],
- "as_of": "2026-11-03"
+ "as_of": "2026-11-04"
 }
