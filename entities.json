@@ -5814,6 +5814,7 @@
   {
    "id": "naive",
    "name": "Naive AI",
+   "domain": "naive.ai",
    "sector": "lab",
    "layer": "lab",
    "kind": "company",
@@ -6491,7 +6492,7 @@
     }
    ],
    "as_of": "2026-09-08",
-   "domain": "celerocomms.com",
+   "domain": "celero.inc",
    "region": "us"
   },
   {
