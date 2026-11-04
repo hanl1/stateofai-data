@@ -8,7 +8,8 @@
    "from": "industry-map",
    "url": "https://docs.perplexity.ai/docs/agent-api/models",
    "confidence": "verified",
-   "title": "Perplexity docs, Agent API Models (lists OpenAI GPT models)"
+   "title": "Perplexity docs, Agent API Models (lists OpenAI GPT models)",
+   "as_of": "2026-10-29"
   },
   {
    "source": "perplexity",
@@ -17,7 +18,8 @@
    "from": "industry-map",
    "url": "https://docs.perplexity.ai/docs/agent-api/models",
    "confidence": "verified",
-   "title": "Perplexity docs, Agent API Models (lists Google Gemini models)"
+   "title": "Perplexity docs, Agent API Models (lists Google Gemini models)",
+   "as_of": "2026-10-29"
   },
   {
    "source": "cursor",
@@ -268,7 +270,8 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526032650/d36096dfwp.htm",
    "as_of": "2026-02-02",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "Oracle FWP, filed 2026-02-02 (names OpenAI)"
   },
   {
    "source": "anthropic",
@@ -361,7 +364,8 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
    "as_of": "2026-08-12",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "CoreWeave 10-Q, filed 2026-08-12 (names NVIDIA)"
   },
   {
    "source": "nebius",
@@ -400,7 +404,8 @@
    "from": "industry-map",
    "url": "https://www.runpod.io/cloud-gpus/b200",
    "confidence": "verified",
-   "title": "Runpod, NVIDIA B200 (product page)"
+   "title": "Runpod, NVIDIA B200 (product page)",
+   "as_of": "2026-08-27"
   },
   {
    "source": "microsoft",
@@ -409,7 +414,8 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
    "as_of": "2026-08-26",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "NVIDIA 8-K, filed 2026-08-26 (names Microsoft)"
   },
   {
    "source": "amazon",
@@ -456,7 +462,8 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27pr.htm",
    "as_of": "2026-08-26",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "NVIDIA 8-K, filed 2026-08-26 (names Oracle)"
   },
   {
    "source": "huawei",
@@ -734,7 +741,8 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000008/primary_doc.xml",
    "as_of": "2026-01-26",
    "confidence": "verified",
-   "amount": "11.5% stake"
+   "amount": "11.5% stake",
+   "title": "NVIDIA SCHEDULE 13G/A, filed 2026-01-26 (names CoreWeave)"
   },
   {
    "source": "nvidia",
@@ -824,7 +832,8 @@
    "from": "industry-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
    "as_of": "2026-03-02",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "CoreWeave 10-K, filed 2026-03-02 (names Microsoft)"
   },
   {
    "source": "amazon",
@@ -834,7 +843,8 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
    "as_of": "2026-07-31",
    "confidence": "verified",
-   "amount": "$8B notes + $10B preferred"
+   "amount": "$8B notes + $10B preferred",
+   "title": "Amazon 10-Q, filed 2026-07-31 (names Anthropic)"
   },
   {
    "source": "alphabet",
@@ -1175,7 +1185,8 @@
    "from": "derived",
    "url": "https://azure.microsoft.com/products/ai-foundry/",
    "confidence": "verified",
-   "title": "Microsoft, Azure AI Foundry (product page; renamed Microsoft Foundry, Nov 2025)"
+   "title": "Microsoft, Azure AI Foundry (product page; renamed Microsoft Foundry, Nov 2025)",
+   "as_of": "2026-10-29"
   },
   {
    "source": "vercel",
@@ -1293,7 +1304,8 @@
    "as_of": "2025-09-08",
    "confidence": "verified",
    "amount": "~$17.4B, up to ~$19.4B",
-   "amount_musd": 17400
+   "amount_musd": 17400,
+   "title": "Nebius 6-K, filed 2025-09-08 (names Microsoft)"
   },
   {
    "source": "meta",
@@ -1302,7 +1314,8 @@
    "from": "inference-map",
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
    "as_of": "2026-03",
-   "confidence": "verified"
+   "confidence": "verified",
+   "title": "CoreWeave 10-Q, filed 2026-08-12 (names Meta)"
   },
   {
    "source": "meta",
@@ -1313,7 +1326,8 @@
    "as_of": "2026-03-16",
    "confidence": "verified",
    "amount": "$12B over 5 yrs, up to ~$27B",
-   "amount_musd": 12000
+   "amount_musd": 12000,
+   "title": "Nebius 6-K, filed 2026-03-16 (names Meta)"
   },
   {
    "source": "marvell",
@@ -1431,7 +1445,8 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "reported",
-   "url": "https://www.caproasia.com/2026/05/09/china-ai-startup-stepfun-raised-2-5-billion-in-new-funding-round-plans-hong-kong-ipo-in-2026-june-at-10-billion-valuation-founded-in-2023-by-ex-microsoft-vice-president-jiang-daxin-investors-inc/"
+   "url": "https://www.caproasia.com/2026/05/09/china-ai-startup-stepfun-raised-2-5-billion-in-new-funding-round-plans-hong-kong-ipo-in-2026-june-at-10-billion-valuation-founded-in-2023-by-ex-microsoft-vice-president-jiang-daxin-investors-inc/",
+   "as_of": "2026-05-09"
   },
   {
    "source": "ibm",
@@ -1538,7 +1553,8 @@
    "from": "baseline-2026-08",
    "confidence": "verified",
    "url": "https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet",
-   "title": "tenstorrent.com, Tenstorrent Selects Samsung Foundry to Manufacture Next-Generation AI Chiplet | Tenstorrent"
+   "title": "tenstorrent.com, Tenstorrent Selects Samsung Foundry to Manufacture Next-Generation AI Chiplet | Tenstorrent",
+   "as_of": "2023-10-02"
   },
   {
    "source": "samsung",
@@ -1567,7 +1583,8 @@
    "from": "baseline-2026-08",
    "confidence": "reported",
    "url": "https://www.itiger.com/hans/news/1174874464",
-   "title": "itiger.com, TML AI Lab Secures $2 Billion Seed Funding with NVIDIA and AMD Among Key Investors"
+   "title": "itiger.com, TML AI Lab Secures $2 Billion Seed Funding with NVIDIA and AMD Among Key Investors",
+   "as_of": "2025-07-16"
   },
   {
    "source": "nvidia",
@@ -1606,7 +1623,8 @@
    "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-announce-200-million-partnership-to-bring-agentic-ai-to-global-enterprises/",
    "title": "snowflake.com, Snowflake and Anthropic Announce $200 Million Partnership to Bring Agentic AI to Global Enterprises",
    "amount": "$200M, multi-year",
-   "amount_musd": 200
+   "amount_musd": 200,
+   "as_of": "2025-12-03"
   },
   {
    "source": "openai",
@@ -1644,7 +1662,8 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships"
+   "url": "https://www.businesswire.com/news/home/20250821665495/en/Nuro-Closes-$203-Million-Series-E-Financing-to-Advance-Its-AI-First-Self-Driving-Technology-and-Commercial-Partnerships",
+   "as_of": "2025-08-21"
   },
   {
    "source": "nuro",
@@ -1701,7 +1720,9 @@
    "type": "rents",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call"
+   "url": "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call",
+   "as_of": "2023-06-12",
+   "title": "VentureBeat, Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call (Cohere trains its LLMs on Oracle Cloud Infrastructure)"
   },
   {
    "source": "alphabet",
@@ -1749,7 +1770,8 @@
    "type": "invests_in",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://aibusiness.com/ml/google-nvidia-back-ai-video-lab-runway-in-141m-funding-round"
+   "url": "https://aibusiness.com/ml/google-nvidia-back-ai-video-lab-runway-in-141m-funding-round",
+   "as_of": "2023-06-30"
   },
   {
    "source": "nvidia",
@@ -1787,7 +1809,8 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion"
+   "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion",
+   "as_of": "2025-05-19"
   },
   {
    "source": "intel",
@@ -2156,7 +2179,8 @@
    "from": "tier2-2026-08-16",
    "confidence": "reported",
    "url": "https://www.yicaiglobal.com/news/chinas-first-gpu-stock-moore-threads-soars-over-fivefold-on-shanghai-debut",
-   "title": "yicaiglobal.com, Moore Threads Soars Over Fivefold as ‘China’s Nvidia’ Makes Shanghai Trading Debut"
+   "title": "yicaiglobal.com, Moore Threads Soars Over Fivefold as ‘China’s Nvidia’ Makes Shanghai Trading Debut",
+   "as_of": "2025-12-05"
   },
   {
    "source": "ambience",
@@ -2324,7 +2348,8 @@
    "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
    "title": "figure.ai, Figure and Nscale Sign Strategic Partnership For Up to 100,000 GPUs on the NVIDIA Vera Rubin Platform",
    "amount": "$3.5B, up to over $6B",
-   "amount_musd": 3500
+   "amount_musd": 3500,
+   "as_of": "2026-09-03"
   },
   {
    "source": "nscale",
@@ -2333,7 +2358,8 @@
    "from": "datapass-2026-09-09",
    "confidence": "verified",
    "url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
-   "title": "figure.ai, Figure and Nscale Sign Strategic Partnership For Up to 100,000 GPUs on the NVIDIA Vera Rubin Platform"
+   "title": "figure.ai, Figure and Nscale Sign Strategic Partnership For Up to 100,000 GPUs on the NVIDIA Vera Rubin Platform",
+   "as_of": "2026-09-03"
   },
   {
    "source": "palantir",
@@ -2671,7 +2697,8 @@
    "type": "rents",
    "from": "datapass-2026-09-22",
    "confidence": "verified",
-   "url": "https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html"
+   "url": "https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html",
+   "as_of": "2025-10-15"
   },
   {
    "source": "alphabet",
@@ -2722,7 +2749,8 @@
    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-thinking-machines-lab-inference-partnership",
    "title": "crusoe.ai, Thinking Machines Lab Taps Crusoe in $65M Inference Deal",
    "amount": "$65M a year",
-   "amount_musd": 65
+   "amount_musd": 65,
+   "as_of": "2026-09-23"
   },
   {
    "source": "openevidence",
@@ -2751,7 +2779,8 @@
    "from": "datapass-2026-09-25",
    "confidence": "verified",
    "url": "https://www.googlecloudpresscorner.com/2026-03-09-Brahma-AI-and-Google-Cloud-Collaborate-to-Scale-High-Fidelity,-Interactive-Digital-Humans-for-Global-Enterprises",
-   "title": "googlecloudpresscorner.com, Brahma AI and Google Cloud Collaborate to Scale High-Fidelity, Interactive Digital Humans for Global Enterprises"
+   "title": "googlecloudpresscorner.com, Brahma AI and Google Cloud Collaborate to Scale High-Fidelity, Interactive Digital Humans for Global Enterprises",
+   "as_of": "2026-03-10"
   },
   {
    "source": "alibaba",
@@ -2771,7 +2800,9 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000119312526401048/d288154d8k.htm",
    "amount": "~$11.6B over 7 years",
-   "amount_musd": 11600
+   "amount_musd": 11600,
+   "as_of": "2026-09-18",
+   "title": "Akamai 8-K, filed 2026-09-24 (names Anthropic)"
   },
   {
    "source": "nvidia",
@@ -2907,7 +2938,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-29",
    "confidence": "verified",
-   "url": "https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment"
+   "url": "https://www.cerebras.ai/press-release/gimlet-labs-adds-cerebras-to-deliver-ultrafast-ai-inference-through-gimlet-cloud-deployment",
+   "as_of": "2026-09-28",
+   "title": "Cerebras, Gimlet Labs Adds Cerebras to Deliver Ultrafast AI Inference through Gimlet Cloud (Gimlet Cloud deploys Cerebras wafer-scale compute)"
   },
   {
    "source": "anthropic",
@@ -2928,7 +2961,9 @@
    "from": "datapass-2026-09-30",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm",
-   "amount": "$1.25B a month to May 2029"
+   "amount": "$1.25B a month to May 2029",
+   "as_of": "2026-05-20",
+   "title": "SPACE EXPLORATION TECHNOLOGIES CORP S-1, filed 2026-05-20 (names Anthropic and SpaceX)"
   },
   {
    "source": "alphabet",
@@ -3066,7 +3101,8 @@
    "type": "rents",
    "from": "datapass-2026-10-02",
    "confidence": "reported",
-   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126"
+   "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126",
+   "as_of": "2026-10-01"
   },
   {
    "source": "broadcom",
@@ -3076,7 +3112,8 @@
    "confidence": "reported",
    "url": "https://qz.com/broadcom-lend-anthropic-42-billion-ai-chips-100126",
    "amount": "up to $42B loan",
-   "amount_musd": 42000
+   "amount_musd": 42000,
+   "as_of": "2026-10-01"
   },
   {
    "source": "tencent",
@@ -3097,7 +3134,8 @@
    "from": "datapass-2026-10-02",
    "confidence": "verified",
    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-   "title": "news.synopsys.com, OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design"
+   "title": "news.synopsys.com, OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+   "as_of": "2026-09-30"
   },
   {
    "source": "modal",
@@ -3317,7 +3355,8 @@
    "url": "https://canada.hut8.com/resources/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value-of-usd7-0-billion",
    "title": "canada.hut8.com, Hut 8 $7 Billion Deal with Fluidstack and Anthropic",
    "amount": "$7.0B over 15 years",
-   "amount_musd": 7000
+   "amount_musd": 7000,
+   "as_of": "2025-12-17"
   },
   {
    "source": "alphabet",
@@ -3325,7 +3364,9 @@
    "type": "commits_to",
    "from": "datapass-2026-10-09",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm",
+   "as_of": "2025-12-17",
+   "title": "Hut 8 8-K, filed 2025-12-17 (names Alphabet)"
   },
   {
    "source": "nvidia",
@@ -3347,7 +3388,9 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/0002090646/000149315226045861/form8-k.htm",
    "amount": "~$525.6M over ~5 years",
-   "amount_musd": 525.6
+   "amount_musd": 525.6,
+   "as_of": "2026-09-30",
+   "title": "Boost Run 8-K, filed 2026-10-06 (names Cohere)"
   },
   {
    "source": "boostrun",
@@ -3356,7 +3399,8 @@
    "from": "datapass-2026-10-09",
    "confidence": "verified",
    "url": "https://www.nasdaq.com/press-release/boost-run-achieves-nvidia-exemplar-cloud-nvidia-blackwell-architecturetm-joining",
-   "title": "nasdaq.com, Boost Run Achieves NVIDIA Exemplar Cloud on NVIDIA Blackwell Architecture™, Joining an Elite Tier of Global AI Infrastructure Leaders"
+   "title": "nasdaq.com, Boost Run Achieves NVIDIA Exemplar Cloud on NVIDIA Blackwell Architecture™, Joining an Elite Tier of Global AI Infrastructure Leaders",
+   "as_of": "2026-04-13"
   },
   {
    "source": "nvidia",
@@ -3396,7 +3440,9 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/0001083301/000110465926080583/tm2619468d1_ex99-1.htm",
    "amount": "~$19B over 20 years",
-   "amount_musd": 19000
+   "amount_musd": 19000,
+   "as_of": "2026-07-06",
+   "title": "TeraWulf 8-K exhibit 99.1, TeraWulf Announces Anthropic Lease at Justified Data Campus and Sale of Majority Interest in Abernathy Joint Venture to Fluidstack (20-year Anthropic lease, ~$19B contracted revenue)"
   },
   {
    "source": "fluidstack",
@@ -3407,7 +3453,8 @@
    "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
    "title": "investors.terawulf.com, TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner",
    "amount": "$6.7B, up to $16B",
-   "amount_musd": 6700
+   "amount_musd": 6700,
+   "as_of": "2025-08-18"
   },
   {
    "source": "alphabet",
@@ -3417,7 +3464,9 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm",
    "amount": "~$3.2B backstop",
-   "amount_musd": 3200
+   "amount_musd": 3200,
+   "as_of": "2025-08-18",
+   "title": "TeraWulf 8-K exhibit 99.1, TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner (Google raises its backstop of Fluidstack lease obligations to $3.2B)"
   },
   {
    "source": "microsoft",
@@ -3427,7 +3476,8 @@
    "confidence": "verified",
    "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft",
    "amount": "~$9.7B over 5 yrs",
-   "amount_musd": 9700
+   "amount_musd": 9700,
+   "as_of": "2025-11-03"
   },
   {
    "source": "nvidia",
@@ -3437,7 +3487,8 @@
    "confidence": "verified",
    "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-34bn-ai-cloud-contract-nvidia",
    "amount": "~$3.4B over 5 yrs",
-   "amount_musd": 3400
+   "amount_musd": 3400,
+   "as_of": "2026-05-07"
   },
   {
    "source": "iren",
@@ -3445,7 +3496,8 @@
    "type": "builds_on",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft"
+   "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-secures-97bn-ai-cloud-contract-microsoft",
+   "as_of": "2025-11-03"
   },
   {
    "source": "coreweave",
@@ -3456,7 +3508,8 @@
    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with",
    "title": "ir.applieddigital.com, Applied Digital Finalizes Additional 150MW Lease with CoreWeave in North Dakota",
    "amount": "~$11B across all leases",
-   "amount_musd": 11000
+   "amount_musd": 11000,
+   "as_of": "2025-08-29"
   },
   {
    "source": "amazon",
@@ -3466,7 +3519,9 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
    "amount": "~$5.5B over 15 years",
-   "amount_musd": 5500
+   "amount_musd": 5500,
+   "as_of": "2025-11-03",
+   "title": "Cipher Digital 8-K, filed 2025-11-03 (names Amazon)"
   },
   {
    "source": "fluidstack",
@@ -3474,7 +3529,9 @@
    "type": "rents",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm",
+   "as_of": "2025-11-20",
+   "title": "Cipher Digital 8-K, filed 2025-11-20 (names Fluidstack)"
   },
   {
    "source": "alphabet",
@@ -3482,7 +3539,9 @@
    "type": "commits_to",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm"
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm",
+   "as_of": "2025-11-20",
+   "title": "Cipher Digital 8-K, filed 2025-11-20 (names Alphabet)"
   },
   {
    "source": "coreweave",
@@ -3493,7 +3552,8 @@
    "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm",
    "title": "investors.corescientific.com, February 27, 2025 - EX-99.1 - 8-K: Current report | Core Scientific, Inc. (CORZ)",
    "amount": "$10.2B over 12 years",
-   "amount_musd": 10200
+   "amount_musd": 10200,
+   "as_of": "2025-02-26"
   },
   {
    "source": "microsoft",
@@ -3664,7 +3724,8 @@
    "from": "datapass-2026-10-20",
    "confidence": "reported",
    "url": "https://www.techmeme.com/261019/p31#a261019p31",
-   "title": "techmeme.com, AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips"
+   "title": "techmeme.com, AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips",
+   "as_of": "2026-10-19"
   },
   {
    "source": "perplexity",
@@ -3756,7 +3817,8 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
    "as_of": "2026-02-27",
-   "amount": "$15B + $35B commitment"
+   "amount": "$15B + $35B commitment",
+   "title": "Amazon 10-Q, filed 2026-07-31 (names OpenAI)"
   },
   {
    "source": "openai",
@@ -3767,7 +3829,8 @@
    "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
    "as_of": "2025-09-25",
    "amount": "up to ~$22.4B",
-   "amount_musd": 22400
+   "amount_musd": 22400,
+   "title": "CoreWeave, CoreWeave Expands Agreement with OpenAI by up to $6.5B (total OpenAI contracts about $22.4B)"
   },
   {
    "source": "openai",
@@ -3776,7 +3839,8 @@
    "from": "persona-sourcing-2026-10-21",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
-   "as_of": "2026-08-05"
+   "as_of": "2026-08-05",
+   "title": "ADVANCED MICRO DEVICES INC 10-Q, filed 2026-08-05 (names OpenAI and AMD)"
   },
   {
    "source": "openai",
@@ -3786,7 +3850,8 @@
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
    "as_of": "2026-02-27",
-   "amount": "$38B + $100B over 8 years"
+   "amount": "$38B + $100B over 8 years",
+   "title": "Amazon 10-Q, filed 2026-07-31 (names OpenAI)"
   },
   {
    "source": "nvidia",
@@ -3797,7 +3862,8 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
    "as_of": "2026-08",
    "amount": "guarantees up to $105B",
-   "amount_musd": 105000
+   "amount_musd": 105000,
+   "title": "NVIDIA 10-Q, filed 2026-08-26 (names OpenAI)"
   },
   {
    "source": "nvidia",
@@ -3853,7 +3919,8 @@
    "from": "circular-sourcing-2026-10-23",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm",
-   "as_of": "2026-08-04"
+   "as_of": "2026-08-04",
+   "title": "ADVANCED MICRO DEVICES INC 8-K, filed 2026-08-04 (names Microsoft and AMD)"
   },
   {
    "source": "oracle",
@@ -3862,7 +3929,8 @@
    "from": "circular-sourcing-2026-10-23",
    "confidence": "verified",
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/q22026991.htm",
-   "as_of": "2026-08-04"
+   "as_of": "2026-08-04",
+   "title": "ADVANCED MICRO DEVICES INC 8-K, filed 2026-08-04 (names Oracle and AMD)"
   },
   {
    "source": "openai",
@@ -3873,7 +3941,8 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
    "as_of": "2025-03-31",
    "amount": "$350M in stock",
-   "amount_musd": 350
+   "amount_musd": 350,
+   "title": "CoreWeave 10-Q, filed 2025-05-15 (names OpenAI)"
   },
   {
    "source": "nvidia",
@@ -3902,7 +3971,8 @@
    "from": "datapass-2026-10-25",
    "confidence": "verified",
    "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
-   "title": "docs.cloud.google.com, Vertex AI release notes | Generative AI on Vertex AI | Google Cloud Documentation"
+   "title": "docs.cloud.google.com, Vertex AI release notes | Generative AI on Vertex AI | Google Cloud Documentation",
+   "as_of": "2025-08-06"
   },
   {
    "source": "replit",
