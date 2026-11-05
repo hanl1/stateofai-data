@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-11-04",
+ "as_of": "2026-11-05",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -2313,7 +2313,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "Doubao · CN",
-   "role": "Doubao/Seed models; China's consumer AI leader by usage. Signed a $29.6B syndicated loan in September 2026, Asia's second-largest of the year, against reported 2026 AI capex plans of up to $70B. Spun out its AI drug-discovery unit as Anew Labs in September 2026, keeping 56% after a $290M first external round at a reported ~$1.5B.",
+   "role": "Doubao/Seed models; China's consumer AI leader by usage. Signed a $29.6B syndicated loan in September 2026, Asia's second-largest of the year, against reported 2026 AI capex plans of up to $70B. Spun out its AI drug-discovery unit as Anew Labs in September 2026, keeping 56% after a $290M first external round at a reported ~$1.5B. Its silicon is moving domestic under export pressure: Reuters sources said in March 2026 that it planned to order Huawei's new 950PR accelerator after customer testing went well, trade reporting puts 2026 Ascend orders near RMB40B (about $5.7B), and it is reported to be Cambricon's largest customer at more than half of that company's order book, though no party has confirmed either figure and no foundry or accelerator supplier is named in a citation that would carry an edge. On the NVIDIA side Bloomberg reported on 2026-11-04 that ByteDance, Alibaba and Tencent together ordered about 6 million RTX Pro 5500 parts and will receive roughly 60,000, about 1%. The $550B mark is the February 2026 General Atlantic stake sale reported by Reuters, up from a buyback above $330B; Nikkei put secondary trades near $900B in June 2026, which is a secondary-venue price and not a mark, and the company has shelved its IPO.",
    "confidence": "reported",
    "valuation_musd": 550000,
    "sources": [
@@ -2337,7 +2337,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "Hunyuan · CN",
-   "role": "Hunyuan models plus cloud distribution across WeChat ecosystem. Signed a reported $7B five-year agreement with ORACLE (2026-10-01) for access to roughly 100,000 advanced AI chips in Oracle's Southeast Asian data centres, about 30% payable upfront - its largest overseas compute deal, and a way around US export controls that bar direct sales of NVIDIA's leading parts into China while leaving overseas cloud leases open.",
+   "role": "Hunyuan models plus cloud distribution across WeChat ecosystem. The reported $7B five-year agreement with ORACLE for access to roughly 100,000 advanced AI chips in Oracle's Southeast Asian data centres, signed around 2026-10-01 and its largest overseas compute deal, was ABANDONED: the FT reported on 2026-11-04 that Oracle scrapped it after US officials raised concerns directly with the company, with Guangdong officials separately pressing Tencent to buy domestic silicon. Neither party nor the White House commented and Reuters could not verify the report, so the edge the map drew off the original FT-relayed report has been retired on an FT-relayed report of its cancellation. The route it represented, leasing NVIDIA parts offshore that cannot be sold into China directly, is now closed to it in that form, and NVIDIA is separately reported to be telling cloud partners to sell most of their capacity outside China.",
    "confidence": "verified",
    "valuation_musd": 474996,
    "ticker": "0700.HK",
@@ -2643,7 +2643,7 @@
    "layer": "data",
    "kind": "company",
    "signal": "public",
-   "role": "Cloud data warehouse pushing into model serving and agents.",
+   "role": "Cloud data warehouse pushing into model serving and agents: Cortex AI runs frontier models against governed enterprise data, and Snowflake Intelligence (rebranded CoWork, with Cortex Code as CoCo) is the agent surface on top. It has bought its way to model access with two matching $200M multi-year partnerships, OPENAI on 2026-02-02 and ANTHROPIC, each making the lab's models available natively inside Cortex AI across all three major clouds; OpenAI's frontier models are generally available there and GPT-6 Astra is in private preview, while Claude powers Cortex Code and Snowflake Intelligence and Snowflake is one of six launch partners in Anthropic's Claude Marketplace. Cortex also serves Google, Meta, Mistral, DeepSeek and AI21 models alongside Snowflake's own Arctic family, which makes it a model-agnostic gateway rather than any one lab's channel.",
    "confidence": "verified",
    "valuation_musd": 102524,
    "ticker": "SNOW",
@@ -3340,7 +3340,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "OCI",
-   "role": "OCI became a major AI compute host on the back of huge OpenAI commitments. Signed a reported $7B five-year deal with TENCENT (2026-10-01) to lease it roughly 100,000 advanced AI chips across Oracle data centres in Southeast Asia, about 30% payable upfront - Tencent's largest-ever overseas compute agreement, and a route for a Chinese company to reach NVIDIA silicon it cannot buy at home. Went multi-silicon at Oracle AI World on 2026-10-27, signing chip deals that reduce its reliance on NVIDIA without dropping it: it becomes the first hyperscaler outside Google to offer GOOGLE's TPUs, from 2027 and expanding over several years, with CEREBRAS inference on OCI planned for calendar 2027 and SAMBANOVA's SN50 inference parts to be deployed on no stated date. NVIDIA Vera Rubin NVL72 systems and Vera CPUs reached general availability on OCI at the same event, with a multi-gigawatt expansion planned, and Intel Diamond Rapids is slated for future X14 shapes. Oracle would not say how many TPUs it starts with, and none of the three new suppliers is drawn as an edge yet: this map waits for a chip deployment to land rather than drawing the announcement, the same rule that holds Microsoft's own Maia edge until 2027.",
+   "role": "OCI became a major AI compute host on the back of huge OpenAI commitments. It walked away from the reported $7B five-year deal with TENCENT (signed around 2026-10-01) to lease roughly 100,000 advanced AI chips across Oracle data centres in Southeast Asia: the FT reported on 2026-11-04 that Oracle scrapped it after US officials raised their concerns with the company directly, two days after Oracle's own $20B stock and bond sale. Oracle, Tencent and the White House all declined to comment and Reuters could not verify the report. Against a backlog Oracle puts at about $664B the lost contract is small, and the edge has been retired. Went multi-silicon at Oracle AI World on 2026-10-27, signing chip deals that reduce its reliance on NVIDIA without dropping it: it becomes the first hyperscaler outside Google to offer GOOGLE's TPUs, from 2027 and expanding over several years, with CEREBRAS inference on OCI planned for calendar 2027 and SAMBANOVA's SN50 inference parts to be deployed on no stated date. NVIDIA Vera Rubin NVL72 systems and Vera CPUs reached general availability on OCI at the same event, with a multi-gigawatt expansion planned, and Intel Diamond Rapids is slated for future X14 shapes. Oracle would not say how many TPUs it starts with, and none of the three new suppliers is drawn as an edge yet: this map waits for a chip deployment to land rather than drawing the announcement, the same rule that holds Microsoft's own Maia edge until 2027.",
    "confidence": "verified",
    "valuation_musd": 375088,
    "ticker": "ORCL",
@@ -4428,7 +4428,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "EDA",
-   "role": "The other half of the EDA duopoly.",
+   "role": "The other half of the EDA duopoly beside Synopsys, and increasingly a seller of agents rather than tools: ChipStack for RTL design and verification, AuraStack for PCB and advanced packaging, and AgentStack, the head agent that orchestrates the rest from chip to 3D-IC to system. Q3 2026 revenue was $1.633B against $1.339B a year earlier, with 2026 growth guidance raised to 21%. NVIDIA is both partner and customer: the expanded partnership announced at CadenceLIVE Silicon Valley on 2026-04-15 pairs Cadence tools with CUDA-X, AI physics and Omniverse libraries, and NVIDIA's own engineers are adopting the AgentStack flow in NVIDIA's semiconductor and system design flows, which is what finally dates the designed_with leg the map had left undrawn beside the AMD one. MICRON is folding GPU-accelerated Cadence technology and its agentic AI into its HBM memory design flow. Cadence also integrates the Omniverse DSX Blueprint for AI-factory digital twins used to design and optimise large Vera Rubin deployments, and has announced a sovereign AI design platform for Europe with NVIDIA.",
    "confidence": "verified",
    "valuation_musd": 90413,
    "ticker": "CDNS",
@@ -4644,7 +4644,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "Workers AI",
-   "role": "Edge network turned AI inference host; Workers AI serves models at the CDN edge, fed by the Replicate acquisition.",
+   "role": "Edge network turned AI inference host: Workers AI serves more than 50 models from the CDN edge in 200-plus cities on serverless pricing behind an OpenAI-compatible API, fed by the REPLICATE acquisition, and AI Gateway is converging with it into a single control plane that also proxies calls to third-party providers including Anthropic. Its closest model tie is OPENAI: Cloudflare was a day-0 launch partner for the gpt-oss open-weight models on Workers AI in August 2025, and the Agent Cloud expansion of 2026-04-13 lets developers pick OpenAI and open-source models from one catalogue with a one-line provider switch, with OpenAI quoted on agents powered by GPT-5.4 and Codex. Two further OpenAI threads are commercial rather than structural: a research pilot from 2026-07-08 feeding Cloudflare network signals such as content freshness into OpenAI's crawling and indexing, which covered about 1% of the network and surfaced hundreds of millions of new pages, and an early-access vulnerability discovery and remediation service built on OpenAI Daybreak models announced 2026-09-03.",
    "confidence": "verified",
    "valuation_musd": 94924,
    "ticker": "NET",
@@ -7035,7 +7035,7 @@
    "layer": "neo",
    "kind": "company",
    "signal": "$19B Anthropic lease",
-   "role": "Nasdaq-listed data-centre landlord to the frontier labs, and the second of the map's bitcoin miners turned AI landlord after Hut 8: it develops and leases powered shell and the tenant installs the silicon. Its subsidiary Raylan Data signed a 20-year lease with ANTHROPIC on 2026-07-06 for the whole 401 MW Justified Data campus at Hawesville, Kentucky, expected to produce about $19B of contracted revenue over the initial term, with two successive five-year renewal options that could extend the relationship to 30 years - the single largest lease on the map by contract value. At its Lake Mariner campus in upstate New York it has leased more than 200 MW to FLUIDSTACK on 10-year terms (2025-08-14, ~$3.7B), expanded by a 160 MW CB-5 building a week later to about $6.7B of contracted revenue and up to $16B with extensions, and then by a 168 MW, 25-year joint venture on 2025-10-28 worth about $9.5B, in which TeraWulf holds 51%. GOOGLE backstops those Fluidstack obligations - about $3.2B after the CB-5 expansion plus $1.3B behind the joint venture - which is the same credit substitution that underwrites the Hut 8 build, and the reason project debt is financeable at all. Fluidstack runs that capacity for Anthropic, so the chain anthropic -> fluidstack -> terawulf sits alongside the direct Kentucky lease. It is selling its 50.1% of the Abernathy, Texas joint venture to an investor group led by Fluidstack. The contracted figures are headline totals over decade-plus terms, not run-rate revenue, and are therefore a claim on counterparty credit.",
+   "role": "Nasdaq-listed data-centre landlord to the frontier labs, and the second of the map's bitcoin miners turned AI landlord after Hut 8: it develops and leases powered shell and the tenant installs the silicon. Its subsidiary Raylan Data signed a 20-year lease with ANTHROPIC on 2026-07-06 for the whole 401 MW Justified Data campus at Hawesville, Kentucky, expected to produce about $19B of contracted revenue over the initial term, with two successive five-year renewal options that could extend the relationship to 30 years - the single largest lease on the map by contract value. At its Lake Mariner campus in upstate New York it has leased more than 200 MW to FLUIDSTACK on 10-year terms (2025-08-14, ~$3.7B), expanded by a 160 MW CB-5 building a week later to about $6.7B of contracted revenue and up to $16B with extensions, and then by a 168 MW, 25-year joint venture on 2025-10-28 worth about $9.5B, in which TeraWulf holds 51%. GOOGLE backstops those Fluidstack obligations - about $3.2B after the CB-5 expansion plus $1.3B behind the joint venture - which is the same credit substitution that underwrites the Hut 8 build, and the reason project debt is financeable at all. On 2026-11-04 Google extended that credit support to the far larger Kentucky deal, signing agreements behind about $19B of Anthropic lease commitments at the Justified campus so TeraWulf can borrow against them on investment-grade terms, and TeraWulf signed a definitive expanded EPC contract with Fluor for the site the same day; one reading of the agreements has Google's support under each starting only when the last data hall under its lease starts, so it is not effective from signing, and first capacity is expected online in the second half of 2027. Fluidstack runs that capacity for Anthropic, so the chain anthropic -> fluidstack -> terawulf sits alongside the direct Kentucky lease. It is selling its 50.1% of the Abernathy, Texas joint venture to an investor group led by Fluidstack. The contracted figures are headline totals over decade-plus terms, not run-rate revenue, and are therefore a claim on counterparty credit.",
    "confidence": "verified",
    "valuation_musd": 5838,
    "ticker": "WULF",
@@ -7790,6 +7790,100 @@
    ],
    "as_of": "2026-05-20",
    "domain": "hark.com",
+   "region": "us"
+  },
+  {
+   "id": "agility",
+   "name": "Agility Robotics",
+   "sector": "physical",
+   "layer": "physical",
+   "kind": "company",
+   "signal": "Digit humanoid",
+   "role": "Digit, the bipedal humanoid built for warehouse and logistics work, and the first humanoid maker on the map to reach a public listing. It completed its combination with Churchill Capital Corp XI on 2026-11-04 and its shares and warrants began trading on Nasdaq on 2026-11-05 as AGLT and AGLTW, after Churchill XI holders approved the deal on 2026-11-02 with over 84% of votes cast in favour and the SPAC domesticated from the Cayman Islands to Delaware. The combination carried a pre-money equity value of $2.5B, and redemptions cut the expected gross raise to about $465M: roughly $164M from the trust, about $201M from a $10-a-share PIPE led by FOXCONN, and $100M of equity received after the announcement, against the more than $620M of the June 2026 deck. It builds Digit at RoboFab in Salem, Oregon, a 70,000 sq ft plant designed for up to 10,000 robots a year, and says it has secured more than $300M of multi-year contracted Digit v5 orders. Its own releases name NVIDIA, AMAZON, SoftBank Vision Fund 2, Schaeffler, Foxconn, Abico, DCVC and Playground Global as strategic investors and partners; Amazon came in through the Amazon Industrial Innovation Fund at the 2022 Series B, and Schaeffler is also a customer, alongside GXO and Toyota Motor Manufacturing Canada. Digit 5 will standardise on NVIDIA IGX Thor for onboard compute (announced 2026-10-22), which would make NVIDIA the exclusive onboard compute supplier, but early access only begins in the first half of 2027, so that leg is held under the map's rule that a silicon deployment is drawn when it lands. The mark belongs to the ticker feed from the first close; the figure carried on admission is the de-SPAC pre-money, which the weekday cron replaces.",
+   "confidence": "verified",
+   "valuation_musd": 2500,
+   "ticker": "AGLT",
+   "valuation_live": true,
+   "sources": [
+    {
+     "title": "Agility Robotics and Churchill Capital Corp XI (joint press release, GlobeNewswire), Agility Robotics and Churchill Capital Corp XI Complete Business Combination - closed 2026-11-04, common stock and warrants to begin trading on Nasdaq on 2026-11-05 as AGLT and AGLTW",
+     "url": "https://www.globenewswire.com/news-release/2026/11/04/3395899/0/en/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination.html",
+     "as_of": "2026-11-04",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Agility Robotics, Agility Robotics and Churchill Capital Corp XI Announce Expected Gross Capital Raise of Approximately $465 Million and Anticipated Closing of Business Combination - pre-money equity value of $2.5B, about $164M from trust, about $201M PIPE at $10 a share led by Foxconn, $100M already received",
+     "url": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination",
+     "as_of": "2026-10-30",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Agility Robotics (GlobeNewswire), Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot - more than $300M of multi-year contracted Digit v5 orders; strategic investors and partners named as NVIDIA, Amazon, SoftBank Vision Fund 2, Schaeffler, Foxconn, Abico, DCVC and Playground Global",
+     "url": "https://www.globenewswire.com/news-release/2026/10/26/3388115/0/en/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot.html",
+     "as_of": "2026-10-26",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "Churchill Capital Corp XI, Churchill Capital Corp XI Shareholders Approve Business Combination with Agility Robotics - over 84% of votes cast in favour, Cayman-to-Delaware domestication approved",
+     "url": "https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics",
+     "as_of": "2026-11-02",
+     "backs": [
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-11-04",
+   "domain": "agilityrobotics.com",
+   "region": "us"
+  },
+  {
+   "id": "penguin",
+   "name": "Penguin Solutions",
+   "sector": "semi",
+   "layer": "semi",
+   "kind": "company",
+   "signal": "AI cluster integrator",
+   "role": "The Nasdaq-listed systems company that designs, builds and then runs AI and HPC compute clusters for other people, through its Penguin Computing arm, alongside an Integrated Memory segment (SMART Modular) that makes DRAM modules and an Optimized LED business. It is the integrator layer the map had no node for: the party that takes GPUs, memory and networking and hands a customer a working cluster plus managed services. SK HYNIX disclosed a 9.1% beneficial stake on 2026-11-03 in a Schedule 13D: 200,000 convertible preferred shares held by SHIFTIX1 LLC, an indirectly wholly owned subsidiary of HYAICO Corporation, itself majority owned by SK hynix, bought on 2026-10-29 under a stock transfer agreement dated 2026-07-27 from Astra AI Infra LLC, an SK Telecom special purpose vehicle that had held the shares since December 2024. It is a secondary purchase, so the money went to SK Telecom's vehicle rather than to Penguin. Relays of the filing put the price at about $377.2M (roughly KRW510B) against a $200M accumulated stated value and a $32.81 conversion price at issuance, and the investor agreement gives the SK hynix side the right to nominate one director, two if the board reaches twelve, while it holds at least 5% of the common stock. HYAICO is SK hynix's new US AI investment vehicle, chaired by Chey Tae-won, with a stated ceiling of up to $10B. The mark is the market cap and belongs to the ticker feed; the figure carried on admission was read off a quote page at the 2026-11-04 close.",
+   "confidence": "verified",
+   "valuation_musd": 2910,
+   "ticker": "PENG",
+   "valuation_live": true,
+   "sources": [
+    {
+     "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
+     "url": "https://finance.yahoo.com/quote/PENG/",
+     "as_of": "2026-11-05",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "stockanalysis.com quote page, Penguin Solutions (PENG) market cap $2.91B at the 2026-11-04 close, share price $48.38 (hand seed read off the quote page; replaced by the ticker feed at the next weekday close)",
+     "url": "https://stockanalysis.com/stocks/peng/market-cap/",
+     "as_of": "2026-11-04",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Penguin Solutions Schedule 13D (SEC EDGAR), SK hynix Inc. and HYAICO Corporation report sole power over 200,000 convertible preferred shares held by SHIFTIX1 LLC, bought from Astra AI Infra LLC on the 2026-10-29 closing date",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001616533/000119312526444399/primary_doc.xml",
+     "as_of": "2026-11-03",
+     "backs": [
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-11-05",
+   "domain": "penguinsolutions.com",
    "region": "us"
   }
  ],

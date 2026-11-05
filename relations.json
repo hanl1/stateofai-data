@@ -637,20 +637,20 @@
    "target": "asml",
    "type": "equipped_by",
    "from": "industry-map",
-   "url": "https://pr.tsmc.com/english/news/2995",
+   "url": "https://pr.tsmc.com/english/news/3274",
    "confidence": "verified",
-   "title": "TSMC, TSMC Presents 2022 Excellent Performance Award to Outstanding Suppliers (names ASML)",
-   "as_of": "2023-01-18"
+   "title": "TSMC, TSMC 2025 Supply Chain Management Forum Presents Awards to Outstanding Suppliers - ASML recognised for Excellent Contribution in Green Manufacturing and Excellent Production Support",
+   "as_of": "2025-11-28"
   },
   {
    "source": "tsmc",
    "target": "amat",
    "type": "equipped_by",
    "from": "industry-map",
-   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000044/amat-20241027.htm",
+   "url": "https://pr.tsmc.com/english/news/3274",
    "confidence": "verified",
-   "title": "Applied Materials 10-K FY2024 (TSMC 11% of revenue)",
-   "as_of": "2024-12-13"
+   "title": "TSMC, TSMC 2025 Supply Chain Management Forum Presents Awards to Outstanding Suppliers - Applied Materials recognised again, its 16th consecutive year among TSMC's awarded suppliers",
+   "as_of": "2025-11-28"
   },
   {
    "source": "tsmc",
@@ -1945,9 +1945,9 @@
    "type": "rivals",
    "from": "expansion-2026-08",
    "confidence": "reported",
-   "url": "https://techcrunch.com/?p=2090070",
-   "title": "techcrunch.com, Horizon Robotics, a Chinese rival to Nvidia, seeks to raise over $700M | TechCrunch",
-   "as_of": "2020-12-22"
+   "url": "https://www.digitimes.com/news/a20260618VL211/nvidia-horizon-robotics-autonomous-driving-china-market-2026.html",
+   "title": "DIGITIMES, Nvidia leads China assisted-driving chip market; Horizon Robotics rises to second - the two are described as a duopoly in Chinese assisted-driving domain controllers, NVIDIA first on installations and Horizon second",
+   "as_of": "2026-06-18"
   },
   {
    "source": "fal",
@@ -3116,18 +3116,6 @@
    "as_of": "2026-10-01"
   },
   {
-   "source": "tencent",
-   "target": "oracle",
-   "type": "rents",
-   "from": "datapass-2026-10-02",
-   "confidence": "reported",
-   "url": "https://www.trendforce.com/news/2026/10/01/news-tencent-reportedly-signs-7b-deal-to-lease-100000-ai-chips-from-oracle-in-southeast-asia/",
-   "title": "trendforce.com, [News] Tencent Reportedly Signs $7B Deal to Lease 100,000 AI Chips From Oracle in Southeast Asia",
-   "as_of": "2026-10-01",
-   "amount": "~$7B over 5 yrs",
-   "amount_musd": 7000
-  },
-  {
    "source": "synopsys",
    "target": "openai",
    "type": "builds_on",
@@ -3462,11 +3450,11 @@
    "type": "commits_to",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm",
-   "amount": "~$3.2B backstop",
-   "amount_musd": 3200,
-   "as_of": "2025-08-18",
-   "title": "TeraWulf 8-K exhibit 99.1, TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner (Google raises its backstop of Fluidstack lease obligations to $3.2B)"
+   "url": "https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement",
+   "amount": "~$19B of Anthropic lease commitments backstopped",
+   "amount_musd": 19000,
+   "as_of": "2026-11-04",
+   "title": "TeraWulf (company press release), TeraWulf Secures Google Credit Backstop for Project Financing in Support of $19 Billion Anthropic Lease; Executes Definitive Fluor EPC Agreement - credit support agreements with Google covering about $19B of contracted Anthropic lease commitments at the Justified Data Campus, on top of the roughly $3.2B backstop of Fluidstack obligations at Lake Mariner"
   },
   {
    "source": "microsoft",
@@ -4349,7 +4337,79 @@
    "confidence": "reported",
    "title": "TechCrunch, Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
    "as_of": "2025-09-03"
+  },
+  {
+   "source": "amazon",
+   "target": "agility",
+   "type": "invests_in",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.globenewswire.com/news-release/2026/10/26/3388115/0/en/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot.html",
+   "title": "Agility Robotics (GlobeNewswire), Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot - Agility names Amazon among its strategic investors and partners; the Amazon Industrial Innovation Fund invested at the $150M Series B in 2022",
+   "as_of": "2026-10-26"
+  },
+  {
+   "source": "nvidia",
+   "target": "agility",
+   "type": "invests_in",
+   "from": "datapass-2026-11-05",
+   "confidence": "reported",
+   "url": "https://www.globenewswire.com/news-release/2026/10/26/3388115/0/en/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot.html",
+   "title": "Agility Robotics (GlobeNewswire), Agility Robotics Highlights Commercial Momentum and Growing Enterprise Demand for Digit Humanoid Robot - NVIDIA is named first in a combined list of strategic investors and partners, so the release does not separate the investment from the compute partnership and no round is named",
+   "as_of": "2026-10-26"
+  },
+  {
+   "source": "skhynix",
+   "target": "penguin",
+   "type": "invests_in",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001616533/000119312526444399/primary_doc.xml",
+   "title": "Penguin Solutions Schedule 13D (SEC EDGAR), SK hynix Inc. reports sole power over 200,000 Penguin Solutions convertible preferred shares, a 9.1% beneficial stake, held by SHIFTIX1 LLC through HYAICO Corporation and bought from SK Telecom's Astra AI Infra LLC on the 2026-10-29 closing date",
+   "as_of": "2026-10-29"
+  },
+  {
+   "source": "snowflake",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.snowflake.com/en/news/press-releases/snowflake-and-openAI-forge-200-million-partnership-to-bring-enterprise-ready-ai-to-the-worlds-most-trusted-data-platform/",
+   "title": "Snowflake (company press release), Snowflake and OpenAI Forge $200 Million Partnership to Bring Enterprise-Ready AI to the World's Most Trusted Data Platform - a multi-year agreement making OpenAI models available natively in Snowflake Cortex AI and Snowflake Intelligence across all three major clouds",
+   "as_of": "2026-02-02",
+   "amount": "$200M over multiple years",
+   "amount_musd": 200
+  },
+  {
+   "source": "cloudflare",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-expands-its-agent-cloud-to-power-the-next-generation-of-agents/",
+   "title": "Cloudflare (company press release), Cloudflare Expands its Agent Cloud to Power the Next Generation of Agents - developers pick OpenAI and open-source models from one catalogue on Cloudflare, with an OpenAI quote on agents powered by GPT-5.4 and Codex; Cloudflare was also a day-0 launch partner for OpenAI's gpt-oss open models on Workers AI",
+   "as_of": "2026-04-13"
+  },
+  {
+   "source": "nvidia",
+   "target": "cadence",
+   "type": "designed_with",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html",
+   "title": "Cadence (company press release), Cadence and NVIDIA Expand Partnership to Reinvent Engineering for the Age of AI and Accelerated Computing - NVIDIA engineers are adopting the Cadence AgentStack flow in NVIDIA's own semiconductor and system design flows and feeding back real-world results",
+   "as_of": "2026-04-15"
+  },
+  {
+   "source": "micron",
+   "target": "cadence",
+   "type": "designed_with",
+   "from": "datapass-2026-11-05",
+   "confidence": "verified",
+   "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-and-nvidia-expand-partnership-to-reinvent-engineering.html",
+   "title": "Cadence (company press release), Cadence and NVIDIA Expand Partnership to Reinvent Engineering for the Age of AI and Accelerated Computing - Micron is integrating GPU-accelerated Cadence design technologies and Cadence's agentic AI solution directly into its HBM memory design flow",
+   "as_of": "2026-04-15"
   }
  ],
- "as_of": "2026-11-04"
+ "as_of": "2026-11-05"
 }
