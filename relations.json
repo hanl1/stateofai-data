@@ -246,10 +246,10 @@
    "target": "mercor",
    "type": "trains_on",
    "from": "industry-map",
-   "url": "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share",
-   "confidence": "reported",
-   "title": "TechCrunch, How AI labs use Mercor to get the data companies won't share (customers include OpenAI, Anthropic and Meta)",
-   "as_of": "2025-10-29"
+   "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+   "confidence": "verified",
+   "title": "WIRED, Meta Pauses Work With Mercor After Data Breach (an OpenAI spokesperson confirmed its projects with Mercor continue)",
+   "as_of": "2026-04-03"
   },
   {
    "source": "openai",
@@ -4309,6 +4309,46 @@
    "confidence": "reported",
    "title": "Tom's Hardware, Blacklisted Chinese AI GPU champ Biren preps for IPO (a Chinese AI GPU developer that rivals Nvidia)",
    "as_of": "2024-09-12"
+  },
+  {
+   "source": "anthropic",
+   "target": "mercor",
+   "type": "trains_on",
+   "from": "integrity-2026-11-04",
+   "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+   "confidence": "reported",
+   "title": "WIRED, Meta Pauses Work With Mercor After Data Breach (OpenAI, Anthropic and other labs rely on Mercor for training data)",
+   "as_of": "2026-04-03"
+  },
+  {
+   "source": "nvidia",
+   "target": "mercor",
+   "type": "trains_on",
+   "from": "integrity-2026-11-04",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-explores-stake-ai-204528438.html",
+   "confidence": "reported",
+   "title": "Yahoo Finance, Nvidia Reportedly Explores Stake in AI Data Provider Mercor (Mercor data used in NVIDIA's Nemotron models)",
+   "as_of": "2026-08-19"
+  },
+  {
+   "source": "alphabet",
+   "target": "mercor",
+   "type": "trains_on",
+   "from": "integrity-2026-11-04",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-explores-stake-ai-204528438.html",
+   "confidence": "reported",
+   "title": "Yahoo Finance, Nvidia Reportedly Explores Stake in AI Data Provider Mercor (names Google among Mercor's main revenue sources)",
+   "as_of": "2026-08-19"
+  },
+  {
+   "source": "mercor",
+   "target": "scaleai",
+   "type": "rivals",
+   "from": "integrity-2026-11-04",
+   "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers",
+   "confidence": "reported",
+   "title": "TechCrunch, Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
+   "as_of": "2025-09-03"
   }
  ],
  "as_of": "2026-11-04"

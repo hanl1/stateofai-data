@@ -2701,8 +2701,8 @@
    "layer": "data",
    "kind": "company",
    "signal": "expert data",
-   "role": "Marketplace routing domain experts into model training data.",
-   "confidence": "reported",
+   "role": "Marketplace routing domain experts such as scientists, doctors and lawyers into model training data for AI labs. A March 2026 supply-chain attack through the open-source LiteLLM project breached it, and Meta paused its work with Mercor that April. Scale AI sued it over alleged trade-secret theft in September 2025.",
+   "confidence": "verified",
    "valuation_musd": 10000,
    "sources": [
     {
@@ -2717,6 +2717,30 @@
      "title": "Bloomberg, Mercor discusses $20B valuation (early talks; not a mark)",
      "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
      "as_of": "2026-07-09",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "TechCrunch, Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+     "as_of": "2026-03-31",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "WIRED, Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+     "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+     "as_of": "2026-04-03",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "TechCrunch, Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
+     "url": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers",
+     "as_of": "2025-09-03",
      "backs": [
       "role"
      ]
