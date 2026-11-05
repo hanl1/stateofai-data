@@ -7810,8 +7810,7 @@
      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395899/0/en/agility-robotics-and-churchill-capital-corp-xi-complete-business-combination.html",
      "as_of": "2026-11-04",
      "backs": [
-      "valuation",
-      "role"
+      "valuation"
      ]
     },
     {
@@ -7819,7 +7818,6 @@
      "url": "https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination",
      "as_of": "2026-10-30",
      "backs": [
-      "valuation",
       "role"
      ]
     },
