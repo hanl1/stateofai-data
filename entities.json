@@ -451,36 +451,28 @@
    "layer": "app",
    "kind": "company",
    "signal": "autonomy",
-   "role": "Autonomous flight software for uncrewed aircraft; Hivemind autonomy stack and the X-BAT jet. The March 2026 round funded its acquisition of flight-simulation maker Aechelon and followed a US Air Force CCA award.",
+   "role": "Autonomous flight software for uncrewed aircraft; Hivemind autonomy stack and the X-BAT jet. On 2026-11-05 it agreed to acquire radar maker Echodyne in a transaction it values at $5.3B, $4.8B paid and issued at closing plus up to $500M contingent on performance targets, and raised $2.5B to fund it: a $1B Series H at a $28.8B post-money, $1B of structured equity from Blackstone funds and $500M of debt led by JPMorgan Chase Bank. The Series H alone prices the company, and part of the jump reflects the acquired business. The Echodyne deal is expected to close in early 2027 subject to regulatory approval. The March 2026 round funded its acquisition of flight-simulation maker Aechelon and followed a US Air Force CCA award.",
    "confidence": "verified",
-   "valuation_musd": 12700,
+   "valuation_musd": 28800,
    "sources": [
     {
-     "title": "Shield AI, $1.5B Series G at a $12.7B post led by Advent International, co-led by JPMorganChase's Strategic Investment Group, plus $500M preferred from Blackstone",
-     "url": "https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/",
-     "as_of": "2026-03-26",
+     "title": "Shield AI, Shield to acquire Echodyne in a transaction valued at $5.3 billion and raise $2.5 billion at a $28.8 billion valuation - $1B Series H at a $28.8B post-money co-led by Disruptive and Innovation X Capital, with Advent, JPMorganChase's Strategic Investment Group, Snowpoint Ventures, Apandion and Center15 Capital, plus $1B of structured equity from Blackstone funds and $500M of debt led by JPMorgan Chase Bank",
+     "url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+     "as_of": "2026-11-05",
      "backs": [
       "valuation"
      ]
     },
     {
-     "title": "Bloomberg, Shield AI raises $2 billion, doubling valuation to $12.7 billion",
-     "url": "https://www.bloomberg.com/news/articles/2026-03-26/defense-startup-shield-ai-nabs-2-billion-at-12-7-billion-value",
-     "as_of": "2026-03-26",
-     "backs": [
-      "valuation"
-     ]
-    },
-    {
-     "title": "TechCrunch, Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
-     "url": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
-     "as_of": "2026-03-26",
+     "title": "Bloomberg, Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-05/defense-tech-startup-shield-ai-raises-2-5-billion-for-echodyne-deal",
+     "as_of": "2026-11-05",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-03-26",
+   "as_of": "2026-11-05",
    "domain": "shield.ai",
    "region": "us"
   },
@@ -1126,7 +1118,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "robots · 688836",
-   "role": "Chinese humanoid and quadruped maker; aggressive price leadership. First listed humanoid robot maker - STAR debut Aug 19, 2026, +460% day one.",
+   "role": "Chinese humanoid and quadruped maker; aggressive price leadership. First listed humanoid robot maker - STAR debut Aug 19, 2026, +460% day one. Its H2 Plus is the first humanoid reference design built on NVIDIA Isaac GR00T, pairing the H2 body with NVIDIA's Jetson T5000 Thor module for onboard compute and Sharpa's five-finger hands; NVIDIA announced the platform with Unitree on 2026-06-01, the same day Unitree was approved to list in Shanghai, said anyone would be able to buy it from October, and named Stanford among the research buyers.",
    "confidence": "verified",
    "valuation_musd": 41484,
    "sources": [
@@ -7717,7 +7709,7 @@
    "layer": "semi",
    "kind": "company",
    "signal": "AI optics",
-   "role": "Lasers, optical transceivers and compound-semiconductor materials; the other half of the AI optical supply chain beside Lumentum. Data Center and Communications was about 79% of a recent quarter's revenue, with that segment at roughly $1.62B and up about 59% year on year, against $1.81B of total fiscal Q3 2026 revenue. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split evenly with Lumentum, each leg paired with a multi-year strategic agreement carrying a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; NVIDIA stated no figure for the purchase commitment, so only the equity leg is drawn, and Coherent said it would use the money to build out its domestic manufacturing footprint. Added to the map on 2026-11-03 off the Marvell/Lumentum deal, which repriced the layer: Northland upgraded Coherent to Outperform on 2026-11-02 on the value of scarce AI optics. Reports earnings 2026-11-04. The mark is the market cap and belongs to the ticker feed, which took the field over on 2026-11-04 and replaced the hand seed the 2026-11-03 pass had read off a quote page.",
+   "role": "Lasers, optical transceivers and compound-semiconductor materials; the other half of the AI optical supply chain beside Lumentum. Data Center and Communications was about 79% of a recent quarter's revenue, with that segment at roughly $1.62B and up about 59% year on year, against $1.81B of total fiscal Q3 2026 revenue. NVIDIA put $2B into it on 2026-03-02, half of a $4B photonics investment split evenly with Lumentum, each leg paired with a multi-year strategic agreement carrying a multibillion-dollar NVIDIA purchase commitment and non-exclusive future capacity access rights; NVIDIA stated no figure for the purchase commitment, so only the equity leg is drawn, and Coherent said it would use the money to build out its domestic manufacturing footprint. Added to the map on 2026-11-03 off the Marvell/Lumentum deal, which repriced the layer: Northland upgraded Coherent to Outperform on 2026-11-02 on the value of scarce AI optics. With fiscal Q1 2027 results on 2026-11-04 it disclosed a PhotonLink agreement worth about $20B over five years with a major AI customer it did not name, expects more than $100M of PhotonLink revenue in the March quarter with the ramp in early calendar 2028, and reported record quarterly revenue of $2.37B, up about 50% year on year; the shares still fell about 16% the next day in a broad AI-hardware selloff. The customer is unnamed, so the deal draws no edge. The mark is the market cap and belongs to the ticker feed, which took the field over on 2026-11-04 and replaced the hand seed the 2026-11-03 pass had read off a quote page.",
    "confidence": "verified",
    "valuation_musd": 33431,
    "ticker": "COHR",
@@ -7874,6 +7866,70 @@
    ],
    "as_of": "2026-11-06",
    "domain": "penguinsolutions.com",
+   "region": "us"
+  },
+  {
+   "id": "echodyne",
+   "name": "Echodyne",
+   "sector": "app",
+   "layer": "app",
+   "kind": "company",
+   "signal": "defense · radar",
+   "role": "Metamaterials electronically scanned array radar for counter-drone, perimeter security and autonomy, in service with defence, government and commercial customers in more than 40 countries. Shield AI agreed on 2026-11-05 to acquire it in a transaction Shield values at $5.3B, with $4.8B paid and issued at closing and up to a further $500M contingent on Echodyne meeting agreed performance targets; the deal is expected to close in early 2027 subject to regulatory approval, so the mark is the deal price and not a round. The Bill Gates-backed Kirkland, Washington company is one of ten suppliers on a US Army domestic counter-drone award with a $250M ceiling.",
+   "confidence": "reported",
+   "valuation_musd": 5300,
+   "sources": [
+    {
+     "title": "Shield AI, Shield to acquire Echodyne in a transaction valued at $5.3 billion - $4.8B paid and issued at closing plus up to $500M contingent on agreed performance targets, close expected early 2027 subject to regulatory approval",
+     "url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+     "as_of": "2026-11-05",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "GeekWire, Shield AI to buy Bill Gates-backed radar maker Echodyne in $5.3B deal, doubling down on Seattle area",
+     "url": "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal/",
+     "as_of": "2026-11-05",
+     "backs": [
+      "valuation"
+     ]
+    }
+   ],
+   "as_of": "2026-11-05",
+   "domain": "echodyne.com",
+   "region": "us"
+  },
+  {
+   "id": "taalas",
+   "name": "Taalas",
+   "sector": "chip",
+   "layer": "chip",
+   "kind": "company",
+   "signal": "AMD · $2.9B",
+   "role": "Toronto startup that etches a single AI model directly into silicon, so the weights live in on-chip ROM rather than in external memory; its first chip ran a version of Meta's Llama 3.1. Founded in 2023, it had raised about $219M of venture funding. AMD signed a definitive agreement to acquire it on 2026-08-06 without a price and disclosed the figure in its 10-Q filed 2026-11-04: approximately $2.9B in cash and stock, including up to approximately $1.4B of contingent consideration. The cash and stock split was not disclosed. AMD expects the deal to close in its fourth quarter of fiscal 2026 subject to regulatory approval, and says it will pair the technology with Instinct GPUs, EPYC CPUs and the Helios rackscale systems, with the team joining its AI group.",
+   "confidence": "verified",
+   "valuation_musd": 2900,
+   "sources": [
+    {
+     "title": "AMD 10-Q for the quarter ended 2026-09-26, filed 2026-11-04 - the Taalas acquisition valued at approximately $2.9B including up to approximately $1.4B of contingent consideration",
+     "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000191/amd-20260926.htm",
+     "as_of": "2026-11-04",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "The Globe and Mail, AMD to pay $2.9-billion for AI chip firm Taalas in one of the largest Canadian tech takeovers",
+     "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+     "as_of": "2026-11-04",
+     "backs": [
+      "valuation"
+     ]
+    }
+   ],
+   "as_of": "2026-11-04",
+   "domain": "taalas.com",
    "region": "us"
   }
  ],
