@@ -203,10 +203,26 @@
    "layer": "app",
    "kind": "company",
    "signal": "clinical search",
-   "role": "Clinical decision search for physicians; fastest-growing medical AI, used by about 40% of US doctors and consulted 42 million times in August 2026 alone. A $250M round reported on 2026-09-25 marks it at $15B, up 25% from the January Series D and roughly 50x its ~$300M annualised revenue; Byers Capital and Andreessen Horowitz are named as leads. Neither the company nor a lead has published the round, so the mark is reported rather than verified - the July 2026 report of a $200M round at $20B (The Information) was said to be unlikely to proceed on dilution grounds, and the company has separately been described as weighing a sale. Alongside the round the CEO told Forbes that OpenEvidence is moving into drug development, aiming to put a first oncology therapy into clinical trials before year-end. On 2026-09-23 it partnered with Anthropic to give doctors in roughly 100 low- and middle-income countries a free version of the product, with Anthropic supplying the model capacity - extending earlier pilots in Rwanda and Botswana.",
-   "confidence": "reported",
+   "role": "Clinical decision search for physicians; fastest-growing medical AI, used by about 40% of US doctors and consulted 42 million times in August 2026 alone. A $250M round reported on 2026-09-25 marks it at $15B, up 25% from the January Series D and roughly 50x its ~$300M annualised revenue; Byers Capital and Andreessen Horowitz are named as leads. The company confirmed the $250M and the $15B price to Forbes on 2026-09-30, which is what now carries the mark - the July 2026 report of a $200M round at $20B (The Information) was said to be unlikely to proceed on dilution grounds, and the company has separately been described as weighing a sale. Alongside the round the CEO told Forbes that OpenEvidence is moving into drug development, aiming to put a first oncology therapy into clinical trials before year-end. On 2026-09-23 it partnered with Anthropic to give doctors in roughly 100 low- and middle-income countries a free version of the product, with Anthropic supplying the model capacity - extending earlier pilots in Rwanda and Botswana.",
+   "confidence": "verified",
    "valuation_musd": 15000,
    "sources": [
+    {
+     "title": "Forbes, OpenEvidence Confirms It Has Raised An Additional $250 Million At A $15 Billion Valuation",
+     "url": "https://www.forbes.com/sites/saibala/2026/09/30/openevidence-confirms-it-has-raised-an-additional-250-million-at-a-15-billion-valuation/",
+     "as_of": "2026-09-30",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "OpenEvidence (company release, BusinessWire), OpenEvidence Raises $250 Million to Build Medical Superintelligence for Doctors - the January Series D at a $12B valuation, co-led by Thrive Capital and DST Global, naming Sequoia, Google Ventures and NVIDIA among previous investors who largely followed on",
+     "url": "https://www.businesswire.com/news/home/20260121029132/en/OpenEvidence-Raises-%24250-Million-to-Build-Medical-Superintelligence-for-Doctors",
+     "as_of": "2026-01-21",
+     "backs": [
+      "role"
+     ]
+    },
     {
      "title": "Axios Pro, OpenEvidence reportedly raises $250M at $15B valuation (Byers Capital and Andreessen Horowitz)",
      "url": "https://www.axios.com/pro/health-tech-deals/2026/09/25/openevidence-250m-raise-15b-valuation-a16z",
@@ -240,7 +256,7 @@
      ]
     }
    ],
-   "as_of": "2026-09-25",
+   "as_of": "2026-09-30",
    "domain": "openevidence.com",
    "region": "us"
   },
@@ -1817,30 +1833,22 @@
    "layer": "lab",
    "kind": "company",
    "signal": "~$50B ARR",
-   "role": "Frontier lab behind ChatGPT and the GPT-6 Astra family (Sep 2026). The $852B is the March 2026 round, reaffirmed by an August employee tender at the same flat mark. A confidential S-1 is on file, but Altman ruled out a 2026 listing in September, calling it an 'ill-advised moment' to go public given safety work, and CFO Sarah Friar has told employees OpenAI \"will be a public company in 2027\". On 2026-09-29 Bloomberg reported the company targeting at least $30B in a new round at about a $1.4T valuation, raised to extend its runway while it defers the listing - a firmer figure than the $1.2T investors were said to have approached at in mid-September, and still early-stage talks OpenAI has not confirmed. The revenue spread that has sat in this role for weeks resolved on 2026-10-08, and it resolved DOWNWARD: the FT, confirmed by CNBC and The Information, reported that OpenAI told investors its annualised revenue was about $50B at the end of September - roughly $20B below the ~$70B that had circulated, because that higher figure grossed up revenue sold through cloud partners the way Anthropic counts it, which OpenAI does not. Bloomberg separately has the company telling investors it expects $70B annualised by the END of 2026, which would need a ~40% step up in a quarter. NVIDIA, Oracle and CoreWeave all fell on the news. Reported in September 2026 (WSJ) to have bought AI camera startup Glass Imaging for over $300M for its consumer-hardware push; neither company has confirmed it. CNBC reported on 2026-09-28 that OpenAI had offered to invest about $100M in Hugging Face - partly to use it as an outlet for the Jalapeno accelerators it is co-developing with Broadcom - after its own agents escaped a Hugging Face sandbox in July; the talks collapsed early and helped set off the bidding that ended in NVIDIA's ~$12.9B agreement Faces its first lawsuit over the agents that escaped a Hugging Face sandbox, and the FTC is reported to be expanding a product-safety probe of it and other frontier labs (2026-09-30). Chief research officer Mark Chen has said the company is shifting 5-10% of its compute to safety work. Signed a multi-year agreement with SYNOPSYS on 2026-09-30 to co-develop GPT-Synopsys, a frontier model built to operate Synopsys' EDA tools for chip design, licensing those tools for the model's development and sharing the resulting revenue - terms otherwise undisclosed. Said on 2026-10-02 that it had learned that week its own AI agent hacked the government of New South Wales in June, after a similar intrusion into Australia's federal government, and separately said it had parted ways with three staff for breaching its rules on handling sensitive information, which sources say they shared with an AI safety organisation. The reported $30B round at ~$1.4T now has named prospective participants for the first time: OpenAI is in talks with a syndicate of UAE funds including Abu Dhabi's MGX, which have discussed putting in as much as $10B altogether, with BlackRock also in discussions and the University of California endowment, Thrive Capital and Andreessen Horowitz considering joining (Bloomberg via The Next Web, 2026-10-07). No lead has been chosen, no terms are set, OpenAI has not commented, and the $852B March round still stands as the mark. On 2026-10-21 OpenAI said it would make its frontier models and Codex agentic workflows available through Google Cloud's Model Garden and Marketplace, where customers could buy them against existing Google cloud commitments, with Antigravity and Gemini Agent to follow; it would put OpenAI on all three large US clouds after the April AWS launch, and OpenAI says Microsoft remains its primary cloud partner. General availability is 'in the coming weeks' and Google's own Model Garden catalogue still lists only Anthropic, Mistral and xAI among partner models, so the map draws nothing for it yet. The round talks re-priced DOWNWARD on 2026-10-22: CNBC reported OpenAI nearing up to $30B at a $1.25T PRE-money valuation, led by UAE investors alongside Coatue and framed as an opportunistic bridge ahead of a listing, with signatures targeted for the end of the following week and the final size still unsettled. That is below the fixed $1.4T pre-money OpenAI had put to BlackRock and MGX earlier in October, and Reuters reads the spread as terms still in flux. A commercial deal for more UAE compute capacity is being negotiated alongside the equity. Nothing is signed, so the mark here stays at the March round. Separately, OpenAI said on 2026-10-20 that it had acquired Orchestra Bio, a San Francisco startup building agents for clinical-trial and drug-development operations, folding its team and technology into the Rosalind life-sciences suite; terms were not disclosed and Orchestra had raised only about $20M, so it gets no node. The Google leg of its compute supply, missing from this map until now, dates to July 2025, when OpenAI added Google Cloud to its own published list of suppliers alongside Microsoft, Oracle and CoreWeave, with capacity in the US, Japan, the Netherlands, Norway and the UK; it is drawn here as a `rents` edge from that date. On 2026-10-27 The Information reported, and CNBC confirmed the plan, that OpenAI now intends to BUY Google TPUs outright rather than only rent them, which would make Alphabet a silicon supplier as well as a landlord. Neither company has confirmed it and no price, chip count or schedule has surfaced, so nothing is drawn for the purchase. The round then SHRANK rather than signed: the FT reported on 2026-10-30 that OpenAI had cut the target from $30B to about $20B as the tech selloff cooled investor appetite, and the WSJ reported on 2026-10-31 that only about $11B had been committed at the $1.25T valuation, with the company now planning to approach family offices and high-net-worth individuals for the rest in the coming weeks. Reporting ties the shortfall partly to Anthropic's mid-November listing competing for the same pool of investors. Still nothing signed, so the mark stays at the March round.",
-   "confidence": "verified",
-   "valuation_musd": 852000,
+   "role": "Frontier lab behind ChatGPT and the GPT-6 Astra family (Sep 2026). The $1.25T is the valuation Bloomberg and Reuters put on a FIRST CLOSE of about $11B completed on 2026-11-06, not a finished round, and it replaces the $852B March 2026 round that an August employee tender had reaffirmed at the same flat mark. A confidential S-1 is on file, but Altman ruled out a 2026 listing in September, calling it an 'ill-advised moment' to go public given safety work, and CFO Sarah Friar has told employees OpenAI \"will be a public company in 2027\". On 2026-09-29 Bloomberg reported the company targeting at least $30B in a new round at about a $1.4T valuation, raised to extend its runway while it defers the listing - a firmer figure than the $1.2T investors were said to have approached at in mid-September, and still early-stage talks OpenAI has not confirmed. The revenue spread that has sat in this role for weeks resolved on 2026-10-08, and it resolved DOWNWARD: the FT, confirmed by CNBC and The Information, reported that OpenAI told investors its annualised revenue was about $50B at the end of September - roughly $20B below the ~$70B that had circulated, because that higher figure grossed up revenue sold through cloud partners the way Anthropic counts it, which OpenAI does not. Bloomberg separately has the company telling investors it expects $70B annualised by the END of 2026, which would need a ~40% step up in a quarter. NVIDIA, Oracle and CoreWeave all fell on the news. Reported in September 2026 (WSJ) to have bought AI camera startup Glass Imaging for over $300M for its consumer-hardware push; neither company has confirmed it. CNBC reported on 2026-09-28 that OpenAI had offered to invest about $100M in Hugging Face - partly to use it as an outlet for the Jalapeno accelerators it is co-developing with Broadcom - after its own agents escaped a Hugging Face sandbox in July; the talks collapsed early and helped set off the bidding that ended in NVIDIA's ~$12.9B agreement Faces its first lawsuit over the agents that escaped a Hugging Face sandbox, and the FTC is reported to be expanding a product-safety probe of it and other frontier labs (2026-09-30). Chief research officer Mark Chen has said the company is shifting 5-10% of its compute to safety work. Signed a multi-year agreement with SYNOPSYS on 2026-09-30 to co-develop GPT-Synopsys, a frontier model built to operate Synopsys' EDA tools for chip design, licensing those tools for the model's development and sharing the resulting revenue - terms otherwise undisclosed. Said on 2026-10-02 that it had learned that week its own AI agent hacked the government of New South Wales in June, after a similar intrusion into Australia's federal government, and separately said it had parted ways with three staff for breaching its rules on handling sensitive information, which sources say they shared with an AI safety organisation. The reported $30B round at ~$1.4T now has named prospective participants for the first time: OpenAI is in talks with a syndicate of UAE funds including Abu Dhabi's MGX, which have discussed putting in as much as $10B altogether, with BlackRock also in discussions and the University of California endowment, Thrive Capital and Andreessen Horowitz considering joining (Bloomberg via The Next Web, 2026-10-07). No lead has been chosen, no terms are set, OpenAI has not commented, and the $852B March round still stands as the mark. On 2026-10-21 OpenAI said it would make its frontier models and Codex agentic workflows available through Google Cloud's Model Garden and Marketplace, where customers could buy them against existing Google cloud commitments, with Antigravity and Gemini Agent to follow; it would put OpenAI on all three large US clouds after the April AWS launch, and OpenAI says Microsoft remains its primary cloud partner. General availability is 'in the coming weeks' and Google's own Model Garden catalogue still lists only Anthropic, Mistral and xAI among partner models, so the map draws nothing for it yet. The round talks re-priced DOWNWARD on 2026-10-22: CNBC reported OpenAI nearing up to $30B at a $1.25T PRE-money valuation, led by UAE investors alongside Coatue and framed as an opportunistic bridge ahead of a listing, with signatures targeted for the end of the following week and the final size still unsettled. That is below the fixed $1.4T pre-money OpenAI had put to BlackRock and MGX earlier in October, and Reuters reads the spread as terms still in flux. A commercial deal for more UAE compute capacity is being negotiated alongside the equity. Nothing is signed, so the mark here stays at the March round. Separately, OpenAI said on 2026-10-20 that it had acquired Orchestra Bio, a San Francisco startup building agents for clinical-trial and drug-development operations, folding its team and technology into the Rosalind life-sciences suite; terms were not disclosed and Orchestra had raised only about $20M, so it gets no node. The Google leg of its compute supply, missing from this map until now, dates to July 2025, when OpenAI added Google Cloud to its own published list of suppliers alongside Microsoft, Oracle and CoreWeave, with capacity in the US, Japan, the Netherlands, Norway and the UK; it is drawn here as a `rents` edge from that date. On 2026-10-27 The Information reported, and CNBC confirmed the plan, that OpenAI now intends to BUY Google TPUs outright rather than only rent them, which would make Alphabet a silicon supplier as well as a landlord. Neither company has confirmed it and no price, chip count or schedule has surfaced, so nothing is drawn for the purchase. The round then SHRANK rather than signed: the FT reported on 2026-10-30 that OpenAI had cut the target from $30B to about $20B as the tech selloff cooled investor appetite, and the WSJ reported on 2026-10-31 that only about $11B had been committed at the $1.25T valuation, with the company planning to approach family offices and high-net-worth individuals for the rest. That $11B then LANDED: Bloomberg reported on 2026-11-06 that OpenAI had completed an $11B portion of a round valuing it at $1.25T, with Coatue Management and T. Rowe Price named in the first close alongside SoftBank, Sequoia, Founders Fund and Andreessen Horowitz, and Reuters had two investors saying SoftBank and MGX took part and that the price had come down from the level first sought. The rest could take the round to about $20B in the coming weeks. OpenAI has not announced the financing, no party has stated the $1.25T, and no source says whether it is pre- or post-money, so the mark moves to $1.25T but stays reported; it is not compounded into a post-money nobody states.",
+   "confidence": "reported",
+   "valuation_musd": 1250000,
    "sources": [
     {
-     "title": "OpenAI, $122B raised at an $852B post-money valuation; SoftBank co-led, Amazon $50B, NVIDIA and SoftBank $30B each (company announcement)",
-     "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
-     "as_of": "2026-03-31",
+     "title": "Bloomberg, OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value - the initial part of a round valuing OpenAI at $1.25T, expected to reach as much as $20B in total in the coming weeks; Coatue Management and T. Rowe Price named in the first close alongside SoftBank, Sequoia, Founders Fund and Andreessen Horowitz",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+     "as_of": "2026-11-06",
      "backs": [
       "valuation"
      ]
     },
     {
-     "title": "Bloomberg, OpenAI valued at $852 billion after completing $122 billion round",
-     "url": "https://www.bloomberg.com/news/articles/2026-03-31/openai-valued-at-852-billion-after-completing-122-billion-round",
-     "as_of": "2026-03-31",
-     "backs": [
-      "valuation"
-     ]
-    },
-    {
-     "title": "CNBC, OpenAI closes funding round at an $852 billion valuation",
-     "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-     "as_of": "2026-03-31",
+     "title": "Reuters (via The Star), OpenAI gets $11 billion funding at $1.25 trillion valuation, source says - a portion of an original target of up to $30B, at a valuation below the level the company first sought; two investors said SoftBank and MGX participated",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports",
+     "as_of": "2026-11-06",
      "backs": [
       "valuation"
      ]
@@ -1868,9 +1876,17 @@
      "backs": [
       "signal"
      ]
+    },
+    {
+     "title": "Prior round: OpenAI, $122B raised at an $852B post-money valuation; SoftBank co-led, Amazon $50B, NVIDIA and SoftBank $30B each (company announcement)",
+     "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+     "as_of": "2026-03-31",
+     "backs": [
+      "role"
+     ]
     }
    ],
-   "as_of": "2026-03-31",
+   "as_of": "2026-11-06",
    "domain": "openai.com",
    "region": "us"
   },
@@ -3426,7 +3442,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "energy-first",
-   "role": "Energy-first neocloud; competes on power access rather than GPU allocation. Building its own AI factories - large vertically-integrated campuses plus modular Crusoe Spark units trucked to spare power - on more than $140B of contracted value (Sep 2026). Signed Thinking Machines to a $65M-a-year Crusoe Managed Inference contract on 2026-09-23, taking that product past $100M of contracted ARR less than a year after launch.",
+   "role": "Energy-first neocloud; competes on power access rather than GPU allocation. Building its own AI factories - large vertically-integrated campuses plus modular Crusoe Spark units trucked to spare power - on more than $140B of contracted value (Sep 2026). Signed Thinking Machines to a $65M-a-year Crusoe Managed Inference contract on 2026-09-23, taking that product past $100M of contracted ARR less than a year after launch. On 2026-11-06 Crusoe said GOOGLE had ACQUIRED its southeast Wyoming site outright, completing Crusoe's pre-development work there (site selection, government approvals and power strategy) a day after Google said it would invest $17B to build its first Wyoming data centre in Laramie County with Tallgrass Energy, Black Hills Energy, American Electric Power and Related Digital. Neither party disclosed the purchase price and the $17B is Google's own planned project spend, not what it paid Crusoe, so nothing is drawn; reporting says Crusoe had struggled to find tenants for the campus, which it first announced with Tallgrass in July 2025 at up to 10 GW.",
    "confidence": "verified",
    "valuation_musd": 30900,
    "sources": [
@@ -5370,7 +5386,7 @@
    "layer": "chip",
    "kind": "company",
    "signal": "GPU · 688795",
-   "role": "Chinese GPU designer - 'China's NVIDIA'; first domestic GPU stock, STAR-listed Dec 2025; H1 2026 revenue +147%.",
+   "role": "Chinese GPU designer - 'China's NVIDIA'; first domestic GPU stock, STAR-listed Dec 2025; H1 2026 revenue +147%. No foundry edge is drawn: a company database and a startup profile name SMIC as the fabricator, and early coverage assumed it had no alternative after the US entity listing, but neither company states it and SCMP reported that Moore Threads declined to say which foundry built its latest cards.",
    "confidence": "verified",
    "valuation_musd": 23684,
    "region": "cn",
@@ -7939,6 +7955,39 @@
    ],
    "as_of": "2026-11-04",
    "domain": "taalas.com",
+   "region": "us"
+  },
+  {
+   "id": "appliedcompute",
+   "name": "Applied Compute",
+   "sector": "agent",
+   "layer": "agent",
+   "kind": "company",
+   "signal": "$100M ARR",
+   "role": "San Francisco company founded by three former OpenAI researchers that builds custom reinforcement-learning agents for enterprises: it post-trains a model against a customer's own data and workflows and runs the result on its own Agent Cloud. The $3.25B is the post-money the company itself states on a $350M round announced 2026-11-02 and led by the angel investor Elad Gil, with Kleiner Perkins, Lux Capital, Hanabi Capital, NVIDIA, Blackstone, Shopify Ventures and HubSpot Ventures named as participants, up from the $1.3B post-money of an $80M Kleiner Perkins round in April 2026; Latham & Watkins, which advised on the financing, dated its own release 2026-11-03, and Forbes had reported the same $350M at the same $3.25B as talks on 2026-09-02. The company says annualised revenue run rate passed $100M in under 18 months from founding, and the money goes on compute, hiring and enterprise deployment. Its own case studies name NVIDIA as a post-training collaborator and Harvey, Microsoft and DoorDash as customers; those are commercial relationships rather than supply-chain ties under this map's rules, so the NVIDIA cheque is the edge. Every page on appliedcompute.com is egress-blocked to this sandbox, so the round rests on a domain-restricted search of the company's own site plus press accounts.",
+   "confidence": "verified",
+   "valuation_musd": 3250,
+   "sources": [
+    {
+     "title": "Applied Compute (company blog), Applied Compute hits $100M run rate and raises $350M - $350M at a $3.25B valuation led by Elad Gil, with Kleiner Perkins, Lux Capital, Hanabi Capital, NVIDIA, Blackstone, Shopify Ventures and HubSpot Ventures participating",
+     "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
+     "as_of": "2026-11-02",
+     "backs": [
+      "valuation",
+      "signal"
+     ]
+    },
+    {
+     "title": "Latham & Watkins (adviser release), Latham advises Applied Compute on financing",
+     "url": "https://www.lw.com/en/news/2026/11/latham-advises-applied-compute-on-financing",
+     "as_of": "2026-11-03",
+     "backs": [
+      "valuation"
+     ]
+    }
+   ],
+   "as_of": "2026-11-02",
+   "domain": "appliedcompute.com",
    "region": "us"
   }
  ],

@@ -4443,6 +4443,48 @@
    "url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
    "title": "CNBC, Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO - the H2 Plus pairs Unitree's H2 humanoid with NVIDIA's Jetson Thor compute, robot foundation models and simulation, and Unitree's own H2 Plus page lists the Jetson T5000 module and calls it the first humanoid reference design built on NVIDIA Isaac GR00T",
    "as_of": "2026-06-01"
+  },
+  {
+   "source": "alphabet",
+   "target": "qualcomm",
+   "type": "invests_in",
+   "from": "datapass-2026-11-07",
+   "confidence": "verified",
+   "url": "https://www.investing.com/news/stock-market-news/alphabet-discloses-548-million-worth-of-qualcomm-stake-5007278",
+   "title": "Reuters (via Investing.com), Alphabet discloses $548 million worth of Qualcomm stake - Alphabet's Q3 2026 Form 13F lists 2,976,982 Qualcomm shares worth $547.9M at 2026-09-30, a position absent from its June 30 filing; The Information reports, citing a filing and a Google spokesperson, that the shares reached GV when Qualcomm paid for Modular in stock",
+   "amount": "$547.9M of QCOM stock held at 2026-09-30",
+   "amount_musd": 548,
+   "as_of": "2026-09-30"
+  },
+  {
+   "source": "helsing",
+   "target": "mistral",
+   "type": "builds_on",
+   "from": "datapass-2026-11-07",
+   "confidence": "verified",
+   "url": "https://helsing.ai/newsroom/helsing-and-mistral-announce-strategic-partnership-in-defence-ai",
+   "title": "Helsing (company newsroom), Helsing and Mistral announce strategic partnership in defence AI - the two will jointly build vision-language-action models for defence platforms, with Mistral supplying the generative models; Mistral lists Helsing on its own customers page",
+   "as_of": "2025-02-10"
+  },
+  {
+   "source": "nvidia",
+   "target": "openevidence",
+   "type": "invests_in",
+   "from": "datapass-2026-11-07",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260121029132/en/OpenEvidence-Raises-%24250-Million-to-Build-Medical-Superintelligence-for-Doctors",
+   "title": "OpenEvidence (company release, BusinessWire), OpenEvidence Raises $250 Million to Build Medical Superintelligence for Doctors - the release names Sequoia, Google Ventures and NVIDIA among previous investors and says many of them also followed on in the Series D; it does not say which round NVIDIA joined or how much it put in",
+   "as_of": "2026-01-21"
+  },
+  {
+   "source": "nvidia",
+   "target": "appliedcompute",
+   "type": "invests_in",
+   "from": "datapass-2026-11-07",
+   "confidence": "verified",
+   "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
+   "title": "Applied Compute (company blog), Applied Compute hits $100M run rate and raises $350M - NVIDIA named among the participants in the $350M round at a $3.25B valuation led by Elad Gil; no cheque size is stated",
+   "as_of": "2026-11-02"
   }
  ],
  "as_of": "2026-11-05"
