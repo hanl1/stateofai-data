@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-11-05",
+ "as_of": "2026-11-08",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -789,7 +789,7 @@
    "layer": "app",
    "kind": "company",
    "signal": "workspace",
-   "role": "Workspace with embedded AI; a heavy inference buyer.",
+   "role": "Workspace with embedded AI; a heavy inference buyer. Notion AI routes to all three frontier suppliers rather than one: its own release notes let a user pick an OpenAI GPT model, Anthropic’s Claude or Google’s Gemini, or hand the choice to its Auto model router.",
    "confidence": "reported",
    "valuation_musd": 11000,
    "sources": [
@@ -3254,7 +3254,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "Vertex AI",
-   "role": "Vertex AI on in-house TPUs; owns DeepMind and Waymo.",
+   "role": "Vertex AI on in-house TPUs, which Broadcom designs and supplies under a long-term agreement running to 2031; owns DeepMind and Waymo.",
    "confidence": "verified",
    "valuation_musd": 3501085,
    "ticker": "GOOGL",
@@ -4623,7 +4623,7 @@
    "kind": "division",
    "parent": "microsoft",
    "signal": "managed inference",
-   "role": "Microsoft's managed inference surface serving both open and frontier models.",
+   "role": "Microsoft’s managed inference surface serving both open and frontier models, rebranded Microsoft Foundry: Azure OpenAI models sit beside Anthropic’s Claude, generally available and hosted on Azure since 2026-06-29, and xAI’s Grok and Mistral in the partner catalogue.",
    "confidence": "unsourced",
    "sources": [],
    "as_of": "2026-07",
@@ -6164,7 +6164,7 @@
    "layer": "cloud",
    "kind": "company",
    "signal": "Anthropic CPU cloud",
-   "role": "Edge delivery network turned distributed cloud operator, and from 2026 an AI compute supplier. On 2026-09-24 it disclosed a Master Services Agreement with Anthropic carrying $11.6B of contractual commitment over seven years for dedicated cloud capacity and managed support - aimed at Anthropic's accelerating CPU workloads rather than GPU training, which is the part of the frontier-lab compute bill the neoclouds do not serve. The contract can expand by a further $9B to roughly $20B, and Akamai issued Anthropic a warrant for non-voting convertible Series B preferred representing 7.7 million common shares - up to 5% of the company - at an exercise price of $111.33, with about 2% expected to vest under the initial commitment. Akamai expects about $5.5B of capital expenditure against the $11.6B, and its shares rose as much as 20% after hours on the news.",
+   "role": "Edge delivery network turned distributed cloud operator, and from 2026 an AI compute supplier. On 2026-09-24 it disclosed a Master Services Agreement with Anthropic carrying $11.6B of contractual commitment over seven years for dedicated cloud capacity and managed support - aimed at Anthropic's accelerating CPU workloads rather than GPU training, which is the part of the frontier-lab compute bill the neoclouds do not serve. The contract can expand by a further $9B to roughly $20B, and Akamai issued Anthropic a warrant for non-voting convertible Series B preferred representing 7.7 million common shares - up to 5% of the company - at an exercise price of $111.33, with about 2% expected to vest under the initial commitment. Akamai expects about $5.5B of capital expenditure against the $11.6B, and its shares rose as much as 20% after hours on the news. Separately, Akamai said on 2026-03-03 that it had acquired thousands of NVIDIA Blackwell GPUs for Akamai Inference Cloud, pairing NVIDIA RTX PRO 6000 Blackwell Server Edition cards and BlueField-3 DPUs with its edge network of more than 4,400 locations, and it is the first global implementation of NVIDIA AI Grid.",
    "confidence": "verified",
    "valuation_musd": 11941,
    "ticker": "AKAM",

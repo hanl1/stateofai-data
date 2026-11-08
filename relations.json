@@ -140,9 +140,10 @@
    "target": "anthropic",
    "type": "routes",
    "from": "industry-map",
-   "url": "https://claude.com/customers/notion",
+   "url": "https://www.notion.com/releases/2026-01-20",
    "confidence": "verified",
-   "title": "Anthropic, customer story: Notion"
+   "title": "Notion (release notes), Notion 3.2 - pick from GPT-5.2, Claude Opus 4.5 or Gemini 3, or let Auto choose the model for the task",
+   "as_of": "2026-01-20"
   },
   {
    "source": "grammarly",
@@ -1094,10 +1095,10 @@
    "target": "samsung",
    "type": "rivals",
    "from": "industry-map",
-   "url": "https://www.cnbc.com/2023/06/28/samsung-lays-out-2-nanometer-semiconductor-roadmap-to-catch-up-to-tsmc.html",
+   "url": "https://www.trendforce.com/presscenter/news/20260909-13225.html",
    "confidence": "reported",
-   "title": "CNBC, Samsung to begin making world's most advanced mobile chips in 2025 as battle with TSMC heats up",
-   "as_of": "2023-06-28"
+   "title": "TrendForce, Global Foundry Revenue Approaches US$53.49 Billion in 2Q26 as SMIC Narrows Market Share Gap with Samsung - TSMC first on 72.5% of foundry revenue, Samsung Foundry second on 5.9%, its 1.8% QoQ growth slower than its rivals",
+   "as_of": "2026-09-09"
   },
   {
    "source": "skhynix",
@@ -4485,7 +4486,67 @@
    "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
    "title": "Applied Compute (company blog), Applied Compute hits $100M run rate and raises $350M - NVIDIA named among the participants in the $350M round at a $3.25B valuation led by Elad Gil; no cheque size is stated",
    "as_of": "2026-11-02"
+  },
+  {
+   "source": "akamai",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://www.akamai.com/newsroom/press-release/akamai-to-deploy-thousands-of-nvidia-blackwell-gpus-to-create-one-of-the-worlds-most-widely-distributed-ai-platforms",
+   "title": "Akamai (company newsroom), Akamai to Deploy Thousands of NVIDIA Blackwell GPUs to Create One of the World’s Most Widely Distributed AI Platforms - NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs and BlueField-3 DPUs across Akamai Inference Cloud",
+   "as_of": "2026-03-03"
+  },
+  {
+   "source": "notion",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://www.notion.com/releases/2026-01-20",
+   "title": "Notion (release notes), Notion 3.2 - pick from GPT-5.2, Claude Opus 4.5 or Gemini 3, or let Auto choose the model for the task",
+   "as_of": "2026-01-20"
+  },
+  {
+   "source": "notion",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://www.notion.com/releases/2026-01-20",
+   "title": "Notion (release notes), Notion 3.2 - pick from GPT-5.2, Claude Opus 4.5 or Gemini 3, or let Auto choose the model for the task",
+   "as_of": "2026-01-20"
+  },
+  {
+   "source": "alphabet",
+   "target": "broadcom",
+   "type": "designed_with",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+   "title": "Broadcom 8-K, filed 2026-04-06 - Broadcom and Google LLC entered a Long Term Agreement for Broadcom to develop and supply custom Tensor Processing Units for Google’s future generations of TPUs, plus a Supply Assurance Agreement for networking and other components in Google’s next-generation AI racks through up to 2031",
+   "as_of": "2026-04-06"
+  },
+  {
+   "source": "azureai",
+   "target": "anthropic",
+   "type": "builds_on",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+   "title": "Microsoft Azure blog, Claude in Microsoft Foundry is now generally available - Claude hosted on Azure, inference processed in Azure with a choice of Global or US data zones",
+   "as_of": "2026-06-29"
+  },
+  {
+   "source": "azureai",
+   "target": "openai",
+   "type": "builds_on",
+   "from": "datapass-2026-11-08",
+   "confidence": "verified",
+   "url": "https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-july-august-2026/",
+   "title": "Microsoft Foundry devblog, What’s new in Microsoft Foundry: July and August 2026 - GPT-5.6 variants added to Foundry on 2026-07-09 alongside the existing Azure OpenAI model line",
+   "as_of": "2026-07-09"
   }
  ],
- "as_of": "2026-11-05"
+ "as_of": "2026-11-08"
 }
