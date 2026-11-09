@@ -749,11 +749,13 @@
    "source": "nvidia",
    "target": "nebius",
    "type": "invests_in",
-   "from": "industry-map",
-   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465924124570/tm2429858d1_ex99-1.htm",
+   "from": "datapass-2026-11-09",
+   "url": "https://www.barchart.com/story/news/686364/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud",
    "confidence": "verified",
-   "title": "Nebius 6-K exhibit 99.1, Nebius announces oversubscribed strategic equity financing of USD 700 million (NVIDIA, Accel and Orbis participating)",
-   "as_of": "2024-12-02"
+   "title": "NVIDIA and Nebius joint release via Barchart, NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud (NVIDIA will invest $2 billion in Nebius)",
+   "as_of": "2026-03-11",
+   "amount": "$2B",
+   "amount_musd": 2000
   },
   {
    "source": "nvidia",
@@ -4592,6 +4594,120 @@
    "url": "https://www.cerebras.ai/press-release/cerebras-announces-third-generation-wafer-scale-engine",
    "as_of": "2024-03-13",
    "title": "Cerebras (company release), Cerebras Systems Unveils World's Fastest AI Chip with Whopping 4 Trillion Transistors - the WSE-3 is built on TSMC's 5nm process"
+  },
+  {
+   "source": "nvidia",
+   "target": "samsung",
+   "type": "memory_from",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026 (we purchase memory from SK Hynix, Micron and Samsung)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "samsung",
+   "type": "fabricated_by",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026 (we utilize foundries, such as TSMC and Samsung, to produce our semiconductor wafers)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "ascend",
+   "type": "rivals",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026, Competition (names Huawei)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "intel",
+   "type": "rivals",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026, Competition (names Intel)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "broadcom",
+   "type": "rivals",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026, Competition (names Broadcom, in SoCs and networking)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "trainium",
+   "type": "rivals",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026, Competition (names cloud companies designing their own hardware, including Amazon)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "maia",
+   "type": "rivals",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "title": "NVIDIA 10-K FY2026, Competition (names cloud companies designing their own hardware, including Microsoft)",
+   "as_of": "2026-02-25"
+  },
+  {
+   "source": "nvidia",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+   "title": "Anthropic, Anthropic raises $30 billion Series G (the round includes a portion of NVIDIA's previously announced investment)",
+   "as_of": "2026-02-12"
+  },
+  {
+   "source": "anthropic",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+   "title": "Anthropic, Anthropic raises $30 billion Series G (we train and run Claude on AWS Trainium, Google TPUs and NVIDIA GPUs)",
+   "as_of": "2026-02-12"
+  },
+  {
+   "source": "nvidia",
+   "target": "intel",
+   "type": "invests_in",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-25-000204/intc-20251226.htm",
+   "title": "Intel 8-K, filed 2025-12-29 (sold 214,776,632 shares of common stock to NVIDIA for $5.0B, closing the September 2025 agreement)",
+   "as_of": "2025-12-26",
+   "amount": "$5B",
+   "amount_musd": 5000
+  },
+  {
+   "source": "nvidia",
+   "target": "synopsys",
+   "type": "invests_in",
+   "from": "datapass-2026-11-09",
+   "confidence": "reported",
+   "url": "https://www.datacenterdynamics.com/en/news/nvidia-invests-2bn-in-synopsys-as-part-of-a-multi-year-deal-to-bolster-ai-chip-design-and-engineering/",
+   "title": "DatacenterDynamics, Nvidia invests $2bn in Synopsys as part of a multi-year deal (common stock at $414.79 a share)",
+   "as_of": "2025-12-01",
+   "amount": "$2B",
+   "amount_musd": 2000
   }
  ],
  "as_of": "2026-11-08"

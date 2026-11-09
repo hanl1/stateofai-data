@@ -3747,7 +3747,7 @@
    "layer": "chip",
    "kind": "company",
    "signal": "the substrate",
-   "role": "Designs the GPUs nearly all AI training and inference runs on. Also invests in the neoclouds and platforms that buy its chips - the circular-financing engine. The Hugging Face acquisition now faces a US antitrust review alongside the still-unchosen EU notification path (Tech Policy Law, Global Competition Review; re-checked 2026-10-05, still ~$12.9B and still H1 2027). The FT reports it as the unnamed tenant on Hut 8's 352 MW Beacon Point lease in Nueces County, Texas - $9.8B over the base term, up to $25.1B with renewals - which is the campus where Lambda's reported $35B Anthropic contract physically lands; NVIDIA has not confirmed the tenancy and Hut 8's filings do not name it.",
+   "role": "Designs the GPUs nearly all AI training and inference runs on. Also invests in the neoclouds and platforms that buy its chips - the circular-financing engine. The Hugging Face acquisition now faces a US antitrust review alongside the still-unchosen EU notification path (Tech Policy Law, Global Competition Review; re-checked 2026-10-05, still ~$12.9B and still H1 2027). The FT reports it as the unnamed tenant on Hut 8's Beacon Point campus in Nueces County, Texas, which a second 15-year lease on 2026-11-04 doubled to 704 MW and $19.6B over the base term, and which is the campus where Lambda's reported $35B Anthropic contract physically lands; NVIDIA has not confirmed the tenancy and Hut 8's filings do not name it.",
    "confidence": "verified",
    "valuation_musd": 4506796,
    "ticker": "NVDA",
