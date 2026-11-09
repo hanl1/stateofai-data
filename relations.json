@@ -130,10 +130,10 @@
    "target": "anthropic",
    "type": "routes",
    "from": "industry-map",
-   "url": "https://www.glean.com/press/enterprise-ai-platform-glean-adds-support-for-anthropics-claude-ai-model",
+   "url": "https://docs.glean.com/release-notes/releases/2026-09-22-september-release",
    "confidence": "verified",
-   "title": "Glean, Enterprise AI Platform Glean Adds Support for Anthropic's Claude AI Model",
-   "as_of": "2024-06-05"
+   "title": "Glean (release notes), September 22, 2026 - Claude Opus 5.5 added as a premium Anthropic model in Glean Assistant and Agents",
+   "as_of": "2026-09-22"
   },
   {
    "source": "notion",
@@ -319,10 +319,10 @@
    "target": "tpu",
    "type": "builds_on",
    "from": "industry-map",
-   "url": "https://blog.google/technology/ai/google-gemini-ai/",
+   "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-Omni-Flash-Model-Card.pdf",
    "confidence": "verified",
-   "title": "Google, Introducing Gemini (trained on TPU v4 and v5e)",
-   "as_of": "2023-12-06"
+   "title": "Google DeepMind, Gemini Omni Flash Model Card (initially published May 2026, last updated August 2026) - 'Gemini Omni Flash was trained using Google's Tensor Processing Units (TPUs)'",
+   "as_of": "2026-08"
   },
   {
    "source": "meta",
@@ -3333,7 +3333,10 @@
    "type": "fabricated_by",
    "from": "datapass-2026-10-09",
    "confidence": "verified",
-   "url": "https://www.investing.com/news/stock-market-news/globalfoundries-to-make-key-ai-chip-component-for-tsmc-4939071"
+   "url": "https://gf.com/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/",
+   "title": "GlobalFoundries (company release), GlobalFoundries reaches agreement to establish U.S.-based supply of silicon interposers for advanced AI packaging - a multi-year agreement to make silicon interposers for TSMC's CoWoS packaging at Malta, New York, five-year initial term, volume production ramping in H1 2028",
+   "as_of": "2026-10-08",
+   "amount": "$2B"
   },
   {
    "source": "fluidstack",
@@ -4546,6 +4549,49 @@
    "url": "https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-july-august-2026/",
    "title": "Microsoft Foundry devblog, What’s new in Microsoft Foundry: July and August 2026 - GPT-5.6 variants added to Foundry on 2026-07-09 alongside the existing Azure OpenAI model line",
    "as_of": "2026-07-09"
+  },
+  {
+   "source": "openai",
+   "target": "broadcom",
+   "type": "designed_with",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/",
+   "as_of": "2025-10-13",
+   "amount": "10 GW",
+   "title": "OpenAI (company release), OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI designs the accelerators and systems, Broadcom co-develops and deploys them with its Ethernet networking, racks starting H2 2026 and completing by end-2029"
+  },
+  {
+   "source": "openai",
+   "target": "cerebras",
+   "type": "builds_on",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://openai.com/index/cerebras-partnership/",
+   "as_of": "2026-01-14",
+   "amount": "750 MW",
+   "title": "OpenAI (company release), OpenAI partners with Cerebras - 750 MW of low-latency AI compute added to OpenAI's platform in tranches through 2028; GPT-5.3-Codex-Spark and the Ultrafast API tier for GPT-5.6 Sol already run on Cerebras hardware"
+  },
+  {
+   "source": "meta",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-11-09",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
+   "as_of": "2025-08-21",
+   "amount": "over $10B over 6 years",
+   "title": "CNBC, Google scores six-year Meta cloud deal worth over $10 billion - Meta to spend more than $10B on Google Cloud servers, storage and networking for AI infrastructure, per two people familiar with the matter"
+  },
+  {
+   "source": "wse",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-11-09",
+   "confidence": "verified",
+   "url": "https://www.cerebras.ai/press-release/cerebras-announces-third-generation-wafer-scale-engine",
+   "as_of": "2024-03-13",
+   "title": "Cerebras (company release), Cerebras Systems Unveils World's Fastest AI Chip with Whopping 4 Trillion Transistors - the WSE-3 is built on TSMC's 5nm process"
   }
  ],
  "as_of": "2026-11-08"
