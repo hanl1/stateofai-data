@@ -153,7 +153,8 @@
    "url": "https://www.techradar.com/news/grammarlys-chatgpt-upgrade-wont-just-improve-your-writing-itll-do-it-for-you",
    "confidence": "reported",
    "title": "TechRadar, Grammarly's ChatGPT upgrade won't just improve your writing (GrammarlyGo built on GPT-3; no newer source)",
-   "as_of": "2023-03-09"
+   "as_of": "2023-03-09",
+   "checked": "2026-11-07"
   },
   {
    "source": "venice",
@@ -631,7 +632,8 @@
    "url": "https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/amd-is-designing-their-epyc-server-processors-with-the-dynamic-duo",
    "confidence": "verified",
    "title": "Cadence, AMD Is Designing Their EPYC Server Processors with the Dynamic Duo (Palladium Z2 and Protium X2)",
-   "as_of": "2023-01-19"
+   "as_of": "2023-01-19",
+   "checked": "2026-11-07"
   },
   {
    "source": "tsmc",
@@ -681,7 +683,8 @@
    "url": "https://pr.tsmc.com/english/news/2995",
    "confidence": "verified",
    "title": "TSMC, TSMC Presents 2022 Excellent Performance Award to Outstanding Suppliers (names Tokyo Electron)",
-   "as_of": "2023-01-18"
+   "as_of": "2023-01-18",
+   "checked": "2026-11-05"
   },
   {
    "source": "samsung",
@@ -701,7 +704,8 @@
    "url": "https://digitimes.com/news/a20230607PD206.html",
    "confidence": "reported",
    "title": "DIGITIMES, SMIC subsidiary continues to fulfill Chinese demands for FinFET capabilities (names SMIC's subsidiary as NAURA's largest buyer)",
-   "as_of": "2023-06-07"
+   "as_of": "2023-06-07",
+   "checked": "2026-11-07"
   },
   {
    "source": "skhynix",
@@ -1557,7 +1561,8 @@
    "confidence": "verified",
    "url": "https://tenstorrent.com/en/newsroom/tenstorrent-selects-samsung-foundry-to-manufacture-next-generation-ai-chiplet",
    "title": "tenstorrent.com, Tenstorrent Selects Samsung Foundry to Manufacture Next-Generation AI Chiplet | Tenstorrent",
-   "as_of": "2023-10-02"
+   "as_of": "2023-10-02",
+   "checked": "2026-11-08"
   },
   {
    "source": "samsung",
@@ -1725,7 +1730,8 @@
    "confidence": "verified",
    "url": "https://venturebeat.com/data-infrastructure/oracle-founder-larry-ellison-confirms-new-gen-ai-service-with-cohere-during-earnings-call",
    "as_of": "2023-06-12",
-   "title": "VentureBeat, Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call (Cohere trains its LLMs on Oracle Cloud Infrastructure)"
+   "title": "VentureBeat, Oracle founder Larry Ellison confirms new gen AI service with Cohere during earnings call (Cohere trains its LLMs on Oracle Cloud Infrastructure)",
+   "checked": "2026-11-08"
   },
   {
    "source": "alphabet",
@@ -1872,7 +1878,8 @@
    "confidence": "reported",
    "url": "https://www.bloomberg.com/news/articles/2024-05-21/alibaba-sparks-china-ai-price-war-with-spate-of-steep-discounts",
    "title": "Bloomberg, Alibaba Sparks China AI Price War With Spate of Steep Discounts (Baidu matched within hours)",
-   "as_of": "2024-05-21"
+   "as_of": "2024-05-21",
+   "checked": "2026-11-09"
   },
   {
    "source": "clio",
@@ -4593,7 +4600,8 @@
    "confidence": "verified",
    "url": "https://www.cerebras.ai/press-release/cerebras-announces-third-generation-wafer-scale-engine",
    "as_of": "2024-03-13",
-   "title": "Cerebras (company release), Cerebras Systems Unveils World's Fastest AI Chip with Whopping 4 Trillion Transistors - the WSE-3 is built on TSMC's 5nm process"
+   "title": "Cerebras (company release), Cerebras Systems Unveils World's Fastest AI Chip with Whopping 4 Trillion Transistors - the WSE-3 is built on TSMC's 5nm process",
+   "checked": "2026-11-09"
   },
   {
    "source": "nvidia",
