@@ -1932,10 +1932,10 @@
    "target": "alphabet",
    "type": "rents",
    "from": "expansion-2026-08",
-   "confidence": "reported",
-   "url": "https://www.fool.com/investing/2024/06/19/google-invested-artificial-intelligence-ai-stock/",
-   "title": "fool.com, Google Invested in This Hot New Artificial Intelligence (AI) Stock. Should You? | The Motley Fool",
-   "as_of": "2024-06-19",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001717115/000119312526442624/tem-20260930.htm",
+   "title": "Tempus AI Form 10-Q for the quarter ended 2026-09-30 - the June 2020 multi-year strategic partnership under which Tempus purchases substantial cloud services from Google, with the Google convertible note accelerating if Tempus terminates its Google Cloud Platform agreement",
+   "as_of": "2026-09-30",
    "amount": "$330M note for Google Cloud",
    "amount_musd": 330
   },
@@ -1965,9 +1965,9 @@
    "type": "builds_on",
    "from": "expansion-2026-08",
    "confidence": "verified",
-   "url": "https://bfl.ai/announcements/24-08-01-bfl",
-   "title": "Black Forest Labs, Announcing Black Forest Labs (FLUX.1 [pro] available via fal.ai)",
-   "as_of": "2024-08-01"
+   "url": "https://www.prnewswire.com/news-releases/fal-launches-flux-3-max-delivering-1-tier-image-to-video-quality-at-industry-leading-speeds-302913033.html",
+   "title": "fal (company release via PR Newswire), fal Launches FLUX 3 Max - Black Forest Labs supplied the foundation model and fal Research the post-training and inference optimisation; available on fal's inference platform from 2026-10-19",
+   "as_of": "2026-10-19"
   },
   {
    "source": "manus",
@@ -4306,10 +4306,10 @@
    "target": "nvidia",
    "type": "rivals",
    "from": "integrity-2026-11-04",
-   "url": "https://www.tomshardware.com/pc-components/gpus/blacklisted-chinese-ai-gpu-champ-biren-preps-for-ipo-at-dollar219b-valuation",
+   "url": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia",
    "confidence": "reported",
-   "title": "Tom's Hardware, Blacklisted Chinese AI GPU champ Biren preps for IPO (a Chinese AI GPU developer that rivals Nvidia)",
-   "as_of": "2024-09-12"
+   "title": "SCMP, Chinese chip start-up Biren bets on light-based 'supernodes' to match Nvidia - Biren's decoupled near-packaged-optics supernode scales to 1,024 accelerator cards against NVIDIA's NVL72/NVL144 platforms",
+   "as_of": "2026-07-18"
   },
   {
    "source": "anthropic",
@@ -4716,6 +4716,36 @@
    "as_of": "2025-12-01",
    "amount": "$2B",
    "amount_musd": 2000
+  },
+  {
+   "source": "wayve",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-10",
+   "confidence": "verified",
+   "url": "https://www.datacenterdynamics.com/en/news/coreweave-signs-multi-year-cloud-agreement-with-wayve/",
+   "title": "DCD, CoreWeave signs multi-year cloud agreement with Wayve - Wayve will train, evaluate and simulate its end-to-end AI Driver foundation models on CoreWeave Cloud using NVIDIA Blackwell GPUs; terms and length undisclosed",
+   "as_of": "2026-11-09"
+  },
+  {
+   "source": "intel",
+   "target": "asml",
+   "type": "equipped_by",
+   "from": "datapass-2026-11-10",
+   "confidence": "verified",
+   "url": "https://www.asml.com/en/news/press-releases/2026/high-na-euv-reaches-new-readiness-milestone",
+   "title": "ASML (company press release), High NA EUV reaches new readiness milestone with first high-volume Logic product - Intel Foundry is shipping a subset of Core Ultra Series 3 (Panther Lake) on Intel 18A with specific layers dual-qualified on ASML EXE High NA EUV in Oregon",
+   "as_of": "2026-07-15"
+  },
+  {
+   "source": "tencent",
+   "target": "alibaba",
+   "type": "rivals",
+   "from": "datapass-2026-11-10",
+   "confidence": "reported",
+   "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
+   "title": "SCMP, Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
+   "as_of": "2026-11-04"
   }
  ],
  "as_of": "2026-11-08"
