@@ -2750,8 +2750,7 @@
      "url": "https://www.mercor.com/blog/series-d/",
      "as_of": "2026-11-10",
      "backs": [
-      "valuation",
-      "role"
+      "valuation"
      ]
     },
     {
@@ -2767,7 +2766,7 @@
      "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/",
      "as_of": "2025-10-27",
      "backs": [
-      "valuation"
+      "role"
      ]
     },
     {
@@ -2775,7 +2774,7 @@
      "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
      "as_of": "2026-07-09",
      "backs": [
-      "role"
+      "valuation"
      ]
     },
     {
