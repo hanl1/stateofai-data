@@ -96,7 +96,8 @@
    "url": "https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/",
    "confidence": "reported",
    "title": "TechCrunch, Bret Taylor's customer service AI startup just raised $175M (uses OpenAI, Anthropic and Meta models)",
-   "as_of": "2024-10-28"
+   "as_of": "2024-10-28",
+   "checked": "2026-11-11"
   },
   {
    "source": "harvey",
@@ -303,7 +304,8 @@
    "url": "https://investor.nvidia.com/news/press-release-details/2024/NVIDIA-Ethernet-Networking-Accelerates-Worlds-Largest-AI-Supercomputer-Built-by-xAI",
    "confidence": "verified",
    "title": "NVIDIA, NVIDIA Ethernet Networking Accelerates World's Largest AI Supercomputer, Built by xAI",
-   "as_of": "2024-10-28"
+   "as_of": "2024-10-28",
+   "checked": "2026-11-11"
   },
   {
    "source": "mistral",
@@ -1491,9 +1493,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/",
-   "title": "siliconangle.com, Anthropic partners with AWS and Palantir to provide AI models to defense agencies - SiliconANGLE",
-   "as_of": "2024-11-07"
+   "url": "https://www.palantir.com/docs/foundry/announcements/2026-09",
+   "title": "Palantir (product announcements), September 2026 - Claude Opus 5.5 is available in AIP for eligible commercial and US government IL2 and IL4 enrollments",
+   "as_of": "2026-09-29"
   },
   {
    "source": "palantir",
@@ -4746,6 +4748,116 @@
    "url": "https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats",
    "title": "SCMP, Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up",
    "as_of": "2026-11-04"
+  },
+  {
+   "source": "amd",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "broadcom",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "micron",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "microsoft",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "tsmc",
+   "target": "anthropic",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "nvidia",
+   "target": "mercor",
+   "type": "invests_in",
+   "from": "datapass-2026-11-11",
+   "confidence": "verified",
+   "url": "https://www.mercor.com/blog/series-d/",
+   "title": "Mercor (company blog), Organizing human intelligence for the entire economy - NVIDIA named among the participants in the $750M Series D at a $20B valuation",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "palantir",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-11",
+   "confidence": "verified",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+   "title": "NVIDIA (company newsroom), NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains - NVIDIA Nemotron models, CUDA-X libraries and accelerated computing integrated into Palantir Foundry and AIP",
+   "as_of": "2026-09-10"
+  },
+  {
+   "source": "samsung",
+   "target": "lam",
+   "type": "equipped_by",
+   "from": "datapass-2026-11-11",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "title": "Lam Research 10-K FY2026 (most significant customers include Samsung Electronics)",
+   "as_of": "2026-08-07"
+  },
+  {
+   "source": "skhynix",
+   "target": "lam",
+   "type": "equipped_by",
+   "from": "datapass-2026-11-11",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "title": "Lam Research 10-K FY2026 (most significant customers include SK hynix)",
+   "as_of": "2026-08-07"
+  },
+  {
+   "source": "ibm",
+   "target": "mistral",
+   "type": "builds_on",
+   "from": "datapass-2026-11-11",
+   "confidence": "verified",
+   "url": "https://mistral.ai/news/mistral-3",
+   "title": "Mistral AI (company release), Mistral 3 - available at launch on Mistral AI Studio, Amazon Bedrock, Azure Foundry, Hugging Face, Modal, IBM watsonx, OpenRouter, Fireworks, Unsloth and Together AI",
+   "as_of": "2025-12"
+  },
+  {
+   "source": "deepseek",
+   "target": "ascend",
+   "type": "builds_on",
+   "from": "datapass-2026-11-11",
+   "confidence": "reported",
+   "url": "https://qz.com/deepseek-huawei-open-source-ai-chip-software-nvidia-093026",
+   "title": "Quartz, DeepSeek and Huawei are partnering to build open-source AI chip software to cut Nvidia reliance - six modules including TileLang adapted to the Ascend 950 and DeepGEMM-Ascend, plus a joint supernode built on 128 Ascend 950 chips",
+   "as_of": "2026-09-30"
   }
  ],
  "as_of": "2026-11-08"
