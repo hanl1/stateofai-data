@@ -1045,7 +1045,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "robotaxi",
-   "role": "Alphabet's autonomous driving arm; the most mature AV deployment. The $126B is the February 2026 round, more than double the $45B Series C of October 2024, funding expansion to roughly a dozen more US cities and to London, its first international market.",
+   "role": "Alphabet's autonomous driving arm; the most mature AV deployment. The $126B is the February 2026 round, more than double the $45B Series C of October 2024, funding expansion to roughly a dozen more US cities and to London, its first international market. It now designs its own silicon: at Hot Chips 2026 it presented a custom sensor-fusion processor that handles camera, lidar and radar embeddings, with 64 MB of on-chip SRAM and, on Waymo's own figures, 160 TOPS of INT8 and 80 TFLOPS of FP16 (the 1,000-plus TOPS in some coverage is a different measure). Waymo has not named the foundry, so no fabrication edge is drawn; the 5 nm and TSMC attributions circulating come from aggregators only.",
    "confidence": "verified",
    "valuation_musd": 126000,
    "sources": [
@@ -1118,7 +1118,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "AV software",
-   "role": "Autonomy software for automotive and defense vehicle programs, expanding from automotive into military and off-road vehicle autonomy on US Army contracts; named customers include Isuzu and Volkswagen. Fielding investment offers that value it at a minimum of $30B - roughly double the $15B June 2025 Series F the map carries - which could lead to a raise of about $1B within months (The Information, 2026-10-13). No round has been announced at that valuation and terms could change, so the mark stands; note that one aggregator reframed the same report as ACQUISITION offers, where the originating report and every other relay say investment offers.",
+   "role": "Autonomy software for automotive and defense vehicle programs, expanding from automotive into military and off-road vehicle autonomy on US Army contracts; named customers include Isuzu and Volkswagen. Reported on 2026-11-11 to be in talks to raise at least $1.5B led by General Catalyst at a ~$30B PRE-money valuation, twice the $15B June 2025 Series F the map carries; that firms up the investment offers at a $30B minimum reported on 2026-10-13, but nothing is closed, no other investor is named and no party has commented, so the mark stands. One aggregator reframed the October report as ACQUISITION offers, where the originating report and every other relay say investment offers.",
    "confidence": "verified",
    "valuation_musd": 15000,
    "sources": [
@@ -2635,7 +2635,7 @@
    "layer": "data",
    "kind": "company",
    "signal": "data + AI",
-   "role": "Lakehouse platform; the enterprise data substrate AI training runs on. Crossed a $7B annualised revenue run-rate in Q2 2026, growing >80% year over year.",
+   "role": "Lakehouse platform; the enterprise data substrate AI training runs on. Crossed a $7B annualised revenue run-rate in Q2 2026, growing >80% year over year. Serves Anthropic's Claude models natively through Mosaic AI under a five-year deal the two signed in March 2025, with the models governed by Unity Catalog and fine-tunable on customer data in place; the WSJ put the commercial terms at $100M over five years, a figure neither company has stated. Snowflake, its closest rival and not on this map, signed a similar Anthropic deal later the same year.",
    "confidence": "verified",
    "valuation_musd": 190000,
    "sources": [
@@ -3951,7 +3951,7 @@
    "layer": "chip",
    "kind": "company",
    "signal": "interconnect",
-   "role": "Custom silicon and optical interconnect for AI data centers. THE LUMENTUM DEAL IS SIGNED: the two announced a definitive all-stock merger agreement on 2026-11-02, dated 2026-11-01, at an implied ENTERPRISE value of $115B. Lumentum holders receive 4.5 Marvell shares each, which the companies put at about $1,132 a share, a premium of about 23.9% to the 2026-10-28 close, the last trading day before the deal speculation began; Reuters puts the equity value at $102.54B. Marvell holders would hold about 67% of the combined company and Lumentum holders about 33% fully diluted, both boards approved it unanimously, and it needs a Lumentum holder vote plus a Marvell vote on the share issuance and a charter amendment, with closing expected in the first half of 2028. Marvell would owe a $5.8B termination fee in specified circumstances, and the companies guide to more than $1B of annual run-rate cost savings. Matt Murphy stays chairman and CEO and three Lumentum directors including CEO Michael Hurlston join Marvell's board. Because the consideration is Marvell stock, the headline value moves with Marvell's own price, which fell sharply on the announcement. Marvell already buys lasers from Lumentum; there is no REL type for an optical component supplier, so only the dashed `owns` edge is drawn until the deal closes.",
+   "role": "Custom silicon and optical interconnect for AI data centers. THE LUMENTUM DEAL IS SIGNED: the two announced a definitive all-stock merger agreement on 2026-11-02, dated 2026-11-01, at an implied ENTERPRISE value of $115B. Lumentum holders receive 4.5 Marvell shares each, which the companies put at about $1,132 a share, a premium of about 23.9% to the 2026-10-28 close, the last trading day before the deal speculation began; Reuters puts the equity value at $102.54B. Marvell holders would hold about 67% of the combined company and Lumentum holders about 33% fully diluted, both boards approved it unanimously, and it needs a Lumentum holder vote plus a Marvell vote on the share issuance and a charter amendment, with closing expected in the first half of 2028. Marvell would owe a $5.8B termination fee in specified circumstances, and the companies guide to more than $1B of annual run-rate cost savings. Matt Murphy stays chairman and CEO and three Lumentum directors including CEO Michael Hurlston join Marvell's board. Because the consideration is Marvell stock, the headline value moves with Marvell's own price, which fell sharply on the announcement. Marvell already buys lasers from Lumentum; there is no REL type for an optical component supplier, so only the dashed `owns` edge is drawn until the deal closes. Its leading-edge silicon is TSMC's: Marvell demonstrated its first working 2nm IP on TSMC's 2nm process on 2025-03-03, in a release carrying a TSMC quote on delivering that first silicon, and calls the platform the basis of its next custom accelerators, CPUs and networking parts.",
    "confidence": "verified",
    "valuation_musd": 151880,
    "ticker": "MRVL",
@@ -8053,6 +8053,46 @@
    "as_of": "2026-11-02",
    "domain": "appliedcompute.com",
    "region": "us"
+  },
+  {
+   "id": "fractile",
+   "name": "Fractile",
+   "sector": "chip",
+   "layer": "chip",
+   "kind": "company",
+   "signal": "DRAM-on-logic inference",
+   "role": "London inference-silicon startup whose design stacks DRAM directly on the logic die to attack the memory bottleneck; it has not shipped a production chip and plans its first commercial part for 2027. The $7B is the post-money of a $720M Series C the Financial Times reported on 2026-11-11 from unnamed sources, roughly seven times the ~$1.1B of the $220M May 2026 round, with Thrive Capital, Founders Fund, Lightspeed and Redpoint named as leads and Alphabet's CapitalG, BlackRock, DST Global, Balderton, SV Angel and Elad Gil among participants, alongside the UK government through its Sovereign AI fund and the British Business Bank. Three cautions: Fractile has issued no release, so the valuation is press-reported and the investor list is party-stated by nobody; Sifted put the raise at GBP540M on 2026-10-29 off Companies House filings in which the investors are unnamed; and the $6.5B still circulating is the PRE-money of the earlier talks story, not this round's mark. Bloomberg reported in August 2026 an initial order of about $250M of inference chips from Anthropic, with delivery not expected until 2027 and both parties declining to comment, so no supply edge is drawn.",
+   "confidence": "reported",
+   "valuation_musd": 7000,
+   "sources": [
+    {
+     "title": "Financial Times via Techmeme, Fractile raised $720M from Thrive, Founders Fund and others, sources say at a $7B post-money valuation, up from ~$1.1B in May",
+     "url": "https://www.techmeme.com/261111/p25#a261111p25",
+     "as_of": "2026-11-11",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Sifted (exclusive), Fractile raises GBP540m in new Series C funding, filings show (investors unnamed in the filings)",
+     "url": "https://sifted.eu/articles/exclusive-fractile-series-c/",
+     "as_of": "2026-10-29",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "BusinessCloud, AI chip company Fractile reveals investors behind $720m Series C (Alphabet's CapitalG among participants)",
+     "url": "https://businesscloud.co.uk/news/ai-chip-company-fractile-reveals-investors-behind-720m-series-c/",
+     "as_of": "2026-11-11",
+     "backs": [
+      "role"
+     ]
+    }
+   ],
+   "as_of": "2026-11-11",
+   "domain": "fractile.ai",
+   "region": "eu"
   }
  ],
  "verified_at": "2026-11-12"

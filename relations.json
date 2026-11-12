@@ -1485,7 +1485,8 @@
    "confidence": "verified",
    "url": "https://www.cnbc.com/2024/12/04/openai-partners-with-defense-company-anduril.html",
    "title": "cnbc.com, OpenAI partners with defense company Anduril",
-   "as_of": "2024-12-04"
+   "as_of": "2024-12-04",
+   "checked": "2026-11-12"
   },
   {
    "source": "palantir",
@@ -1505,7 +1506,8 @@
    "confidence": "verified",
    "url": "https://siliconangle.com/2024/11/07/anthropic-partners-aws-palantir-provide-ai-models-defense-agencies/",
    "title": "siliconangle.com, Anthropic partners with AWS and Palantir to provide AI models to defense agencies - SiliconANGLE",
-   "as_of": "2024-11-07"
+   "as_of": "2024-11-07",
+   "checked": "2026-11-12"
   },
   {
    "source": "alphabet",
@@ -1861,7 +1863,8 @@
    "confidence": "verified",
    "url": "https://www.prnewswire.com/news-releases/shield-ai-and-palantir-technologies-deepen-strategic-partnership-and-announce-deployment-of-warp-speed-302324396.html",
    "title": "prnewswire.com, Shield AI and Palantir Technologies Deepen Strategic Partnership and Announce Deployment of Warp Speed",
-   "as_of": "2024-12-05"
+   "as_of": "2024-12-05",
+   "checked": "2026-11-12"
   },
   {
    "source": "abnormal",
@@ -4858,6 +4861,36 @@
    "url": "https://qz.com/deepseek-huawei-open-source-ai-chip-software-nvidia-093026",
    "title": "Quartz, DeepSeek and Huawei are partnering to build open-source AI chip software to cut Nvidia reliance - six modules including TileLang adapted to the Ascend 950 and DeepGEMM-Ascend, plus a joint supernode built on 128 Ascend 950 chips",
    "as_of": "2026-09-30"
+  },
+  {
+   "source": "alphabet",
+   "target": "fractile",
+   "type": "invests_in",
+   "from": "datapass-2026-11-12",
+   "confidence": "reported",
+   "url": "https://businesscloud.co.uk/news/ai-chip-company-fractile-reveals-investors-behind-720m-series-c/",
+   "title": "BusinessCloud, AI chip company Fractile reveals investors behind $720m Series C - Alphabet's CapitalG among the participants",
+   "as_of": "2026-11-11"
+  },
+  {
+   "source": "databricks",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-12",
+   "confidence": "verified",
+   "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-and-anthropic-sign-landmark-deal-bring-claude-models",
+   "title": "Databricks newsroom (company release), Databricks and Anthropic sign landmark deal to bring Claude models to the Data Intelligence Platform - a five-year partnership serving Claude natively through Mosaic AI",
+   "as_of": "2025-03-26"
+  },
+  {
+   "source": "marvell",
+   "target": "tsmc",
+   "type": "fabricated_by",
+   "from": "datapass-2026-11-12",
+   "confidence": "verified",
+   "url": "https://www.marvell.com/company/newsroom/marvell-demonstrates-industry-leading-2nm-silicon-for-accelerated-infrastructure.html",
+   "title": "Marvell newsroom (company release), Marvell demonstrates industry's leading 2nm silicon for accelerated infrastructure - built on TSMC's 2nm process, with a TSMC quote on delivering Marvell's first silicon",
+   "as_of": "2025-03-03"
   }
  ],
  "as_of": "2026-11-08"
