@@ -1133,10 +1133,10 @@
    "target": "deepseek",
    "type": "rivals",
    "from": "industry-map",
-   "url": "https://www.scmp.com/tech/big-tech/article/3334602/beyond-deepseek-moonshot-and-minimax-step-chinas-new-frontier-ai-labs",
+   "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
    "confidence": "reported",
-   "title": "SCMP, Beyond DeepSeek: Moonshot and MiniMax step up as China's new frontier AI labs",
-   "as_of": "2025-01-01"
+   "title": "TechCrunch, China's Moonshot AI raises $2B at $20B valuation - names DeepSeek among the rivals Moonshot's Kimi models compete with",
+   "as_of": "2026-05-07"
   },
   {
    "source": "zhipu",
@@ -1814,7 +1814,8 @@
    "confidence": "verified",
    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/",
    "title": "microsoft.com, Microsoft Copilot Blog | Latest Product Updates and Insights",
-   "as_of": "2025-02-05"
+   "as_of": "2025-02-05",
+   "checked": "2026-11-13"
   },
   {
    "source": "astera",
@@ -2233,7 +2234,8 @@
    "confidence": "reported",
    "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud",
    "title": "techcrunch.com, OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud | TechCrunch",
-   "as_of": "2024-12-10"
+   "as_of": "2024-12-10",
+   "checked": "2026-11-13"
   },
   {
    "source": "alphabet",
@@ -4891,6 +4893,46 @@
    "url": "https://www.marvell.com/company/newsroom/marvell-demonstrates-industry-leading-2nm-silicon-for-accelerated-infrastructure.html",
    "title": "Marvell newsroom (company release), Marvell demonstrates industry's leading 2nm silicon for accelerated infrastructure - built on TSMC's 2nm process, with a TSMC quote on delivering Marvell's first silicon",
    "as_of": "2025-03-03"
+  },
+  {
+   "source": "alphabet",
+   "target": "langchain",
+   "type": "invests_in",
+   "from": "datapass-2026-11-13",
+   "confidence": "reported",
+   "url": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
+   "title": "SiliconANGLE relaying the Wall Street Journal, Alphabet's CapitalG led LangChain's $300M round at a $3B valuation",
+   "as_of": "2026-11-12"
+  },
+  {
+   "source": "alphabet",
+   "target": "mirendil",
+   "type": "invests_in",
+   "from": "datapass-2026-11-13",
+   "confidence": "verified",
+   "url": "https://mirendil.com/news/series-a/",
+   "title": "Mirendil, Mirendil Raises $1B to Democratize Frontier AI R&D - Google named among the investors joining the Kleiner Perkins and Clearlake Capital led Series A (company release)",
+   "as_of": "2026-11-12"
+  },
+  {
+   "source": "qualcomm",
+   "target": "arm",
+   "type": "builds_on",
+   "from": "datapass-2026-11-13",
+   "confidence": "verified",
+   "url": "https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-Statement-on-Trial-Verdict-Win/default.aspx",
+   "title": "Qualcomm, Statement on Trial Verdict Win - the jury found Arm breached its long-standing Architectural License Agreement with Qualcomm, the licence the Oryon cores are built under (company release)",
+   "as_of": "2026-10-13"
+  },
+  {
+   "source": "anduril",
+   "target": "meta",
+   "type": "designed_with",
+   "from": "datapass-2026-11-13",
+   "confidence": "verified",
+   "url": "https://www.anduril.com/article/anduril-and-meta-team-up-to-transform-xr-for-the-american-military/",
+   "title": "Anduril, Anduril and Meta Team Up to Transform XR for the American Military - the two jointly design, build and field integrated XR products, Meta contributing display and optical technology (company release)",
+   "as_of": "2025-05-29"
   }
  ],
  "as_of": "2026-11-08"
