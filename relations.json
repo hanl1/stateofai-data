@@ -1524,10 +1524,10 @@
    "target": "ssi",
    "type": "invests_in",
    "from": "baseline-2026-08",
-   "confidence": "reported",
-   "url": "https://finance.yahoo.com/news/alphabet-nvidia-invest-ai-startup-102359815.html",
-   "title": "finance.yahoo.com, Alphabet and Nvidia invest in AI startup SSI at $32bn",
-   "as_of": "2025-04-14"
+   "confidence": "verified",
+   "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
+   "title": "NVIDIA newsroom (joint company release), Ilya Sutskever's Safe Superintelligence Inc. and NVIDIA announce long-term strategic partnership - a substantial NVIDIA investment plus access to the Vera Rubin platform, amount not disclosed",
+   "as_of": "2026-07-27"
   },
   {
    "source": "ssi",
@@ -3557,11 +3557,11 @@
    "type": "rents",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-008312/ex991-coreweavepressrelease.htm",
-   "title": "investors.corescientific.com, February 27, 2025 - EX-99.1 - 8-K: Current report | Core Scientific, Inc. (CORZ)",
+   "url": "https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001839341-26-000030/core-20260930.htm",
+   "title": "Core Scientific Form 10-Q (2026-11-05), the CoreWeave colocation agreement expanded to approximately 590 MW of leased customer power across five sites, 485 MW billable at September 30 2026 and CoreWeave approximately 84% of total revenue for the nine months",
    "amount": "$10.2B over 12 years",
    "amount_musd": 10200,
-   "as_of": "2025-02-26"
+   "as_of": "2026-11-05"
   },
   {
    "source": "microsoft",
@@ -4484,7 +4484,8 @@
    "confidence": "verified",
    "url": "https://helsing.ai/newsroom/helsing-and-mistral-announce-strategic-partnership-in-defence-ai",
    "title": "Helsing (company newsroom), Helsing and Mistral announce strategic partnership in defence AI - the two will jointly build vision-language-action models for defence platforms, with Mistral supplying the generative models; Mistral lists Helsing on its own customers page",
-   "as_of": "2025-02-10"
+   "as_of": "2025-02-10",
+   "checked": "2026-11-14"
   },
   {
    "source": "nvidia",
@@ -4892,7 +4893,8 @@
    "confidence": "verified",
    "url": "https://www.marvell.com/company/newsroom/marvell-demonstrates-industry-leading-2nm-silicon-for-accelerated-infrastructure.html",
    "title": "Marvell newsroom (company release), Marvell demonstrates industry's leading 2nm silicon for accelerated infrastructure - built on TSMC's 2nm process, with a TSMC quote on delivering Marvell's first silicon",
-   "as_of": "2025-03-03"
+   "as_of": "2025-03-03",
+   "checked": "2026-11-14"
   },
   {
    "source": "alphabet",
@@ -4933,6 +4935,38 @@
    "url": "https://www.anduril.com/article/anduril-and-meta-team-up-to-transform-xr-for-the-american-military/",
    "title": "Anduril, Anduril and Meta Team Up to Transform XR for the American Military - the two jointly design, build and field integrated XR products, Meta contributing display and optical technology (company release)",
    "as_of": "2025-05-29"
+  },
+  {
+   "source": "nvidia",
+   "target": "figure",
+   "type": "invests_in",
+   "from": "datapass-2026-11-14",
+   "confidence": "verified",
+   "url": "https://www.figure.ai/news/series-c",
+   "title": "Figure (company release), Figure exceeds $1B in Series C funding at a $39B post-money valuation - led by Parkway Venture Capital with significant investment from Brookfield Asset Management, NVIDIA, Macquarie Capital and Intel Capital",
+   "as_of": "2025-09-16"
+  },
+  {
+   "source": "intel",
+   "target": "figure",
+   "type": "invests_in",
+   "from": "datapass-2026-11-14",
+   "confidence": "verified",
+   "url": "https://www.figure.ai/news/series-c",
+   "title": "Figure (company release), Figure exceeds $1B in Series C funding at a $39B post-money valuation - led by Parkway Venture Capital with significant investment from Brookfield Asset Management, NVIDIA, Macquarie Capital and Intel Capital",
+   "as_of": "2025-09-16"
+  },
+  {
+   "source": "nvidia",
+   "target": "nscale",
+   "type": "commits_to",
+   "from": "datapass-2026-11-14",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/0002110365/000119312526458722/ck0002110365-20261112.htm",
+   "title": "Nscale Form S-1/A (2026-11-12), the September 2026 subscription agreement for $3.36B of unsecured convertible loan notes, $1.0B of it subscribed by NVIDIA and a further $1.0B to be issued in the NVIDIA Sale, converting automatically on completion of the offering",
+   "amount": "$2B of convertible loan notes ($1B subscribed, $1B in the NVIDIA Sale)",
+   "amount_musd": 2000,
+   "as_of": "2026-11-12"
   }
  ],
  "as_of": "2026-11-08"
