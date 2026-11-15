@@ -612,10 +612,10 @@
    "target": "amkor",
    "type": "packaged_by",
    "from": "industry-map",
-   "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+   "url": "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-and-nvidia-advance-strategic-partnership-ai",
    "confidence": "verified",
-   "title": "NVIDIA, NVIDIA to Manufacture American-Made AI Supercomputers in US for First Time (Amkor and SPIL for packaging)",
-   "as_of": "2025-04-14"
+   "title": "Amkor Technology (company release), Amkor Technology and NVIDIA Advance Strategic Partnership for AI Infrastructure - multi-year advanced packaging and test agreements with NVIDIA in Arizona and South Korea now total $3B, a $1.3B South Korea agreement on top of the $1.5B Arizona partnership of 2026-07-23",
+   "as_of": "2026-10-21"
   },
   {
    "source": "nvidia",
@@ -4306,7 +4306,8 @@
    "url": "https://finance.yahoo.com/news/turing-key-coding-provider-openai-140054839.html",
    "confidence": "reported",
    "title": "TechCrunch, Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation",
-   "as_of": "2025-03-06"
+   "as_of": "2025-03-06",
+   "checked": "2026-11-15"
   },
   {
    "source": "biren",
@@ -4881,9 +4882,9 @@
    "type": "routes",
    "from": "datapass-2026-11-12",
    "confidence": "verified",
-   "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-and-anthropic-sign-landmark-deal-bring-claude-models",
-   "title": "Databricks newsroom (company release), Databricks and Anthropic sign landmark deal to bring Claude models to the Data Intelligence Platform - a five-year partnership serving Claude natively through Mosaic AI",
-   "as_of": "2025-03-26"
+   "url": "https://docs.databricks.com/aws/en/release-notes/product/2026/september",
+   "title": "Databricks product release notes, September 2026 - Anthropic Claude Opus 5.5 is now available on Unity Gateway (Databricks has served the Claude family through 2026: Opus 4.6 and Sonnet 4.6 in February, Opus 4.8 in May, Sonnet 5 in June, Opus 5 in July, Fable 5.1 in September, Haiku 5.5 in October)",
+   "as_of": "2026-09-22"
   },
   {
    "source": "marvell",
@@ -4967,7 +4968,97 @@
    "amount": "$2B of convertible loan notes ($1B subscribed, $1B in the NVIDIA Sale)",
    "amount_musd": 2000,
    "as_of": "2026-11-12"
+  },
+  {
+   "source": "nvidia",
+   "target": "agilerobots",
+   "type": "invests_in",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://www.agile-robots.com/en/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/",
+   "title": "Agile Robots (company newsroom), Physical AI leader Agile Robots raises $500 million Series F at $8.5 billion valuation - SoftBank Group led, with NVIDIA participating",
+   "as_of": "2026-11-12"
+  },
+  {
+   "source": "oracle",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-flagship-abilene-data-center-is-live",
+   "title": "Crusoe newsroom, Crusoe Announces Flagship Abilene Data Center is Live - the first phase of the Abilene campus runs on Oracle Cloud Infrastructure, which Crusoe built and which Oracle has agreed to lease for 15 years",
+   "as_of": "2025-09-30"
+  },
+  {
+   "source": "microsoft",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "reported",
+   "url": "https://fortune.com/2026/03/27/microsoft-texas-data-center-open-ai-former-partner-cloud-provider/",
+   "title": "Fortune (AP), Microsoft takes over a Texas AI data center expansion after OpenAI backs away - Crusoe says it is working with Microsoft on two new AI factory buildings and an on-site power plant beside the Abilene campus, after OpenAI and Oracle chose not to take them",
+   "as_of": "2026-03-27"
+  },
+  {
+   "source": "anduril",
+   "target": "shieldai",
+   "type": "builds_on",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://shield.ai/hivemind-successfully-completes-first-cca-flight-test-aboard-andurils-yfq-44a-aircraft/",
+   "title": "Shield AI (company release), Hivemind successfully completes first CCA flight test aboard Anduril's YFQ-44A aircraft - Shield AI's Hivemind autonomy stack flies Anduril's Fury for the US Air Force Collaborative Combat Aircraft programme",
+   "as_of": "2026-02-26"
+  },
+  {
+   "source": "canva",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+   "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Canva among the enterprises and AI pioneers it added as customers in the quarter",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "mirendil",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+   "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Mirendil among the enterprises and AI pioneers it added as customers in the quarter",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "cohere",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+   "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Cohere among the existing enterprise and AI-native customers whose relationships it expanded in the quarter",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "perplexity",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+   "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Perplexity among the existing enterprise and AI-native customers whose relationships it expanded in the quarter",
+   "as_of": "2026-11-10"
+  },
+  {
+   "source": "hippocratic",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-15",
+   "confidence": "verified",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+   "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Hippocratic AI among the existing enterprise and AI-native customers whose relationships it expanded in the quarter",
+   "as_of": "2026-11-10"
   }
  ],
- "as_of": "2026-11-08"
+ "as_of": "2026-11-15"
 }
