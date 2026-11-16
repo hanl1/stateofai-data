@@ -1066,7 +1066,8 @@
    "url": "https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html",
    "confidence": "reported",
    "title": "CNBC, OpenAI looked at buying Cursor creator before turning to AI coding rival Windsurf (Windsurf later acquired by Cognition)",
-   "as_of": "2025-04-17"
+   "as_of": "2025-04-17",
+   "checked": "2026-11-16"
   },
   {
    "source": "harvey",
@@ -1823,8 +1824,9 @@
    "type": "builds_on",
    "from": "baseline-2026-08",
    "confidence": "verified",
-   "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-collaboration-nvidia-advance-nvlink-fusion",
-   "as_of": "2025-05-19"
+   "url": "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-expands-connectivity-portfolio-custom-solutions",
+   "as_of": "2025-12-02",
+   "title": "Astera Labs, Astera Labs Expands Connectivity Portfolio with Custom Solutions (2025-12-02) - NVLink Fusion-based custom connectivity for heterogeneous AI infrastructure, with NVIDIA quoted on Astera Labs joining its NVLink Fusion ecosystem"
   },
   {
    "source": "intel",
@@ -4732,8 +4734,8 @@
    "type": "rents",
    "from": "datapass-2026-11-10",
    "confidence": "verified",
-   "url": "https://www.datacenterdynamics.com/en/news/coreweave-signs-multi-year-cloud-agreement-with-wayve/",
-   "title": "DCD, CoreWeave signs multi-year cloud agreement with Wayve - Wayve will train, evaluate and simulate its end-to-end AI Driver foundation models on CoreWeave Cloud using NVIDIA Blackwell GPUs; terms and length undisclosed",
+   "url": "https://www.coreweave.com/news/coreweave-to-power-wayves-ai-driver-training-in-multi-year-agreement",
+   "title": "CoreWeave, CoreWeave to Power Wayve's AI Driver Training in Multi-Year Agreement - Wayve trains, evaluates and simulates its end-to-end AI Driver foundation models on CoreWeave Cloud on NVIDIA Blackwell GPUs; terms and length undisclosed",
    "as_of": "2026-11-09"
   },
   {
@@ -4935,7 +4937,8 @@
    "confidence": "verified",
    "url": "https://www.anduril.com/article/anduril-and-meta-team-up-to-transform-xr-for-the-american-military/",
    "title": "Anduril, Anduril and Meta Team Up to Transform XR for the American Military - the two jointly design, build and field integrated XR products, Meta contributing display and optical technology (company release)",
-   "as_of": "2025-05-29"
+   "as_of": "2025-05-29",
+   "checked": "2026-11-16"
   },
   {
    "source": "nvidia",
@@ -5058,6 +5061,88 @@
    "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
    "title": "CoreWeave, CoreWeave Reports Strong Third Quarter 2026 Results - names Hippocratic AI among the existing enterprise and AI-native customers whose relationships it expanded in the quarter",
    "as_of": "2026-11-10"
+  },
+  {
+   "source": "reflection",
+   "target": "nebius",
+   "type": "rents",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://assets.nebius.com/assets/a6ecfd85-a6cb-4967-8ef7-9a25bd261f9c/SHLQ226.pdf",
+   "title": "Nebius Group letter to shareholders, Q2 2026 (2026-08-12) - Reflection selected Nebius for a multi-year agreement to train and run its open-source models on the Nebius platform",
+   "as_of": "2026-08-12"
+  },
+  {
+   "source": "reflection",
+   "target": "spacex",
+   "type": "rents",
+   "from": "datapass-2026-11-16",
+   "confidence": "reported",
+   "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+   "title": "CNBC, SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion - NVIDIA GB300 capacity at Colossus 2 in Memphis, $150M a month from 2026-07-01 through 2029, either side free to leave on 90 days notice",
+   "as_of": "2026-06-22",
+   "amount": "up to ~$6.3B through 2029",
+   "amount_musd": 6300
+  },
+  {
+   "source": "qualcomm",
+   "target": "gf",
+   "type": "fabricated_by",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://gf.com/gf-press-release/globalfoundries-announces-16b-u-s-investment-to-reshore-essential-chip-manufacturing-and-accelerate-ai-growth/",
+   "title": "GlobalFoundries, GlobalFoundries Announces $16B U.S. Investment to Reshore Essential Chip Manufacturing and Accelerate AI Growth - Qualcomm president and CEO Cristiano Amon, quoted in the release, calls GlobalFoundries a strategic supplier of Qualcomm",
+   "as_of": "2025-06-04"
+  },
+  {
+   "source": "zhipu",
+   "target": "ascend",
+   "type": "builds_on",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips",
+   "title": "Bloomberg, China's Zhipu Unveils New AI Model Trained on Huawei's Chips - Zhipu says its open-source GLM-Image is the first state-of-the-art multimodal model to complete training on Huawei Ascend chips, on Atlas 800T A2 servers with MindSpore",
+   "as_of": "2026-01-14"
+  },
+  {
+   "source": "cohere",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://cohere.com/blog/cohere-sovereign-ai-nvidia",
+   "title": "Cohere, Cohere advances sovereign AI capabilities with NVIDIA - an NVIDIA ecosystem-native model and a local North instance for privately run systems",
+   "as_of": "2026-03-16"
+  },
+  {
+   "source": "elevenlabs",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://www.googlecloudpresscorner.com/2026-02-26-ElevenLabs-Partners-with-Google-Cloud-for-Cloud-Services-and-the-Latest-NVIDIA-Blackwell-GPUs,1",
+   "title": "Google Cloud, ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs - a multi-year extension under which ElevenLabs trains and serves its voice models on Google Cloud G4 VMs",
+   "as_of": "2026-02-26"
+  },
+  {
+   "source": "azureai",
+   "target": "mistral",
+   "type": "builds_on",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+   "title": "Microsoft, Microsoft and Mistral expand strategic partnership - Mistral's latest Medium 3.5 and OCR 4 models are now available in Microsoft Foundry, with Medium 3.5 also in Copilot Studio",
+   "as_of": "2026-07-21"
+  },
+  {
+   "source": "microsoft",
+   "target": "mistral",
+   "type": "rents",
+   "from": "datapass-2026-11-16",
+   "confidence": "verified",
+   "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+   "title": "Microsoft, Microsoft and Mistral expand strategic partnership - Microsoft will leverage Mistral's expanded Europe-based GPU infrastructure to add capacity for AI development and to support delivery of its own cloud and AI services, on thousands of NVIDIA Vera Rubin GPUs",
+   "as_of": "2026-07-21"
   }
  ],
  "as_of": "2026-11-15"
