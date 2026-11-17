@@ -1690,8 +1690,7 @@
      "url": "https://www.langchain.com/blog/series-c",
      "as_of": "2026-11-13",
      "backs": [
-      "valuation",
-      "role"
+      "valuation"
      ]
     },
     {
@@ -2313,7 +2312,8 @@
      "url": "https://ir.amd.com/news-events/press-releases/detail/1306/amd-completes-acquisition-of-world-labs",
      "as_of": "2026-11-16",
      "backs": [
-      "role"
+      "valuation",
+      "signal"
      ]
     },
     {
