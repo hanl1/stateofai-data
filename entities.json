@@ -10,7 +10,7 @@
    "layer": "app",
    "kind": "company",
    "signal": "$750M+ ARR",
-   "role": "Answer engine; orchestrates up to 20 models per query. Routes as a core competency.",
+   "role": "Answer engine; orchestrates up to 20 models per query, and routing is a core competency. Its Agent API, compatible with the OpenAI Responses API, exposes frontier models from OpenAI, Anthropic, Google, xAI and Perplexity itself behind one endpoint, with provider-prefixed model IDs and fallback chains of up to five models. The $20B is a September 2025 round and no closed round above it has been announced: NVIDIA was reported by The Information on 2026-08-24 to be in talks to invest at over $30B, and run-rate revenue is reported past $750M, but neither figure is party-stated and the 2026 valuations on the trackers ($9B, $22.6B, $23B) have no round behind them.",
    "confidence": "reported",
    "valuation_musd": 20000,
    "sources": [
@@ -1377,7 +1377,7 @@
    "layer": "agent",
    "kind": "company",
    "signal": "CX agents",
-   "role": "Customer-experience agents; Bret Taylor's company. ~$200M ARR at the May 2026 Series E.",
+   "role": "Customer-experience agents; Bret Taylor's company, about $200M ARR at the May 2026 Series E. Taylor describes the product as running on a constellation of models rather than one provider, and secondary accounts name OpenAI, Anthropic, Google and open-weight models, but Sierra publishes no model list and has never published an Anthropic case study, so only the OpenAI leg is drawn. Sierra is also a launch partner in OpenAI's B2B marketplace, where customers can apply OpenAI commitments to building agents with Sierra, which is marketplace distribution and not an edge on this map.",
    "confidence": "reported",
    "valuation_musd": 15800,
    "sources": [
@@ -1681,10 +1681,19 @@
    "layer": "agent",
    "kind": "company",
    "signal": "agent framework",
-   "role": "Agent orchestration framework plus LangSmith observability. The $3B is a $300M round the Wall Street Journal reported on 2026-11-12, led by Alphabet's CapitalG with IVP, Sapphire Ventures, GIC and DFJ Growth joining, about 2.4 times the $1.25B the company itself announced for the October 2025 Series B led by IVP. LangChain has published nothing on this round, so the figure is press-only and the mark is reported rather than verified; the money is said to go to LangSmith, its enterprise platform for monitoring, evaluating and deploying agents, and to hiring. A Forge Global page separately prints a 'Series C' at $3.01B dated September 2026, which is the same round seen early and not a second one.",
-   "confidence": "reported",
+   "role": "Agent orchestration framework plus LangSmith observability. LangChain announced the $300M Series C at a $3B valuation on its own blog on 2026-11-13, led by existing investor CapitalG (Alphabet) with new investors GIC and DFJ Growth and existing investors IVP and Sapphire Ventures, about 2.4 times the $1.25B it announced for the October 2025 Series B led by IVP. The Wall Street Journal had the round a day earlier. The money goes to LangSmith, its enterprise platform for monitoring, evaluating and deploying agents, which it says now has more than 7,000 organisations on it, and to hiring. A Forge Global page separately prints a 'Series C' at $3.01B dated September 2026, which is the same round seen early and not a second one.",
+   "confidence": "verified",
    "valuation_musd": 3000,
    "sources": [
+    {
+     "title": "LangChain blog, LangChain Raises $300M Series C at $3B Valuation - led by existing investor CapitalG (Alphabet), with new investors GIC and DFJ Growth and existing investors IVP and Sapphire Ventures",
+     "url": "https://www.langchain.com/blog/series-c",
+     "as_of": "2026-11-13",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
     {
      "title": "SiliconANGLE relaying the Wall Street Journal exclusive, AI agent tooling provider LangChain secures $300M investment at a $3B valuation led by Alphabet's CapitalG",
      "url": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
@@ -1694,7 +1703,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-12",
+   "as_of": "2026-11-13",
    "domain": "langchain.com",
    "region": "us"
   },
@@ -2295,10 +2304,18 @@
    "layer": "lab",
    "kind": "company",
    "signal": "AMD · $8.2B",
-   "role": "Fei-Fei Li's spatial intelligence lab: models that generate, reconstruct and simulate interactive 3D environments from text, image and video, plus robot learning and simulation. Its first product, Marble, generates persistent high-fidelity 3D worlds from image, video or text. On 2026-09-28 AMD agreed to acquire it in an all-stock deal valued at about $8.2B - the share count set by a ten-day VWAP of AMD stock before closing - with Li joining AMD as executive vice president and chief scientist reporting to Lisa Su. The close is expected by the end of 2026, subject to regulatory approvals and customary conditions. AMD was already an investor, from the $1B February 2026 round.",
+   "role": "Fei-Fei Li's spatial intelligence lab, now part of AMD: models that generate, reconstruct and simulate interactive 3D environments from text, image and video, plus robot learning and simulation. Its first product, Marble, generates persistent high-fidelity 3D worlds from image, video or text. AMD agreed to acquire it on 2026-09-28 in an all-stock deal valued at about $8.2B, the share count set by a ten-day VWAP of AMD stock before closing, and AMD announced the COMPLETION on 2026-11-16, ahead of the end-2026 close it had guided to. Li is now AMD executive vice president and chief scientist reporting to Lisa Su, with co-founders Justin Johnson and Ben Mildenhall leading the World Labs team inside AMD on foundational model research. Relays of AMD's Form 8-K/A put the closing itself on 2026-11-13 and the consideration at 14,978,322 AMD shares; the share count is not a figure this map has read in the filing, and an all-stock price floats with the acquirer's own shares, so the mark stays the $8.2B AMD stated at announcement. AMD was already an investor, from the $1B February 2026 round.",
    "confidence": "verified",
    "valuation_musd": 8200,
    "sources": [
+    {
+     "title": "AMD investor relations, AMD Completes Acquisition of World Labs (all-stock deal valued at approximately $8.2B when announced; Fei-Fei Li joins AMD as executive vice president and chief scientist reporting to Lisa Su)",
+     "url": "https://ir.amd.com/news-events/press-releases/detail/1306/amd-completes-acquisition-of-world-labs",
+     "as_of": "2026-11-16",
+     "backs": [
+      "role"
+     ]
+    },
     {
      "title": "AMD investor relations, AMD to Acquire World Labs to Advance the Future of AI Compute (all-stock, ~$8.2B; close expected end of 2026 subject to regulatory approval) (all-stock transaction valued at approximately $8.2 billion)",
      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
@@ -3124,7 +3141,7 @@
    "layer": "infer",
    "kind": "company",
    "signal": "$1B+ ARR",
-   "role": "Fastest-growing pure inference play; past $1B annualised revenue and ~40T tokens a day at the July 2026 Series D.",
+   "role": "Fastest-growing pure inference play; past $1B annualised revenue and ~40T tokens a day at the July 2026 Series D. It serves on both vendors' silicon: NVIDIA A100 through B300 parts and AMD Instinct MI325X and MI355X are both listed as on-demand hardware in its own docs, Fireworks Ultrafast is in public preview on NVIDIA Blackwell, and its 2026-11-03 newsroom post adds European capacity on NVIDIA Vera Rubin and Grace Blackwell from 2027. The AMD leg is a multi-year agreement giving Fireworks access to Instinct parts through preferred cloud providers, but neither the Fireworks blog post announcing it nor its AMD partner page carries a date, so no edge is drawn for it. Its own virtual-cloud product spans 18-plus regions across eight providers.",
    "confidence": "verified",
    "valuation_musd": 17500,
    "sources": [

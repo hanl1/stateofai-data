@@ -1618,16 +1618,6 @@
    "as_of": "2026-02-18"
   },
   {
-   "source": "amd",
-   "target": "worldlabs",
-   "type": "invests_in",
-   "from": "baseline-2026-08",
-   "confidence": "verified",
-   "url": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/",
-   "title": "siliconangle.com, World Labs closes $1B investment backed by Nvidia, AMD and Autodesk - SiliconANGLE",
-   "as_of": "2026-02-18"
-  },
-  {
    "source": "snowflake",
    "target": "anthropic",
    "type": "builds_on",
@@ -1696,7 +1686,18 @@
    "confidence": "verified",
    "url": "https://www.prnewswire.com/news-releases/openai-and-applied-intuition-enter-into-strategic-collaboration-to-usher-in-a-world-of-intelligent-vehicles-302477748.html",
    "title": "prnewswire.com, OpenAI and Applied Intuition Enter Into Strategic Collaboration to Usher in a World of Intelligent Vehicles",
-   "as_of": "2025-06-10"
+   "as_of": "2025-06-10",
+   "checked": "2026-11-17"
+  },
+  {
+   "source": "appliedint",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-17",
+   "confidence": "verified",
+   "url": "https://www.appliedintuition.com/press-releases/applied-intuition-nvidia-level-2-plus",
+   "title": "Applied Intuition press release, Applied Intuition and NVIDIA Advance L2+ Autonomy - NVIDIA names Applied Intuition a recommended software provider for OEMs building L2+ highway driving on NVIDIA hardware, the stack optimised for DRIVE AGX Orin and the forthcoming DRIVE AGX Thor, and Applied Intuition's development and validation tooling now incorporates NVIDIA Cosmos World Foundation Models",
+   "as_of": "2026-03-17"
   },
   {
    "source": "nvidia",
@@ -2177,9 +2178,10 @@
    "type": "builds_on",
    "from": "tier2-2026-08-16",
    "confidence": "verified",
-   "url": "https://www.prnewswire.com/news-releases/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience-302478655.html",
-   "title": "prnewswire.com, DeepL first to deploy NVIDIA DGX SuperPOD with DGX GB200 systems in Europe, advancing Language AI with powerful generative features and enhanced user experience",
-   "as_of": "2025-06-11"
+   "url": "https://www.deepl.com/en/press-release/deepl-first-to-deploy-nvidia-dgx-superpod-with-dgx-gb200-systems-in-europe-advancing-language-ai-with-powerful-generative-features-and-enhanced-user-experience",
+   "title": "DeepL press release, DeepL first to deploy NVIDIA DGX SuperPOD with DGX GB200 systems in Europe (the cluster, named Arion, is operational at EcoDataCenter in Sweden)",
+   "as_of": "2025-06-11",
+   "checked": "2026-11-17"
   },
   {
    "source": "heygen",
@@ -2920,10 +2922,10 @@
    "target": "worldlabs",
    "type": "owns",
    "from": "datapass-2026-09-29",
-   "confidence": "reported",
-   "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
-   "title": "AMD investor relations, AMD to Acquire World Labs to Advance the Future of AI Compute (all-stock, ~$8.2B; close expected end of 2026 subject to regulatory approval)",
-   "as_of": "2026-09-28"
+   "confidence": "verified",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1306/amd-completes-acquisition-of-world-labs",
+   "title": "AMD investor relations, AMD Completes Acquisition of World Labs",
+   "as_of": "2026-11-16"
   },
   {
    "source": "micron",
@@ -4904,10 +4906,10 @@
    "target": "langchain",
    "type": "invests_in",
    "from": "datapass-2026-11-13",
-   "confidence": "reported",
-   "url": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/",
-   "title": "SiliconANGLE relaying the Wall Street Journal, Alphabet's CapitalG led LangChain's $300M round at a $3B valuation",
-   "as_of": "2026-11-12"
+   "confidence": "verified",
+   "url": "https://www.langchain.com/blog/series-c",
+   "title": "LangChain blog, Series C led by existing investor CapitalG (Alphabet) at a $3B valuation",
+   "as_of": "2026-11-13"
   },
   {
    "source": "alphabet",
@@ -5053,6 +5055,26 @@
    "as_of": "2026-11-10"
   },
   {
+   "source": "perplexity",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-17",
+   "confidence": "verified",
+   "url": "https://docs.perplexity.ai/docs/agent-api/models",
+   "title": "Perplexity docs, Agent API Models - lists Anthropic Claude model IDs (anthropic/claude-opus-5-5, anthropic/claude-sonnet-5-5, anthropic/claude-haiku-5-5, anthropic/claude-fable-5-2)",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "perplexity",
+   "target": "xai",
+   "type": "routes",
+   "from": "datapass-2026-11-17",
+   "confidence": "verified",
+   "url": "https://docs.perplexity.ai/docs/agent-api/models",
+   "title": "Perplexity docs, Agent API Models - lists xAI model IDs (xai/grok-4.7, xai/grok-4.6, xai/grok-4.5)",
+   "as_of": "2026-11-17"
+  },
+  {
    "source": "hippocratic",
    "target": "coreweave",
    "type": "rents",
@@ -5092,7 +5114,8 @@
    "confidence": "verified",
    "url": "https://gf.com/gf-press-release/globalfoundries-announces-16b-u-s-investment-to-reshore-essential-chip-manufacturing-and-accelerate-ai-growth/",
    "title": "GlobalFoundries, GlobalFoundries Announces $16B U.S. Investment to Reshore Essential Chip Manufacturing and Accelerate AI Growth - Qualcomm president and CEO Cristiano Amon, quoted in the release, calls GlobalFoundries a strategic supplier of Qualcomm",
-   "as_of": "2025-06-04"
+   "as_of": "2025-06-04",
+   "checked": "2026-11-17"
   },
   {
    "source": "zhipu",
@@ -5143,6 +5166,16 @@
    "url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
    "title": "Microsoft, Microsoft and Mistral expand strategic partnership - Microsoft will leverage Mistral's expanded Europe-based GPU infrastructure to add capacity for AI development and to support delivery of its own cloud and AI services, on thousands of NVIDIA Vera Rubin GPUs",
    "as_of": "2026-07-21"
+  },
+  {
+   "source": "fireworks",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-17",
+   "confidence": "verified",
+   "url": "https://fireworks.ai/news/fireworks-expands-european-capacity-nvidia-rubin-blackwell",
+   "title": "Fireworks newsroom, Fireworks expands European capacity with NVIDIA - Fireworks Ultrafast is in public preview on the NVIDIA Blackwell Platform today, and the European build-out on NVIDIA Vera Rubin and Grace Blackwell, using the DSX AI factory platform and Spectrum-X Ethernet, deploys from 2027",
+   "as_of": "2026-11-03"
   }
  ],
  "as_of": "2026-11-15"
