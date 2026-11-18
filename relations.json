@@ -242,7 +242,8 @@
    "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
    "confidence": "verified",
    "title": "Scale AI, Scale AI announces next phase of company's evolution (expands Scale and Meta's commercial relationship)",
-   "as_of": "2025-06-12"
+   "as_of": "2025-06-12",
+   "checked": "2026-11-18"
   },
   {
    "source": "openai",
@@ -376,10 +377,10 @@
    "target": "nvidia",
    "type": "builds_on",
    "from": "industry-map",
-   "url": "https://nebius.com/newsroom/nebius-delivers-first-nvidia-blackwell-general-availability-in-europe-brings-nvidia-ai-enterprise-to-nebius-ai-cloud",
+   "url": "https://assets.nebius.com/assets/5bc733ff-bed7-415c-af10-74ce7881a764/Nebius-SHL-2026-Q3.pdf",
    "confidence": "verified",
-   "title": "Nebius, Nebius delivers first NVIDIA Blackwell general availability in Europe",
-   "as_of": "2025-06-11"
+   "title": "Nebius Group letter to shareholders, Q3 2026 - the first NVIDIA Vera Rubin systems are live and being integrated into Nebius AI Cloud ahead of customer deployments, and Nebius is the first AI cloud to adopt NVIDIA Groq 3 LPX for inference on Vera Rubin NVL72",
+   "as_of": "2026-11-12"
   },
   {
    "source": "crusoe",
@@ -1857,7 +1858,8 @@
    "confidence": "verified",
    "url": "https://www.prnewswire.com/news-releases/ramp-introduces-ai-agents-to-automate-finance-operations-302502154.html",
    "title": "prnewswire.com, Ramp Introduces AI Agents to Automate Finance Operations",
-   "as_of": "2025-07-10"
+   "as_of": "2025-07-10",
+   "checked": "2026-11-18"
   },
   {
    "source": "shieldai",
@@ -4452,12 +4454,12 @@
    "target": "taalas",
    "type": "owns",
    "from": "datapass-2026-11-06",
-   "confidence": "reported",
-   "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
-   "title": "AMD investor relations, AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market - definitive agreement signed 2026-08-06, priced at approximately $2.9B including up to approximately $1.4B of contingent consideration in AMD's 10-Q of 2026-11-04, close expected in AMD's fiscal Q4 2026 subject to regulatory approval; signed, not closed",
+   "confidence": "verified",
+   "url": "https://newsroom.amd.com/news/amd-completes-acquisition-taalas-advance-ai-inference-innovation/",
+   "title": "AMD (company newsroom), AMD Completes Acquisition of Taalas to Advance AI Inference Innovation - the acquisition closed, adding Taalas engineering presence in Canada to AMD",
    "amount": "~$2.9B incl. up to ~$1.4B contingent",
    "amount_musd": 2900,
-   "as_of": "2026-08-06"
+   "as_of": "2026-11-17"
   },
   {
    "source": "unitree",
@@ -4765,50 +4767,60 @@
    "target": "anthropic",
    "type": "invests_in",
    "from": "datapass-2026-11-11",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
-   "as_of": "2026-11-10"
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+   "title": "Anthropic Form S-1/A (Amendment No. 2), filed 2026-11-10 - the $26.0B concurrent private placement of Class N non-voting common stock at the IPO price breaks down as Google and NVIDIA about $10B each, AMD $2.5B, Broadcom, Microsoft and Micron $1B each and TSMC $500M; AMD subscribes for approximately $2.5B",
+   "as_of": "2026-11-10",
+   "amount": "approximately $2.5B of Class N stock at the IPO price",
+   "amount_musd": 2500
   },
   {
    "source": "broadcom",
    "target": "anthropic",
    "type": "invests_in",
    "from": "datapass-2026-11-11",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
-   "as_of": "2026-11-10"
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+   "title": "Anthropic Form S-1/A (Amendment No. 2), filed 2026-11-10 - the $26.0B concurrent private placement of Class N non-voting common stock at the IPO price breaks down as Google and NVIDIA about $10B each, AMD $2.5B, Broadcom, Microsoft and Micron $1B each and TSMC $500M; Broadcom subscribes for approximately $1.0B",
+   "as_of": "2026-11-10",
+   "amount": "approximately $1.0B of Class N stock at the IPO price",
+   "amount_musd": 1000
   },
   {
    "source": "micron",
    "target": "anthropic",
    "type": "invests_in",
    "from": "datapass-2026-11-11",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
-   "as_of": "2026-11-10"
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+   "title": "Anthropic Form S-1/A (Amendment No. 2), filed 2026-11-10 - the $26.0B concurrent private placement of Class N non-voting common stock at the IPO price breaks down as Google and NVIDIA about $10B each, AMD $2.5B, Broadcom, Microsoft and Micron $1B each and TSMC $500M; Micron subscribes for approximately $1.0B",
+   "as_of": "2026-11-10",
+   "amount": "approximately $1.0B of Class N stock at the IPO price",
+   "amount_musd": 1000
   },
   {
    "source": "microsoft",
    "target": "anthropic",
    "type": "invests_in",
    "from": "datapass-2026-11-11",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
-   "as_of": "2026-11-10"
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+   "title": "Anthropic Form S-1/A (Amendment No. 2), filed 2026-11-10 - the $26.0B concurrent private placement of Class N non-voting common stock at the IPO price breaks down as Google and NVIDIA about $10B each, AMD $2.5B, Broadcom, Microsoft and Micron $1B each and TSMC $500M; Microsoft subscribes for approximately $1.0B",
+   "as_of": "2026-11-10",
+   "amount": "approximately $1.0B of Class N stock at the IPO price (13,513,513 shares)",
+   "amount_musd": 1000
   },
   {
    "source": "tsmc",
    "target": "anthropic",
    "type": "invests_in",
    "from": "datapass-2026-11-11",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "title": "CNBC, Anthropic sets IPO price range of $70 to $78 - Anthropic says it agreed to sell $26B of Class N non-voting common stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC in a private placement closing concurrently with the offering (per-company split not disclosed; not yet closed)",
-   "as_of": "2026-11-10"
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+   "title": "Anthropic Form S-1/A (Amendment No. 2), filed 2026-11-10 - the $26.0B concurrent private placement of Class N non-voting common stock at the IPO price breaks down as Google and NVIDIA about $10B each, AMD $2.5B, Broadcom, Microsoft and Micron $1B each and TSMC $500M; TSMC (TSMC Partners) subscribes for approximately $500M",
+   "as_of": "2026-11-10",
+   "amount": "approximately $500M of Class N stock at the IPO price",
+   "amount_musd": 500
   },
   {
    "source": "nvidia",
@@ -5176,7 +5188,69 @@
    "url": "https://fireworks.ai/news/fireworks-expands-european-capacity-nvidia-rubin-blackwell",
    "title": "Fireworks newsroom, Fireworks expands European capacity with NVIDIA - Fireworks Ultrafast is in public preview on the NVIDIA Blackwell Platform today, and the European build-out on NVIDIA Vera Rubin and Grace Blackwell, using the DSX AI factory platform and Spectrum-X Ethernet, deploys from 2027",
    "as_of": "2026-11-03"
+  },
+  {
+   "source": "intel",
+   "target": "iren",
+   "type": "invests_in",
+   "from": "datapass-2026-11-18",
+   "confidence": "reported",
+   "url": "https://mlq.ai/news/13f-roundup-greenoaks-buys-meta-intel-reports-iren-shares-from-a-startup-sale-softbank-and-tci-barely-move/",
+   "title": "13F roundup (MLQ.ai), Intel reports IREN shares from a startup sale - Intel's Q3 2026 Form 13F lists about 1.29 million IREN shares worth about $52.75M at 2026-09-30; the shares reached Intel Capital when IREN paid for Mirantis in stock, an IREN resale prospectus of 2026-08-04 listing Intel Capital with 3,590,375 of them",
+   "amount": "~$52.75M of IREN stock held at 2026-09-30",
+   "amount_musd": 53,
+   "as_of": "2026-09-30"
+  },
+  {
+   "source": "nvidia",
+   "target": "genesisai",
+   "type": "invests_in",
+   "from": "datapass-2026-11-18",
+   "confidence": "verified",
+   "url": "https://finance.yahoo.com/technology/ai/articles/genesis-ai-raises-500m-series-140000887.html",
+   "title": "Genesis AI (company release), Genesis AI Raises $500M Series A at $3.5B Valuation - NVIDIA named among the participants alongside co-leads Premji Invest, Khosla Ventures and Eclipse",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "amd",
+   "target": "genesisai",
+   "type": "invests_in",
+   "from": "datapass-2026-11-18",
+   "confidence": "verified",
+   "url": "https://finance.yahoo.com/technology/ai/articles/genesis-ai-raises-500m-series-140000887.html",
+   "title": "Genesis AI (company release), Genesis AI Raises $500M Series A at $3.5B Valuation - AMD Ventures named among the participants alongside co-leads Premji Invest, Khosla Ventures and Eclipse",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "samsung",
+   "target": "genesisai",
+   "type": "invests_in",
+   "from": "datapass-2026-11-18",
+   "confidence": "verified",
+   "url": "https://finance.yahoo.com/technology/ai/articles/genesis-ai-raises-500m-series-140000887.html",
+   "title": "Genesis AI (company release), Genesis AI Raises $500M Series A at $3.5B Valuation - Samsung Next named among the participants alongside co-leads Premji Invest, Khosla Ventures and Eclipse",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "skild",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-18",
+   "confidence": "verified",
+   "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+   "title": "NVIDIA (company blog), Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video - Skild built its S1 robot foundation model on NVIDIA AI infrastructure, with reinforcement learning in Isaac Lab and simulation in Isaac Sim and Omniverse",
+   "as_of": "2026-09-10"
+  },
+  {
+   "source": "modal",
+   "target": "oracle",
+   "type": "rents",
+   "from": "datapass-2026-11-18",
+   "confidence": "verified",
+   "url": "https://www.oracle.com/news/announcement/ocw24-modal-labs-selects-oracle-as-its-cloud-infrastructure-provider-of-choice-2024-09-10/",
+   "title": "Oracle (company newsroom), Modal Labs Selects Oracle as its Cloud Infrastructure Provider of Choice - Modal runs inferencing, fine-tuning and batch AI workloads on Oracle Cloud Infrastructure",
+   "as_of": "2024-09-10"
   }
  ],
- "as_of": "2026-11-15"
+ "as_of": "2026-11-18"
 }
