@@ -885,10 +885,10 @@
    "target": "oracle",
    "type": "commits_to",
    "from": "persona-sourcing-2026-10-21",
-   "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle/",
+   "url": "https://openai.com/index/stargate-michigan-data-center/",
    "confidence": "verified",
-   "title": "OpenAI, Stargate advances with 4.5 GW partnership with Oracle",
-   "as_of": "2025-07-22",
+   "title": "OpenAI, Building the infrastructure for the Intelligence Age in Michigan - broke ground with Oracle, Related Digital and Walbridge on a 1 GW Saline Township campus, 'part of our 4.5GW partnership with Oracle'",
+   "as_of": "2026-06-01",
    "amount": "4.5 GW"
   },
   {
@@ -3999,16 +3999,6 @@
    "as_of": "2026-10-17"
   },
   {
-   "source": "poolside",
-   "target": "coreweave",
-   "type": "rents",
-   "from": "integrity-2026-10-26",
-   "confidence": "verified",
-   "url": "https://www.coreweave.com/news/coreweave-announces-partnership-with-foundation-model-company-poolside-to-deliver-ai-cloud-services",
-   "as_of": "2025-10-15",
-   "title": "CoreWeave, CoreWeave Announces Partnership with Foundation Model Company Poolside (more than 40,000 GB300 GPUs)"
-  },
-  {
    "source": "nscale",
    "target": "nvidia",
    "type": "builds_on",
@@ -4158,7 +4148,8 @@
    "confidence": "verified",
    "url": "https://www.cnbc.com/2025/07/16/openai-googles-cloud-chatgpt.html",
    "as_of": "2025-07-16",
-   "title": "CNBC, OpenAI says it will use Google's cloud for ChatGPT (Google Cloud added to OpenAI's own published list of compute suppliers alongside Microsoft, Oracle and CoreWeave; capacity in the US, Japan, the Netherlands, Norway and the UK)"
+   "title": "CNBC, OpenAI says it will use Google's cloud for ChatGPT (Google Cloud added to OpenAI's own published list of compute suppliers alongside Microsoft, Oracle and CoreWeave; capacity in the US, Japan, the Netherlands, Norway and the UK)",
+   "checked": "2026-11-19"
   },
   {
    "source": "furiosa",
@@ -5249,7 +5240,58 @@
    "confidence": "verified",
    "url": "https://www.oracle.com/news/announcement/ocw24-modal-labs-selects-oracle-as-its-cloud-infrastructure-provider-of-choice-2024-09-10/",
    "title": "Oracle (company newsroom), Modal Labs Selects Oracle as its Cloud Infrastructure Provider of Choice - Modal runs inferencing, fine-tuning and batch AI workloads on Oracle Cloud Infrastructure",
-   "as_of": "2024-09-10"
+   "as_of": "2024-09-10",
+   "checked": "2026-11-19"
+  },
+  {
+   "source": "alphabet",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-19",
+   "confidence": "verified",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+   "title": "NVIDIA (Q3 FY2027 results release), general availability of Google Cloud's Vera Rubin-powered A5X instances, with Vera Rubin racks running at Google Cloud",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "azureai",
+   "target": "deepseek",
+   "type": "builds_on",
+   "from": "datapass-2026-11-19",
+   "confidence": "verified",
+   "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-deepseek-v4-flash-and-v4-pro-in-microsoft-foundry/4515174",
+   "title": "Microsoft, Introducing DeepSeek V4 Flash and V4 Pro in Microsoft Foundry - both models added to the Foundry catalogue and sold directly by Azure, reachable through one API and endpoint",
+   "as_of": "2026-04-30"
+  },
+  {
+   "source": "azureai",
+   "target": "baseten",
+   "type": "routes",
+   "from": "datapass-2026-11-19",
+   "confidence": "verified",
+   "url": "https://www.globenewswire.com/news-release/2026/11/17/3405312/0/en/baseten-brings-high-performance-inference-for-open-models-to-microsoft-foundry.html",
+   "title": "Baseten (company release), Baseten Brings High-Performance Inference for Open Models to Microsoft Foundry - available today in public preview, billed through Azure as first-party Foundry consumption, GA expected early 2027",
+   "as_of": "2026-11-17"
+  },
+  {
+   "source": "azureai",
+   "target": "fireworks",
+   "type": "routes",
+   "from": "datapass-2026-11-19",
+   "confidence": "verified",
+   "url": "https://azure.microsoft.com/en-us/products/ai-foundry/models/fireworks-ai",
+   "title": "Microsoft, Fireworks on Microsoft Foundry - generally available as of 2026-06-02, open-model inference through a single Azure endpoint under Azure billing and controls",
+   "as_of": "2026-06-02"
+  },
+  {
+   "source": "supabase",
+   "target": "amazon",
+   "type": "rents",
+   "from": "datapass-2026-11-19",
+   "confidence": "verified",
+   "url": "https://finance.yahoo.com/news/supabase-aws-empower-app-developers-160000350.html",
+   "title": "Supabase and AWS (joint release), Supabase and AWS Empower App Developers to Build in a Weekend, Scale to Millions - Supabase says it is built entirely on AWS across 17 regions, announcing S3 Analytics and Vector Buckets",
+   "as_of": "2025-12-15"
   }
  ],
  "as_of": "2026-11-18"
