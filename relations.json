@@ -1167,7 +1167,8 @@
    "url": "https://www.cnbc.com/2025/08/01/cloud-wars-how-microsoft-stacks-up-against-amazon-google-oracle-in-1-chart.html",
    "confidence": "reported",
    "title": "CNBC, Cloud wars: How Microsoft stacks up against Amazon, Google, Oracle in 1 chart",
-   "as_of": "2025-08-01"
+   "as_of": "2025-08-01",
+   "checked": "2026-11-20"
   },
   {
    "source": "alphabet",
@@ -2459,12 +2460,12 @@
    "target": "nscale",
    "type": "rents",
    "from": "datapass-2026-09-09",
-   "confidence": "reported",
-   "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
-   "title": "cnbc.com, Anthropic and Nscale strike $45 billion cloud deal, sources say",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026073040/anthropicpbc-fwpxeeaprospea.htm",
+   "title": "Anthropic free writing prospectus (EEA), GPU services agreements signed with Nscale in August 2026 for NVIDIA-powered compute, up to approximately $44.6 billion over terms running into 2033, with fees accruing as capacity is delivered and accepted",
    "as_of": "2026-08-26",
-   "amount": "~$45B",
-   "amount_musd": 45000
+   "amount": "up to ~$44.6B through 2033",
+   "amount_musd": 44600
   },
   {
    "source": "tencent",
@@ -3262,12 +3263,12 @@
    "target": "lambda",
    "type": "rents",
    "from": "datapass-2026-10-07",
-   "confidence": "reported",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-   "title": "Bloomberg, Anthropic Strikes $35 Billion Cloud Deal With Nvidia-Backed Lambda (six-year, ~350 MW compute commitment)",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026073040/anthropicpbc-fwpxeeaprospea.htm",
+   "title": "Anthropic free writing prospectus (EEA), compute commitments to Lambda of approximately $41.3 billion across agreements of May, June and August 2026, with terms running into 2034",
    "as_of": "2026-08-31",
-   "amount": "$35B",
-   "amount_musd": 35000
+   "amount": "~$41.3B through 2034",
+   "amount_musd": 41300
   },
   {
    "source": "nvidia",
@@ -3464,11 +3465,11 @@
    "type": "rents",
    "from": "datapass-2026-10-11",
    "confidence": "verified",
-   "url": "https://investors.terawulf.com/news-events/press-releases/detail/114/terawulf-announces-fluidstack-expansion-with-160-mw-cb-5-lease-at-lake-mariner",
-   "title": "investors.terawulf.com, TeraWulf Announces Fluidstack Expansion with 160 MW CB-5 Lease at Lake Mariner",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001083301/000162828026071306/a_wulfearningsreleaseq32026.htm",
+   "title": "TeraWulf Form 8-K exhibit (Q3 2026 results, 2026-11-06), HPC lease revenue of $63.0M, about 83% of quarterly revenue, with the Fluidstack and Google partnership at Lake Mariner expanded, 102 MW online and 336 MW under construction across CB-4 and CB-5",
    "amount": "$6.7B, up to $16B",
    "amount_musd": 6700,
-   "as_of": "2025-08-18"
+   "as_of": "2026-11-06"
   },
   {
    "source": "alphabet",
@@ -3984,9 +3985,9 @@
    "type": "builds_on",
    "from": "datapass-2026-10-25",
    "confidence": "verified",
-   "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/release-notes",
-   "title": "docs.cloud.google.com, Vertex AI release notes | Generative AI on Vertex AI | Google Cloud Documentation",
-   "as_of": "2025-08-06"
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+   "title": "Google Cloud (company blog), Google Cloud brings OpenAI models to customers - GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna rolling out in Model Garden in private preview, alongside the gpt-oss models GA there since 2025",
+   "as_of": "2026-10-21"
   },
   {
    "source": "replit",
@@ -5292,7 +5293,127 @@
    "url": "https://finance.yahoo.com/news/supabase-aws-empower-app-developers-160000350.html",
    "title": "Supabase and AWS (joint release), Supabase and AWS Empower App Developers to Build in a Weekend, Scale to Millions - Supabase says it is built entirely on AWS across 17 regions, announcing S3 Analytics and Vector Buckets",
    "as_of": "2025-12-15"
+  },
+  {
+   "source": "bytedance",
+   "target": "nscale",
+   "type": "rents",
+   "from": "datapass-2026-11-20",
+   "confidence": "reported",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
+   "title": "Tom's Hardware (reading Nscale's S-1 exhibits and the FT), ByteDance gained access to 2,304 NVIDIA B200 chips through Nscale's Glomfjord data centre in Norway under a cloud services agreement with its Singapore subsidiary Spring (SG) Pte. Ltd., which was 73% of Nscale's 2025 revenue",
+   "as_of": "2025-05-15"
+  },
+  {
+   "source": "vercelgw",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://vercel.com/ai-gateway/models/labs",
+   "title": "Vercel AI Gateway, AI model labs - OpenAI listed as a gateway lab with 65 models",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "vercelgw",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://vercel.com/ai-gateway/models/labs",
+   "title": "Vercel AI Gateway, AI model labs - Anthropic listed as a gateway lab with 15 models, Claude Opus 5 and Claude Haiku 5.5 among them",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "vercelgw",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://vercel.com/ai-gateway/models/labs",
+   "title": "Vercel AI Gateway, AI model labs - Google listed as a gateway lab with 37 models",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "vercelgw",
+   "target": "xai",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://vercel.com/ai-gateway/models/labs",
+   "title": "Vercel AI Gateway, AI model labs - xAI listed as a gateway lab with 19 models, Grok 4.7 among them",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "figma",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://help.figma.com/hc/en-us/articles/36400680326551",
+   "title": "Figma help centre, AI models in Figma Make - the model selector offers OpenAI's GPT-5.6 Terra and GPT-6.1 Sol",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "figma",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://help.figma.com/hc/en-us/articles/36400680326551",
+   "title": "Figma help centre, AI models in Figma Make - the model selector offers Anthropic's Claude Sonnet 4.5 and Claude Opus 5.5",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "figma",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://help.figma.com/hc/en-us/articles/36400680326551",
+   "title": "Figma help centre, AI models in Figma Make - the model selector offers Google's Gemini 3.8 Flash and Gemini 4 Argon",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "replit",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://blog.replit.com/google-partnership",
+   "title": "Replit (company blog), Replit and Google Cloud Partner to Advance Enterprise AI Development - a new multi-year agreement under which Google Cloud remains Replit's primary cloud provider, with Cloud Run, Google Kubernetes Engine and BigQuery underpinning customer applications",
+   "as_of": "2025-12-04"
+  },
+  {
+   "source": "replit",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://blog.replit.com/google-partnership",
+   "title": "Replit (company blog), Replit and Google Cloud Partner to Advance Enterprise AI Development - Gemini 3, Gemini 2.5 Flash, 2.5 Flash Lite and Imagen 4 supported on Replit through Vertex AI",
+   "as_of": "2025-12-04"
+  },
+  {
+   "source": "legora",
+   "target": "microsoft",
+   "type": "builds_on",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://microsoft.com/en/customers/story/23171-legora-azure-openai",
+   "title": "Microsoft (customer story), How Legora is transforming the legal workspace using Azure OpenAI Service - Legora's platform is built on Microsoft Azure and calls models through the Azure OpenAI Service, deployed regionally for client data residency",
+   "as_of": "2026-11-20"
+  },
+  {
+   "source": "legora",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-20",
+   "confidence": "verified",
+   "url": "https://openai.com/index/legora/",
+   "title": "OpenAI (customer story), Legora is building the agentic operating system for legal work - OpenAI named a key model provider powering core workflows across Legora's platform, which runs on the API, Codex and ChatGPT",
+   "as_of": "2026-11-20"
   }
  ],
- "as_of": "2026-11-18"
+ "as_of": "2026-11-20"
 }

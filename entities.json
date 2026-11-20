@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-11-18",
+ "as_of": "2026-11-20",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -8079,17 +8079,42 @@
    "layer": "agent",
    "kind": "company",
    "signal": "$100M ARR",
-   "role": "San Francisco company founded by three former OpenAI researchers that builds custom reinforcement-learning agents for enterprises: it post-trains a model against a customer's own data and workflows and runs the result on its own Agent Cloud. The $3.25B is the post-money the company itself states on a $350M round announced 2026-11-02 and led by the angel investor Elad Gil, with Kleiner Perkins, Lux Capital, Hanabi Capital, NVIDIA, Blackstone, Shopify Ventures and HubSpot Ventures named as participants, up from the $1.3B post-money of an $80M Kleiner Perkins round in April 2026; Latham & Watkins, which advised on the financing, dated its own release 2026-11-03, and Forbes had reported the same $350M at the same $3.25B as talks on 2026-09-02. The company says annualised revenue run rate passed $100M in under 18 months from founding, and the money goes on compute, hiring and enterprise deployment. Its own case studies name NVIDIA as a post-training collaborator and Harvey, Microsoft and DoorDash as customers; those are commercial relationships rather than supply-chain ties under this map's rules, so the NVIDIA cheque is the edge. Every page on appliedcompute.com is egress-blocked to this sandbox, so the round rests on a domain-restricted search of the company's own site plus press accounts.",
-   "confidence": "verified",
-   "valuation_musd": 3250,
+   "role": "San Francisco company founded by three former OpenAI researchers that builds custom reinforcement-learning agents for enterprises: it post-trains a model against a customer's own data and workflows and runs the result on its own Agent Cloud. PALO ALTO NETWORKS AGREED TO BUY IT on 2026-11-18, and the $4.5B is that transaction value: Palo Alto's 8-K and its 10-Q for the quarter ended 2026-10-31 both say it will acquire all of the outstanding stock, warrants and other rights to acquire or receive equity of Applied Compute for total consideration of $4.5 billion, subject to adjustments, payable in Palo Alto common stock, with the share count set off a $337.16 reference price (the 15-day VWAP to 2026-11-17) and not yet fixed. The total includes about $500M of cash and prepaid compute commitments Applied Compute already owns. Close is expected in Palo Alto's fiscal third quarter of 2027 on regulatory clearance, so the mark is `reported` and no `owns` edge is drawn: Palo Alto Networks is not on this map. Co-founder and chief executive Yash Patil becomes Palo Alto's co-chief AI officer at close. The price is 1.4x the $3.25B post-money the company itself stated two weeks earlier on a $350M round announced 2026-11-02 and led by the angel investor Elad Gil, with Kleiner Perkins, Lux Capital, Hanabi Capital, NVIDIA, Blackstone, Shopify Ventures and HubSpot Ventures named as participants, up from the $1.3B post-money of an $80M Kleiner Perkins round in April 2026. The company says annualised revenue run rate passed $100M in under 18 months from founding. Its own case studies name NVIDIA as a post-training collaborator and Harvey, Microsoft and DoorDash as customers; those are commercial relationships rather than supply-chain ties under this map's rules, so the NVIDIA cheque is the edge.",
+   "confidence": "reported",
+   "valuation_musd": 4500,
    "sources": [
+    {
+     "title": "Palo Alto Networks Form 8-K exhibit 99.2 (press release, 2026-11-18), Palo Alto Networks to Acquire Applied Compute - all-stock, total consideration of $4.5 billion subject to adjustments, shares priced off a $337.16 reference price, close expected in fiscal Q3 2027",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex992pressrelease_november.htm",
+     "as_of": "2026-11-18",
+     "backs": [
+      "valuation",
+      "role"
+     ]
+    },
+    {
+     "title": "Palo Alto Networks Form 10-Q for the quarter ended 2026-10-31, definitive agreement entered into on 2026-11-18 to acquire Applied Compute, Inc.",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000033/panw-20261031.htm",
+     "as_of": "2026-11-18",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "Quartz, Palo Alto Networks agreed to buy AI startup Applied Compute for $4.5 billion",
+     "url": "https://qz.com/palo-alto-networks-applied-compute-acquisition-ai-111926",
+     "as_of": "2026-11-19",
+     "backs": [
+      "valuation"
+     ]
+    },
     {
      "title": "Applied Compute (company blog), Applied Compute hits $100M run rate and raises $350M - $350M at a $3.25B valuation led by Elad Gil, with Kleiner Perkins, Lux Capital, Hanabi Capital, NVIDIA, Blackstone, Shopify Ventures and HubSpot Ventures participating",
      "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
      "as_of": "2026-11-02",
      "backs": [
-      "valuation",
-      "signal"
+      "signal",
+      "role"
      ]
     },
     {
@@ -8101,7 +8126,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-02",
+   "as_of": "2026-11-18",
    "domain": "appliedcompute.com",
    "region": "us"
   },
