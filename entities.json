@@ -8088,8 +8088,7 @@
      "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex992pressrelease_november.htm",
      "as_of": "2026-11-18",
      "backs": [
-      "valuation",
-      "role"
+      "valuation"
      ]
     },
     {
@@ -8097,7 +8096,7 @@
      "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000033/panw-20261031.htm",
      "as_of": "2026-11-18",
      "backs": [
-      "valuation"
+      "role"
      ]
     },
     {
@@ -8113,8 +8112,7 @@
      "url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
      "as_of": "2026-11-02",
      "backs": [
-      "signal",
-      "role"
+      "signal"
      ]
     },
     {
