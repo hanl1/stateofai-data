@@ -1678,7 +1678,8 @@
    "confidence": "verified",
    "url": "https://techcrunch.com/2025/08/21/nvidia-is-latest-investor-to-back-av-startup-nuro-in-203m-funding-round",
    "title": "techcrunch.com, Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch",
-   "as_of": "2025-08-21"
+   "as_of": "2025-08-21",
+   "checked": "2026-11-21"
   },
   {
    "source": "appliedint",
@@ -3520,11 +3521,11 @@
    "type": "rents",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with",
-   "title": "ir.applieddigital.com, Applied Digital Finalizes Additional 150MW Lease with CoreWeave in North Dakota",
+   "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000057/apldq127earningsrelease.htm",
+   "title": "Applied Digital Form 8-K, fiscal Q1 2027 results (2026-10-07) - Polaris Forge 1 in Ellendale, North Dakota is leased to CoreWeave, with CoreWeave's leases covering all 400 MW under construction",
    "amount": "~$11B across all leases",
    "amount_musd": 11000,
-   "as_of": "2025-08-29"
+   "as_of": "2026-10-07"
   },
   {
    "source": "amazon",
@@ -4597,7 +4598,8 @@
    "url": "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
    "as_of": "2025-08-21",
    "amount": "over $10B over 6 years",
-   "title": "CNBC, Google scores six-year Meta cloud deal worth over $10 billion - Meta to spend more than $10B on Google Cloud servers, storage and networking for AI infrastructure, per two people familiar with the matter"
+   "title": "CNBC, Google scores six-year Meta cloud deal worth over $10 billion - Meta to spend more than $10B on Google Cloud servers, storage and networking for AI infrastructure, per two people familiar with the matter",
+   "checked": "2026-11-21"
   },
   {
    "source": "wse",
@@ -5413,6 +5415,66 @@
    "url": "https://openai.com/index/legora/",
    "title": "OpenAI (customer story), Legora is building the agentic operating system for legal work - OpenAI named a key model provider powering core workflows across Legora's platform, which runs on the API, Codex and ChatGPT",
    "as_of": "2026-11-20"
+  },
+  {
+   "source": "alphasense",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://www.alpha-sense.com/security/generative-ai-security/",
+   "title": "AlphaSense (own Generative AI Security page), AlphaSense uses an AI gateway architecture that routes customer queries to LLMs from established AI providers, including Anthropic, OpenAI and Google Gemini; the page carries no date, so the as-of is the date read",
+   "as_of": "2026-11-21"
+  },
+  {
+   "source": "alphasense",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://www.alpha-sense.com/security/generative-ai-security/",
+   "title": "AlphaSense (own Generative AI Security page), AlphaSense uses an AI gateway architecture that routes customer queries to LLMs from established AI providers, including Anthropic, OpenAI and Google Gemini; the page carries no date, so the as-of is the date read",
+   "as_of": "2026-11-21"
+  },
+  {
+   "source": "alphasense",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://www.alpha-sense.com/security/generative-ai-security/",
+   "title": "AlphaSense (own Generative AI Security page), AlphaSense uses an AI gateway architecture that routes customer queries to LLMs from established AI providers, including Anthropic, OpenAI and Google Gemini; the page carries no date, so the as-of is the date read",
+   "as_of": "2026-11-21"
+  },
+  {
+   "source": "together",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://www.together.ai/gpu/nvidia-gb300-nvl72",
+   "title": "Together AI (own cluster catalogue), NVIDIA GB300 NVL72 Cluster Pricing & Specs - Together rents out NVIDIA GB300 NVL72, GB200 NVL72 and HGX B200 clusters with cooling and power handled by its own data centre infrastructure, having joined the NVIDIA Partner Network as an NVIDIA Cloud Partner; the page carries no date, so the as-of is the date read",
+   "as_of": "2026-11-21"
+  },
+  {
+   "source": "wayve",
+   "target": "microsoft",
+   "type": "rents",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://news.microsoft.com/source/emea/features/ai-that-drives-change-wayve-rewrites-self-driving-playbook-with-deep-learning-in-azure/",
+   "title": "Microsoft (own newsroom feature), AI that drives change: Wayve rewrites the self-driving playbook with deep learning in Azure - Wayve combines Azure Storage, Azure Databricks and Azure AI infrastructure with Azure Kubernetes Service to link thousands of GPUs into one system for training and validating its driving model; the page carries no date, so the as-of is the date read",
+   "as_of": "2026-11-21"
+  },
+  {
+   "source": "tsmc",
+   "target": "amkor",
+   "type": "packaged_by",
+   "from": "datapass-2026-11-21",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260616574153/en/",
+   "title": "TSMC and Amkor (joint company release), TSMC and Amkor Technology Announce Long Term Partnership to Accelerate Advanced Packaging in the United States - a ten-year collaboration framework for TSMC to procure advanced packaging and test services from Amkor's Peoria, Arizona campus, building on the October 2024 memorandum of understanding that covered CoWoS",
+   "as_of": "2026-06-16"
   }
  ],
  "as_of": "2026-11-20"
