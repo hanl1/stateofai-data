@@ -1,6 +1,6 @@
 {
  "version": 1,
- "as_of": "2026-11-20",
+ "as_of": "2026-11-22",
  "note": "Verification pass 2026-07-27: 95 of 128 companies carry a sourced valuation. The remaining 33 keep sources:[] and are shown as unsourced in the UI. Divisions are never valued.",
  "entities": [
   {
@@ -42,7 +42,7 @@
    "layer": "app",
    "kind": "company",
    "signal": "enterprise search",
-   "role": "Indexes internal company data across tools; enterprise knowledge retrieval.",
+   "role": "Indexes internal company data across tools; enterprise knowledge retrieval. Two of the strategic investors in its February 2024 Series D are on this map's supply chain rather than in it: Databricks Ventures and Workday Ventures both took part in the over-$200M round led by Kleiner Perkins and Lightspeed at a $2.2B valuation, alongside Capital One Ventures and Citi. Its product ties to those partners are integrations rather than relationships the map draws: Glean queries Databricks AI/BI Genie and Snowflake Cortex Analyst from inside Glean Assistant under each platform's own permissions, and it was named Databricks' 2026 ISV AI Visionary Partner of the Year. The $7.2B mark is the June 2025 Series F; two pre-IPO trackers print a 2026 round that no primary carries.",
    "confidence": "verified",
    "valuation_musd": 7200,
    "sources": [
@@ -829,7 +829,7 @@
    "layer": "app",
    "kind": "company",
    "signal": "GTM data",
-   "role": "Go-to-market data enrichment and outbound automation; 17,000+ customers including Google, OpenAI, Anthropic and Stripe.",
+   "role": "Go-to-market data enrichment and outbound automation; 17,000+ customers including Google, OpenAI, Anthropic and Stripe. Its own docs make it a model router as well as a data product: Claygent, the agent that researches each record on the web, and the consolidated Use AI enrichment column both let the customer pick frontier models from OpenAI, Anthropic or Google, or Clay's own flat-priced models, with an Auto mode that sends each row to a model Clay chooses. Customers may connect their own OpenAI or Anthropic API keys and are then billed by those providers directly, and Clay says its contracts with every AI provider prohibit training on customer data.",
    "confidence": "verified",
    "valuation_musd": 7100,
    "sources": [
@@ -1118,7 +1118,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "AV software",
-   "role": "Autonomy software for automotive and defense vehicle programs, expanding from automotive into military and off-road vehicle autonomy on US Army contracts; named customers include Isuzu and Volkswagen. Reported on 2026-11-11 to be in talks to raise at least $1.5B led by General Catalyst at a ~$30B PRE-money valuation, twice the $15B June 2025 Series F the map carries; that firms up the investment offers at a $30B minimum reported on 2026-10-13, but nothing is closed, no other investor is named and no party has commented, so the mark stands. One aggregator reframed the October report as ACQUISITION offers, where the originating report and every other relay say investment offers.",
+   "role": "Autonomy software for automotive and defense vehicle programs, expanding from automotive into military and off-road vehicle autonomy on US Army contracts; named customers include Isuzu and Volkswagen. Reported on 2026-11-11 to be in talks to raise at least $1.5B led by General Catalyst at a ~$30B PRE-money valuation, twice the $15B June 2025 Series F the map carries; that firms up the investment offers at a $30B minimum reported on 2026-10-13, but nothing is closed, no other investor is named and no party has commented, so the mark stands. One aggregator reframed the October report as ACQUISITION offers, where the originating report and every other relay say investment offers. An Axios newsletter headline of 2026-11-21 reads that it 'lands $1.5B', but no close is reported anywhere: an extended search of the originating outlets finds only the 2026-11-11 talks story, the figure is the same $1.5B, and neither the company nor General Catalyst has announced or commented on a round. The tense in that headline is the only thing new.",
    "confidence": "verified",
    "valuation_musd": 15000,
    "sources": [
@@ -3976,7 +3976,7 @@
    "layer": "chip",
    "kind": "company",
    "signal": "TDX · foundry",
-   "role": "TDX confidential compute underpins most TEE inference; struggling in AI accelerators.",
+   "role": "TDX confidential compute underpins most TEE inference; struggling in AI accelerators. Its first named hyperscaler silicon customer arrived on 2026-11-18: Intel's own newsroom says Microsoft and Intel have deepened their collaboration on Azure infrastructure, with the agreement confirming multi-year Intel Xeon supply capacity including instances of the next-generation server CPU codenamed Diamond Rapids, and Microsoft the first company to announce use of Intel Foundry's EMIB advanced packaging for Azure first-party silicon. Neither party disclosed terms or the length of the deal, and no page says which Azure part the EMIB packaging carries or when it ships, so only the Xeon supply leg is drawn and the packaging leg waits under the rule that a chip deployment is an edge when it lands. Intel's own quarterly filing names a second such collaboration, with Oracle, covering planned OCI offerings powered by Diamond Rapids.",
    "confidence": "verified",
    "valuation_musd": 272553,
    "ticker": "INTC",
@@ -5997,7 +5997,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "cognitive robots",
-   "role": "German full-stack maker of what it calls cognitive robots - the 4NE-1 humanoid alongside industrial cobots - plus Neuraverse, a shared app platform the robots learn from. Its June 2026 Series C of up to $1.4B, led by Tether with NVIDIA, Amazon, Qualcomm, Bosch, Schaeffler and the European Investment Bank in, is the largest round ever raised by a full-stack robotics company; the full amount is contingent on performance milestones, and the company says its orderbook and deployment pipeline exceed $1B against a target of multi-million-unit production by 2030. The ~$7B valuation comes from people familiar with the deal - NEURA itself declined to confirm a figure, which is why the mark is reported rather than verified.",
+   "role": "German full-stack maker of what it calls cognitive robots - the 4NE-1 humanoid alongside industrial cobots - plus Neuraverse, a shared app platform the robots learn from. Its June 2026 Series C of up to $1.4B, led by Tether with NVIDIA, Amazon, Qualcomm, Bosch, Schaeffler and the European Investment Bank in, is the largest round ever raised by a full-stack robotics company; the full amount is contingent on performance milestones, and the company says its orderbook and deployment pipeline exceed $1B against a target of multi-million-unit production by 2030. The ~$7B valuation comes from people familiar with the deal - NEURA itself declined to confirm a figure, which is why the mark is reported rather than verified. Its robots run on NVIDIA's stack and NEURA says so itself: they are developed with Isaac Sim and Isaac Lab, which it uses to simulate many robots in parallel under reinforcement learning, and powered by the GR00T N1 foundation model, work that began when it joined NVIDIA's Humanoid Robot Developer Program in July 2024. The MiPA physical-AI research programme it ran to 2026-10-30, which drew more than 170 submissions, offers NVIDIA Jetson Thor compute and Isaac Sim models to the proposals it picks.",
    "confidence": "reported",
    "valuation_musd": 7000,
    "sources": [
@@ -7434,7 +7434,7 @@
    "layer": "infer",
    "kind": "company",
    "signal": "chip-portable inference",
-   "role": "Israeli-founded AI lab (2023, Dean Leitersdorf and Moshe Shalev) that sells chip portability as a product: its Decart Optimization Stack runs the same AI workload on NVIDIA GPUs, Google TPUs or Amazon Trainium without rebuilding for each, and it ships its own real-time world models on top - Lucy for interactive video and Oasis for robotics and autonomous-driving simulation. More than $450M raised in total, with a San Francisco presence alongside the Israeli founding team. The $4B mark is the $300M Series B of May 2026 led by Radical Ventures with NVIDIA joining as a new investor, and it is reported rather than verified because no company release carries the figure and the outlets split between \"$4 billion\" and \"nearly $4 billion\". AMAZON is in talks to acquire it for about $7B (WSJ, 2026-10-11) with nothing signed and another bidder still possible - weeks after ANTHROPIC walked away from a roughly $6B deal following due diligence (Bloomberg), and after NVIDIA's own acquisition approach was rebuffed. Three of the largest buyers in AI looked at the same company inside three months and reached different conclusions. Lucy 2 runs on AWS Trainium3, which Amazon says exceeds 80% model FLOPS utilisation, but the stack is vendor-agnostic by design, so no builds_on edge is drawn to any one of the three silicon vendors.",
+   "role": "Israeli-founded AI lab (2023, Dean Leitersdorf and Moshe Shalev) that sells chip portability as a product: its Decart Optimization Stack runs the same AI workload on NVIDIA GPUs, Google TPUs or Amazon Trainium without rebuilding for each, and it ships its own real-time world models on top - Lucy for interactive video and Oasis for robotics and autonomous-driving simulation. More than $450M raised in total, with a San Francisco presence alongside the Israeli founding team. The $4B mark is the $300M Series B of May 2026 led by Radical Ventures with NVIDIA joining as a new investor, and it is reported rather than verified because no company release carries the figure and the outlets split between \"$4 billion\" and \"nearly $4 billion\". AMAZON is in talks to acquire it for about $7B (WSJ, 2026-10-11) with nothing signed and another bidder still possible - weeks after ANTHROPIC walked away from a roughly $6B deal following due diligence (Bloomberg), and after NVIDIA's own acquisition approach was rebuffed. Three of the largest buyers in AI looked at the same company inside three months and reached different conclusions. Lucy 2 runs on AWS Trainium3, which Amazon says exceeds 80% model FLOPS utilisation, but the stack is vendor-agnostic by design, so no builds_on edge is drawn to any one of the three silicon vendors. The Financial Times reported on 2026-11-21 that Amazon is closing in on a $7.5B deal for it, the first top-tier account of the price Calcalist had put at more than $7B three days earlier; part of the consideration is contingent on targets, so $7.5B is a ceiling rather than a base price, and neither Amazon nor Decart has announced anything.",
    "confidence": "reported",
    "valuation_musd": 4000,
    "sources": [
