@@ -475,10 +475,10 @@
    "target": "ascend",
    "type": "builds_on",
    "from": "industry-map",
-   "url": "https://www.huawei.com/en/news/2025/9/hc-xu-keynote-speech",
+   "url": "https://www.huawei.com/en/news/2026/9/hc-ascend960-supernode",
    "confidence": "verified",
-   "title": "Huawei, Groundbreaking SuperPoD Interconnect: Leading a New Paradigm for AI Infrastructure (Ascend 910C SuperPoD)",
-   "as_of": "2025-09-18"
+   "title": "Huawei, Huawei Launches the World's First NPO-based SuperPoD (Atlas 960E SuperPoD built on Ascend 960 chips, up to 4,096 NPUs and 8 EFLOPS of FP8)",
+   "as_of": "2026-09"
   },
   {
    "source": "ibm",
@@ -576,7 +576,8 @@
    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-chip-champions-ramp-up-production-of-ai-accelerators-at-domestic-fabs-but-hbm-and-fab-production-capacity-are-towering-bottlenecks",
    "confidence": "reported",
    "as_of": "2025-09-10",
-   "title": "Tom's Hardware, China's chip champions ramp up production of AI accelerators at domestic fabs (SMIC began producing Ascend 910B in Q3 2024)"
+   "title": "Tom's Hardware, China's chip champions ramp up production of AI accelerators at domestic fabs (SMIC began producing Ascend 910B in Q3 2024)",
+   "checked": "2026-11-23"
   },
   {
    "source": "cambricon",
@@ -2503,9 +2504,9 @@
    "type": "builds_on",
    "from": "datapass-2026-09-13",
    "confidence": "verified",
-   "url": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd",
-   "title": "Prior mark: TechCrunch, Cohere hits $7B valuation a month after its last raise, partners with AMD ($100M second close of the $500M round)",
-   "as_of": "2025-09-24"
+   "url": "https://www.amd.com/en/newsroom/press-releases/2025-11-4-amd-reports-third-quarter-2025-financial-results.html",
+   "title": "AMD, AMD Reports Third Quarter 2025 Financial Results (Cohere and AMD expanded their collaboration, bringing AMD Instinct GPU-powered infrastructure to Cohere's full suite of enterprise AI offerings)",
+   "as_of": "2025-11-04"
   },
   {
    "source": "nvidia",
@@ -5306,7 +5307,8 @@
    "confidence": "reported",
    "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
    "title": "Tom's Hardware (reading Nscale's S-1 exhibits and the FT), ByteDance gained access to 2,304 NVIDIA B200 chips through Nscale's Glomfjord data centre in Norway under a cloud services agreement with its Singapore subsidiary Spring (SG) Pte. Ltd., which was 73% of Nscale's 2025 revenue",
-   "as_of": "2025-05-15"
+   "as_of": "2025-05-15",
+   "checked": "2026-11-23"
   },
   {
    "source": "vercelgw",
@@ -5557,6 +5559,26 @@
    "url": "https://university.clay.com/docs/ai-in-clay",
    "title": "Clay docs (own page), AI in Clay - the consolidated Use AI enrichment lets the user select between any one of the OpenAI, Anthropic and Gemini models (page read 2026-11-22, undated)",
    "as_of": "2026-11-22"
+  },
+  {
+   "source": "tenstorrent",
+   "target": "minimax",
+   "type": "builds_on",
+   "from": "datapass-2026-11-23",
+   "confidence": "verified",
+   "url": "https://tenstorrent.com/newsroom/minimax-m31-flash-now-live-on-tenstorrent",
+   "title": "Tenstorrent newsroom, MiniMax M3.1 Flash, Now Live on Tenstorrent (MiniMax released the open weights the same day and Tenstorrent serves the model on Tenstorrent Cloud, with prefill and decode both running on Tenstorrent Galaxy)",
+   "as_of": "2026-10-22"
+  },
+  {
+   "source": "hark",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-23",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260324789327/en/Hark-Launches-AI-Lab-Building-Futuristic-Interface-to-Artificial-Intelligence",
+   "title": "Hark, Hark Launches AI Lab Building Futuristic Interface to Artificial Intelligence (a signed deal for a cluster of thousands of NVIDIA B200 GPUs, coming online in April 2026, for multimodal pre-training and model post-training)",
+   "as_of": "2026-03-24"
   }
  ],
  "as_of": "2026-11-22"
