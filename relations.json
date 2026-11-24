@@ -333,12 +333,12 @@
    "target": "coreweave",
    "type": "rents",
    "from": "industry-map",
-   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000050/crwv-20250925.htm",
+   "url": "https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement",
    "confidence": "verified",
-   "title": "CoreWeave 8-K, Meta order of about $14.2B under the 2023 master services agreement, through 2031",
-   "as_of": "2025-09-25",
-   "amount": "up to ~$14.2B through 2031",
-   "amount_musd": 14200
+   "title": "CoreWeave (company press release), CoreWeave and Meta Announce $21 Billion Expanded AI Infrastructure Agreement - AI cloud capacity through December 2032 for approximately $21B",
+   "as_of": "2026-04-09",
+   "amount": "~$21B through December 2032",
+   "amount_musd": 21000
   },
   {
    "source": "meta",
@@ -3609,9 +3609,9 @@
    "type": "routes",
    "from": "datapass-2026-10-13",
    "confidence": "verified",
-   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/09/24/expanding-model-choice-in-microsoft-365-copilot/",
-   "title": "microsoft.com, Expanding model choice in Microsoft 365 Copilot | Microsoft Copilot Blog",
-   "as_of": "2025-09-24"
+   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/available-today-openais-gpt-6-1-sol-and-claude-sonnet-5-5-in-microsoft-copilot/4560801",
+   "title": "microsoft.com, Available today: OpenAI's GPT-6.1 Sol and Claude Sonnet 5.5 in Microsoft Copilot - Anthropic's Claude rolling out in Copilot Cowork and Copilot Studio",
+   "as_of": "2026-10-23"
   },
   {
    "source": "alphabet",
@@ -3848,7 +3848,8 @@
    "as_of": "2025-09-25",
    "amount": "up to ~$22.4B",
    "amount_musd": 22400,
-   "title": "CoreWeave, CoreWeave Expands Agreement with OpenAI by up to $6.5B (total OpenAI contracts about $22.4B)"
+   "title": "CoreWeave, CoreWeave Expands Agreement with OpenAI by up to $6.5B (total OpenAI contracts about $22.4B)",
+   "checked": "2026-11-24"
   },
   {
    "source": "openai",
@@ -5579,6 +5580,86 @@
    "url": "https://www.businesswire.com/news/home/20260324789327/en/Hark-Launches-AI-Lab-Building-Futuristic-Interface-to-Artificial-Intelligence",
    "title": "Hark, Hark Launches AI Lab Building Futuristic Interface to Artificial Intelligence (a signed deal for a cluster of thousands of NVIDIA B200 GPUs, coming online in April 2026, for multimodal pre-training and model post-training)",
    "as_of": "2026-03-24"
+  },
+  {
+   "source": "perplexity",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Perplexity among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "figure",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Figure AI among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "together",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Together AI among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "fireworks",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Fireworks AI among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "fal",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Fal AI among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "fluidstack",
+   "target": "iren",
+   "type": "rents",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",
+   "title": "IREN Form 8-K exhibit 99.1, IREN Signs $2.8bn in New Customer Contracts - names Fluidstack among its AI cloud customers; $2.8B of new multi-year contracts, prepayments ~45% of associated GPU capex",
+   "as_of": "2026-07-20"
+  },
+  {
+   "source": "apptronik",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://apptronik.com/news-collection/apptronik-collaborates-with-nvidia",
+   "title": "Apptronik (company release), Apptronik Collaborates with NVIDIA - Apollo's main computing system includes onboard NVIDIA Jetson AGX Orin and Jetson Orin NX modules, letting it run models such as Project GR00T",
+   "as_of": "2024-03-18"
+  },
+  {
+   "source": "sensetime",
+   "target": "cambricon",
+   "type": "builds_on",
+   "from": "datapass-2026-11-24",
+   "confidence": "verified",
+   "url": "https://www.sensetime.com/en/news-detail/51170164?categoryId=1072",
+   "title": "SenseTime (company news), SenseTime and Cambricon Reach Strategic Cooperation - joint software-hardware optimisation and deep adaptation of Cambricon's cloud inference chips; SenseTime's later releases say the SenseNova Seko series and LightX2V are adapted to Cambricon",
+   "as_of": "2025-10-15"
   }
  ],
  "as_of": "2026-11-22"

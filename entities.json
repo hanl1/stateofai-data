@@ -1385,14 +1385,22 @@
    "layer": "agent",
    "kind": "company",
    "signal": "CX agents",
-   "role": "Customer-experience agents; Bret Taylor's company, about $200M ARR at the May 2026 Series E. Taylor describes the product as running on a constellation of models rather than one provider, and secondary accounts name OpenAI, Anthropic, Google and open-weight models, but Sierra publishes no model list and has never published an Anthropic case study, so only the OpenAI leg is drawn. Sierra is also a launch partner in OpenAI's B2B marketplace, where customers can apply OpenAI commitments to building agents with Sierra, which is marketplace distribution and not an edge on this map.",
-   "confidence": "reported",
-   "valuation_musd": 15800,
+   "role": "Customer-experience agents; Bret Taylor's company. The $30B mark is the $1.75B Series F of 2026-11-23, announced on Sierra's own blog and led by Greenoaks and Lightspeed Venture Partners, with every previous lead investor (Benchmark, Sequoia, Greenoaks, GV and Tiger Global) returning; it doubles the $15.8B May 2026 Series E in under seven months. The post says annualised recurring revenue passed $400M, more than $150M of it added in the third quarter, and that Sierra is building agents with almost half of the Fortune 50. It does not say whether the $30B is pre- or post-money. Taylor describes the product as running on a constellation of models rather than one provider, and secondary accounts name OpenAI, Anthropic, Google and open-weight models, but Sierra publishes no model list and has never published an Anthropic case study, so only the OpenAI leg is drawn. Sierra is also a launch partner in OpenAI's B2B marketplace, where customers can apply OpenAI commitments to building agents with Sierra, which is marketplace distribution and not an edge on this map.",
+   "confidence": "verified",
+   "valuation_musd": 30000,
    "sources": [
     {
-     "title": "TechCrunch, Sierra raises $950M as the race to own enterprise AI gets serious (Series E at a $15.8B post, led by Tiger Global and GV)",
-     "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-     "as_of": "2026-05-04",
+     "title": "Sierra (company blog), Series F (Building the digital front door) - $1.75B at a $30B valuation, led by Greenoaks and Lightspeed Venture Partners",
+     "url": "https://sierra.ai/blog/series-f-30b",
+     "as_of": "2026-11-23",
+     "backs": [
+      "valuation"
+     ]
+    },
+    {
+     "title": "CMSWire, Sierra Hits $30 Billion Valuation on $1.75 Billion Series F",
+     "url": "https://www.cmswire.com/contact-center/sierra-hits-30b-valuation-on-175b-series-f/",
+     "as_of": "2026-11-23",
      "backs": [
       "valuation"
      ]
@@ -1406,7 +1414,7 @@
      ]
     }
    ],
-   "as_of": "2026-05-04",
+   "as_of": "2026-11-23",
    "domain": "sierra.ai",
    "region": "us"
   },
@@ -3838,7 +3846,7 @@
    "layer": "chip",
    "kind": "company",
    "signal": "the substrate",
-   "role": "Designs the GPUs nearly all AI training and inference runs on. Also invests in the neoclouds and platforms that buy its chips - the circular-financing engine. On 2026-11-08 its board said a committee of independent directors with outside counsel will investigate reports that Huang was targeted by foreign intelligence, after he told staff of an affair with a former executive of Megaspeed, a Singapore customer, whom US officials suspect China recruited; the board says it has no reason to believe national security or company secrets were compromised, and three House committee chairs have asked Huang for a briefing (NVIDIA board statement, Bloomberg, The Hill). Huang resigned as president, chief executive and director on 2026-11-12, effective immediately, the board having accepted the resignation the day before and disclosed it in a filing; NVIDIA gave no reason. CFO Colette Kress became interim chief executive while keeping the CFO role, and Harvey Jones became the company's first board chair. The shares fell about 14% at the open, erasing more than $600B and putting the market capitalisation below $4T for the first time since 2025, and the $10B of the Anthropic private placement attributed to NVIDIA in press reports is now being questioned, though no party has announced a change. The Hugging Face acquisition now faces a US antitrust review alongside the still-unchosen EU notification path (Tech Policy Law, Global Competition Review; re-checked 2026-10-05, still ~$12.9B and still H1 2027). The FT reports it as the unnamed tenant on Hut 8's Beacon Point campus in Nueces County, Texas, which a second 15-year lease on 2026-11-04 doubled to 704 MW and $19.6B over the base term, and which is the campus where Lambda's reported $35B Anthropic contract physically lands; NVIDIA has not confirmed the tenancy and Hut 8's filings do not name it. Its first results without Huang, for the third quarter of fiscal 2027 on 2026-11-17, put revenue at $115.8B, up 103% year on year and 20% on the quarter, with data-centre revenue of $107.6B, a GAAP gross margin of 74.8%, $2.70 of GAAP earnings a share, a fourth-quarter outlook of $130.0B plus or minus 3% that assumes no data-centre compute revenue from China, $2.4B of Hopper shipments to China in the quarter and a $150B increase to the buyback authorisation. Kress, as interim chief executive, called the Vera Rubin launch an explosive start: the release says Vera Rubin NVL72 systems and Vera CPUs are now generally available on Oracle Cloud Infrastructure and Google Cloud's Vera Rubin-powered A5X instances are generally available too, with racks running at CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius and coming online soon at SpaceXSI, and it names Amkor, IBIDEN, King Yuan, Samsung Electro-Mechanics, SPIL and Unimicron among the supply-chain partners scaling manufacturing.",
+   "role": "Designs the GPUs nearly all AI training and inference runs on. Also invests in the neoclouds and platforms that buy its chips - the circular-financing engine. On 2026-11-08 its board said a committee of independent directors with outside counsel will investigate reports that Huang was targeted by foreign intelligence, after he told staff of an affair with a former executive of Megaspeed, a Singapore customer, whom US officials suspect China recruited; the board says it has no reason to believe national security or company secrets were compromised, and three House committee chairs have asked Huang for a briefing (NVIDIA board statement, Bloomberg, The Hill). Huang resigned as president, chief executive and director on 2026-11-12, effective immediately, the board having accepted the resignation the day before and disclosed it in a filing; NVIDIA gave no reason. CFO Colette Kress became interim chief executive while keeping the CFO role, and Harvey Jones became the company's first board chair. The shares fell about 14% at the open, erasing more than $600B and putting the market capitalisation below $4T for the first time since 2025, and the $10B of the Anthropic private placement attributed to NVIDIA in press reports is now being questioned, though no party has announced a change. The Hugging Face acquisition now faces a US antitrust review alongside the still-unchosen EU notification path (Tech Policy Law, Global Competition Review; re-checked 2026-10-05, still ~$12.9B and still H1 2027). The FT reports it as the unnamed tenant on Hut 8's Beacon Point campus in Nueces County, Texas, which a second 15-year lease on 2026-11-04 doubled to 704 MW and $19.6B over the base term, and which is the campus where Lambda's reported $35B Anthropic contract physically lands; NVIDIA has not confirmed the tenancy and Hut 8's filings do not name it. Its first results without Huang, for the third quarter of fiscal 2027 on 2026-11-17, put revenue at $115.8B, up 103% year on year and 20% on the quarter, with data-centre revenue of $107.6B, a GAAP gross margin of 74.8%, $2.70 of GAAP earnings a share, a fourth-quarter outlook of $130.0B plus or minus 3% that assumes no data-centre compute revenue from China, $2.4B of Hopper shipments to China in the quarter and a $150B increase to the buyback authorisation. The board REINSTATED Huang as president, chief executive and a director on 2026-11-23, effective immediately and by a unanimous vote, after what its release calls further discussions about his candour and his ability to lead; it says it consulted senior US government officials and concluded there is no national security risk, that the independent committee's investigation will proceed to conclusion, and that Huang supports it. Colette Kress returns to the CFO role alone, Harvey Jones stays board chair, and the board is recruiting a first Chief Compliance Officer. Reporting around the reversal says the White House pressed for it and that NVIDIA's senior leadership was told only at the last minute. The shares rose about 31% on the day and took the wider market with them. Kress, as interim chief executive, had called the Vera Rubin launch an explosive start: the release says Vera Rubin NVL72 systems and Vera CPUs are now generally available on Oracle Cloud Infrastructure and Google Cloud's Vera Rubin-powered A5X instances are generally available too, with racks running at CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius and coming online soon at SpaceXSI, and it names Amkor, IBIDEN, King Yuan, Samsung Electro-Mechanics, SPIL and Unimicron among the supply-chain partners scaling manufacturing.",
    "confidence": "verified",
    "valuation_musd": 3985462,
    "ticker": "NVDA",
@@ -3856,6 +3864,14 @@
      "title": "NVIDIA, NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 - revenue $115.8B up 103% year on year, data centre $107.6B, Q4 outlook $130.0B, Vera Rubin NVL72 generally available on Oracle Cloud Infrastructure and Google Cloud A5X",
      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
      "as_of": "2026-11-17",
+     "backs": [
+      "role"
+     ]
+    },
+    {
+     "title": "NVIDIA (company newsroom), NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+     "as_of": "2026-11-23",
      "backs": [
       "role"
      ]
@@ -4819,7 +4835,7 @@
    "layer": "lab",
    "kind": "company",
    "signal": "SenseNova · CN",
-   "role": "CN computer-vision incumbent pivoted to SenseNova LLMs and SenseCore AI cloud.",
+   "role": "CN computer-vision incumbent pivoted to SenseNova LLMs and SenseCore AI cloud. Its compute runs on domestic silicon: SenseTime announced a strategic cooperation agreement with CAMBRICON on 2025-10-15 covering joint hardware-software optimisation and deep adaptation of Cambricon's cloud inference parts, and its own later releases say the SenseNova Seko series and the LightX2V inference framework behind Seko 2.0 have completed adaptation to Cambricon chips, alongside the Ascend leg already drawn. Its annual results list Hygon, MetaX and Biren in the same clusters, and Biren and Moore Threads appear as participants in its WAIC large-model forum, but no SenseTime page states an adaptation with either, so neither is drawn.",
    "confidence": "verified",
    "valuation_musd": 5582,
    "sources": [
@@ -5317,7 +5333,7 @@
    "layer": "physical",
    "kind": "company",
    "signal": "Apollo humanoid",
-   "role": "Apollo humanoid robots, built with Google DeepMind and Gemini Robotics; Mercedes-Benz and John Deere deployments.",
+   "role": "Apollo humanoid robots, built with Google DeepMind and Gemini Robotics; Mercedes-Benz and John Deere deployments. Apptronik's own release of 2024-03-18 says Apollo's main computing system carries onboard NVIDIA Jetson AGX Orin and Jetson Orin NX modules, which is what lets it run foundation models such as NVIDIA's Project GR00T, so the silicon leg is NVIDIA's; the newer Jetson Thor attributions circulating for Apollo are aggregator-grade and Apptronik was absent from NVIDIA's Thor early-adopter list.",
    "confidence": "reported",
    "valuation_musd": 5500,
    "region": "us",
@@ -7184,7 +7200,7 @@
    "layer": "neo",
    "kind": "company",
    "signal": "$9.7B Microsoft contract",
-   "role": "Nasdaq-listed Australian AI data-centre operator - the third of the map's bitcoin miners turned AI infrastructure, after Hut 8 and TeraWulf, and the one that operates the GPU cloud itself rather than only leasing the building. Signed a five-year, ~$9.7B AI cloud contract with MICROSOFT on 2025-11-03 to deliver NVIDIA GB300 capacity across four liquid-cooled Horizon buildings at its Childress, Texas campus, about 200 MW of IT load, with 20% prepaid; it bought the GPUs and ancillary equipment from Dell for about $5.8B, raised a $3.65B debt package against the Microsoft contract in June 2026, and delivered the first Horizon building in August 2026. Signed a separate five-year, ~$3.4B managed AI cloud contract with NVIDIA itself on 2026-05-07 - air-cooled Blackwell systems in roughly 60 MW of existing Childress capacity, for NVIDIA's own internal AI and research work, with orchestration software built alongside Mirantis, and a five-year right for NVIDIA to buy up to 30 million IREN shares at $70. So NVIDIA is simultaneously its silicon supplier, a customer and a prospective shareholder. Contracted AI cloud revenue is roughly $4B of annualised run-rate for 2026 capacity against a 2.9 GW development pipeline, so the headline contract values are a claim on counterparty credit rather than booked revenue. The Information reported on 2026-10-11/12 that ANTHROPIC holds an unannounced multiyear cloud agreement with IREN, with the value and length not disclosed and neither company confirming it; the shares rose about 5% on the report, and the deal may be the unnamed AI cloud customer IREN referred to on an earlier earnings call, which is speculation rather than a company statement. Fiscal 2027 capex is guided at $25-30B.",
+   "role": "Nasdaq-listed Australian AI data-centre operator - the third of the map's bitcoin miners turned AI infrastructure, after Hut 8 and TeraWulf, and the one that operates the GPU cloud itself rather than only leasing the building. Signed a five-year, ~$9.7B AI cloud contract with MICROSOFT on 2025-11-03 to deliver NVIDIA GB300 capacity across four liquid-cooled Horizon buildings at its Childress, Texas campus, about 200 MW of IT load, with 20% prepaid; it bought the GPUs and ancillary equipment from Dell for about $5.8B, raised a $3.65B debt package against the Microsoft contract in June 2026, and delivered the first Horizon building in August 2026. Signed a separate five-year, ~$3.4B managed AI cloud contract with NVIDIA itself on 2026-05-07 - air-cooled Blackwell systems in roughly 60 MW of existing Childress capacity, for NVIDIA's own internal AI and research work, with orchestration software built alongside Mirantis, and a five-year right for NVIDIA to buy up to 30 million IREN shares at $70. So NVIDIA is simultaneously its silicon supplier, a customer and a prospective shareholder. Contracted AI cloud revenue is roughly $4B of annualised run-rate for 2026 capacity against a 2.9 GW development pipeline, so the headline contract values are a claim on counterparty credit rather than booked revenue. The Information reported on 2026-10-11/12 that ANTHROPIC holds an unannounced multiyear cloud agreement with IREN, with the value and length not disclosed and neither company confirming it; the shares rose about 5% on the report, and the deal may be the unnamed AI cloud customer IREN referred to on an earlier earnings call, which is speculation rather than a company statement. IREN's own 8-K exhibit of 2026-07-20, IREN Signs $2.8bn in New Customer Contracts, NAMES its AI cloud customers outright - Microsoft, NVIDIA, Perplexity, Figure AI, Together AI, Fluidstack, Fireworks AI, Fal AI and Hume AI, plus one leading AI developer it does not name - with the new multi-year contracts worth $2.8B of total contract value, prepayments at about 45% of the associated GPU capex and a weighted average term of about four years. Six of those names are on this map and all six rents edges were drawn from that filing on 2026-11-24. Anthropic is NOT in the filing's list, so that leg stays reported on The Information's account. Fiscal 2027 capex is guided at $25-30B.",
    "confidence": "verified",
    "valuation_musd": 6213,
    "ticker": "IREN",
@@ -7210,7 +7226,7 @@
    "layer": "neo",
    "kind": "company",
    "signal": "CoreWeave's landlord",
-   "role": "A landlord to the AI build-out rather than a GPU operator: it develops data-centre campuses and leases the shells, and the tenant installs the silicon. CoreWeave holds 400 MW under contract at the Polaris Forge 1 campus in Ellendale, North Dakota across three roughly 15-year leases - 250 MW signed 2025-05-28 through the APLD ELN-02 and ELN-03 subsidiaries and a further 150 MW on 2025-08-28 - representing about $11B of prospective lease revenue over the term. The first of the campus's three contracted buildings reached Ready-for-Service in 2026. A separate 200 MW lease at Polaris Forge 2 goes to a US-based investment-grade hyperscaler the company does not name, taking total leased capacity to 600 MW and aggregate prospective lease revenue to roughly $16B before any renewal options are exercised. A bitcoin miner before it pivoted to leasing AI capacity, and the contract value is a claim on counterparty credit rather than recognised revenue.",
+   "role": "A landlord to the AI build-out rather than a GPU operator: it develops data-centre campuses and leases the shells, and the tenant installs the silicon. CoreWeave holds 400 MW under contract at the Polaris Forge 1 campus in Ellendale, North Dakota across three roughly 15-year leases - 250 MW signed 2025-05-28 through the APLD ELN-02 and ELN-03 subsidiaries and a further 150 MW on 2025-08-28 - representing about $11B of prospective lease revenue over the term. The first of the campus's three contracted buildings reached Ready-for-Service in 2026. A separate 200 MW lease at Polaris Forge 2 goes to a US-based investment-grade hyperscaler the company does not name, taking total leased capacity to 600 MW and aggregate prospective lease revenue to roughly $16B before any renewal options are exercised. A THIRD unnamed-counterparty lease was signed on 2026-11-23: 150 MW of critical IT load on an 18-year term worth about $5.4B of base-term revenue, or about $12.7B over a 33-year total term if every renewal is exercised, with the tenant described only as an investment-grade hyperscaler and the campus not stated. Capacity is expected to begin in the first half of 2028, and contracted base-term lease revenue across the portfolio now passes $41B. A bitcoin miner before it pivoted to leasing AI capacity, and the contract value is a claim on counterparty credit rather than recognised revenue.",
    "confidence": "verified",
    "valuation_musd": 4179,
    "ticker": "APLD",
@@ -7434,7 +7450,7 @@
    "layer": "infer",
    "kind": "company",
    "signal": "chip-portable inference",
-   "role": "Israeli-founded AI lab (2023, Dean Leitersdorf and Moshe Shalev) that sells chip portability as a product: its Decart Optimization Stack runs the same AI workload on NVIDIA GPUs, Google TPUs or Amazon Trainium without rebuilding for each, and it ships its own real-time world models on top - Lucy for interactive video and Oasis for robotics and autonomous-driving simulation. More than $450M raised in total, with a San Francisco presence alongside the Israeli founding team. The $4B mark is the $300M Series B of May 2026 led by Radical Ventures with NVIDIA joining as a new investor, and it is reported rather than verified because no company release carries the figure and the outlets split between \"$4 billion\" and \"nearly $4 billion\". AMAZON is in talks to acquire it for about $7B (WSJ, 2026-10-11) with nothing signed and another bidder still possible - weeks after ANTHROPIC walked away from a roughly $6B deal following due diligence (Bloomberg), and after NVIDIA's own acquisition approach was rebuffed. Three of the largest buyers in AI looked at the same company inside three months and reached different conclusions. Lucy 2 runs on AWS Trainium3, which Amazon says exceeds 80% model FLOPS utilisation, but the stack is vendor-agnostic by design, so no builds_on edge is drawn to any one of the three silicon vendors. The Financial Times reported on 2026-11-21 that Amazon is closing in on a $7.5B deal for it, the first top-tier account of the price Calcalist had put at more than $7B three days earlier; part of the consideration is contingent on targets, so $7.5B is a ceiling rather than a base price, and neither Amazon nor Decart has announced anything.",
+   "role": "Israeli-founded AI lab (2023, Dean Leitersdorf and Moshe Shalev) that sells chip portability as a product: its Decart Optimization Stack runs the same AI workload on NVIDIA GPUs, Google TPUs or Amazon Trainium without rebuilding for each, and it ships its own real-time world models on top - Lucy for interactive video and Oasis for robotics and autonomous-driving simulation. More than $450M raised in total, with a San Francisco presence alongside the Israeli founding team. The $4B mark is the $300M Series B of May 2026 led by Radical Ventures with NVIDIA joining as a new investor, and it is reported rather than verified because no company release carries the figure and the outlets split between \"$4 billion\" and \"nearly $4 billion\". The acquisition saga ENDED on 2026-11-23 as something other than an acquisition: Amazon's own newsroom says it has signed an agreement to purchase the proprietary technology behind the Decart Optimization Stack and to bring the three co-founders and their research and engineering team into Amazon, so that customers can train and run models faster and more cheaply on Trainium. Amazon is not buying the company and, per Bloomberg, not buying Decart's models either; Amazon states no price, and the $7.5B carried in every headline is Bloomberg's figure, with Calcalist adding that it is cash and Amazon stock in instalments and Globes putting about $4.8B of it with the founders over a five-year stay. A price paid for technology and a team is not a post-money valuation, so the mark does not move on it. Earlier bidders reached different conclusions: ANTHROPIC walked away from a roughly $6B deal after due diligence (Bloomberg) and NVIDIA's approach was rebuffed. Lucy 2 runs on AWS Trainium3, which Amazon says exceeds 80% model FLOPS utilisation, but the stack is vendor-agnostic by design, so no builds_on edge is drawn to any one of the three silicon vendors.",
    "confidence": "reported",
    "valuation_musd": 4000,
    "sources": [
@@ -7460,6 +7476,14 @@
      "as_of": "2026-10-12",
      "backs": [
       "valuation"
+     ]
+    },
+    {
+     "title": "About Amazon (company newsroom), Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers - no price stated",
+     "url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+     "as_of": "2026-11-23",
+     "backs": [
+      "role"
      ]
     }
    ],
