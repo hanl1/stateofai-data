@@ -387,10 +387,10 @@
    "target": "nvidia",
    "type": "builds_on",
    "from": "industry-map",
-   "url": "https://www.crusoe.ai/resources/blog/unlocking-the-power-of-nvidia-gb200-nvl72",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-perplexity-partnership",
    "confidence": "verified",
-   "title": "Crusoe, Unlocking the power of NVIDIA GB200 NVL72: How Crusoe makes next-gen AI a reality",
-   "as_of": "2025-10-09"
+   "title": "Crusoe newsroom, Crusoe and Perplexity Announce Multi-Year AI Partnership - Perplexity trains on Crusoe's dedicated NVIDIA GB300 NVL72 clusters with NVIDIA InfiniBand, and serves through Crusoe Managed Inference",
+   "as_of": "2026-09-15"
   },
   {
    "source": "lambda",
@@ -5000,9 +5000,9 @@
    "type": "rents",
    "from": "datapass-2026-11-15",
    "confidence": "verified",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-flagship-abilene-data-center-is-live",
-   "title": "Crusoe newsroom, Crusoe Announces Flagship Abilene Data Center is Live - the first phase of the Abilene campus runs on Oracle Cloud Infrastructure, which Crusoe built and which Oracle has agreed to lease for 15 years",
-   "as_of": "2025-09-30"
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoes-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-centers-and-cloud",
+   "title": "Crusoe newsroom, Crusoe's Contracted AI Infrastructure Capacity Approaches 5 Gigawatts - the 1.2 GW Abilene campus is purpose-built for Oracle, with the first two buildings operational and six more under construction",
+   "as_of": "2026-06-09"
   },
   {
    "source": "microsoft",
@@ -5649,7 +5649,8 @@
    "confidence": "verified",
    "url": "https://apptronik.com/news-collection/apptronik-collaborates-with-nvidia",
    "title": "Apptronik (company release), Apptronik Collaborates with NVIDIA - Apollo's main computing system includes onboard NVIDIA Jetson AGX Orin and Jetson Orin NX modules, letting it run models such as Project GR00T",
-   "as_of": "2024-03-18"
+   "as_of": "2024-03-18",
+   "checked": "2026-11-25"
   },
   {
    "source": "sensetime",
@@ -5660,6 +5661,36 @@
    "url": "https://www.sensetime.com/en/news-detail/51170164?categoryId=1072",
    "title": "SenseTime (company news), SenseTime and Cambricon Reach Strategic Cooperation - joint software-hardware optimisation and deep adaptation of Cambricon's cloud inference chips; SenseTime's later releases say the SenseNova Seko series and LightX2V are adapted to Cambricon",
    "as_of": "2025-10-15"
+  },
+  {
+   "source": "perplexity",
+   "target": "crusoe",
+   "type": "rents",
+   "from": "datapass-2026-11-25",
+   "confidence": "verified",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-perplexity-partnership",
+   "title": "Crusoe newsroom, Crusoe and Perplexity Announce Multi-Year AI Partnership - Perplexity runs its full model lifecycle on Crusoe Cloud, training on dedicated NVIDIA GB300 NVL72 clusters and serving production traffic through Crusoe Managed Inference",
+   "as_of": "2026-09-15"
+  },
+  {
+   "source": "runway",
+   "target": "coreweave",
+   "type": "rents",
+   "from": "datapass-2026-11-25",
+   "confidence": "verified",
+   "url": "https://www.coreweave.com/news/coreweave-announces-agreement-to-power-runways-next-generation-ai-video-models",
+   "title": "CoreWeave (company release), CoreWeave Announces Agreement to Power Runway's Next Generation AI Video Models - a long-term agreement under which Runway uses CoreWeave's NVIDIA GB300 NVL72 systems for large-scale training and inference, plus CoreWeave AI Object Storage",
+   "as_of": "2025-12-11"
+  },
+  {
+   "source": "nvidia",
+   "target": "abridge",
+   "type": "invests_in",
+   "from": "datapass-2026-11-25",
+   "confidence": "verified",
+   "url": "https://www.abridge.com/blog/series-d",
+   "title": "Abridge (company blog), Major Announcements: $250M Series D - co-led by Elad Gil and IVP with NVentures, NVIDIA's venture capital arm, among the participating investors",
+   "as_of": "2025-02-17"
   }
  ],
  "as_of": "2026-11-22"
