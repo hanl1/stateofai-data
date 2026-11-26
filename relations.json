@@ -1284,10 +1284,10 @@
    "target": "nvidia",
    "type": "builds_on",
    "from": "inference-map",
-   "url": "https://www.tipranks.com/news/amazons-amzn-bedrock-is-now-mostly-powered-by-custom-chips",
-   "confidence": "reported",
-   "title": "TipRanks (relaying AWS's Julia White on The Information), Amazon's Bedrock Is Now Mostly Powered by Custom Chips (also runs on NVIDIA GPUs)",
-   "as_of": "2025-10-14"
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
+   "confidence": "verified",
+   "title": "AWS (what's new), AgentCore runtime instances now support Amazon EC2 G7 instances - Amazon Bedrock AgentCore Runtime supports G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, with AgentCore installing the NVIDIA drivers",
+   "as_of": "2026-11-20"
   },
   {
    "source": "vertex",
@@ -3927,9 +3927,9 @@
    "type": "builds_on",
    "from": "circular-sourcing-2026-10-23",
    "confidence": "verified",
-   "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/",
-   "as_of": "2025-10-09",
-   "title": "azure.microsoft.com, NVIDIA GB300 NVL72: Next-generation AI infrastructure at scale | Microsoft Azure Blog"
+   "url": "https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/",
+   "as_of": "2026-10-27",
+   "title": "Oracle and NVIDIA (joint press release, Oracle AI World), NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale - \"In Abilene, OpenAI has trained and served GPT-6 Astra on an OCI Supercluster with more than 100,000 NVIDIA Blackwell GPUs\""
   },
   {
    "source": "microsoft",
@@ -4577,10 +4577,10 @@
    "type": "designed_with",
    "from": "datapass-2026-11-09",
    "confidence": "verified",
-   "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/",
-   "as_of": "2025-10-13",
+   "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+   "as_of": "2026-06-24",
    "amount": "10 GW",
-   "title": "OpenAI (company release), OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI designs the accelerators and systems, Broadcom co-develops and deploys them with its Ethernet networking, racks starting H2 2026 and completing by end-2029"
+   "title": "OpenAI (company release), OpenAI and Broadcom unveil LLM-optimized inference chip - Jalapeno, OpenAI's first Intelligence Processor, co-developed with Broadcom and taped out in about nine months, with deployment starting late 2026"
   },
   {
    "source": "openai",
@@ -5691,6 +5691,127 @@
    "url": "https://www.abridge.com/blog/series-d",
    "title": "Abridge (company blog), Major Announcements: $250M Series D - co-led by Elad Gil and IVP with NVentures, NVIDIA's venture capital arm, among the participating investors",
    "as_of": "2025-02-17"
+  },
+  {
+   "source": "factory",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://docs.factory.com/models",
+   "title": "Factory docs (own page), Available Models - Anthropic listed as a model provider, with Claude Opus, Sonnet and Haiku entries carrying model IDs and credit multipliers (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "factory",
+   "target": "openai",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://docs.factory.com/models",
+   "title": "Factory docs (own page), Available Models - OpenAI listed as a model provider, with the GPT-5.x and GPT-6.x families and Codex variants (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "factory",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://docs.factory.com/models",
+   "title": "Factory docs (own page), Available Models - Google listed as a model provider, with the Gemini 3.x and Gemini 4 entries (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "factory",
+   "target": "xai",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://docs.factory.com/models",
+   "title": "Factory docs (own page), Available Models - xAI listed as a model provider alongside Anthropic, OpenAI and Google (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "decagon",
+   "target": "anthropic",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://decagon.ai/blog/decagon-partner-community",
+   "title": "Decagon (company blog), Introducing the Decagon Partner Community - \"Decagon runs on a constellation of models, including models from Anthropic, OpenAI, and Google\": Anthropic named among the models Decagon runs on (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "decagon",
+   "target": "deepmind",
+   "type": "routes",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://decagon.ai/blog/decagon-partner-community",
+   "title": "Decagon (company blog), Introducing the Decagon Partner Community - \"Decagon runs on a constellation of models, including models from Anthropic, OpenAI, and Google\": Google named among the models Decagon runs on (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "decagon",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://decagon.ai/blog/decagon-and-google-cloud-marketplace",
+   "title": "Decagon (company blog), Bringing Decagon's AI concierge solution to Google Cloud Marketplace - the platform is \"built natively on Google Cloud, deeply integrated with services like Cloud Run, Cloud Tasks, and Gemini models\" (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "appliedcompute",
+   "target": "modal",
+   "type": "rents",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://modal.com/blog/applied-compute-reinforcement-learning",
+   "title": "Modal (customer story), Scaling reinforcement learning at Applied Compute - Applied Compute evaluated nearly every sandbox and execution provider before choosing Modal, and uses Modal Functions for inexpensive serverless fan-out of RL rollouts and grading without a dedicated cluster (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "lightmatter",
+   "target": "amkor",
+   "type": "packaged_by",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://amkor.com/company-news/lightmatter-and-amkor-partner-to-build-worlds-largest-3d-photonics-package/",
+   "title": "Amkor (company news), Lightmatter and Amkor Partner to Build World's Largest 3D Photonics Package - Amkor develops and validates the 3D packaging that stacks customer chips onto Lightmatter's Passage photonic interposer, the industry's largest multi-reticle die complex on an organic substrate",
+   "as_of": "2024-11-14",
+   "checked": "2026-11-26"
+  },
+  {
+   "source": "lightmatter",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20260602479000/en/Lightmatter-Joins-NVIDIA-NVLink-Fusion-and-Powers-Next-Generation-AI-Infrastructure-with-Photonic-Interconnects",
+   "title": "Lightmatter (company release), Lightmatter Joins NVIDIA NVLink Fusion and Powers Next-Generation AI Infrastructure with Photonic Interconnects - its Passage co-packaged and near-packaged optics let semi-custom XPUs connect to NVIDIA switch silicon",
+   "as_of": "2026-06-02"
+  },
+  {
+   "source": "synthesia",
+   "target": "amazon",
+   "type": "rents",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://aws.amazon.com/solutions/case-studies/synthesia-case-study/",
+   "title": "AWS (case study), Synthesia Makes AI Video Production Effortless with Generative AI on AWS - Synthesia trains on Amazon EC2 P5 and P4 instances, renders on G5, and manages its clusters with Amazon EKS, AWS ParallelCluster and AWS Batch (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
+  },
+  {
+   "source": "synthesia",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-26",
+   "confidence": "verified",
+   "url": "https://aws.amazon.com/solutions/case-studies/synthesia-case-study/",
+   "title": "AWS (case study), Synthesia Makes AI Video Production Effortless with Generative AI on AWS - model training on EC2 P5 instances powered by NVIDIA H100 and P4 instances powered by NVIDIA A100 GPUs, G5 instances with NVIDIA A10G for rendering, and NVIDIA CUDA for rendering and inference (page read 2026-11-26, undated)",
+   "as_of": "2026-11-26"
   }
  ],
  "as_of": "2026-11-22"
