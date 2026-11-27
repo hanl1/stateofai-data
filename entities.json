@@ -508,7 +508,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PLTR/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -530,7 +530,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "palantir.com",
    "region": "us"
   },
@@ -1152,18 +1152,18 @@
    "signal": "robots · 688836",
    "role": "Chinese humanoid and quadruped maker; aggressive price leadership. First listed humanoid robot maker - STAR debut Aug 19, 2026, +460% day one. Its H2 Plus is the first humanoid reference design built on NVIDIA Isaac GR00T, pairing the H2 body with NVIDIA's Jetson T5000 Thor module for onboard compute and Sharpa's five-finger hands; NVIDIA announced the platform with Unitree on 2026-06-01, the same day Unitree was approved to list in Shanghai, said anyone would be able to buy it from October, and named Stanford among the research buyers.",
    "confidence": "verified",
-   "valuation_musd": 40972,
+   "valuation_musd": 42486,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688836.SS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "unitree.com",
    "region": "cn",
    "ticker": "688836.SS",
@@ -1736,7 +1736,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ANT/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -1894,7 +1894,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "anthropic.com",
    "region": "us",
    "ticker": "ANT",
@@ -2430,20 +2430,20 @@
    "signal": "Hunyuan · CN",
    "role": "Hunyuan models plus cloud distribution across WeChat ecosystem. The reported $7B five-year agreement with ORACLE for access to roughly 100,000 advanced AI chips in Oracle's Southeast Asian data centres, signed around 2026-10-01 and its largest overseas compute deal, was ABANDONED: the FT reported on 2026-11-04 that Oracle scrapped it after US officials raised concerns directly with the company, with Guangdong officials separately pressing Tencent to buy domestic silicon. Neither party nor the White House commented and Reuters could not verify the report, so the edge the map drew off the original FT-relayed report has been retired on an FT-relayed report of its cancellation. The route it represented, leasing NVIDIA parts offshore that cannot be sold into China directly, is now closed to it in that form, and NVIDIA is separately reported to be telling cloud partners to sell most of their capacity outside China.",
    "confidence": "verified",
-   "valuation_musd": 395216,
+   "valuation_musd": 395861,
    "ticker": "0700.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0700.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "tencent.com",
    "region": "cn"
   },
@@ -2463,7 +2463,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BABA/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -2477,7 +2477,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "alibaba.com",
    "region": "cn"
   },
@@ -2490,20 +2490,20 @@
    "signal": "HK listed · CN",
    "role": "GLM models under MIT license. Listed in Hong Kong Jan 2026. Raised ~$5B in September 2026 - ~$2B placing 21.97M new shares at HK$714 plus RMB20.14B of zero-coupon convertibles due 2027 - two months after a $4B placement. It is the clearest case of a Chinese lab off NVIDIA silicon: Zhipu said in January 2026 that its open-source GLM-Image was the first state-of-the-art multimodal model to complete training on Huawei Ascend chips, on Atlas 800T A2 servers with MindSpore. GLM-5 is reported to have been trained the same way, but Zhipu has not stated its training hardware and Reuters described the domestic chips as used for inference, so only the GLM-Image run is party-stated. Zhipu also supports GLM-5 on Moore Threads, Cambricon, Kunlun Chip, MetaX, Enflame and Hygon parts, which is catalogue support rather than a supplier relationship.",
    "confidence": "verified",
-   "valuation_musd": 19323,
+   "valuation_musd": 19879,
    "ticker": "2513.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/2513.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "z.ai",
    "region": "cn"
   },
@@ -2556,20 +2556,20 @@
    "signal": "ERNIE · CN",
    "role": "ERNIE models plus Kunlun in-house AI chips.",
    "confidence": "verified",
-   "valuation_musd": 21106,
+   "valuation_musd": 21219,
    "ticker": "9888.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9888.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "baidu.com",
    "region": "cn"
   },
@@ -2582,14 +2582,14 @@
    "signal": "HK listed · CN",
    "role": "Consumer-facing multimodal models; HK listed alongside Zhipu. On 2026-10-23 MiniMax said it had completed the technology export registration with China's commerce ministry covering the open-source release and overseas licensing of certain models, making it one of the first two companies through the regime that China's commerce and science ministries opened for comment on 2026-10-16 as a draft catalogue of 23 AI technologies, comments running to 2026-11-15. Reporting says API access and SaaS offerings fall outside the regulated scope and that open-source releases may get accelerated automatic licensing, so the registration reads as a clearance to ship rather than a restriction.",
    "confidence": "verified",
-   "valuation_musd": 4338,
+   "valuation_musd": 4641,
    "ticker": "0100.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0100.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -2603,7 +2603,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "minimax.io",
    "region": "cn"
   },
@@ -2743,13 +2743,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNOW/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "snowflake.com",
    "region": "us"
   },
@@ -2985,13 +2985,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CBRS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "cerebras.ai",
    "region": "us"
   },
@@ -3336,13 +3336,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MSFT/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "microsoft.com",
    "region": "us"
   },
@@ -3362,13 +3362,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GOOGL/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "google.com",
    "region": "us"
   },
@@ -3388,13 +3388,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMZN/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "amazon.com",
    "region": "us"
   },
@@ -3414,7 +3414,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/META/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -3436,7 +3436,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "meta.com",
    "region": "us"
   },
@@ -3456,13 +3456,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ORCL/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "oracle.com",
    "region": "us"
   },
@@ -3482,7 +3482,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CRWV/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -3496,7 +3496,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "coreweave.com",
    "region": "us"
   },
@@ -3516,7 +3516,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NBIS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -3530,7 +3530,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "nebius.com",
    "region": "eu"
   },
@@ -3829,13 +3829,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IBM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "ibm.com",
    "region": "us"
   },
@@ -3855,7 +3855,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NVDA/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -3877,7 +3877,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "nvidia.com",
    "region": "us"
   },
@@ -3897,13 +3897,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AVGO/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "broadcom.com",
    "region": "us"
   },
@@ -3923,13 +3923,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMD/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "amd.com",
    "region": "us"
   },
@@ -3949,13 +3949,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/QCOM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "qualcomm.com",
    "region": "us"
   },
@@ -3975,13 +3975,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ARM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "arm.com",
    "region": "eu"
   },
@@ -4001,13 +4001,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/INTC/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "intel.com",
    "region": "us"
   },
@@ -4027,13 +4027,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MRVL/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "marvell.com",
    "region": "us"
   },
@@ -4046,20 +4046,20 @@
    "signal": "CN accelerator",
    "role": "Chinese AI accelerator maker; a domestic NVIDIA substitute.",
    "confidence": "verified",
-   "valuation_musd": 88263,
+   "valuation_musd": 93326,
    "ticker": "688256.SS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688256.SS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "cambricon.com",
    "region": "cn"
   },
@@ -4079,13 +4079,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ALAB/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "asteralabs.com",
    "region": "us"
   },
@@ -4098,18 +4098,18 @@
    "signal": "CN GPU · 6082",
    "role": "Chinese GPU designer building around export controls. Listed in Hong Kong 2026-01-02 as the city's first GPU stock and the first new listing of the year - HK$5.58B ($717M) raised at HK$19.60, closed day one +76%. It has tapped the market twice since: HK$7B at HK$46.20 in July, then a second placement announced 2026-10-08 of 130 million new H shares at HK$31.08 raising about HK$4.04B (~$515M) - a 9.8% discount to the previous close, with the proceeds going mostly to supply-chain procurement and commercialising next-generation products. The shares fell about 12% on the news and have retreated steadily from a HK$70.75 peak. The map carried it as a private company for eight months; its value now follows the market price.",
    "confidence": "verified",
-   "valuation_musd": 4664,
+   "valuation_musd": 5151,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/6082.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "www.birentech.com",
    "region": "cn",
    "ticker": "6082.HK",
@@ -4318,7 +4318,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TSM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -4332,7 +4332,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "tsmc.com",
    "region": "apac"
   },
@@ -4352,13 +4352,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/ASML/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "asml.com",
    "region": "eu"
   },
@@ -4371,20 +4371,20 @@
    "signal": "memory + foundry",
    "role": "HBM memory and foundry; TSMC's only credible leading-edge rival.",
    "confidence": "verified",
-   "valuation_musd": 835869,
+   "valuation_musd": 864966,
    "ticker": "005930.KS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/005930.KS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "samsung.com",
    "region": "apac"
   },
@@ -4397,20 +4397,20 @@
    "signal": "HBM",
    "role": "Memory maker; its high-bandwidth memory (HBM) is the second bottleneck after the GPUs themselves.",
    "confidence": "verified",
-   "valuation_musd": 680268,
+   "valuation_musd": 682379,
    "ticker": "MU",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/MU/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "micron.com",
    "region": "us"
   },
@@ -4430,13 +4430,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMAT/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "appliedmaterials.com",
    "region": "us"
   },
@@ -4449,14 +4449,14 @@
    "signal": "HBM leader",
    "role": "Leading HBM supplier to NVIDIA; the memory bottleneck's main beneficiary. SK Hynix said in early October 2026 that Solidigm, its US NAND and enterprise SSD subsidiary, is reviewing options to strengthen its competitiveness but that no listing plan is confirmed, after Reuters reported the unit had held underwriting pitch meetings for a 2027 US IPO at up to $150B. Minority shareholders are now organising against the idea: the activist platform Act asked SK Hynix to reconsider and is preparing to ask the Korea Exchange whether its duplicate-listing guidelines can reach a subsidiary listed overseas, arguing that a separate Solidigm listing would disperse to outside investors the growth value existing holders should enjoy and would deepen the parent-company discount. The listing moved a step closer on 2026-10-07: Bloomberg reported Solidigm had picked Goldman Sachs and Morgan Stanley to lead an offering that could raise about $10B as soon as 2027, with JPMorgan, Citigroup and UBS in the syndicate and a valuation of as much as $100B, and that it was working with the two leads on a pre-IPO round first. That ended on 2026-10-23: SK Hynix announced that Solidigm will DISCONTINUE the review of both the pre-IPO round and the potential US listing, citing capital-market conditions and share-price trends, and said the decision reflects no change in Solidigm's growth prospects or investment needs. It is a halt of the review rather than a formal cancellation, and the company says it will keep weighing timing and financing options for the US fab the money was meant for. Nothing was ever filed, so there is nothing to unwind; the SK Hynix share price reversed an 8% fall in US trading on 2026-10-22 to close 4.42% higher in Seoul on the news, which is the clearest read that holders wanted the subsidiary kept inside the parent. Seoul's duplicate-listing debate ran alongside the decision, but SK Hynix's own statement cites only markets and the share price.",
    "confidence": "verified",
-   "valuation_musd": 556738,
+   "valuation_musd": 579365,
    "ticker": "000660.KS",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/000660.KS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -4470,7 +4470,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "skhynix.com",
    "region": "apac"
   },
@@ -4490,7 +4490,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/LRCX/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -4504,7 +4504,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "lamresearch.com",
    "region": "us"
   },
@@ -4524,13 +4524,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/KLAC/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "kla.com",
    "region": "us"
   },
@@ -4550,13 +4550,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SNPS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "synopsys.com",
    "region": "us"
   },
@@ -4576,13 +4576,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CDNS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "cadence.com",
    "region": "us"
   },
@@ -4595,20 +4595,20 @@
    "signal": "equipment",
    "role": "Japanese equipment maker; coater/developer near-monopoly.",
    "confidence": "verified",
-   "valuation_musd": 114160,
+   "valuation_musd": 112706,
    "ticker": "8035.T",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/8035.T/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "www.tel.com",
    "region": "apac"
   },
@@ -4621,20 +4621,20 @@
    "signal": "CN foundry",
    "role": "China's leading foundry, working around EUV restrictions.",
    "confidence": "verified",
-   "valuation_musd": 50516,
+   "valuation_musd": 53884,
    "ticker": "0981.HK",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0981.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "www.smics.com",
    "region": "cn"
   },
@@ -4654,13 +4654,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/GFS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "gf.com",
    "region": "us"
   },
@@ -4673,20 +4673,20 @@
    "signal": "CN equipment",
    "role": "China's largest domestic semiconductor equipment maker.",
    "confidence": "verified",
-   "valuation_musd": 52870,
+   "valuation_musd": 56385,
    "ticker": "002371.SZ",
    "valuation_live": true,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002371.SZ/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "naura.com",
    "region": "cn"
   },
@@ -4706,13 +4706,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AMKR/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "amkor.com",
    "region": "us"
   },
@@ -4792,13 +4792,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/NET/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "cloudflare.com",
    "region": "us"
   },
@@ -4816,13 +4816,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/FIG/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "FIG",
    "valuation_live": true,
    "domain": "figma.com",
@@ -4837,18 +4837,18 @@
    "signal": "SenseNova · CN",
    "role": "CN computer-vision incumbent pivoted to SenseNova LLMs and SenseCore AI cloud. Its compute runs on domestic silicon: SenseTime announced a strategic cooperation agreement with CAMBRICON on 2025-10-15 covering joint hardware-software optimisation and deep adaptation of Cambricon's cloud inference parts, and its own later releases say the SenseNova Seko series and the LightX2V inference framework behind Seko 2.0 have completed adaptation to Cambricon chips, alongside the Ascend leg already drawn. Its annual results list Hygon, MetaX and Biren in the same clusters, and Biren and Moore Threads appear as participants in its WAIC large-model forum, but no SenseTime page states an adaptation with either, so neither is drawn.",
    "confidence": "verified",
-   "valuation_musd": 5531,
+   "valuation_musd": 5641,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/0020.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "0020.HK",
    "valuation_live": true,
    "domain": "sensetime.com",
@@ -4863,18 +4863,18 @@
    "signal": "Spark · CN",
    "role": "China's speech-AI incumbent; Spark LLMs trained exclusively on Huawei Ascend after US entity-listing.",
    "confidence": "verified",
-   "valuation_musd": 12350,
+   "valuation_musd": 12436,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/002230.SZ/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "002230.SZ",
    "valuation_live": true,
    "domain": "iflytek.com",
@@ -4894,13 +4894,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/TEM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "TEM",
    "valuation_live": true,
    "domain": "tempus.com",
@@ -4915,18 +4915,18 @@
    "signal": "auto AI · CN",
    "role": "China's leading automotive AI chipmaker (Journey series); 20+ OEM partners.",
    "confidence": "verified",
-   "valuation_musd": 6005,
+   "valuation_musd": 6079,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/9660.HK/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "9660.HK",
    "valuation_live": true,
    "domain": "horizon.auto",
@@ -5186,7 +5186,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PONY/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -5208,7 +5208,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "ticker": "PONY",
    "valuation_live": true,
    "domain": "pony.ai",
@@ -5519,7 +5519,7 @@
    "signal": "GPU · 688795",
    "role": "Chinese GPU designer - 'China's NVIDIA'; first domestic GPU stock, STAR-listed Dec 2025; H1 2026 revenue +147%. No foundry edge is drawn: a company database and a startup profile name SMIC as the fabricator, and early coverage assumed it had no alternative after the US entity listing, but neither company states it and SCMP reported that Moore Threads declined to say which foundry built its latest cards.",
    "confidence": "verified",
-   "valuation_musd": 18342,
+   "valuation_musd": 18762,
    "region": "cn",
    "domain": "mthreads.com",
    "ticker": "688795.SS",
@@ -5528,13 +5528,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688795.SS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26"
+   "as_of": "2026-11-27"
   },
   {
    "id": "enflame",
@@ -5545,18 +5545,18 @@
    "signal": "GPGPU · 688801",
    "role": "Shanghai GPGPU designer for AI training and inference, pitched as a domestic NVIDIA alternative; last of China's 'four little dragons' of AI silicon to list. STAR debut Sep 11, 2026 at CNY142.18 after a CNY6.12B ($912M) IPO, opened +188%. Tencent is both its largest shareholder (17.95% post-IPO) and was 83.79% of 2025 revenue.",
    "confidence": "verified",
-   "valuation_musd": 21565,
+   "valuation_musd": 23331,
    "sources": [
     {
      "title": "Market capitalisation, Tencent quote service (refreshed every weekday; Yahoo does not list it yet)",
      "url": "https://gu.qq.com/sh688801",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "www.enflame-tech.com",
    "region": "cn",
    "ticker": "688801.SS",
@@ -5852,7 +5852,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/SPCX/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -5898,7 +5898,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "spacex.com",
    "region": "us"
   },
@@ -6304,13 +6304,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AKAM/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "akamai.com",
    "region": "us"
   },
@@ -6995,13 +6995,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/HUT/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "hut8.com",
    "region": "us"
   },
@@ -7021,7 +7021,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/BRUN/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -7035,7 +7035,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "boostrun.com",
    "region": "us"
   },
@@ -7183,13 +7183,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/WULF/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "terawulf.com",
    "region": "us"
   },
@@ -7209,13 +7209,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/IREN/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "iren.com",
    "region": "apac"
   },
@@ -7235,13 +7235,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/APLD/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "applieddigital.com",
    "region": "us"
   },
@@ -7261,13 +7261,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CIFR/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "cipherdigital.com",
    "region": "us"
   },
@@ -7285,13 +7285,13 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/CORZ/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "corescientific.com",
    "region": "us",
    "ticker": "CORZ",
@@ -7313,7 +7313,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/HIVE/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -7335,7 +7335,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "hivedigitaltech.com",
    "region": "other"
   },
@@ -7500,18 +7500,18 @@
    "signal": "DRAM · 688825",
    "role": "ChangXin Memory Technologies, the Hefei DRAM maker that is China's only memory supplier at scale and now the world's fourth, behind SAMSUNG, SK HYNIX and MICRON. Counterpoint puts it at 8% of DRAM revenue in Q1 2026 against 3% a year earlier, and by Q2 2026 it sat about a point behind Micron - the first time in twelve years that the gap between the third and fourth DRAM makers was that narrow. It listed on Shanghai's STAR Market on 2026-07-27 at CNY8.66 a share, raising CNY57.9B (about $8.5B) in the largest STAR offering to date, and closed its first day up 466%, briefly the most valuable mainland-listed company. Its scale matters to this map for two reasons: it is the domestic answer to the memory bottleneck that constrains Chinese AI accelerators, having shipped HBM3 samples to customers including HUAWEI with volume production targeted for the end of 2026 (trade reports, contested - Tom's Hardware says the Ascend 950 series uses Huawei's own HiBL and HiZQ memory instead, so no memory_from edge is drawn yet); and its listing alone moved the incumbents, with US and Korean memory stocks selling off in mid-October 2026 on the arrival of a lower-cost fourth supplier. It trails the big three by at least two generations on advanced memory - chasing HBM3 while they compete on HBM4E - and plans to lift monthly wafer output from 320,000 to 420,000 by 2027. The mark is a HAND SEED read off CNBC's dated quote (CNY3.46T / $520B, 2026-10-13) because this sandbox cannot reach a quote endpoint; the weekday ticker cron owns it from here.",
    "confidence": "verified",
-   "valuation_musd": 339451,
+   "valuation_musd": 342884,
    "sources": [
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/688825.SS/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "www.cxmt.com",
    "region": "cn",
    "ticker": "688825.SS",
@@ -7815,7 +7815,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/LITE/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -7853,7 +7853,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "lumentum.com",
    "region": "us"
   },
@@ -7873,7 +7873,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/COHR/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -7903,7 +7903,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "coherent.com",
    "region": "us"
   },
@@ -7955,7 +7955,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/AGLT/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -7993,7 +7993,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "agilityrobotics.com",
    "region": "us"
   },
@@ -8013,7 +8013,7 @@
     {
      "title": "Market capitalisation, Yahoo Finance (refreshed every weekday)",
      "url": "https://finance.yahoo.com/quote/PENG/",
-     "as_of": "2026-11-26",
+     "as_of": "2026-11-27",
      "backs": [
       "valuation"
      ]
@@ -8027,7 +8027,7 @@
      ]
     }
    ],
-   "as_of": "2026-11-26",
+   "as_of": "2026-11-27",
    "domain": "penguinsolutions.com",
    "region": "us"
   },
@@ -8266,5 +8266,5 @@
    "news_query": "\"Genesis AI\" (robot OR robotics OR Eno)"
   }
  ],
- "verified_at": "2026-11-26"
+ "verified_at": "2026-11-27"
 }
