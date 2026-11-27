@@ -1989,9 +1989,10 @@
    "target": "anthropic",
    "type": "builds_on",
    "from": "expansion-2026-08",
-   "confidence": "reported",
-   "url": "https://theairankings.com/butterfly-effect/",
-   "title": "theairankings.com, Butterfly Effect (Manus) in 2026: Owner, Funding, Founders & the Meta Deal | The AI Rankings"
+   "confidence": "verified",
+   "url": "https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/",
+   "title": "Microsoft Azure blog, Introducing Anthropic's Claude models in Microsoft Foundry - quotes Tao Zhang, co-founder and chief product officer of Manus AI: \"Manus deeply utilizes Anthropic's Claude models because of their strong capabilities in coding and long-horizon task planning\" (page carries no date, so the as_of is the date read)",
+   "as_of": "2026-11-27"
   },
   {
    "source": "manus",
@@ -2724,8 +2725,9 @@
    "type": "rents",
    "from": "datapass-2026-09-22",
    "confidence": "verified",
-   "url": "https://www.globenewswire.com/news-release/2025/10/15/3166823/0/en/Nscale-Contracts-Approximately-200-000-NVIDIA-GB300-GPUs-with-Microsoft-to-Deliver-NVIDIA-AI-Infrastructure-Across-Europe-and-the-U-S.html",
-   "as_of": "2025-10-15"
+   "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/ck0002110365-20261112.htm",
+   "as_of": "2026-11-12",
+   "title": "Nscale plc Form S-1/A (2026-11-12) - statements of work entered with Microsoft between September 2025 and April 2026 providing payments of up to approximately $43.8B through December 2033, excluding optional extensions; one statement of work of $3.22B terminated with no effect on the others"
   },
   {
    "source": "alphabet",
@@ -4009,9 +4011,9 @@
    "type": "builds_on",
    "from": "integrity-2026-10-26",
    "confidence": "verified",
-   "url": "https://nscale.com/press-releases/nscale-microsoft-2025",
-   "as_of": "2025-10-15",
-   "title": "Nscale, Nscale Contracts Approximately 200,000 NVIDIA GB300 GPUs with Microsoft"
+   "url": "https://www.nscale.com/press-releases/nscale-first-nvidia-vera-rubin-nvl72-brought-up",
+   "as_of": "2026-11-18",
+   "title": "Nscale (press release, 2026-11-18), Nscale brings up its first NVIDIA Vera Rubin NVL72 AI supercomputers - 72 Rubin GPUs and 36 Vera CPUs a rack, online and part of the Nscale cloud, start of a global rollout"
   },
   {
    "source": "perplexity",
@@ -5660,7 +5662,8 @@
    "confidence": "verified",
    "url": "https://www.sensetime.com/en/news-detail/51170164?categoryId=1072",
    "title": "SenseTime (company news), SenseTime and Cambricon Reach Strategic Cooperation - joint software-hardware optimisation and deep adaptation of Cambricon's cloud inference chips; SenseTime's later releases say the SenseNova Seko series and LightX2V are adapted to Cambricon",
-   "as_of": "2025-10-15"
+   "as_of": "2025-10-15",
+   "checked": "2026-11-27"
   },
   {
    "source": "perplexity",
@@ -5812,7 +5815,27 @@
    "url": "https://aws.amazon.com/solutions/case-studies/synthesia-case-study/",
    "title": "AWS (case study), Synthesia Makes AI Video Production Effortless with Generative AI on AWS - model training on EC2 P5 instances powered by NVIDIA H100 and P4 instances powered by NVIDIA A100 GPUs, G5 instances with NVIDIA A10G for rendering, and NVIDIA CUDA for rendering and inference (page read 2026-11-26, undated)",
    "as_of": "2026-11-26"
+  },
+  {
+   "source": "bedrock",
+   "target": "luma",
+   "type": "builds_on",
+   "from": "datapass-2026-11-27",
+   "confidence": "verified",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/",
+   "title": "AWS (what's new), Image-to-video generation support for Luma AI's Ray2 now in Amazon Bedrock - Ray2 is a fully managed model in Bedrock (model id luma.ray-v2:0), generally available since January 2025 in US West (Oregon)",
+   "as_of": "2025-07"
+  },
+  {
+   "source": "hippocratic",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-27",
+   "confidence": "verified",
+   "url": "https://investors.digitalocean.com/news/news-details/2026/Hippocratic-AI-Scales-to-10-Million-Patient-Calls-at-99-9-Clinical-Safety-on-DigitalOceans-AI-Native-Cloud-powered-by-NVIDIA-Blackwell-Ultra-GPUs/default.aspx",
+   "title": "DigitalOcean (press release, 2026-05-27), Hippocratic AI Scales to 10 Million Patient Calls on DigitalOcean's AI-Native Cloud, powered by NVIDIA Blackwell Ultra GPUs - Polaris runs on NVIDIA HGX B300, with Hippocratic AI contributing FP8 and NVFP4 quantisation and custom MoE kernels and NVIDIA giving early access to the hardware",
+   "as_of": "2026-05-27"
   }
  ],
- "as_of": "2026-11-22"
+ "as_of": "2026-11-27"
 }
