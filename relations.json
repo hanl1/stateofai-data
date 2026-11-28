@@ -265,7 +265,8 @@
    "confidence": "verified",
    "title": "blogs.microsoft.com, The next chapter of the Microsoft–OpenAI partnership - The Official Microsoft Blog",
    "amount": "$250B of Azure (incremental)",
-   "amount_musd": 250000
+   "amount_musd": 250000,
+   "checked": "2026-11-28"
   },
   {
    "source": "openai",
@@ -830,11 +831,12 @@
    "target": "openai",
    "type": "invests_in",
    "from": "industry-map",
-   "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
-   "as_of": "2025-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312526323660/msft-20260630.htm",
+   "as_of": "2026-06-30",
    "confidence": "verified",
-   "title": "blogs.microsoft.com, The next chapter of the Microsoft–OpenAI partnership - The Official Microsoft Blog",
-   "amount": "~27% stake (~$135B)"
+   "title": "Microsoft Form 10-K for fiscal 2026 (names OpenAI) - the OpenAI stake is accounted for under the equity method and represents an approximate 25% interest on an as-converted basis, with total funding commitments of $13.0B of which $11.9B had been funded as of 2026-06-30, and fiscal 2026 revenue from commercial arrangements with OpenAI, inclusive of revenue-sharing payments, of $24.1B",
+   "amount": "$13.0B committed, $11.9B funded (~25% as-converted)",
+   "amount_musd": 13000
   },
   {
    "source": "microsoft",
@@ -3537,11 +3539,11 @@
    "type": "rents",
    "from": "datapass-2026-10-12",
    "confidence": "verified",
-   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010326001480/dp240991_ex9901.htm",
    "amount": "~$5.5B over 15 years",
    "amount_musd": 5500,
-   "as_of": "2025-11-03",
-   "title": "Cipher Digital 8-K, filed 2025-11-03 (names Amazon)"
+   "as_of": "2026-02-04",
+   "title": "Cipher Mining Form 8-K exhibit 99.1, Cipher Black Pearl investor presentation, filed 2026-02-04 (names Amazon) - about $5.5B of contracted revenue over a 15-year base lease term for 300 MW at the Black Pearl facility in Wink, Texas, with Amazon.com, Inc. fully guaranteeing an amount equal to all base rent and operating expenses"
   },
   {
    "source": "fluidstack",
@@ -4063,7 +4065,8 @@
    "confidence": "verified",
    "url": "https://www.navalnews.com/naval-news/2025/10/saronic-and-nvidia-form-strategic-collaboration/",
    "as_of": "2025-10-23",
-   "title": "Naval News (Saronic release), Saronic and NVIDIA Form Strategic Collaboration (NVIDIA hardware onboard all Saronic vessels)"
+   "title": "Naval News (Saronic release), Saronic and NVIDIA Form Strategic Collaboration (NVIDIA hardware onboard all Saronic vessels)",
+   "checked": "2026-11-28"
   },
   {
    "source": "meta",
@@ -5824,7 +5827,8 @@
    "confidence": "verified",
    "url": "https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/",
    "title": "AWS (what's new), Image-to-video generation support for Luma AI's Ray2 now in Amazon Bedrock - Ray2 is a fully managed model in Bedrock (model id luma.ray-v2:0), generally available since January 2025 in US West (Oregon)",
-   "as_of": "2025-07"
+   "as_of": "2025-07",
+   "checked": "2026-11-28"
   },
   {
    "source": "hippocratic",
@@ -5835,6 +5839,60 @@
    "url": "https://investors.digitalocean.com/news/news-details/2026/Hippocratic-AI-Scales-to-10-Million-Patient-Calls-at-99-9-Clinical-Safety-on-DigitalOceans-AI-Native-Cloud-powered-by-NVIDIA-Blackwell-Ultra-GPUs/default.aspx",
    "title": "DigitalOcean (press release, 2026-05-27), Hippocratic AI Scales to 10 Million Patient Calls on DigitalOcean's AI-Native Cloud, powered by NVIDIA Blackwell Ultra GPUs - Polaris runs on NVIDIA HGX B300, with Hippocratic AI contributing FP8 and NVFP4 quantisation and custom MoE kernels and NVIDIA giving early access to the hardware",
    "as_of": "2026-05-27"
+  },
+  {
+   "source": "vultr",
+   "target": "amd",
+   "type": "builds_on",
+   "from": "datapass-2026-11-28",
+   "confidence": "verified",
+   "url": "https://www.businesswire.com/news/home/20261020586292/en/Vultr-and-AMD-Expand-Global-Collaboration-with-New-AI-Infrastructure-in-India",
+   "title": "Vultr and AMD (joint release), Vultr and AMD Expand Global Collaboration with New AI Infrastructure in India - a first phase of 20 MW of AMD Instinct MI355X GPUs in Vultr's 34th cloud region in Chennai, expanding a collaboration that already runs MI355X superclusters, with an MI455X expansion planned for 2027",
+   "as_of": "2026-10-20"
+  },
+  {
+   "source": "vultr",
+   "target": "nvidia",
+   "type": "builds_on",
+   "from": "datapass-2026-11-28",
+   "confidence": "verified",
+   "url": "https://www.vultr.com/products/cloud-gpu/",
+   "title": "Vultr (own product page, undated, read 2026-11-28), Vultr Cloud GPU - NVIDIA HGX B200 reservable on Vultr from $2.890 per GPU-hour alongside AMD Instinct parts; Vultr is an NVIDIA Partner Network Preferred Cloud Partner",
+   "as_of": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "source": "azureai",
+   "target": "bfl",
+   "type": "builds_on",
+   "from": "datapass-2026-11-28",
+   "confidence": "verified",
+   "url": "https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/use-foundry-models-flux",
+   "title": "Microsoft (own docs, undated, read 2026-11-28), Deploy and use FLUX models in Microsoft Foundry - FLUX.2 [pro], FLUX.2 [flex], FLUX.1 Kontext [pro] and FLUX1.1 [pro] from Black Forest Labs are served in Foundry, through the BFL provider API and the standard image endpoints",
+   "as_of": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "source": "langchain",
+   "target": "amazon",
+   "type": "rents",
+   "from": "datapass-2026-11-28",
+   "confidence": "verified",
+   "url": "https://docs.langchain.com/langsmith/cloud",
+   "title": "LangChain (own docs, undated, read 2026-11-28), LangSmith Cloud (SaaS) - LangChain hosts and operates the LangSmith control plane, data plane, Agent Server runtime and supporting databases on AWS and GCP, with an AWS-hosted US region",
+   "as_of": "2026-11-28",
+   "checked": "2026-11-28"
+  },
+  {
+   "source": "langchain",
+   "target": "alphabet",
+   "type": "rents",
+   "from": "datapass-2026-11-28",
+   "confidence": "verified",
+   "url": "https://docs.langchain.com/langsmith/cloud",
+   "title": "LangChain (own docs, undated, read 2026-11-28), LangSmith Cloud (SaaS) - LangChain hosts and operates the LangSmith control plane, data plane, Agent Server runtime and supporting databases on AWS and GCP, with GCP serving the US, EU and APAC regions",
+   "as_of": "2026-11-28",
+   "checked": "2026-11-28"
   }
  ],
  "as_of": "2026-11-27"
